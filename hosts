@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Wed Feb 22 12:28:36 SAST 2017
+### Wed Feb 22 15:59:54 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -2624,6 +2624,7 @@
 0.0.0.0 por.ua
 0.0.0.0 porn-w.org
 0.0.0.0 porndairy.in
+0.0.0.0 porngalleries.top
 0.0.0.0 pornhub-forum.ga
 0.0.0.0 pornhub-forum.uni.me
 0.0.0.0 pornhub-ru.com
