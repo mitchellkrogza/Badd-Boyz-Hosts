@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Wed Feb 22 15:59:54 SAST 2017
+### Wed Feb 22 17:53:01 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -167,7 +167,6 @@
 0.0.0.0 adcash.com
 0.0.0.0 addbin.men
 0.0.0.0 addblueoff.com.ua
-0.0.0.0 addons.mozilla.org/en-us/firefox/addon/ilovevitaly
 0.0.0.0 addray.pro
 0.0.0.0 addtoadd.men
 0.0.0.0 adelly.bg
@@ -1061,7 +1060,7 @@
 0.0.0.0 e-poker-2005.com
 0.0.0.0 e2click.com
 0.0.0.0 eandsgallery.com
-0.0.0.0 eaplay.ru/a00af605
+0.0.0.0 eaplay.ru
 0.0.0.0 eas-seo.com
 0.0.0.0 easycommerce.cf
 0.0.0.0 easync.io
