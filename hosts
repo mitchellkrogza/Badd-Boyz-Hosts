@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Wed Feb 22 11:04:46 SAST 2017
+### Wed Feb 22 11:11:20 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -31,6 +31,9 @@
 # For Windows based systems this is placed either at
 # C:\windows\system32\drivers\etc\hosts
 # or C:\Windows\System32\drivers\etc\hosts
+
+127.0.0.1 localhost
+::1 localhost #[IPv6]
 
 # START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
 0.0.0.0 000free.us
