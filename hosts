@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Thu Feb 23 11:46:24 SAST 2017
+### Thu Feb 23 11:51:02 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -2045,7 +2045,6 @@
 0.0.0.0 life-instyle.com
 0.0.0.0 life.biz.ua
 0.0.0.0 lifebyleese.com
-0.0.0.0 lifehacĸer.com
 0.0.0.0 light.ifmo.ru
 0.0.0.0 likesdesign.com
 0.0.0.0 likesuccess.com
