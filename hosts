@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Thu Feb 23 10:04:44 SAST 2017
+### Thu Feb 23 11:46:24 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -537,7 +537,6 @@
 0.0.0.0 black-friday.ga
 0.0.0.0 blackhatworth.com
 0.0.0.0 blackle.com
-0.0.0.0 blackplanet.com
 0.0.0.0 blackwitchcraft.ru
 0.0.0.0 blagovest-med.ru
 0.0.0.0 blavia.00author.com
@@ -1179,7 +1178,6 @@
 0.0.0.0 event-tracking.com
 0.0.0.0 everflora.ru
 0.0.0.0 evidencecleanergold.com
-0.0.0.0 example.com
 0.0.0.0 excaliburfilms.com
 0.0.0.0 exchangeit.gq
 0.0.0.0 exchanges-bet.com
@@ -2355,7 +2353,6 @@
 0.0.0.0 nagdak.ru
 0.0.0.0 nailsimg.com
 0.0.0.0 nalogovyy-kodeks.ru
-0.0.0.0 namecheap.com
 0.0.0.0 naphukete.ru
 0.0.0.0 nardulan.com
 0.0.0.0 narkologiya-belgorod.ru
@@ -3376,7 +3373,6 @@
 0.0.0.0 thehoverboard.be
 0.0.0.0 thejournal.ru
 0.0.0.0 thenetinfo.com
-0.0.0.0 thenextweb.com
 0.0.0.0 thepokertimer.com
 0.0.0.0 thetattoohut.com
 0.0.0.0 thetoiletpaper.com
