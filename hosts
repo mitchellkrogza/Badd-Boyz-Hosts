@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Thu Feb 23 09:46:48 SAST 2017
+### Thu Feb 23 10:04:44 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -3900,6 +3900,7 @@
 0.0.0.0 xn--h1ahbi.com.ua
 0.0.0.0 xn--hxazdsfy.blogspot.com
 0.0.0.0 xn--l1aengat.xn--p1ai
+0.0.0.0 xn--lifehacer-1rb.com
 0.0.0.0 xn--oogle-wmc.com
 0.0.0.0 xn--q1a.xn--b1aube0e.xn--c1acygb.xn--p1ai
 0.0.0.0 xnxx-n.com
