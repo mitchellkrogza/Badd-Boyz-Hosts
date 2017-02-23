@@ -35,7 +35,7 @@ editor.
 
 **Windows Systems**: `%SystemRoot%\system32\drivers\etc\hosts` folder.
 
-## UNDERSTANDS PUNNYCODE / IDN DOMAIN NAMES
+## UNDERSTANDS PUNYCODE / IDN DOMAIN NAMES
 A lot of lists out there put funny domains into their hosts file. Your hosts file and DNS will not understand this. This list uses converted domains which are in the correct DNS format to be understood by any operating system.
 
 For instance
