@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Thu Feb 23 11:51:02 SAST 2017
+### Thu Feb 23 13:55:24 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -3774,7 +3774,6 @@
 0.0.0.0 whereiskentoday.com
 0.0.0.0 whipme.yopoint.in
 0.0.0.0 whiteproduct.com
-0.0.0.0 whois.domaintools.com
 0.0.0.0 wholinkstome.com
 0.0.0.0 whos.amung.us
 0.0.0.0 whosonmyserver.com
