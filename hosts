@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Wed Feb 22 17:53:01 SAST 2017
+### Thu Feb 23 09:14:32 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -1322,6 +1322,7 @@
 0.0.0.0 flzhiguan.com
 0.0.0.0 fm-upgrade.ru
 0.0.0.0 fmgrupe.it
+0.0.0.0 folowsite.com
 0.0.0.0 footbalive.org
 0.0.0.0 for-your.website
 0.0.0.0 forensicpsychiatry.ru
@@ -1935,7 +1936,6 @@
 0.0.0.0 koronirealestate.gr
 0.0.0.0 kosova.de
 0.0.0.0 kosynka-games.ru
-0.0.0.0 kotaku.com
 0.0.0.0 kovesszucs.atw.hu
 0.0.0.0 krafte.ru
 0.0.0.0 kraljeva-sutjeska.com
@@ -2445,6 +2445,7 @@
 0.0.0.0 office-windows.ru
 0.0.0.0 offre-meditel-telecom.tk
 0.0.0.0 offtime.ru
+0.0.0.0 oil-td.ru
 0.0.0.0 ok.ru
 0.0.0.0 oklogistic.ru
 0.0.0.0 okmusic.jp
@@ -3028,6 +3029,7 @@
 0.0.0.0 sexkrasivo.net
 0.0.0.0 sexobzor.info
 0.0.0.0 sexphoto.site
+0.0.0.0 sexreliz.com
 0.0.0.0 sexsaoy.com
 0.0.0.0 sexsearch.com
 0.0.0.0 sexstream.pl
