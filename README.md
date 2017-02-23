@@ -64,7 +64,8 @@ Name:	xn--lifehacer-1rb.com
 Address: 78.110.60.230
 xn--lifehacer-1rb.com	nameserver = dns2.yandex.net.
 xn--lifehacer-1rb.com	text = "v=spf1 redirect=_spf.yandex.net"
-xn--lifehacer-1rb.com	nameserver = dns1.yandex.net.```
+xn--lifehacer-1rb.com	nameserver = dns1.yandex.net.
+```
 
 - Look at: https://www.charset.org/punycode for more info on this.
 
