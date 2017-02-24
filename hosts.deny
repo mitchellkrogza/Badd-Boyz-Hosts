@@ -1,0 +1,32 @@
+# This hosts.deny file is brought to you by Mitchell Krog
+# Copyright: https://github.com/mitchellkrogza
+# Source: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
+
+# You are free to copy and distribute this file for non-commercial uses,
+# as long the original URL and attribution is included. 
+
+# Please forward any additions, corrections or comments by logging an issue at
+# https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues
+
+# This list of hosts is compiled from server logs on my own servers
+# and forms the basis of the bad referrers domain lists for
+# The Nginx Ultimate Bad Bot Blocker at: 
+# https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
+# and the Apache Ultimate Bad Bot Blocker at:
+# https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
+
+### Last Updated
+### Fri Feb 24 11:46:20 SAST 2017
+### End Last Updated
+
+# Use this file to prevent your computer or server from connecting to selected
+# internet hosts. This is an easy and effective way to protect you from 
+# many types of spyware, adware, malware, click-jacking and porn sites and reduces 
+# bandwidth use. 
+
+# The file should be named "hosts.deny"
+
+# For Linux based Operating systems place this file at "/etc/hosts.deny"
+
+# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
+# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
