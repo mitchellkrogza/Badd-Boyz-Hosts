@@ -21,6 +21,8 @@ addons:
     packages:
       - realpath
 before_install:
+  - sudo wget https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts.allow
+  - sudo mv /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/hosts.allow.1 /etc/hosts.allow
   - sudo wget https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts.deny
   - sudo mv /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/hosts.deny.1 /etc/hosts.deny
   #- sudo ifconfig eth0 down && sudo ifconfig eth0 up
