@@ -20,8 +20,8 @@ addons:
       - realpath
 script:
   #- cd /etc
-  - sudo wget https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-  - sudo mv hosts.1 /etc/hosts.deny
+  - sudo wget https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts.deny
+  - sudo mv hosts.deny /etc/hosts.deny
   #- sudo find / -name "hosts" &> /dev/stdout
   #- ls -la /home/travis/build/mitchellkrogza/ &> /dev/stdout
   - ping -c 4 freelotto.com &> /dev/stdout
