@@ -22,8 +22,9 @@ script:
   #- cd /etc
   - sudo wget https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts.deny
   - sudo mv /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/hosts.deny.1 /etc/hosts.deny
-  - cat /etc/hosts.deny &> /dev/stdout
-  - sudo service networking restart
+  #- cat /etc/hosts.deny &> /dev/stdout
+  - ifconfig -a &> /dev/stdout
+  - sudo service network-manager restart
   #- sudo find / -name "hosts" &> /dev/stdout
   #- ls -la /home/travis/build/mitchellkrogza/ &> /dev/stdout
   - ping -c 4 freelotto.com &> /dev/stdout
