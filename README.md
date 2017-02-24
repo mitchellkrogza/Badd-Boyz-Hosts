@@ -1,4 +1,5 @@
 # Badd-Boyz-Hosts
+[![Build Status](https://travis-ci.org/mitchellkrogza/Badd-Boyz-Hosts.svg?branch=master)](https://travis-ci.org/mitchellkrogza/Badd-Boyz-Hosts)
 A hosts file for use on any operating system to block bad domains out of your servers or devices.
 
 * Here's the [raw hosts file](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts)
@@ -10,7 +11,7 @@ A hosts file for use on any operating system to block bad domains out of your se
 - You are free to copy and distribute this file for non-commercial uses, as long the original URL and attribution is included. 
 
 ## ISSUES: 
-Please forward any additions, corrections or comments by logging an issue at https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues
+Please forward any additions, false positives, corrections or comments by logging an issue at https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues
 
 ## COMPILED FROM:
 This list of hosts is compiled from real server logs on my own servers where I run a number of very busy web sites. This list of hosts forms the basis of the bad referrers domain lists for The Nginx Ultimate Bad Bot Blocker at: https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker and the Apache Ultimate Bad Bot Blocker at: https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
@@ -24,8 +25,9 @@ In most operating systems, the `hosts` file is preferential to `DNS`.
 Therefore if a domain name is resolved by the `hosts` file, the request never
 leaves your computer.
 
-Having a smart `hosts` file goes a long way towards blocking malware, adware, ransomware, porn 
-and other nuisance web sites.
+Having a smart `hosts` file goes a long way towards blocking malware, adware, ransomware, porn and other nuisance web sites.
+
+A hosts file like this causes any lookups to any of the listed domains to resolve back to your localhost so it prevents any outgoing connections to the listed domains.
 
 ## WHERE DO I PUT THIS ON MY COMPUTER?
 To modify your current `hosts` file, look for it in the following places and modify it with a text
