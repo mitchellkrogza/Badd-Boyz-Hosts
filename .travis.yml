@@ -20,7 +20,7 @@ addons:
       - realpath
 script:
   - cd /etc/hosts
-  - sudo wget https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
+  - sudo wget https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts && sudo mv hosts.1 hosts
   - ping freelotto.com &> /dev/stdout
   - cat /tmp/error.log
 #before_deploy:
