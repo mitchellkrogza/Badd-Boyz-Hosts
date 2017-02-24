@@ -10,8 +10,6 @@ env:
     - GIT_BRANCH: master
   matrix:
     - USE_NETWORK=true
-#matrix:
-#  fast_finish: true
 php:
   - '5.6'
 cache:
@@ -24,19 +22,11 @@ script:
   - sudo wget https://github.com/mitchellkrogza/Badd-Boyz-Hosts/raw/master/hosts
   - sudo mv /etc/hosts /etc/hosts.bak2
   - sudo cp hosts.1 /etc/hosts
-  #- sudo wget https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts.allow
-  #- sudo mv /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/hosts.allow.1 /etc/hosts.allow
-  #- sudo wget https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts.deny
-  #- sudo mv /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/hosts.deny.1 /etc/hosts.deny
-  #- ifconfig -a &> /dev/stdout
-  #- sudo ifconfig eth0 down && sudo ifconfig eth0 up
-  #- sudo find / -name "hosts" &> /dev/stdout
-  #- ls -la /home/travis/build/mitchellkrogza/ &> /dev/stdout
   - ping -c 4 000free.us &> /dev/stdout
-  #- ls -la /etc &> /dev/stdout
-  #- cat /etc/hosts &> /dev/stdout
-  #- cat /etc/hosts.allow &> /dev/stdout
-  #- cat /tmp/error.log
+  - ping -c 4 fix-website-errors.com &> /dev/stdout
+  - ping -c 4 get-seo-domain.com &> /dev/stdout
+  - ping -c 4 olympescort.com &> /dev/stdout
+  - ping -c 4 zx6.ru &> /dev/stdout
 #before_deploy:
 #  - travisCI/deploy.sh
 #deploy:
