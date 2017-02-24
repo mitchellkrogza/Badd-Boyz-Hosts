@@ -21,7 +21,7 @@ addons:
 script:
   #- cd /etc
   - sudo wget https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-  - sudo mv hosts /etc/hosts
+  - sudo mv hosts.1 /etc/hosts
   #- sudo find / -name "hosts" &> /dev/stdout
   #- ls -la /home/travis/build/mitchellkrogza/ &> /dev/stdout
   - nslookup freelotto.com &> /dev/stdout
