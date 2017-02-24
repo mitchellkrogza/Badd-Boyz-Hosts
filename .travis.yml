@@ -19,10 +19,11 @@ addons:
     packages:
       - realpath
 script:
-  - cd /etc/hosts
-  - sudo wget https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts && sudo mv hosts.1 hosts
+  #- cd /etc/hosts
+  #- sudo wget https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts && sudo mv hosts.1 hosts
+  - ls -la /home/travis/build/mitchellkrogza/
   - nslookup freelotto.com &> /dev/stdout
-  - cat /tmp/error.log
+  #- cat /tmp/error.log
 #before_deploy:
 #  - travisCI/deploy.sh
 #deploy:
