@@ -27,18 +27,18 @@ script:
   - ping -c 4 get-seo-domain.com &> /dev/stdout
   - ping -c 4 olympescort.com &> /dev/stdout
   - ping -c 4 zx6.ru &> /dev/stdout
-#before_deploy:
-#  - travisCI/deploy.sh
-#deploy:
-#  provider: releases
-#  api_key:
-#    secure: ${GH_TOKEN}
-#  file:
-#  - "conf.d/globalblacklist.conf"
-#  skip_cleanup: true
-#  on:
-#    repo: mitchellkrogza/nginx-ultimate-bad-bot-blocker
-#    tags: false
-#    all_branches: true
-#notifications:
-#    email: false
+before_deploy:
+  - travisCI/deploy.sh
+deploy:
+  provider: releases
+  api_key:
+    secure: ${GH_TOKEN}
+  file:
+  - "hosts"
+  skip_cleanup: true
+  on:
+    repo: mitchellkrogza/Badd-Boyz-Hosts
+    tags: false
+    all_branches: true
+notifications:
+    email: false
