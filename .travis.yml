@@ -36,6 +36,7 @@ script:
   #- sudo find / -name "hosts" &> /dev/stdout
   #- ls -la /home/travis/build/mitchellkrogza/ &> /dev/stdout
   - ping -c 4 freelotto.com &> /dev/stdout
+  - ls -la /etc &> /dev/stdout
   #- cat /tmp/error.log
 #before_deploy:
 #  - travisCI/deploy.sh
