@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Fri Feb 24 18:06:27 SAST 2017
+### Sat Feb 25 08:57:52 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -161,6 +161,7 @@
 0.0.0.0 admanaerofoil.com
 0.0.0.0 adminshop.com
 0.0.0.0 adnotbad.com
+0.0.0.0 ads.gold
 0.0.0.0 ads-cool.pro
 0.0.0.0 ads-seo.men
 0.0.0.0 adsfresh.men
@@ -784,6 +785,7 @@
 0.0.0.0 de.zapmeta.com
 0.0.0.0 deadlinkchecker.com
 0.0.0.0 dealighted.com
+0.0.0.0 dealitright.click
 0.0.0.0 dealwifi.com
 0.0.0.0 dear-diary.ru
 0.0.0.0 decenttools.com
@@ -1765,6 +1767,7 @@
 0.0.0.0 m1media.net
 0.0.0.0 m4ever.net
 0.0.0.0 mabdoola.blogspot.com
+0.0.0.0 macdamaged.space
 0.0.0.0 mackeeper-center.club
 0.0.0.0 macnewtech.com
 0.0.0.0 macresource.co.uk
@@ -2191,6 +2194,7 @@
 0.0.0.0 pijoto.net
 0.0.0.0 pila.pl
 0.0.0.0 pinkduck.ga
+0.0.0.0 pinstake.com
 0.0.0.0 pintattoos.com
 0.0.0.0 pinwallpaper.xyz
 0.0.0.0 piratecams.com
@@ -2200,6 +2204,7 @@
 0.0.0.0 pix-hd.com
 0.0.0.0 pix24x7.com
 0.0.0.0 pixelrz.com
+0.0.0.0 pixgood.com
 0.0.0.0 pixhdawesom.com
 0.0.0.0 pixsad.com
 0.0.0.0 pizda.lol
