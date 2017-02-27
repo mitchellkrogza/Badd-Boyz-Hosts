@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Sun Feb 26 12:55:31 SAST 2017
+### Mon Feb 27 10:46:39 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -70,6 +70,7 @@
 0.0.0.0 1-free-share-buttons.com
 0.0.0.0 1hwy.com
 0.0.0.0 1kinobig.ru
+0.0.0.0 1millionusd.xyz
 0.0.0.0 1pamm.ru
 0.0.0.0 1stat.ru
 0.0.0.0 2015god.org
@@ -1520,6 +1521,7 @@
 0.0.0.0 intermesh.net
 0.0.0.0 internet-apteka.ru
 0.0.0.0 intervsem.ru
+0.0.0.0 intimshop-fantasy.ru
 0.0.0.0 investingclub.ru
 0.0.0.0 invest-pamm.ru
 0.0.0.0 investpamm.ru
@@ -2239,6 +2241,7 @@
 0.0.0.0 pogruztehnik.ru
 0.0.0.0 poisk-zakona.ru
 0.0.0.0 pokemongooo.ml
+0.0.0.0 pokemon-go-play.online
 0.0.0.0 pokerniydom.ru
 0.0.0.0 polcin.de
 0.0.0.0 pomoc-drogowa.cba.pl
