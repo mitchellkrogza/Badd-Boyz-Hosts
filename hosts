@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Mon Feb 27 10:46:39 SAST 2017
+### Tue Feb 28 13:17:26 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -1301,6 +1301,7 @@
 0.0.0.0 goodprotein.ru
 0.0.0.0 googglet.com
 0.0.0.0 googlefeud.com
+0.0.0.0 google-liar.ru
 0.0.0.0 googlemare.com
 0.0.0.0 goo.ne.jp
 0.0.0.0 gopixdatabase.com
@@ -1475,6 +1476,7 @@
 0.0.0.0 igadgetsworld.com
 0.0.0.0 igrovyeavtomaty777.ru
 0.0.0.0 igru-xbox.net
+0.0.0.0 iinstalll-fii1leis.jus0wil.pp.ua
 0.0.0.0 iklysha.ml
 0.0.0.0 ilikevitaly.com
 0.0.0.0 ilmen.net
@@ -1579,6 +1581,7 @@
 0.0.0.0 juliadiets.com
 0.0.0.0 juliaworld.net
 0.0.0.0 jumptap.com
+0.0.0.0 jus0wil.pp.ua
 0.0.0.0 kaac.ru
 0.0.0.0 kabbalah-red-bracelets.com
 0.0.0.0 kalb.ru
@@ -2645,6 +2648,7 @@
 0.0.0.0 sexytrend.ru
 0.0.0.0 sfd-chess.ru
 0.0.0.0 shakhtar-doneck.ru
+0.0.0.0 sharebutton.io
 0.0.0.0 sharebutton.net
 0.0.0.0 sharebutton.org
 0.0.0.0 sharebutton.to
@@ -3482,6 +3486,7 @@
 0.0.0.0 zolotoy-lis.ru
 0.0.0.0 zoominfo.com
 0.0.0.0 zophim.me
+0.0.0.0 zrizvtrnpale.tk
 0.0.0.0 zryydi.com
 0.0.0.0 zs2vm.top
 0.0.0.0 zscaler.net
