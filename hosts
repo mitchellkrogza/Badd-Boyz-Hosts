@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Wed Mar  1 12:47:32 SAST 2017
+### Thu Mar  2 10:24:22 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -75,6 +75,7 @@
 0.0.0.0 1stat.ru
 0.0.0.0 2015god.org
 0.0.0.0 202ch.com
+0.0.0.0 20pascals.nl
 0.0.0.0 214jaluwobapef.cf
 0.0.0.0 24videos.tv
 0.0.0.0 24x7-server-support.site
@@ -521,6 +522,7 @@
 0.0.0.0 boleznikogi.com
 0.0.0.0 bolezniorganov.ru
 0.0.0.0 bombla.org
+0.0.0.0 bongiornos.info
 0.0.0.0 bonux.nextview.ru
 0.0.0.0 boobsimge.com
 0.0.0.0 bookmaker-bet.com
@@ -1194,6 +1196,7 @@
 0.0.0.0 fuel-gas.com
 0.0.0.0 fugarif.ga
 0.0.0.0 fullfileaccess.com
+0.0.0.0 fun2cell.net
 0.0.0.0 fungamelands.com
 0.0.0.0 fungirlsgames.net
 0.0.0.0 funnypica.com
@@ -2245,6 +2248,7 @@
 0.0.0.0 platinumdeals.gr
 0.0.0.0 playlott.com
 0.0.0.0 play-mp3.com
+0.0.0.0 pliks.pl
 0.0.0.0 plohaya-kreditnaya-istoriya.ru
 0.0.0.0 plusnetwork.com
 0.0.0.0 pmk-samara.ru
@@ -3331,6 +3335,7 @@
 0.0.0.0 xbaboon.com
 0.0.0.0 xblog.in
 0.0.0.0 xboxster.ru
+0.0.0.0 xcc24.pl
 0.0.0.0 xclicks.net
 0.0.0.0 xcombear.ru
 0.0.0.0 xdoza.com
