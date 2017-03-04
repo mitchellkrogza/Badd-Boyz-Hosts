@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Fri Mar  3 11:26:26 SAST 2017
+### Sat Mar  4 12:17:32 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -66,7 +66,6 @@
 0.0.0.0 1-99seo.com
 0.0.0.0 1adult.com
 0.0.0.0 1bet.com
-0.0.0.0 1.bp.blogspot.com
 0.0.0.0 1-free-share-buttons.com
 0.0.0.0 1hwy.com
 0.0.0.0 1kinobig.ru
