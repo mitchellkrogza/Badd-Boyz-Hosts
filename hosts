@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Sun Mar  5 10:42:37 SAST 2017
+### Sun Mar  5 18:34:01 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -1968,6 +1968,7 @@
 0.0.0.0 monthlywinners.com
 0.0.0.0 moomi-daeri.com
 0.0.0.0 more-letom.ru
+0.0.0.0 morepoweronmac.trade
 0.0.0.0 morf.snn.gr
 0.0.0.0 morlat.altervista.org
 0.0.0.0 moroccosurfadventures.com
@@ -2812,6 +2813,7 @@
 0.0.0.0 socialtrade.biz
 0.0.0.0 social-vestnik.ru
 0.0.0.0 soc-proof.su
+0.0.0.0 soda.media
 0.0.0.0 sodexo.com
 0.0.0.0 sofit-dmd.ru
 0.0.0.0 soft1.ru
@@ -3133,6 +3135,7 @@
 0.0.0.0 ucoz.ru
 0.0.0.0 ucsol.ru
 0.0.0.0 ufa.xrus.org
+0.0.0.0 uhdtv.website
 0.0.0.0 uhodzalijami.ru
 0.0.0.0 uhod-za-sobakoj.ru
 0.0.0.0 ukrup.com
@@ -3276,6 +3279,7 @@
 0.0.0.0 watchdogs-2.ru
 0.0.0.0 watch-movies.ru
 0.0.0.0 watchmygf.net
+0.0.0.0 waterpurifier.club
 0.0.0.0 wdfdocando.com
 0.0.0.0 wdrake.com
 0.0.0.0 we-are-gamers.com
