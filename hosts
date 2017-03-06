@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Mon Mar  6 09:51:01 SAST 2017
+### Mon Mar  6 10:08:39 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -42,7 +42,6 @@
 0.0.0.0 00go.com
 0.0.0.0 00it.com
 0.0.0.0 00webcams.com
-0.0.0.0 0ca29773681c7e82.com
 0.0.0.0 0n-line.tv
 0.0.0.0 100dollars-seo.com
 0.0.0.0 101billion.com
@@ -208,7 +207,6 @@
 0.0.0.0 alert-hgd.xyz
 0.0.0.0 alert-jdh.xyz
 0.0.0.0 alessandraleone.com
-0.0.0.0 alexandrinearmfelt.fi
 0.0.0.0 alfa9.com
 0.0.0.0 alfa-img.com
 0.0.0.0 alfa-medosmotr.ru
@@ -394,7 +392,6 @@
 0.0.0.0 azbuka-mo.ru
 0.0.0.0 azlex.uz
 0.0.0.0 azte.ch
-0.0.0.0 b0ts.xf0.pw
 0.0.0.0 babespcs.com
 0.0.0.0 babieca.com
 0.0.0.0 bablonow.ru
@@ -665,7 +662,6 @@
 0.0.0.0 cheapjerseysap.com
 0.0.0.0 cheapjerseysbizwholesale.us
 0.0.0.0 cheapjerseysfootballshop.com
-0.0.0.0 cheapjerseyssa.com
 0.0.0.0 cheap-pills-norx.com
 0.0.0.0 cheatcode-lita12.rhcloud.com
 0.0.0.0 checkpagerank.net
@@ -802,7 +798,6 @@
 0.0.0.0 daydream-studio.ru
 0.0.0.0 daymusam.com
 0.0.0.0 dbmkfhqk.bloger.index.hr
-0.0.0.0 dbutton.net
 0.0.0.0 ddlmega.net
 0.0.0.0 ddospanel.com
 0.0.0.0 ddpills.com
@@ -927,12 +922,10 @@
 0.0.0.0 ecomp3.ru
 0.0.0.0 econom.co
 0.0.0.0 ecookna.com.ua
-0.0.0.0 edakgfvwql.ru
 0.0.0.0 edelstahlschornstein-123.de
 0.0.0.0 editmedios.com
 0.0.0.0 edshopping.net
 0.0.0.0 education-cz.ru
-0.0.0.0 ef059b13f84c85630114c45a8f263c16.com
 0.0.0.0 egovaleo.it
 0.0.0.0 egvar.net
 0.0.0.0 ekaterinburg.xrus.org
@@ -1276,7 +1269,6 @@
 0.0.0.0 getmyads24.com
 0.0.0.0 getoutofdebtfree.org
 0.0.0.0 getrichquickly.info
-0.0.0.0 getrichquick.ml
 0.0.0.0 get-seo-domain.com
 0.0.0.0 get-your-social-buttons.info
 0.0.0.0 gfaq.ru
@@ -1469,9 +1461,6 @@
 0.0.0.0 howlongdoestizanidinestayinyoursystem.blogspot.com
 0.0.0.0 howmuchdoestizanidinecost.blogspot.com
 0.0.0.0 howopen.ru
-0.0.0.0 howtostopreferralspam.com
-0.0.0.0 howtostopreferralspam.eu
-0.0.0.0 hozaxy.com.ua
 0.0.0.0 hplaserjetpdriver8y.pen.io
 0.0.0.0 hptwaakw.blog.fc2.com
 0.0.0.0 hscsscotland.com
@@ -1772,14 +1761,12 @@
 0.0.0.0 likesdesign.com
 0.0.0.0 likesuccess.com
 0.0.0.0 liky.co.ua
-0.0.0.0 lilishopstogether.com
 0.0.0.0 limtu.ifmo.ru
 0.0.0.0 lincolntheatre.com
 0.0.0.0 linerdrilling.com
 0.0.0.0 linkarena.com
 0.0.0.0 linkbolic.com
 0.0.0.0 linkrr.com
-0.0.0.0 link.web-list.xyz
 0.0.0.0 liquimondo.com
 0.0.0.0 lirunet.ru
 0.0.0.0 lisque.batcave.net
@@ -2567,7 +2554,6 @@
 0.0.0.0 safe-app.net
 0.0.0.0 sahohev.000host.co.uk
 0.0.0.0 saitevpatorii.com
-0.0.0.0 sakhboard.ru
 0.0.0.0 sale-japan.com
 0.0.0.0 saletool.ru
 0.0.0.0 salutmontreal.com
@@ -2704,7 +2690,6 @@
 0.0.0.0 sexytrend.ru
 0.0.0.0 sfd-chess.ru
 0.0.0.0 shakhtar-doneck.ru
-0.0.0.0 sharebutton.io
 0.0.0.0 sharebutton.net
 0.0.0.0 sharebutton.org
 0.0.0.0 sharebutton.to
@@ -3276,7 +3261,6 @@
 0.0.0.0 w3javascript.com
 0.0.0.0 w7s.ru
 0.0.0.0 walkme.com
-0.0.0.0 wallpaperdesk.info
 0.0.0.0 wallpapers-best.com
 0.0.0.0 wapsite.me
 0.0.0.0 wareseeker.com
@@ -3388,7 +3372,6 @@
 0.0.0.0 xcombear.ru
 0.0.0.0 xdoza.com
 0.0.0.0 xep.info
-0.0.0.0 xf0.pw
 0.0.0.0 xfire.com
 0.0.0.0 xgftnlrt.bloger.index.hr
 0.0.0.0 xjlottery.com
@@ -3434,7 +3417,6 @@
 0.0.0.0 xn--c1acygb.xn--p1ai
 0.0.0.0 xn--d1abj0abs9d.in.ua
 0.0.0.0 xn--e1aggki3c.xn--80adxhks
-0.0.0.0 xn----gtbdb0beu1bb8gj.xn--p1ai
 0.0.0.0 xn--h1aakne2ba.xn--p1ai
 0.0.0.0 xn--h1ahbi.com.ua
 0.0.0.0 xn--hxazdsfy.blogspot.com
