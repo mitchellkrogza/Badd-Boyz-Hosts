@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Tue Mar 14 09:32:34 SAST 2017
+### Wed Mar 15 11:10:41 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -468,6 +468,7 @@
 0.0.0.0 bestwebsitesawards.com
 0.0.0.0 betonka.pro
 0.0.0.0 bet-prognoz.com
+0.0.0.0 betterscooter.com
 0.0.0.0 betune.onlinewebshop.net
 0.0.0.0 betwinservice.com
 0.0.0.0 beyan.host.sk
@@ -1909,6 +1910,7 @@
 0.0.0.0 megaapteka.ru
 0.0.0.0 megaindex.ru
 0.0.0.0 megakino.net
+0.0.0.0 mega-polis.biz.ua
 0.0.0.0 megavolt.net.ua
 0.0.0.0 meget.co.za
 0.0.0.0 me-ke.com
@@ -2170,6 +2172,7 @@
 0.0.0.0 onlinefilmz.net
 0.0.0.0 online-hit.info
 0.0.0.0 online.ktc45.ru
+0.0.0.0 onlineku.com
 0.0.0.0 onlinemegax.com
 0.0.0.0 onlineserialy.ru
 0.0.0.0 online-templatestore.com
@@ -2927,6 +2930,7 @@
 0.0.0.0 sugarkun.com
 0.0.0.0 suggest-keywords.com
 0.0.0.0 sugvant.ru
+0.0.0.0 sukarame.net
 0.0.0.0 sukirgenk.dvrlists.com
 0.0.0.0 superkanpo.com
 0.0.0.0 supermesta.ru
