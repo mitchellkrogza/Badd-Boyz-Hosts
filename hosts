@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Mon Mar 20 15:31:52 SAST 2017
+### Tue Mar 21 09:16:05 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -1333,6 +1333,7 @@
 0.0.0.0 go2mike.ru
 0.0.0.0 gobongo.info
 0.0.0.0 goforexvps.com
+0.0.0.0 gogalleryawesome.com
 0.0.0.0 gogps.me
 0.0.0.0 gojiberriess.apishops.ru
 0.0.0.0 gok-kasten.net
@@ -2308,6 +2309,7 @@
 0.0.0.0 piter.xrus.org
 0.0.0.0 piuminiita.com
 0.0.0.0 pix24x7.com
+0.0.0.0 pixell.club
 0.0.0.0 pixelrz.com
 0.0.0.0 pixgood.com
 0.0.0.0 pixhdawesom.com
