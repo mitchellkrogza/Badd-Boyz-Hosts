@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Mon Mar 27 10:59:45 SAST 2017
+### Tue Mar 28 10:00:15 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -2006,6 +2006,7 @@
 0.0.0.0 mobsfun.net
 0.0.0.0 mockupui.com
 0.0.0.0 modabutik.ru
+0.0.0.0 modenamebel.ru
 0.0.0.0 moesonce.com
 0.0.0.0 moi-glazki.ru
 0.0.0.0 mojowhois.com
@@ -2572,6 +2573,7 @@
 0.0.0.0 remorcicomerciale.ro
 0.0.0.0 remote-dba.de
 0.0.0.0 rentalmaty.kz
+0.0.0.0 rentehno.ru
 0.0.0.0 repeatlogo.co.uk
 0.0.0.0 replicaclub.ru
 0.0.0.0 replica-watch.ru
