@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Mon Apr  3 11:10:23 SAST 2017
+### Mon Apr  3 11:48:46 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -960,6 +960,7 @@
 0.0.0.0 e-avon.ru
 0.0.0.0 e-buyeasy.com
 0.0.0.0 e-collantes.com
+0.0.0.0 e-commerce-seo1.com
 0.0.0.0 e-commerce-seo.com
 0.0.0.0 ecomp3.ru
 0.0.0.0 econom.co
@@ -3317,6 +3318,7 @@
 0.0.0.0 vashsvet.com
 0.0.0.0 vavilone.com
 0.0.0.0 vbabule.net
+0.0.0.0 vc.ru
 0.0.0.0 vduplo.ru
 0.0.0.0 vedomstvo.net
 0.0.0.0 veerotech.com
