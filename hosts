@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Fri Mar 31 17:08:58 SAST 2017
+### Mon Apr  3 11:10:23 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -579,6 +579,7 @@
 0.0.0.0 brus.city
 0.0.0.0 brus-vsem.ru
 0.0.0.0 bscodecs.com
+0.0.0.0 b-styles.xyz
 0.0.0.0 btvn.ru
 0.0.0.0 buchananshardware.com
 0.0.0.0 budpost.com.ua
@@ -2208,6 +2209,7 @@
 0.0.0.0 odywpjtw.bloger.index.hr
 0.0.0.0 offer.camp
 0.0.0.0 offers.bycontext.com
+0.0.0.0 offf.info
 0.0.0.0 office-windows.ru
 0.0.0.0 offside2.5v.pl
 0.0.0.0 offtime.ru
@@ -3046,6 +3048,7 @@
 0.0.0.0 t3chtonic.com
 0.0.0.0 tablepicz.com
 0.0.0.0 tabletkinaodchudzanie.com.pl
+0.0.0.0 tacbelarus.ru
 0.0.0.0 taihouse.ru
 0.0.0.0 takethatad.com
 0.0.0.0 tako3.com
@@ -3310,6 +3313,7 @@
 0.0.0.0 valoresito.com
 0.0.0.0 vapmedia.org
 0.0.0.0 vapsy.com
+0.0.0.0 varikoz24.com
 0.0.0.0 vashsvet.com
 0.0.0.0 vavilone.com
 0.0.0.0 vbabule.net
@@ -3402,6 +3406,7 @@
 0.0.0.0 vykup-avto-krasnodar.ru
 0.0.0.0 vykupavto-krasnodar.ru
 0.0.0.0 vzlom-na-zakaz.com
+0.0.0.0 w3data.co
 0.0.0.0 w3javascript.com
 0.0.0.0 w7s.ru
 0.0.0.0 walkme.com
