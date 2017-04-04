@@ -10,6 +10,8 @@ A hosts file for use on any operating system to block bad domains out of your se
 
 - You are free to copy and distribute this file for non-commercial uses, as long the original URL and attribution is included. 
 
+### If this helps you why not [buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKF9XT6WHATLG):beer:
+
 ## ISSUES: 
 Please forward any additions, false positives, corrections or comments by logging an issue at https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues
 
@@ -92,6 +94,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+
+### If this helped you why not [buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKF9XT6WHATLG):beer:
 SOFTWARE.
 
 ##### Some other free projects
