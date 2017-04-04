@@ -73,10 +73,10 @@ xn--lifehacer-1rb.com	nameserver = dns1.yandex.net.
 
 - Look at: https://www.charset.org/punycode for more info on this.
 
-#MIT License
+# MIT License
 
-##Copyright (c) 2017 Mitchell Krog - mitchellkrog@gmail.com
-##https://github.com/mitchellkrogza
+## Copyright (c) 2017 Mitchell Krog - mitchellkrog@gmail.com
+## https://github.com/mitchellkrogza
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -108,5 +108,5 @@ SOFTWARE.
 - https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations
 - https://github.com/mitchellkrogza/Fail2Ban-Blacklist-JAIL-for-Repeat-Offenders-with-Perma-Extended-Banning
 
-#####Into Photography?
+##### Into Photography?
 Come drop by and visit me at https://mitchellkrog.com
