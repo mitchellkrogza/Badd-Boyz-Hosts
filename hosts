@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Tue Apr  4 11:54:34 SAST 2017
+### Wed Apr  5 13:01:24 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -631,6 +631,8 @@
 0.0.0.0 call-of-duty.info
 0.0.0.0 calstaterealty.us
 0.0.0.0 calvet.altervista.org
+0.0.0.0 candcstuccoandstone.com
+0.0.0.0 candelluxsklep.pl
 0.0.0.0 candiceloves.us
 0.0.0.0 cand.jp
 0.0.0.0 candycrushshop.com
@@ -972,6 +974,7 @@
 0.0.0.0 ed-shop01.ru
 0.0.0.0 edshopping.net
 0.0.0.0 education-cz.ru
+0.0.0.0 efkt.jp
 0.0.0.0 egovaleo.it
 0.0.0.0 egvar.net
 0.0.0.0 ekaterinburg.xrus.org
@@ -1149,6 +1152,7 @@
 0.0.0.0 fifa-coins.online
 0.0.0.0 filesmonster.porn
 0.0.0.0 filesvine.com
+0.0.0.0 filkhbr.com
 0.0.0.0 filmbokep69.com
 0.0.0.0 filmetricsasia.com
 0.0.0.0 filmfanatic.com
@@ -2487,6 +2491,7 @@
 0.0.0.0 prombudpostach.com.ua
 0.0.0.0 promodj.com
 0.0.0.0 promoforum.ru
+0.0.0.0 promoheads.com
 0.0.0.0 pronekut.com
 0.0.0.0 pron.pro
 0.0.0.0 pro-okis.ru
@@ -3462,6 +3467,7 @@
 0.0.0.0 wejdz-tu.pl
 0.0.0.0 welck.octopis.com
 0.0.0.0 welcomeauto.ru
+0.0.0.0 wellcome2slovenia.ru
 0.0.0.0 wenimage.com
 0.0.0.0 weprik.ru
 0.0.0.0 wesharepics.com
