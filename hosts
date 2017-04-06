@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Wed Apr  5 13:01:24 SAST 2017
+### Thu Apr  6 11:17:19 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -120,6 +120,7 @@
 0.0.0.0 883zy.com
 0.0.0.0 8gold.com
 0.0.0.0 8si.ru
+0.0.0.0 8xv8.com
 0.0.0.0 98oi.ru
 0.0.0.0 999webdesign.com
 0.0.0.0 9med.net
@@ -176,6 +177,7 @@
 0.0.0.0 admanaerofoil.com
 0.0.0.0 admatic.com.tr
 0.0.0.0 adminshop.com
+0.0.0.0 admitad.com
 0.0.0.0 adnotbad.com
 0.0.0.0 adpremium.org
 0.0.0.0 ads-cool.pro
@@ -358,6 +360,7 @@
 0.0.0.0 ausergrubhof.info
 0.0.0.0 australia-opening-times.com
 0.0.0.0 auto4style.ru
+0.0.0.0 autoblogger24.info
 0.0.0.0 autobudpostach.club
 0.0.0.0 autogrep.ru
 0.0.0.0 autoloans.com
@@ -464,6 +467,7 @@
 0.0.0.0 bestchoice.cf
 0.0.0.0 best-coupon-offer.com
 0.0.0.0 bestcurs.org
+0.0.0.0 bestdooz.com
 0.0.0.0 bestempresas.es
 0.0.0.0 bestimagecoollibrary.com
 0.0.0.0 bestkfiledxd.cf
@@ -1837,6 +1841,7 @@
 0.0.0.0 lifebyleese.com
 0.0.0.0 life-instyle.com
 0.0.0.0 light.ifmo.ru
+0.0.0.0 lightinghomes.net
 0.0.0.0 likesdesign.com
 0.0.0.0 likesuccess.com
 0.0.0.0 liky.co.ua
@@ -2024,6 +2029,7 @@
 0.0.0.0 mmog-play.ru
 0.0.0.0 mmoguider.ru
 0.0.0.0 mncrftpcs.com
+0.0.0.0 mnogabukaff.net
 0.0.0.0 mnprs.com
 0.0.0.0 mobilemedia.md
 0.0.0.0 mobot.site
@@ -2542,6 +2548,7 @@
 0.0.0.0 quality-traffic.com
 0.0.0.0 quebec-bin.com
 0.0.0.0 queen.sim-com.ru
+0.0.0.0 quelle.ru
 0.0.0.0 quickbuck.com
 0.0.0.0 quickloanbank.com
 0.0.0.0 quick-offer.com
@@ -2784,6 +2791,7 @@
 0.0.0.0 seofied.com
 0.0.0.0 seoheap.com
 0.0.0.0 seokicks.de
+0.0.0.0 seomarketings.online
 0.0.0.0 seo-platform.com
 0.0.0.0 seorank.info
 0.0.0.0 seorankinglinks.com
@@ -2892,6 +2900,7 @@
 0.0.0.0 skylta.com
 0.0.0.0 sky-mine.ru
 0.0.0.0 skytraf.xyz
+0.0.0.0 skyway24.ru
 0.0.0.0 slavic-magic.ru
 0.0.0.0 slavkokacunko.de
 0.0.0.0 slayerlife.com
