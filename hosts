@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Thu Apr  6 11:17:19 SAST 2017
+### Fri Apr  7 14:05:39 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -118,6 +118,7 @@
 0.0.0.0 7zap.com
 0.0.0.0 8558l.jobs.net
 0.0.0.0 883zy.com
+0.0.0.0 888.com
 0.0.0.0 8gold.com
 0.0.0.0 8si.ru
 0.0.0.0 8xv8.com
@@ -175,6 +176,8 @@
 0.0.0.0 adloads.com
 0.0.0.0 adloads.net
 0.0.0.0 admanaerofoil.com
+0.0.0.0 adman.gr
+0.0.0.0 adman.se
 0.0.0.0 admatic.com.tr
 0.0.0.0 adminshop.com
 0.0.0.0 admitad.com
@@ -438,6 +441,7 @@
 0.0.0.0 bankcrediti.ru
 0.0.0.0 bankiem.pl
 0.0.0.0 bankofthewext.com
+0.0.0.0 bannerbank.ru
 0.0.0.0 bannerspace.com
 0.0.0.0 bannerswap.com
 0.0.0.0 bannertesting.com
@@ -496,6 +500,7 @@
 0.0.0.0 bidbuy.co.kr
 0.0.0.0 bidr.trellian.com
 0.0.0.0 bif-ru.info
+0.0.0.0 bigames.online
 0.0.0.0 bigcities.org
 0.0.0.0 biglistofwebsites.com
 0.0.0.0 bigpenisguide.com
@@ -698,6 +703,7 @@
 0.0.0.0 cheapjerseysfootballshop.com
 0.0.0.0 cheap-pills-norx.com
 0.0.0.0 cheatcode-lita12.rhcloud.com
+0.0.0.0 checkm8.com
 0.0.0.0 checkpagerank.net
 0.0.0.0 checktext.org
 0.0.0.0 chee-by.biz
@@ -1511,6 +1517,7 @@
 0.0.0.0 host-protection.com
 0.0.0.0 hostsshop.ru
 0.0.0.0 hotblog.top
+0.0.0.0 hotchatdate.com
 0.0.0.0 hotdl.in
 0.0.0.0 hotenergy.ru
 0.0.0.0 hothor.se
@@ -2475,6 +2482,7 @@
 0.0.0.0 privatefx-in.ru
 0.0.0.0 privatov-zapisi.ru
 0.0.0.0 privhosting.com
+0.0.0.0 prize44.com
 0.0.0.0 prizesbook.online
 0.0.0.0 prlog.ru
 0.0.0.0 prod2016.com
@@ -3124,6 +3132,7 @@
 0.0.0.0 thfox.com
 0.0.0.0 thiegs.reco.ws
 0.0.0.0 thin.me.pn
+0.0.0.0 thruport.com
 0.0.0.0 tiandeural.ru
 0.0.0.0 tiens2010.ru
 0.0.0.0 timeallnews.ru
@@ -3409,6 +3418,8 @@
 0.0.0.0 volgograd.xrus.org
 0.0.0.0 voloomoney.com
 0.0.0.0 volume-pills.biz
+0.0.0.0 voluumtracker1.com
+0.0.0.0 voluumtrk.com
 0.0.0.0 vonradio.com
 0.0.0.0 voprosotvet24.ru
 0.0.0.0 voronezh.xrus.org
