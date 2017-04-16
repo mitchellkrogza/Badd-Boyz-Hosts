@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Sat Apr 15 12:54:52 SAST 2017
+### Sun Apr 16 10:49:56 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -781,6 +781,7 @@
 0.0.0.0 com-onlinesupport.host
 0.0.0.0 com-onlinesupport.site
 0.0.0.0 compliance-checker.info
+0.0.0.0 com-secure.download
 0.0.0.0 com-supportcenter.website
 0.0.0.0 concealthyself.com
 0.0.0.0 conciergegroup.org
@@ -1474,6 +1475,7 @@
 0.0.0.0 gwebtools.com
 0.0.0.0 gwebtools.com.br
 0.0.0.0 gwhwpxbw.bloger.index.hr
+0.0.0.0 gyffu.com
 0.0.0.0 h2monline.com
 0.0.0.0 hacktougroup.ru
 0.0.0.0 hahashka.ru
@@ -1485,6 +1487,7 @@
 0.0.0.0 handsandlegs.ru
 0.0.0.0 hanink.biz.ly
 0.0.0.0 hasfun.com
+0.0.0.0 hauleddes.com
 0.0.0.0 havepussy.com
 0.0.0.0 hayate.biz
 0.0.0.0 hazardky.net
@@ -1551,6 +1554,7 @@
 0.0.0.0 hoste.octopis.com
 0.0.0.0 hostingclub.lk
 0.0.0.0 hosting-tracker.com
+0.0.0.0 hostnow.men
 0.0.0.0 host-protection.com
 0.0.0.0 hostsshop.ru
 0.0.0.0 hotblog.top
@@ -2257,6 +2261,7 @@
 0.0.0.0 notfastfood.ru
 0.0.0.0 nottyu.xyz
 0.0.0.0 noumeda.com
+0.0.0.0 november-lax.com
 0.0.0.0 novgorod.xrus.org
 0.0.0.0 novosibirsk.xrus.org
 0.0.0.0 novosti-hi-tech.ru
@@ -3378,6 +3383,7 @@
 0.0.0.0 uhod-za-sobakoj.ru
 0.0.0.0 ukrup.com
 0.0.0.0 ultimateclassicrock.com
+0.0.0.0 ultimatesetnewfreeallsoftupgradesystems.pw
 0.0.0.0 ultramart.biz
 0.0.0.0 umg-stroy.ru
 0.0.0.0 umityangin.net
