@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Sun Apr 16 10:49:56 SAST 2017
+### Mon Apr 17 09:40:01 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -2298,7 +2298,6 @@
 0.0.0.0 okmusic.jp
 0.0.0.0 okout.ru
 0.0.0.0 okroshki.ru
-0.0.0.0 ok.ru
 0.0.0.0 oktube.ru
 0.0.0.0 olvanto.ru
 0.0.0.0 olympescort.com
