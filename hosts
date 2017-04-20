@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Wed Apr 19 12:41:54 SAST 2017
+### Thu Apr 20 12:29:23 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -345,6 +345,7 @@
 0.0.0.0 arenanews.com.ua
 0.0.0.0 arendakvartir.kz
 0.0.0.0 arendas.net
+0.0.0.0 arendatora.ru
 0.0.0.0 arenda-yeisk.ru
 0.0.0.0 arendovalka.xyz
 0.0.0.0 arkartex.ru
@@ -474,6 +475,7 @@
 0.0.0.0 beauty-clinic.ru
 0.0.0.0 beauty-things.com
 0.0.0.0 becuo.com
+0.0.0.0 bedcapdealers.com
 0.0.0.0 belinvestdom.by
 0.0.0.0 bensbargains.net
 0.0.0.0 berdasovivan.ru
@@ -724,6 +726,7 @@
 0.0.0.0 cheapjerseysap.com
 0.0.0.0 cheapjerseysbizwholesale.us
 0.0.0.0 cheapjerseysfootballshop.com
+0.0.0.0 cheapmarmot.online
 0.0.0.0 cheap-pills-norx.com
 0.0.0.0 cheatcode-lita12.rhcloud.com
 0.0.0.0 checkm8.com
@@ -1298,6 +1301,7 @@
 0.0.0.0 freewebs.com
 0.0.0.0 freewhatsappload.com
 0.0.0.0 freshberry.com.ua
+0.0.0.0 freshdz.com
 0.0.0.0 freshmac.space
 0.0.0.0 freshsuperbloop.com
 0.0.0.0 freshwallpapers.info
@@ -1746,6 +1750,7 @@
 0.0.0.0 jerseywholesalechinabiz.com
 0.0.0.0 jerseywholesaleelitestore.com
 0.0.0.0 jjbabskoe.ru
+0.0.0.0 joessmogtestonly.com
 0.0.0.0 joingames.org
 0.0.0.0 jongose.ninja
 0.0.0.0 journalhome.com
@@ -1934,6 +1939,7 @@
 0.0.0.0 livetsomudvekslingstudent.bloggersdelight.dk
 0.0.0.0 livingcanarias.com
 0.0.0.0 livingroomdecor.info
+0.0.0.0 lkbennettstore.online
 0.0.0.0 llastbuy.ru
 0.0.0.0 lmrauction.com
 0.0.0.0 loadopia.com
@@ -2190,6 +2196,7 @@
 0.0.0.0 muznachas-service.ru
 0.0.0.0 muz-shoes.ru
 0.0.0.0 muztops.ru
+0.0.0.0 mvpicton.co.uk
 0.0.0.0 my-bc.ru
 0.0.0.0 my-big-family.com
 0.0.0.0 myblogregistercm.tk
@@ -2277,6 +2284,7 @@
 0.0.0.0 nootrino.com
 0.0.0.0 nordstar.pro
 0.0.0.0 normalegal.ru
+0.0.0.0 northfacestore.online
 0.0.0.0 notaria-desalas.com
 0.0.0.0 notebook-pro.ru
 0.0.0.0 notfastfood.ru
@@ -2623,6 +2631,7 @@
 0.0.0.0 psvita.ru
 0.0.0.0 publiccasinoil.com
 0.0.0.0 pufip.com
+0.0.0.0 pukaporn.com
 0.0.0.0 pulse33.ru
 0.0.0.0 purchasepillsnorx.com
 0.0.0.0 purplesphere.in
@@ -2746,6 +2755,7 @@
 0.0.0.0 rockingclicks.com
 0.0.0.0 roleforum.ru
 0.0.0.0 roma-kukareku.livejournal.com
+0.0.0.0 roofers.org.uk
 0.0.0.0 rootandroid.org
 0.0.0.0 ros-ctm.ru
 0.0.0.0 rospromtest.ru
@@ -2907,6 +2917,7 @@
 0.0.0.0 serialsway.ucoz.ru
 0.0.0.0 serptehnika.ru
 0.0.0.0 service-core.ru
+0.0.0.0 servingnotice.com
 0.0.0.0 servisural.ru
 0.0.0.0 seryeznie-znakomstva.ru
 0.0.0.0 sethrollins.net
@@ -3208,6 +3219,7 @@
 0.0.0.0 telegraf.by
 0.0.0.0 telegramdownload10.com
 0.0.0.0 telesvoboda.ru
+0.0.0.0 telsis.com
 0.0.0.0 template-kid.com
 0.0.0.0 tennis-img.org
 0.0.0.0 terraclicks.com
@@ -3658,6 +3670,7 @@
 0.0.0.0 wonderfulflowers.biz
 0.0.0.0 wordpresscore.com
 0.0.0.0 wordpress-crew.net
+0.0.0.0 word-vorlagen.net
 0.0.0.0 works.if.ua
 0.0.0.0 worldhistory.biz
 0.0.0.0 worldis.me
@@ -3800,6 +3813,7 @@
 0.0.0.0 yoursite.com
 0.0.0.0 youtoner.it
 0.0.0.0 youtubedownload.org
+0.0.0.0 yuantuo.co.jp
 0.0.0.0 yuarra.pluto.ro
 0.0.0.0 yubikk.info
 0.0.0.0 yugk.net
