@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Thu Apr 20 12:29:23 SAST 2017
+### Thu Apr 20 17:14:09 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -42,6 +42,8 @@
 0.0.0.0 00go.com
 0.0.0.0 00it.com
 0.0.0.0 00webcams.com
+0.0.0.0 0912701309f8ce.com
+0.0.0.0 0c47f8422d3f.com
 0.0.0.0 0n-line.tv
 0.0.0.0 100dollars-seo.com
 0.0.0.0 101billion.com
@@ -67,6 +69,7 @@
 0.0.0.0 1bet.com
 0.0.0.0 1-free-share-buttons.com
 0.0.0.0 1hwy.com
+0.0.0.0 1j7740kd.website
 0.0.0.0 1kinobig.ru
 0.0.0.0 1millionusd.xyz
 0.0.0.0 1pamm.ru
@@ -78,6 +81,7 @@
 0.0.0.0 24videos.tv
 0.0.0.0 24x7-server-support.site
 0.0.0.0 256bit.by
+0.0.0.0 2728fb936f0.com
 0.0.0.0 273-fz.ru
 0.0.0.0 28n2gl3wfyb0.ru
 0.0.0.0 2ads.co.uk
@@ -112,6 +116,7 @@
 0.0.0.0 5i2.net
 0.0.0.0 5kstore.com
 0.0.0.0 5u.com
+0.0.0.0 66cpwgln.space
 0.0.0.0 6hopping.com
 0.0.0.0 72-news.com
 0.0.0.0 76brighton.co.uk
@@ -128,6 +133,7 @@
 0.0.0.0 8xv8.com
 0.0.0.0 98oi.ru
 0.0.0.0 999webdesign.com
+0.0.0.0 9icmzvn6.website
 0.0.0.0 9med.net
 0.0.0.0 a342ae9750004b14b55f7310eff0ab65.com
 0.0.0.0 aa08daf7e13b6345e09e92f771507fa5f4.com
@@ -328,6 +334,7 @@
 0.0.0.0 appfixing.space
 0.0.0.0 appiq.mobi
 0.0.0.0 appleid-verification.com
+0.0.0.0 applicationg29.com
 0.0.0.0 app-ready.xyz
 0.0.0.0 approved.su
 0.0.0.0 appsaurus.com
@@ -356,6 +363,7 @@
 0.0.0.0 aruplighting.com
 0.0.0.0 as5000.com
 0.0.0.0 asacopaco.tk
+0.0.0.0 asdfg.pro
 0.0.0.0 asia-forum.ru
 0.0.0.0 asmxsatadriverin.aircus.com
 0.0.0.0 asophoto.com
@@ -688,6 +696,7 @@
 0.0.0.0 carson.getenjoyment.net
 0.0.0.0 carsplate.com
 0.0.0.0 cartechnic.ru
+0.0.0.0 cartierlove2u.com
 0.0.0.0 casablancamanor.co.za
 0.0.0.0 cashkitten-a.akamaihd.net
 0.0.0.0 cashonads.com
@@ -717,6 +726,7 @@
 0.0.0.0 cfjump.com
 0.0.0.0 cfsrating.sonicwall.com
 0.0.0.0 cgi2.nintendo.co.jp
+0.0.0.0 charmstroy.info
 0.0.0.0 chastnoeporno.com
 0.0.0.0 chat.ru
 0.0.0.0 chatseo.com
@@ -1867,6 +1877,7 @@
 0.0.0.0 kwzf.net
 0.0.0.0 labplus.ru
 0.0.0.0 labvis.host.sk
+0.0.0.0 lacloop.info
 0.0.0.0 ladov.ru
 0.0.0.0 la-fa.ru
 0.0.0.0 lafourmiliaire.com
@@ -2197,6 +2208,7 @@
 0.0.0.0 muz-shoes.ru
 0.0.0.0 muztops.ru
 0.0.0.0 mvpicton.co.uk
+0.0.0.0 mwtpludn.review
 0.0.0.0 my-bc.ru
 0.0.0.0 my-big-family.com
 0.0.0.0 myblogregistercm.tk
@@ -2513,6 +2525,7 @@
 0.0.0.0 popads.net
 0.0.0.0 popander.mobi
 0.0.0.0 popcash.net
+0.0.0.0 popserve.adscpm.net
 0.0.0.0 poptool.net
 0.0.0.0 popup-fdm.xyz
 0.0.0.0 popup-hgd.xyz
@@ -2725,6 +2738,7 @@
 0.0.0.0 remont-ustanovka-tehniki.ru
 0.0.0.0 remorcicomerciale.ro
 0.0.0.0 remote-dba.de
+0.0.0.0 renecaovilla.online
 0.0.0.0 rentalmaty.kz
 0.0.0.0 rentehno.ru
 0.0.0.0 repeatlogo.co.uk
@@ -3774,6 +3788,7 @@
 0.0.0.0 xvideosbay.com
 0.0.0.0 xwatt.ru
 0.0.0.0 xxart.ru
+0.0.0.0 xxlargepop.com
 0.0.0.0 xxxdatinglocal.us
 0.0.0.0 xxxguitars.com
 0.0.0.0 xxxnatelefon.ru
