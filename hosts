@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Fri Apr 21 10:02:43 SAST 2017
+### Sat Apr 22 09:32:43 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -200,6 +200,7 @@
 0.0.0.0 ads.gold
 0.0.0.0 adsland.men
 0.0.0.0 ads-seo.men
+0.0.0.0 ads.tremorhub.com
 0.0.0.0 adtiger.tk
 0.0.0.0 adultactioncam.com
 0.0.0.0 adultfriendfinder.com
@@ -741,6 +742,7 @@
 0.0.0.0 cheapjerseysbizwholesale.us
 0.0.0.0 cheapjerseysfootballshop.com
 0.0.0.0 cheapmarmot.online
+0.0.0.0 cheappatagonia.online
 0.0.0.0 cheap-pills-norx.com
 0.0.0.0 cheatcode-lita12.rhcloud.com
 0.0.0.0 checkm8.com
@@ -1278,7 +1280,6 @@
 0.0.0.0 forms-mtm.ru
 0.0.0.0 forpostlock.ru
 0.0.0.0 forsex.info
-0.0.0.0 fortawesome.github.io
 0.0.0.0 forum20.smailik.org
 0.0.0.0 forum.doctissimo.fr
 0.0.0.0 forum-engineering.ru
@@ -1745,10 +1746,12 @@
 0.0.0.0 itronics.ca
 0.0.0.0 itsdp3.com
 0.0.0.0 itservicesthatworkforyou.com
+0.0.0.0 ivanstroi.ru
 0.0.0.0 ix20.ru
 0.0.0.0 izhevsk.xrus.org
 0.0.0.0 izismile.com
 0.0.0.0 izoll.ru
+0.0.0.0 jackwolfskinoutlet.online
 0.0.0.0 jamiembrown.com
 0.0.0.0 janettabridal.com
 0.0.0.0 japfm.com
@@ -2048,6 +2051,7 @@
 0.0.0.0 mebel-alait.ru
 0.0.0.0 mebelcomplekt.ru
 0.0.0.0 mebeldekor.com.ua
+0.0.0.0 meble-bogart.info
 0.0.0.0 mecash.ru
 0.0.0.0 medanestesia.ru
 0.0.0.0 meddesk.ru
@@ -2305,6 +2309,7 @@
 0.0.0.0 nordstar.pro
 0.0.0.0 normalegal.ru
 0.0.0.0 northfacestore.online
+0.0.0.0 norththeface.store
 0.0.0.0 notaria-desalas.com
 0.0.0.0 notebook-pro.ru
 0.0.0.0 notfastfood.ru
@@ -2426,6 +2431,7 @@
 0.0.0.0 paleohub.info
 0.0.0.0 palvira.com.ua
 0.0.0.0 pammik.ru
+0.0.0.0 panchro.co.uk
 0.0.0.0 paparazzistudios.com.au
 0.0.0.0 paperics.com
 0.0.0.0 paperwritingservice17.blogspot.ru
@@ -3031,6 +3037,7 @@
 0.0.0.0 sitopreferito.it
 0.0.0.0 sivs.ru
 0.0.0.0 sixcooler.de
+0.0.0.0 sizeplus.work
 0.0.0.0 skachat-besplatno-dlja-mobily.ru
 0.0.0.0 skachat-besplatno-obrazcy.ru
 0.0.0.0 sk.golden-praga.ru
@@ -3171,6 +3178,7 @@
 0.0.0.0 strfls.com
 0.0.0.0 strigkaomsk.ru
 0.0.0.0 stroicol.net
+0.0.0.0 stroilka.info
 0.0.0.0 stroimajor.ru
 0.0.0.0 stroiminsk.org
 0.0.0.0 stromerrealty.com
@@ -3445,6 +3453,7 @@
 0.0.0.0 ucsol.ru
 0.0.0.0 udsgame.online
 0.0.0.0 ufa.xrus.org
+0.0.0.0 uggsale.online
 0.0.0.0 uhdtv.website
 0.0.0.0 uhodzalijami.ru
 0.0.0.0 uhod-za-sobakoj.ru
@@ -3758,6 +3767,7 @@
 0.0.0.0 xn--80aikhbrhr.net
 0.0.0.0 xn--80ajbshivpvn2i.xn--p1ai
 0.0.0.0 xn--80ajjbdhgmudixfjc8c5a9df8b.xn--p1ai
+0.0.0.0 xn--80ak6aa92e.com
 0.0.0.0 xn--80aodinpgi.xn--p1ai
 0.0.0.0 xn-----8kcatubaocd1bneepefojs1h2e.xn--p1ai
 0.0.0.0 xn----8sbdbjgb1ap7a9c4czbh.xn--p1acf
