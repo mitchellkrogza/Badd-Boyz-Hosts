@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Sat Apr 22 09:32:43 SAST 2017
+### Sun Apr 23 10:23:25 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -1953,7 +1953,6 @@
 0.0.0.0 littleberry.ru
 0.0.0.0 liupis.com
 0.0.0.0 livefixer.com
-0.0.0.0 liveinternet.ru
 0.0.0.0 liverpool.gsofootball.com
 0.0.0.0 live-sexchat.ru
 0.0.0.0 liveshoppersmac.com
@@ -2436,6 +2435,7 @@
 0.0.0.0 paperics.com
 0.0.0.0 paperwritingservice17.blogspot.ru
 0.0.0.0 paradontozanet.ru
+0.0.0.0 parajumpersstore.online
 0.0.0.0 paramountmarble.co.uk
 0.0.0.0 parlament.biz
 0.0.0.0 partner-cdn.men
@@ -3518,6 +3518,7 @@
 0.0.0.0 velobikestock.com
 0.0.0.0 venta-prom.ru
 0.0.0.0 ventelnos.com
+0.0.0.0 vereo.eu
 0.0.0.0 vesnatehno.com
 0.0.0.0 vesnatehno.ru
 0.0.0.0 vezuviy.su
