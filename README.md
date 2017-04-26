@@ -12,11 +12,22 @@ A hosts file for use on any operating system to block bad domains out of your se
 
 ### If this helps you why not [buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKF9XT6WHATLG):beer:
 
-## ISSUES: 
-Please forward any additions, false positives, corrections or comments by logging an issue at https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues
+# DOMAIN ADDITIONS / ISSUES: 
+
+Please forward any additions, corrections or comments by logging an issue at https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues or simply send a Pull Request on the domains.txt file in the PULL_REQUESTS folder at https://github.com/mitchellkrogza/Badd-Boyz-Hosts/tree/master/PULL_REQUESTS
+
+# FALSE POSITIVES / DOMAIN REMOVALS / OTHER ISSUES: 
+
+If you find any domain names on this list which you believe are incorrectly listed, either log an issue at https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues or simply send a Pull Request on the domains.txt file in the PULL_REQUESTS folder at https://github.com/mitchellkrogza/Badd-Boyz-Hosts/tree/master/PULL_REQUESTS
+
 
 ## COMPILED FROM:
-This list of hosts is compiled from real server logs on my own servers where I run a number of very busy web sites. This list of hosts forms the basis of the bad referrers domain lists for The Nginx Ultimate Bad Bot Blocker at: https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker and the Apache Ultimate Bad Bot Blocker at: https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
+
+This list of hosts is compiled from real server logs on my own servers where I run a number of very busy web sites. 
+
+This list originated from the list of bad referrers domain lists for The Nginx Ultimate Bad Bot Blocker at: https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker and the Apache Ultimate Bad Bot Blocker at: https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
+
+The list has now been separated from those projects as it contains certain domains which do not actually belong in a hosts file.
 
 ## WHAT IS A HOSTS FILE?
 
