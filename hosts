@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Wed Apr 26 15:50:41 SAST 2017
+### Updated: Thu Apr 27 10:46:05 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -120,6 +120,7 @@
 0.0.0.0 6hopping.com
 0.0.0.0 72-news.com
 0.0.0.0 76brighton.co.uk
+0.0.0.0 777-club.ru
 0.0.0.0 7fon.ru
 0.0.0.0 7makemoneyonline.com
 0.0.0.0 7wind.ru
@@ -390,6 +391,7 @@
 0.0.0.0 auto4style.ru
 0.0.0.0 autoblogger24.info
 0.0.0.0 autobudpostach.club
+0.0.0.0 autochoixspinelli.com
 0.0.0.0 autogrep.ru
 0.0.0.0 autoloans.com
 0.0.0.0 autolombard-krasnodar.ru
@@ -505,6 +507,7 @@
 0.0.0.0 best-coupon-offer.com
 0.0.0.0 bestcurs.org
 0.0.0.0 bestdooz.com
+0.0.0.0 bestdraws.com
 0.0.0.0 bestempresas.es
 0.0.0.0 bestimagecoollibrary.com
 0.0.0.0 bestkfiledxd.cf
@@ -703,6 +706,7 @@
 0.0.0.0 cardsharp1.ru
 0.0.0.0 cardul.ru
 0.0.0.0 carfax.com.ua
+0.0.0.0 carina-sy.de
 0.0.0.0 carloans.com
 0.0.0.0 carsdined.org
 0.0.0.0 carsoncitypizza.com
@@ -905,6 +909,7 @@
 0.0.0.0 daymusam.com
 0.0.0.0 day-news.info
 0.0.0.0 dbmkfhqk.bloger.index.hr
+0.0.0.0 dcj-nn.ru
 0.0.0.0 ddlmega.net
 0.0.0.0 ddospanel.com
 0.0.0.0 ddpills.com
@@ -1023,6 +1028,7 @@
 0.0.0.0 dvr.biz.ua
 0.0.0.0 dvrlists.com
 0.0.0.0 dyshagi.ru
+0.0.0.0 e705.net
 0.0.0.0 eandsgallery.com
 0.0.0.0 eaplay.ru
 0.0.0.0 earl-brown.info
@@ -1661,6 +1667,7 @@
 0.0.0.0 idegenvezeto.eu
 0.0.0.0 ideibiznesa2015.ru
 0.0.0.0 ideoworld.org
+0.0.0.0 ido3.com
 0.0.0.0 ie.57883.net
 0.0.0.0 ifirestarter.ru
 0.0.0.0 iflycapetown.co.za
@@ -1922,6 +1929,7 @@
 0.0.0.0 laptoper.net
 0.0.0.0 larchik.net
 0.0.0.0 larutti.ru
+0.0.0.0 lasvegaslockandsafe.com
 0.0.0.0 laudit.ru
 0.0.0.0 law-check-eight.xyz
 0.0.0.0 law-check-nine.xyz
@@ -2120,6 +2128,7 @@
 0.0.0.0 metaxalonevstizanidine.blogspot.com
 0.0.0.0 methodsmarketing.com
 0.0.0.0 mex-annushka.ru
+0.0.0.0 mexicosleevegastrectomy.com
 0.0.0.0 mexicotravelnet.com
 0.0.0.0 mhi-systems.ru
 0.0.0.0 mhtr.be
@@ -2461,6 +2470,7 @@
 0.0.0.0 paparazzistudios.com.au
 0.0.0.0 paperics.com
 0.0.0.0 paperwritingservice17.blogspot.ru
+0.0.0.0 paphoselectricianandplumber.com
 0.0.0.0 paradontozanet.ru
 0.0.0.0 parajumpersstore.online
 0.0.0.0 paramountmarble.co.uk
@@ -2963,6 +2973,7 @@
 0.0.0.0 seocheki.net
 0.0.0.0 seoexperimenty.ru
 0.0.0.0 seofied.com
+0.0.0.0 seofirmreviewsus.info
 0.0.0.0 seoheap.com
 0.0.0.0 seokicks.de
 0.0.0.0 seomarketings.online
@@ -3865,6 +3876,7 @@
 0.0.0.0 yebocasino.co.za
 0.0.0.0 ynymnwbm.bloger.index.hr
 0.0.0.0 yogamatsexpert.com
+0.0.0.0 yopoint.in
 0.0.0.0 yorkshireccc.com
 0.0.0.0 yorkshire.com
 0.0.0.0 youandcredit.ru
@@ -3951,9 +3963,11 @@
 0.0.0.0 zojirushi-products.ru
 0.0.0.0 zolotoy-lis.ru
 0.0.0.0 zona-aqua.ru
+0.0.0.0 zone-kev717.info
 0.0.0.0 zoominfo.com
 0.0.0.0 zophim.me
 0.0.0.0 zrizvtrnpale.tk
+0.0.0.0 zrus.org
 0.0.0.0 zryydi.com
 0.0.0.0 zs2vm.top
 0.0.0.0 zscaler.net
