@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Thu Apr 27 10:46:05 SAST 2017
+### Updated: Fri Apr 28 09:46:42 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -89,6 +89,7 @@
 0.0.0.0 2itech.ru
 0.0.0.0 2kata.ru
 0.0.0.0 2nt.ru
+0.0.0.0 2rich4bitches.com
 0.0.0.0 300richmond.co.nz
 0.0.0.0 34.gs
 0.0.0.0 3dracergames.com
@@ -364,6 +365,7 @@
 0.0.0.0 arraty.altervista.org
 0.0.0.0 artdeko.info
 0.0.0.0 artefakct.com
+0.0.0.0 articlesdirectoryme.info
 0.0.0.0 artpicso.com
 0.0.0.0 aruplighting.com
 0.0.0.0 as5000.com
@@ -422,6 +424,7 @@
 0.0.0.0 avon-ukraine.com
 0.0.0.0 avramstroy.ru
 0.0.0.0 avtoarenda.by
+0.0.0.0 avtochehli.by
 0.0.0.0 avtocredit-legko.ru
 0.0.0.0 avtointeres.ru
 0.0.0.0 avtolombard-krasnodar.com
@@ -1521,6 +1524,7 @@
 0.0.0.0 gta-top.ru
 0.0.0.0 gtopstats.com
 0.0.0.0 guardlink.org
+0.0.0.0 guildebzh.info
 0.0.0.0 guitar-master.org
 0.0.0.0 gungamesz.com
 0.0.0.0 guod.me
@@ -1817,6 +1821,7 @@
 0.0.0.0 kanimage.com
 0.0.0.0 karachev-city.ru
 0.0.0.0 karadene.com
+0.0.0.0 karpun-iris.ru
 0.0.0.0 karusel-market.ru
 0.0.0.0 kashubadesign.ru
 0.0.0.0 katjimej.blog.fc2.com
