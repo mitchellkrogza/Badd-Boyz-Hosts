@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Sun Apr 30 10:21:40 SAST 2017
+### Updated: Mon May  1 10:03:15 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -577,7 +577,6 @@
 0.0.0.0 blackwitchcraft.ru
 0.0.0.0 blagovest-med.ru
 0.0.0.0 blavia.00author.com
-0.0.0.0 bleacherreport.com
 0.0.0.0 blockworld.ru
 0.0.0.0 blog.f00kclan.de
 0.0.0.0 bloggedporn.com
@@ -667,6 +666,7 @@
 0.0.0.0 buy-loft.ru
 0.0.0.0 buynorxx.com
 0.0.0.0 buypanicdisorderpill.com
+0.0.0.0 buyparajumpers.online
 0.0.0.0 buypillsorderonline.com
 0.0.0.0 buypuppies.ca
 0.0.0.0 buyscabiescream.com
@@ -822,6 +822,7 @@
 0.0.0.0 codysbbq.com
 0.0.0.0 cognitiveseo.com
 0.0.0.0 coldfilm.ru
+0.0.0.0 colehaanoutlet.store
 0.0.0.0 collegeessay19.blogspot.ru
 0.0.0.0 cometorussia.net
 0.0.0.0 comissionka.net
