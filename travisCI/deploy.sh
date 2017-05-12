@@ -5,7 +5,7 @@ git config --global push.default simple
 git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
 export GIT_TAG=V1.$TRAVIS_BUILD_NUMBER
 git fetch --tags
-msg="Tag Generated from TravisCI for build $TRAVIS_BUILD_NUMBER [ci skip]"
+msg="Tag Generated from TravisCI for build $TRAVIS_BUILD_NUMBER"
 if git tag $GIT_TAG -a -m "$msg" 2>/dev/null; then
 git tag $GIT_TAG -a -m "Tag Generated from TravisCI for build $TRAVIS_BUILD_NUMBER [ci skip]"
 git push origin master && git push origin master --tags

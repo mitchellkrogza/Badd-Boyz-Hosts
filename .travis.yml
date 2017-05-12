@@ -39,6 +39,12 @@ deploy:
   on:
     repo: mitchellkrogza/Badd-Boyz-Hosts
     tags: false
-    all_branches: true
+    branches:
+      except:
+        - "/^v[0-9]/"
+        - "/^V.*$/"
+    branches:
+       only:
+         - "master"
 notifications:
     email: false
