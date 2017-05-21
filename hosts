@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Mon May 15 12:38:35 SAST 2017
+### Updated: Sun May 21 13:08:10 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -1950,6 +1950,7 @@
 0.0.0.0 kaz.kz
 0.0.0.0 kazrent.com
 0.0.0.0 keenoutlet.online
+0.0.0.0 kerwinandcariza.com
 0.0.0.0 ketoanhanoi.info
 0.0.0.0 ketrzyn.pl
 0.0.0.0 keywordhut.com
@@ -2590,7 +2591,6 @@
 0.0.0.0 ooo-olni.ru
 0.0.0.0 openfrost.com
 0.0.0.0 openfrost.net
-0.0.0.0 openlibrary.org
 0.0.0.0 openmediasoft.com
 0.0.0.0 openmultipleurl.com
 0.0.0.0 openstat.com
@@ -3742,6 +3742,7 @@
 0.0.0.0 ucsol.ru
 0.0.0.0 udsgame.online
 0.0.0.0 ufa.xrus.org
+0.0.0.0 uggbootsoutletsale.us
 0.0.0.0 uggsale.online
 0.0.0.0 ugguk.online
 0.0.0.0 uhdtv.website
