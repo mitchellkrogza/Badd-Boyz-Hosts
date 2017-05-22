@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Sun May 21 15:59:04 SAST 2017
+### Updated: Mon May 22 16:22:43 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -274,7 +274,6 @@
 0.0.0.0 alienwheel.es
 0.0.0.0 alienwheels.de
 0.0.0.0 aliexpresscashback.club
-0.0.0.0 aliexpress.com
 0.0.0.0 alif-ba-ta.com
 0.0.0.0 alive-ua.com
 0.0.0.0 all4invest.info
@@ -542,6 +541,7 @@
 0.0.0.0 becuo.com
 0.0.0.0 bedandbreakfast.com
 0.0.0.0 bedcapdealers.com
+0.0.0.0 belinka.com.ua
 0.0.0.0 belinvestdom.by
 0.0.0.0 belstaffstore.online
 0.0.0.0 benchmarkcommunications.co.uk
@@ -800,6 +800,7 @@
 0.0.0.0 centrumcoachingu.com
 0.0.0.0 ceotrk.com
 0.0.0.0 cercacamion.it
+0.0.0.0 cete.ru
 0.0.0.0 cezartabac.ro
 0.0.0.0 cfcl.co.uk
 0.0.0.0 cfjump.com
@@ -1748,6 +1749,7 @@
 0.0.0.0 hotdl.in
 0.0.0.0 hotel-mkad.ru
 0.0.0.0 hotenergy.ru
+0.0.0.0 hotgirlhdwallpaper.com
 0.0.0.0 hothor.se
 0.0.0.0 hotkeys.com
 0.0.0.0 hotloans.ru
@@ -1951,6 +1953,7 @@
 0.0.0.0 juliaworld.net
 0.0.0.0 jumptap.com
 0.0.0.0 jus0wil.pp.ua
+0.0.0.0 justbcause.com
 0.0.0.0 justdating.online
 0.0.0.0 kaac.ru
 0.0.0.0 kabbalah-red-bracelets.com
@@ -3119,6 +3122,7 @@
 0.0.0.0 sarf3omlat.com
 0.0.0.0 sarm.tk
 0.0.0.0 sashagreyblog.ga
+0.0.0.0 saugatuck.com
 0.0.0.0 savefrom.com
 0.0.0.0 savememoney.co.za
 0.0.0.0 savetubevideo.com
@@ -3223,6 +3227,7 @@
 0.0.0.0 seorankinglinks.xyz
 0.0.0.0 seo-smm.kz
 0.0.0.0 seo-tools-optimizing.com
+0.0.0.0 seo-traffic-ranking.info
 0.0.0.0 serdcenebolit.com
 0.0.0.0 sergiorossistore.online
 0.0.0.0 serialsway.ucoz.ru
@@ -3700,6 +3705,7 @@
 0.0.0.0 touchmods.fr
 0.0.0.0 tourismvictoria.com
 0.0.0.0 tour-line.net
+0.0.0.0 toursmaps.com
 0.0.0.0 tovaroboom.vast.ru
 0.0.0.0 toxicwap.com
 0.0.0.0 toys.erolove.in
@@ -3744,6 +3750,7 @@
 0.0.0.0 tsan.net
 0.0.0.0 tsstcorpcddvdwshbbdriverfb.aircus.com
 0.0.0.0 ttrraacckkrr.com
+0.0.0.0 ttsq.fr
 0.0.0.0 tube8.com
 0.0.0.0 tuberkulezanet.ru
 0.0.0.0 tuberkuleznik.ru
@@ -3820,6 +3827,7 @@
 0.0.0.0 urdoot.win
 0.0.0.0 url2image.com
 0.0.0.0 urlcut.ru
+0.0.0.0 url-img.link
 0.0.0.0 urlopener.blogspot.com.au
 0.0.0.0 urlopener.com
 0.0.0.0 uroffer.link
@@ -4074,6 +4082,7 @@
 0.0.0.0 wrona.it
 0.0.0.0 wsgames.ru
 0.0.0.0 wstroika.ru
+0.0.0.0 wttavern.com
 0.0.0.0 wurr.voila.net
 0.0.0.0 ww1943.ru
 0.0.0.0 www.arenda-yeisk.ru
@@ -4138,6 +4147,7 @@
 0.0.0.0 xn--b1agm2d.net
 0.0.0.0 xn--c1acygb.xn--p1ai
 0.0.0.0 xn--d1abj0abs9d.in.ua
+0.0.0.0 xn--e1afanlbnfckd7c3d.xn--p1ai
 0.0.0.0 xn--e1aggki3c.xn--80adxhks
 0.0.0.0 xn--h1aakne2ba.xn--p1ai
 0.0.0.0 xn--h1ahbi.com.ua
