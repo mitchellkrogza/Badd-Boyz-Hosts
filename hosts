@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Thu May 25 10:02:46 SAST 2017
+### Updated: Thu May 25 10:45:33 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -1094,6 +1094,7 @@
 0.0.0.0 doktoronline.no
 0.0.0.0 dokumentalkino.net
 0.0.0.0 domain2008.com
+0.0.0.0 domaincrawler.com
 0.0.0.0 domainsatcost.com
 0.0.0.0 domain-submit.info
 0.0.0.0 domain-tracker.com
@@ -3214,6 +3215,7 @@
 0.0.0.0 school-diplomat.ru
 0.0.0.0 scoopquest.com
 0.0.0.0 score-ads.men
+0.0.0.0 scrapy.org
 0.0.0.0 screentoolkit.com
 0.0.0.0 scripted.com
 0.0.0.0 sc-specialhost.com
