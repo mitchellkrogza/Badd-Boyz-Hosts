@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Sat May 27 11:51:18 SAST 2017
+### Updated: Sat May 27 12:37:28 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -4041,7 +4041,6 @@
 0.0.0.0 viven.host.sk
 0.0.0.0 vizag.kharkov.ua
 0.0.0.0 vkak.ru
-0.0.0.0 vk.com
 0.0.0.0 vk-mus.ru
 0.0.0.0 vkontaktemusic.ru
 0.0.0.0 vkontarkte.com
@@ -4413,6 +4412,7 @@
 0.0.0.0 zona-aqua.ru
 0.0.0.0 zone-kev717.info
 0.0.0.0 zonjwag.com
+0.0.0.0 zoolubimets.ru
 0.0.0.0 zoominfo.com
 0.0.0.0 zophim.me
 0.0.0.0 zrizvtrnpale.tk

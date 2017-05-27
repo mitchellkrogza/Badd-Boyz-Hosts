@@ -4003,7 +4003,6 @@ vitanail.ru
 viven.host.sk
 vizag.kharkov.ua
 vkak.ru
-vk.com
 vk-mus.ru
 vkontaktemusic.ru
 vkontarkte.com
@@ -4375,6 +4374,7 @@ zolotoy-lis.ru
 zona-aqua.ru
 zone-kev717.info
 zonjwag.com
+zoolubimets.ru
 zoominfo.com
 zophim.me
 zrizvtrnpale.tk
