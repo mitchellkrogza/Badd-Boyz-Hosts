@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Mon May 29 11:46:56 SAST 2017
+### Updated: Mon May 29 17:39:31 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -798,9 +798,12 @@
 0.0.0.0 cartierbraceletsreplica.pw
 0.0.0.0 cartierbracelet.xyz
 0.0.0.0 cartierlove2u.com
+0.0.0.0 cartierlove2u.xyz
+0.0.0.0 cartierlovebraceletreplica.xyz
 0.0.0.0 cartierlovebracelet.xyz
 0.0.0.0 cartierloveringreplica.xyz
 0.0.0.0 cartierlove.xyz
+0.0.0.0 cartierring.xyz
 0.0.0.0 cartiertrinity.xyz
 0.0.0.0 casablancamanor.co.za
 0.0.0.0 cashkitten-a.akamaihd.net
@@ -3388,6 +3391,7 @@
 0.0.0.0 sexyali.com
 0.0.0.0 sexy-pings.com
 0.0.0.0 sexy-screen-savers.com
+0.0.0.0 sexystrippe.info
 0.0.0.0 sexyteens.hol.es
 0.0.0.0 sexytrend.ru
 0.0.0.0 sfd-chess.ru
