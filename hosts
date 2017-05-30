@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Tue May 30 10:59:31 SAST 2017
+### Updated: Tue May 30 16:13:38 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -2508,6 +2508,7 @@
 0.0.0.0 moyaterapiya.ru
 0.0.0.0 mp3films.ru
 0.0.0.0 mp3ringtone.info
+0.0.0.0 mrbitsandbytes.com
 0.0.0.0 mrcsa.com.au
 0.0.0.0 mrinsidesales.com
 0.0.0.0 mriyadh.com
@@ -4020,7 +4021,6 @@
 0.0.0.0 vasileostrovsky-rayon.ru
 0.0.0.0 vavilone.com
 0.0.0.0 vbabule.net
-0.0.0.0 vc.ru
 0.0.0.0 vduplo.ru
 0.0.0.0 vedomstvo.net
 0.0.0.0 veerotech.com
