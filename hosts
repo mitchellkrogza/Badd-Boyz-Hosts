@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Thu Jun  1 17:18:41 SAST 2017
+### Updated: Fri Jun  2 12:09:36 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -755,6 +755,7 @@
 0.0.0.0 buzzsumo.com
 0.0.0.0 buzzurl.jp
 0.0.0.0 bvlgaribracelet.xyz
+0.0.0.0 bvlgariring.xyz
 0.0.0.0 bycontext.com
 0.0.0.0 byme.se
 0.0.0.0 bytimedance.ru
@@ -1066,6 +1067,7 @@
 0.0.0.0 dear-diary.ru
 0.0.0.0 decenttools.com
 0.0.0.0 decorationspcs.com
+0.0.0.0 degerlund.net
 0.0.0.0 dekoration.us
 0.0.0.0 dekorkeramik.ru
 0.0.0.0 delayreferat.ru
@@ -1280,6 +1282,7 @@
 0.0.0.0 englate.com
 0.0.0.0 englishdictionaryfree.com
 0.0.0.0 englishgamer.com
+0.0.0.0 enskedesquashclub.se
 0.0.0.0 enternet.ee
 0.0.0.0 envaseslotusama.com
 0.0.0.0 enviromusic.net
@@ -2247,6 +2250,7 @@
 0.0.0.0 life-instyle.com
 0.0.0.0 light.ifmo.ru
 0.0.0.0 lightinghomes.net
+0.0.0.0 lignofix.ua
 0.0.0.0 likesdesign.com
 0.0.0.0 likesuccess.com
 0.0.0.0 liky.co.ua
@@ -2824,6 +2828,7 @@
 0.0.0.0 pammik.ru
 0.0.0.0 panamaforbeginners.com
 0.0.0.0 panchro.co.uk
+0.0.0.0 panchro.xyz
 0.0.0.0 paparazzistudios.com.au
 0.0.0.0 paperics.com
 0.0.0.0 paperwritingservice17.blogspot.ru
@@ -3731,10 +3736,12 @@
 0.0.0.0 susanholtphotography.com
 0.0.0.0 svarbit.com
 0.0.0.0 svarkagid.com
+0.0.0.0 svbur.ru
 0.0.0.0 svetlotorg.ru
 0.0.0.0 svetodiodoff.ru
 0.0.0.0 svtrd.com
 0.0.0.0 swagbucks.com
+0.0.0.0 swinger-mobil.net
 0.0.0.0 swinginwithme.ru
 0.0.0.0 swiped.su
 0.0.0.0 swsociety.se
@@ -4532,6 +4539,7 @@
 0.0.0.0 zs2vm.top
 0.0.0.0 zscaler.net
 0.0.0.0 zscalerone.net
+0.0.0.0 zscalertwo.net
 0.0.0.0 zverokruh-shop.cz
 0.0.0.0 zvetki.ru
 0.0.0.0 zx6.ru
