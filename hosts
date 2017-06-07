@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Wed Jun  7 10:15:36 SAST 2017
+### Updated: Wed Jun  7 12:53:09 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -505,6 +505,7 @@
 0.0.0.0 babieca.com
 0.0.0.0 bablonow.ru
 0.0.0.0 babyguns.ru
+0.0.0.0 back.dog
 0.0.0.0 backgroundpictures.net
 0.0.0.0 backlink4u.net
 0.0.0.0 backlinkwatch.com
@@ -1208,6 +1209,7 @@
 0.0.0.0 dyshagi.ru
 0.0.0.0 dyt.net
 0.0.0.0 e705.net
+0.0.0.0 eachdayisagift.review
 0.0.0.0 eandsgallery.com
 0.0.0.0 eaplay.ru
 0.0.0.0 earl-brown.info
@@ -2140,6 +2142,7 @@
 0.0.0.0 kiev.ua
 0.0.0.0 kihi.gdn
 0.0.0.0 kiinomaniak.pl
+0.0.0.0 kimcurlrvsms.com
 0.0.0.0 kinobaks.com
 0.0.0.0 kinobest.pl
 0.0.0.0 kinocccp.net
@@ -2351,6 +2354,7 @@
 0.0.0.0 lowephotos.info
 0.0.0.0 low-format.ru
 0.0.0.0 lsex.xyz
+0.0.0.0 ltvperf.com
 0.0.0.0 lubetube.com
 0.0.0.0 luckyshop.net.ua
 0.0.0.0 lumb.co
@@ -2532,6 +2536,7 @@
 0.0.0.0 mnogabukaff.net
 0.0.0.0 mnprs.com
 0.0.0.0 mobilemedia.md
+0.0.0.0 mobioffertrck.com
 0.0.0.0 mobot.site
 0.0.0.0 mobplayer.net
 0.0.0.0 mobplayer.ru
@@ -3988,6 +3993,7 @@
 0.0.0.0 toys.erolove.in
 0.0.0.0 tozup.com
 0.0.0.0 tpu.ru
+0.0.0.0 trackmedia101.com
 0.0.0.0 track-rankings.online
 0.0.0.0 tracksurf.daooda.com
 0.0.0.0 tracksz.co
@@ -4300,6 +4306,7 @@
 0.0.0.0 welck.octopis.com
 0.0.0.0 welcomeauto.ru
 0.0.0.0 wellcome2slovenia.ru
+0.0.0.0 wemarketing.se
 0.0.0.0 wenimage.com
 0.0.0.0 weprik.ru
 0.0.0.0 wesharepics.com
@@ -4521,6 +4528,7 @@
 0.0.0.0 yourothersite.com
 0.0.0.0 yoursearch.me
 0.0.0.0 yoursite.com
+0.0.0.0 yourtemplatefinder.com
 0.0.0.0 you-shall-not-pass.is74.ru
 0.0.0.0 youtoner.it
 0.0.0.0 youtubedownload.org
@@ -4545,6 +4553,7 @@
 0.0.0.0 zakonobosago.ru
 0.0.0.0 zaloadi.ru
 0.0.0.0 zaloro.com
+0.0.0.0 za-music.mymobiplanet.com
 0.0.0.0 zaobao.com.sg
 0.0.0.0 zapiszto.pl
 0.0.0.0 zarabiaj-dzis.pl
