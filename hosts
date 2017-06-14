@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Tue Jun 13 10:29:29 SAST 2017
+### Updated: Wed Jun 14 16:55:13 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -555,6 +555,7 @@
 0.0.0.0 bausparen.bz.it
 0.0.0.0 bazaronline24.ru
 0.0.0.0 bbtec.net
+0.0.0.0 bcmp.org
 0.0.0.0 bdsmgalls.net
 0.0.0.0 beachpics.com
 0.0.0.0 beamfall.info
@@ -647,6 +648,7 @@
 0.0.0.0 bizru.info
 0.0.0.0 bjanshee.ru
 0.0.0.0 bjetjt.com
+0.0.0.0 bjorkbacken.nu
 0.0.0.0 bkns.vn
 0.0.0.0 blackcurranthumidifiers.site
 0.0.0.0 blackhatworth.com
@@ -782,6 +784,7 @@
 0.0.0.0 cacheimages.com
 0.0.0.0 cactussoft.biz
 0.0.0.0 cakemediahq.com.au
+0.0.0.0 cakesplus.com.au
 0.0.0.0 cakics.com
 0.0.0.0 calc-for-credit.ru
 0.0.0.0 calcularpagerank.com
@@ -1858,6 +1861,7 @@
 0.0.0.0 helvetia.com.ua
 0.0.0.0 hem.passagen.se
 0.0.0.0 herehloadibs.cf
+0.0.0.0 hermesbelts.xyz
 0.0.0.0 hermesbirkinhandbagoutlets.com
 0.0.0.0 hermesbracelets.xyz
 0.0.0.0 hermesreplica.pw
@@ -2576,6 +2580,7 @@
 0.0.0.0 mnogabukaff.net
 0.0.0.0 mnprs.com
 0.0.0.0 mobilemedia.md
+0.0.0.0 mobilierland.com
 0.0.0.0 mobioffertrck.com
 0.0.0.0 mobot.site
 0.0.0.0 mobplayer.net
@@ -2600,6 +2605,7 @@
 0.0.0.0 monclerjacketsoutlet.win
 0.0.0.0 moncleronline.xyz
 0.0.0.0 moncleroutletonline.pw
+0.0.0.0 moncleroutletonline.win
 0.0.0.0 moncleroutletonline.xyz
 0.0.0.0 monclervests.xyz
 0.0.0.0 monetizationking.net
@@ -3887,6 +3893,7 @@
 0.0.0.0 taxidermy4cash.com
 0.0.0.0 taximytishi.ru
 0.0.0.0 taxi-v-eisk.ru
+0.0.0.0 t-bygg.com
 0.0.0.0 td-33.ru
 0.0.0.0 teastory.co
 0.0.0.0 techart24.com
@@ -4445,6 +4452,7 @@
 0.0.0.0 worldmusicfests.com
 0.0.0.0 worldoffiles.ru
 0.0.0.0 wormix-cheats.ru
+0.0.0.0 wosik-dach.service-for-web.de
 0.0.0.0 wowas31.ucoz.ru
 0.0.0.0 woweb.com.ua
 0.0.0.0 writingservices17.blogspot.ru
@@ -4687,4 +4695,5 @@
 0.0.0.0 zvetki.ru
 0.0.0.0 zx6.ru
 0.0.0.0 zytpirwai.net
+0.0.0.0 zzbroya.com.ua
 # END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
