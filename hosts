@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Thu Jun 15 10:40:06 SAST 2017
+### Updated: Thu Jun 15 17:00:06 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -103,6 +103,7 @@
 0.0.0.0 45en.ru
 0.0.0.0 45tahunkhongguan.com
 0.0.0.0 4istoshop.com
+0.0.0.0 4k-player.pl
 0.0.0.0 4kplayer.pl
 0.0.0.0 4pp13.com
 0.0.0.0 4rent.ru
@@ -321,6 +322,7 @@
 0.0.0.0 amateurgalls.com
 0.0.0.0 amateurlivechat.org
 0.0.0.0 amateurmatch.com
+0.0.0.0 amazon-adsystem.com
 0.0.0.0 amazon-seo-service.com
 0.0.0.0 amehdaily.com
 0.0.0.0 amigobulls.com
@@ -442,6 +444,7 @@
 0.0.0.0 atleticpharm.org
 0.0.0.0 atley.eu.pn
 0.0.0.0 atmagroup.ru
+0.0.0.0 atout-energie-69.com
 0.0.0.0 atovh.local-finders.com
 0.0.0.0 audiobangout.com
 0.0.0.0 ausergrubhof.info
@@ -533,6 +536,7 @@
 0.0.0.0 bambi.ck.ua
 0.0.0.0 bamo.xsl.pt
 0.0.0.0 banan.tv
+0.0.0.0 bang-hotties.com
 0.0.0.0 bangla-chat-uk-paralud.ga
 0.0.0.0 bankcrediti.ru
 0.0.0.0 banki76.ru
@@ -561,6 +565,7 @@
 0.0.0.0 beachpics.com
 0.0.0.0 beamfall.info
 0.0.0.0 beauby.ru
+0.0.0.0 beauty-b0x.pl
 0.0.0.0 beauty-bracelet.com
 0.0.0.0 beauty-clinic.ru
 0.0.0.0 beauty-things.com
@@ -584,6 +589,7 @@
 0.0.0.0 bestdooz.com
 0.0.0.0 bestdraws.com
 0.0.0.0 bestempresas.es
+0.0.0.0 best-games.today
 0.0.0.0 bestimagecoollibrary.com
 0.0.0.0 bestkfiledxd.cf
 0.0.0.0 bestmarriages.com
@@ -823,6 +829,7 @@
 0.0.0.0 carfax.com.ua
 0.0.0.0 carina-sy.de
 0.0.0.0 carloans.com
+0.0.0.0 carmuffler.net
 0.0.0.0 carsdined.org
 0.0.0.0 carsoncitypizza.com
 0.0.0.0 carson.getenjoyment.net
@@ -1010,6 +1017,8 @@
 0.0.0.0 copyrightclaims.org
 0.0.0.0 cordstrap.cc
 0.0.0.0 cornerstone-countertops.com
+0.0.0.0 cornomase.win
+0.0.0.0 corta.co
 0.0.0.0 cosmetic.donna7753191.ru
 0.0.0.0 cottageofgrace.com
 0.0.0.0 cougfan.info
@@ -1138,6 +1147,7 @@
 0.0.0.0 diegolopezcastan.com
 0.0.0.0 diesel-parts28.ru
 0.0.0.0 dieswaene.com
+0.0.0.0 dieta-personalna.pl
 0.0.0.0 diffbot.com
 0.0.0.0 digest-project.ru
 0.0.0.0 digilander.libero.it
@@ -1151,6 +1161,7 @@
 0.0.0.0 dimkino.ru
 0.0.0.0 dinkolove.ya.ru
 0.0.0.0 dipstar.org
+0.0.0.0 directivepub.com
 0.0.0.0 directrev.com
 0.0.0.0 discountbarbour.online
 0.0.0.0 discountliv.com
@@ -1207,6 +1218,7 @@
 0.0.0.0 dosug-lux.ru
 0.0.0.0 dotnetdotcom.org
 0.0.0.0 doublepimp.com
+0.0.0.0 downloaddy.net
 0.0.0.0 downloadeer.net
 0.0.0.0 downloader12.ru
 0.0.0.0 downloadkakaotalk.com
@@ -1267,6 +1279,7 @@
 0.0.0.0 ekaterinburg.xrus.org
 0.0.0.0 ekn-art.se
 0.0.0.0 ekobata.ru
+0.0.0.0 ekosmetyki.net.pl
 0.0.0.0 ekspertmed.com
 0.0.0.0 ekto.ee
 0.0.0.0 e-kwiaciarz.pl
@@ -1309,6 +1322,7 @@
 0.0.0.0 eloxal.ru
 0.0.0.0 elstal.com.pl
 0.0.0.0 elvel.com.ua
+0.0.0.0 elvenar.com
 0.0.0.0 embedle.com
 0.0.0.0 emediate.eu
 0.0.0.0 empathica.com
@@ -1439,6 +1453,7 @@
 0.0.0.0 fanoboi.com
 0.0.0.0 fanpagerobot.com
 0.0.0.0 fantasticpixcool.com
+0.0.0.0 faptitans.com
 0.0.0.0 fark.com
 0.0.0.0 farm26.ru
 0.0.0.0 farmingworm.com
@@ -1500,6 +1515,7 @@
 0.0.0.0 findanysex.com
 0.0.0.0 findclan.org
 0.0.0.0 findpik.com
+0.0.0.0 findsexguide.com
 0.0.0.0 findthe.pet
 0.0.0.0 finstroy.net
 0.0.0.0 finteks.ru
@@ -1548,6 +1564,7 @@
 0.0.0.0 forminecrafters.ru
 0.0.0.0 formseo.com
 0.0.0.0 forms-mtm.ru
+0.0.0.0 formularz-konkurs.tk
 0.0.0.0 forodvd.com
 0.0.0.0 forpackningsutveckling.se
 0.0.0.0 forpostlock.ru
@@ -1579,6 +1596,7 @@
 0.0.0.0 freelifetimefuckbook.com
 0.0.0.0 freelotto.com
 0.0.0.0 freemags.cc
+0.0.0.0 freemaintenancesysforpcandmac.top
 0.0.0.0 freenode.info
 0.0.0.0 freenom.link
 0.0.0.0 freeseedsonline.com
@@ -1649,6 +1667,7 @@
 0.0.0.0 gamerextra.com
 0.0.0.0 gamerscorps.com
 0.0.0.0 games.kolossale.ru
+0.0.0.0 gamesprite.me
 0.0.0.0 game-top.su
 0.0.0.0 gamevalue7.weebly.com
 0.0.0.0 gamewrath.com
@@ -1692,6 +1711,7 @@
 0.0.0.0 getmyads24.com
 0.0.0.0 getoutofdebtfree.org
 0.0.0.0 getpopunder.com
+0.0.0.0 getresponse.com
 0.0.0.0 getrichquickly.info
 0.0.0.0 get-seo-domain.com
 0.0.0.0 get-your-social-buttons.info
@@ -1863,6 +1883,7 @@
 0.0.0.0 helpmymacfaster.trade
 0.0.0.0 helvetia.com.ua
 0.0.0.0 hem.passagen.se
+0.0.0.0 hentaiheroes.com
 0.0.0.0 herehloadibs.cf
 0.0.0.0 hermesbelts.xyz
 0.0.0.0 hermesbirkinhandbagoutlets.com
@@ -1879,6 +1900,7 @@
 0.0.0.0 high-speed1.net
 0.0.0.0 highspeed5.net
 0.0.0.0 highstairs-a.akamaihd.net
+0.0.0.0 hikesearch.net
 0.0.0.0 hildinghr.se
 0.0.0.0 histats.com
 0.0.0.0 histock.info
@@ -2135,6 +2157,7 @@
 0.0.0.0 johannesburgsingles.co.za
 0.0.0.0 johnrobertsoninc.com
 0.0.0.0 joingames.org
+0.0.0.0 jolic2.com
 0.0.0.0 jongose.ninja
 0.0.0.0 journalhome.com
 0.0.0.0 journeydownthescale.info
@@ -2238,6 +2261,7 @@
 0.0.0.0 koptims.tiu.ru
 0.0.0.0 koral.se
 0.0.0.0 koronirealestate.gr
+0.0.0.0 kosmetyki.tm.pl
 0.0.0.0 kosova.de
 0.0.0.0 kostenloser-sex.com
 0.0.0.0 kostenlos-sexvideos.com
@@ -2315,6 +2339,7 @@
 0.0.0.0 lernur.net
 0.0.0.0 lesbian.xyz
 0.0.0.0 lescinq.com
+0.0.0.0 letmacwork.world
 0.0.0.0 letolove.ru
 0.0.0.0 letslowbefast.today
 0.0.0.0 letto.by
@@ -2345,6 +2370,7 @@
 0.0.0.0 linkbuddies.com
 0.0.0.0 linkdebrideur.xyz
 0.0.0.0 linkpulse.com
+0.0.0.0 linkredirect.biz
 0.0.0.0 linkrr.com
 0.0.0.0 linkwithin.com
 0.0.0.0 liquimondo.com
@@ -2411,15 +2437,18 @@
 0.0.0.0 lyzqp.net.ru
 0.0.0.0 m0r0zk0-krava.ru
 0.0.0.0 m1media.net
+0.0.0.0 m3gadownload.pl
 0.0.0.0 m4ever.net
 0.0.0.0 m5home.ru
 0.0.0.0 mabdoola.blogspot.com
 0.0.0.0 macdamaged.space
 0.0.0.0 macdamaged.tech
+0.0.0.0 mac-helper.site
 0.0.0.0 mackeeper-center.club
 0.0.0.0 mackeeper-land-672695126.us-east-1.elb.amazonaws.com
 0.0.0.0 macnewtech.com
 0.0.0.0 macresource.co.uk
+0.0.0.0 mactechinfo.info
 0.0.0.0 madot.onlinewebshop.net
 0.0.0.0 mafcards.ru
 0.0.0.0 magazin-pics.ru
@@ -2545,6 +2574,7 @@
 0.0.0.0 microsearch.ru
 0.0.0.0 microsoftportal.net
 0.0.0.0 microstatic.pl
+0.0.0.0 midst.eu
 0.0.0.0 migente.com
 0.0.0.0 mikrobiologies.ru
 0.0.0.0 milblueprint.com
@@ -2683,8 +2713,10 @@
 0.0.0.0 muztops.ru
 0.0.0.0 mvpicton.co.uk
 0.0.0.0 mwtpludn.review
+0.0.0.0 myanyone.net
 0.0.0.0 my-bc.ru
 0.0.0.0 my-big-family.com
+0.0.0.0 mybinaryoptionsrobot.com
 0.0.0.0 myblogregistercm.tk
 0.0.0.0 mycaf.it
 0.0.0.0 my-cash-bot.co
@@ -2792,6 +2824,7 @@
 0.0.0.0 nonews.co
 0.0.0.0 nootrino.com
 0.0.0.0 nordstar.pro
+0.0.0.0 nordvpn.com
 0.0.0.0 normalegal.ru
 0.0.0.0 northfacestore.online
 0.0.0.0 norththeface.store
@@ -2828,6 +2861,7 @@
 0.0.0.0 oconto.ru
 0.0.0.0 oda.as
 0.0.0.0 o-dachnik.ru
+0.0.0.0 oddamzadarmo.eu
 0.0.0.0 odesproperty.com
 0.0.0.0 odywpjtw.bloger.index.hr
 0.0.0.0 offer.camp
@@ -2928,6 +2962,7 @@
 0.0.0.0 oz-offers.com
 0.0.0.0 ozoz.it
 0.0.0.0 paceform.com
+0.0.0.0 paclitor.com
 0.0.0.0 pagesense.com
 0.0.0.0 paleohub.info
 0.0.0.0 palvira.com.ua
@@ -3289,6 +3324,7 @@
 0.0.0.0 rcb101.ru
 0.0.0.0 r-control.ru
 0.0.0.0 realitykings.com
+0.0.0.0 realizmobi.com
 0.0.0.0 realmonte.net
 0.0.0.0 realnye-otzyvy.info
 0.0.0.0 real-time-analytics.com
@@ -3342,6 +3378,7 @@
 0.0.0.0 retailwith.com
 0.0.0.0 retreatia.com
 0.0.0.0 reversing.cc
+0.0.0.0 rewardpoll.com
 0.0.0.0 reward-survey.net
 0.0.0.0 reyel1985.webnode.fr
 0.0.0.0 rezeptiblud.ru
@@ -3623,6 +3660,7 @@
 0.0.0.0 sideeffectsoftizanidine.blogspot.com
 0.0.0.0 sigmund-freud.co.uk
 0.0.0.0 signal03.ru
+0.0.0.0 signoredom.com
 0.0.0.0 signx.info
 0.0.0.0 siha.de
 0.0.0.0 sildenafilcitratemed.com
@@ -3667,6 +3705,7 @@
 0.0.0.0 skincrate.net
 0.0.0.0 sklad-24.ru
 0.0.0.0 skladvaz.ru
+0.0.0.0 skuteczna-dieta.co.pl
 0.0.0.0 skutecznetabletkinaporostwlosow.pl
 0.0.0.0 skylta.com
 0.0.0.0 sky-mine.ru
@@ -3682,6 +3721,7 @@
 0.0.0.0 slonechka.ru
 0.0.0.0 slowmacfaster.trade
 0.0.0.0 slowmach.tech
+0.0.0.0 slowmac.tech
 0.0.0.0 sluganarodu.ru
 0.0.0.0 slujbauborki.ru
 0.0.0.0 smailik.org
@@ -3694,6 +3734,7 @@
 0.0.0.0 smartphonediscount.info
 0.0.0.0 smart-scripts.com
 0.0.0.0 smartshoppymac.com
+0.0.0.0 smichovbike.cz
 0.0.0.0 smokewithrabbits.com
 0.0.0.0 sms2x2.ru
 0.0.0.0 smstraf.ru
@@ -3738,6 +3779,7 @@
 0.0.0.0 softxaker.ru
 0.0.0.0 soheavyblog.com
 0.0.0.0 sohoindia.net
+0.0.0.0 solicita.info
 0.0.0.0 solitaire-game.ru
 0.0.0.0 solmarket.by
 0.0.0.0 solnplast.ru
@@ -3755,6 +3797,8 @@
 0.0.0.0 sovetogorod.ru
 0.0.0.0 soviet-portal.do.am
 0.0.0.0 spacash.com
+0.0.0.0 space4update.pw
+0.0.0.0 space4updating.win
 0.0.0.0 spacebarnot.work
 0.0.0.0 spaceshipad.com
 0.0.0.0 space.skachat-besplatno-dlja-mobily.ru
@@ -3885,10 +3929,12 @@
 0.0.0.0 tacbelarus.ru
 0.0.0.0 tagil.zrus.org
 0.0.0.0 taihouse.ru
+0.0.0.0 takeprofitsystem.com
 0.0.0.0 takethatad.com
 0.0.0.0 tako3.com
 0.0.0.0 talant-factory.ru
 0.0.0.0 tampabaywatch.org
+0.0.0.0 tanieaukcje.com.pl
 0.0.0.0 taqywu51.soup.io
 0.0.0.0 tarad.com
 0.0.0.0 tastyfoodideas.com
@@ -3946,6 +3992,7 @@
 0.0.0.0 thejournal.ru
 0.0.0.0 themestotal.com
 0.0.0.0 thenetinfo.com
+0.0.0.0 theplacetoupdating.pw
 0.0.0.0 thepokertimer.com
 0.0.0.0 theprofitsmaker.net
 0.0.0.0 thetattoohut.com
@@ -3960,6 +4007,7 @@
 0.0.0.0 thruport.com
 0.0.0.0 tiandeural.ru
 0.0.0.0 tiens2010.ru
+0.0.0.0 tilido.com
 0.0.0.0 timdreby.com
 0.0.0.0 timeallnews.ru
 0.0.0.0 timecrimea.ru
@@ -4070,6 +4118,7 @@
 0.0.0.0 toys.erolove.in
 0.0.0.0 tozup.com
 0.0.0.0 tpu.ru
+0.0.0.0 track112.site
 0.0.0.0 trackmedia101.com
 0.0.0.0 track-rankings.online
 0.0.0.0 tracksurf.daooda.com
@@ -4290,6 +4339,7 @@
 0.0.0.0 vip-file.com
 0.0.0.0 vipms.ru
 0.0.0.0 vip-parfumeria.ru
+0.0.0.0 vipromoffers.com
 0.0.0.0 vipsiterip.org
 0.0.0.0 virtuagirl.com
 0.0.0.0 visa-china.ru
@@ -4480,6 +4530,7 @@
 0.0.0.0 www.arenda-yeisk.ru
 0.0.0.0 wygraj-skiny.win
 0.0.0.0 wygraj-teraz.com
+0.0.0.0 wyniki-lista.pl
 0.0.0.0 wzgyyq.com
 0.0.0.0 xaijo.com
 0.0.0.0 xbaboon.com
@@ -4657,6 +4708,7 @@
 0.0.0.0 zdesoboi.com
 0.0.0.0 zebradudka.com
 0.0.0.0 zebramart.ru
+0.0.0.0 zed21.net
 0.0.0.0 zeleznobeton.ru
 0.0.0.0 zerocash.msk.ru
 0.0.0.0 zeroredirect10.com
