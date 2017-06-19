@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Thu Jun 15 17:00:06 SAST 2017
+### Updated: Mon Jun 19 13:09:03 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -1454,7 +1454,6 @@
 0.0.0.0 fanpagerobot.com
 0.0.0.0 fantasticpixcool.com
 0.0.0.0 faptitans.com
-0.0.0.0 fark.com
 0.0.0.0 farm26.ru
 0.0.0.0 farmingworm.com
 0.0.0.0 fashionindeed.ml
@@ -1616,7 +1615,6 @@
 0.0.0.0 freshdz.com
 0.0.0.0 freshmac.space
 0.0.0.0 freshsuperbloop.com
-0.0.0.0 freshwallpapers.info
 0.0.0.0 freza-sverlo.ru
 0.0.0.0 frivgame250.com
 0.0.0.0 fr.netlog.com
@@ -1688,7 +1686,6 @@
 0.0.0.0 ge0ip.com
 0.0.0.0 ge0ip.net
 0.0.0.0 ge0ip.org
-0.0.0.0 geckoandfly.com
 0.0.0.0 geilehausfrauen.net
 0.0.0.0 geile-lelly.eu
 0.0.0.0 geileweiber.tk
