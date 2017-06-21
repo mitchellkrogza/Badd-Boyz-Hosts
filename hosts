@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Wed Jun 21 14:52:12 SAST 2017
+### Updated: Wed Jun 21 16:47:29 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -3633,6 +3633,7 @@
 0.0.0.0 serialsway.ucoz.ru
 0.0.0.0 serptehnika.ru
 0.0.0.0 server.popads.net
+0.0.0.0 servethis.com
 0.0.0.0 service.adtech.de
 0.0.0.0 service.adtech.fr
 0.0.0.0 service.adtech.us
@@ -4713,6 +4714,7 @@
 0.0.0.0 yeartwit.com
 0.0.0.0 yebocasino.com
 0.0.0.0 yebocasino.co.za
+0.0.0.0 yhit.press
 0.0.0.0 ynymnwbm.bloger.index.hr
 0.0.0.0 yogamatsexpert.com
 0.0.0.0 yoopsie.com
