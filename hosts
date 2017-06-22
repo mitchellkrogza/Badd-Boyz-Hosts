@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Thu Jun 22 11:16:21 SAST 2017
+### Updated: Thu Jun 22 11:41:36 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -904,6 +904,7 @@
 0.0.0.0 cgi2.nintendo.co.jp
 0.0.0.0 charmstroy.info
 0.0.0.0 chastnoeporno.com
+0.0.0.0 chatroulette.online
 0.0.0.0 chatroulette.si
 0.0.0.0 chat.ru
 0.0.0.0 chatseo.com
@@ -2639,6 +2640,7 @@
 0.0.0.0 mirtorrent.net
 0.0.0.0 mirzonru.net
 0.0.0.0 misandesign.se
+0.0.0.0 missclub.info
 0.0.0.0 missvietnam.org
 0.0.0.0 misswell.net
 0.0.0.0 misswootwoot.com
@@ -3070,6 +3072,7 @@
 0.0.0.0 percin.biz.ly
 0.0.0.0 perfection-pleasure.ru
 0.0.0.0 perfectpracticeweb.com
+0.0.0.0 perm-profnastil.ru
 0.0.0.0 perm.xrus.org
 0.0.0.0 perosan.com
 0.0.0.0 personalhoro.ru
@@ -3155,6 +3158,8 @@
 0.0.0.0 pmk-samara.ru
 0.0.0.0 pobeiranie.pl
 0.0.0.0 pochemychka.net
+0.0.0.0 podshipniki-nsk.ru
+0.0.0.0 podshipniki-ntn.ru
 0.0.0.0 poffet.net
 0.0.0.0 pogodnyyeavarii.gq
 0.0.0.0 pogruztehnik.ru
@@ -3916,6 +3921,7 @@
 0.0.0.0 startwp.org
 0.0.0.0 starwarspcs.com
 0.0.0.0 statistici.ro
+0.0.0.0 statoutlook.info
 0.0.0.0 stats-public.grammarly.io
 0.0.0.0 statustroll.com
 0.0.0.0 stauga.altervista.org
@@ -4462,6 +4468,7 @@
 0.0.0.0 vote-up.ru
 0.0.0.0 vozbujdenie.com
 0.0.0.0 vpnhowto.info
+0.0.0.0 vpnmouse.com
 0.0.0.0 vremya.eu
 0.0.0.0 vriel.batcave.net
 0.0.0.0 vrnelectro.ru
@@ -4819,6 +4826,7 @@
 0.0.0.0 zetmaster.ru
 0.0.0.0 zhongwenlink.com
 0.0.0.0 zhorapankratov7.blogspot.com
+0.0.0.0 zhuravlev.info
 0.0.0.0 zigarettenonl.canalblog.com
 0.0.0.0 zigarettenonlinekaufen1.bloog.pl
 0.0.0.0 zigarettenonlinekaufen1.blox.pl
@@ -4826,6 +4834,7 @@
 0.0.0.0 zigarettenonlinekaufen2.drupalgardens.com
 0.0.0.0 zigarettenonlinekaufen.tumblr.com
 0.0.0.0 zigzog.ru
+0.0.0.0 zionstar.net
 0.0.0.0 zjnylubiv.ru
 0.0.0.0 zkjovpdgxivg.ga
 0.0.0.0 zlatnajesen.com
