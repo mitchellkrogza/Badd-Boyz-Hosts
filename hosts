@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Thu Jun 22 10:44:42 SAST 2017
+### Updated: Thu Jun 22 11:16:21 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -386,6 +386,7 @@
 0.0.0.0 apiwoodensealcom-a.akamaihd.net
 0.0.0.0 apparel-offer.com
 0.0.0.0 apper.de
+0.0.0.0 appfastplay.com
 0.0.0.0 appfixing.space
 0.0.0.0 appiq.mobi
 0.0.0.0 appleid-verification.com
@@ -1801,6 +1802,7 @@
 0.0.0.0 googlepositions.com
 0.0.0.0 googst2.ru
 0.0.0.0 goo.ne.jp
+0.0.0.0 goosefishpost.bid
 0.0.0.0 gopixdatabase.com
 0.0.0.0 gopro-online.info
 0.0.0.0 gorabagrata.ru
@@ -2577,6 +2579,7 @@
 0.0.0.0 meduza-consult.ru
 0.0.0.0 med-zdorovie.com.ua
 0.0.0.0 meendo-free-traffic.ga
+0.0.0.0 meetingrainstorm.bid
 0.0.0.0 meetlocalchicks.com
 0.0.0.0 megaapteka.ru
 0.0.0.0 mega-bony-2017.pl
@@ -3723,6 +3726,7 @@
 0.0.0.0 sibvitr.ru
 0.0.0.0 sicfor.bcu.cc
 0.0.0.0 sideeffectsoftizanidine.blogspot.com
+0.0.0.0 sierraapps.com
 0.0.0.0 sigmund-freud.co.uk
 0.0.0.0 signal03.ru
 0.0.0.0 signoredom.com
