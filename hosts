@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Thu Jun 22 17:07:53 SAST 2017
+### Updated: Fri Jun 23 10:18:38 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -186,6 +186,7 @@
 0.0.0.0 actremage.com
 0.0.0.0 actulite.com
 0.0.0.0 adamoads.com
+0.0.0.0 adanih.com
 0.0.0.0 adcash.com
 0.0.0.0 adclickservice.com
 0.0.0.0 adclickthru.net
@@ -635,6 +636,7 @@
 0.0.0.0 bif-ru.info
 0.0.0.0 bigames.online
 0.0.0.0 big-boards.info
+0.0.0.0 bigcareer.info
 0.0.0.0 bigcities.org
 0.0.0.0 biglistofwebsites.com
 0.0.0.0 bigpenisguide.com
@@ -908,6 +910,7 @@
 0.0.0.0 chastnoeporno.com
 0.0.0.0 chatroulette.online
 0.0.0.0 chatroulette.si
+0.0.0.0 chatroulette.world
 0.0.0.0 chat.ru
 0.0.0.0 chatseo.com
 0.0.0.0 chcu.net
@@ -1296,6 +1299,7 @@
 0.0.0.0 ed-shop01.ru
 0.0.0.0 edshopping.net
 0.0.0.0 education-cz.ru
+0.0.0.0 ee77ee.com
 0.0.0.0 efkt.jp
 0.0.0.0 egovaleo.it
 0.0.0.0 egvar.net
@@ -2069,6 +2073,8 @@
 0.0.0.0 immobiliaremassaro.com
 0.0.0.0 imperia31.ru
 0.0.0.0 imperiafilm.ru
+0.0.0.0 impisr.edunsk.ru
+0.0.0.0 impisr.ru
 0.0.0.0 import-sales.com
 0.0.0.0 impresagaia.it
 0.0.0.0 inbabes.sexushost.com
@@ -2338,6 +2344,7 @@
 0.0.0.0 labelwater.se
 0.0.0.0 labplus.ru
 0.0.0.0 labvis.host.sk
+0.0.0.0 lacasamorett.com
 0.0.0.0 lacave.ntic.fr
 0.0.0.0 lacloop.info
 0.0.0.0 ladov.ru
@@ -2382,6 +2389,7 @@
 0.0.0.0 lescinq.com
 0.0.0.0 letmacwork.world
 0.0.0.0 letolove.ru
+0.0.0.0 letsart.ru
 0.0.0.0 letslowbefast.today
 0.0.0.0 letto.by
 0.0.0.0 levaquin750mg.blogspot.com
@@ -2458,6 +2466,7 @@
 0.0.0.0 longadventure.com
 0.0.0.0 long-beach-air-conditioning.com
 0.0.0.0 longgreen.info
+0.0.0.0 losangeles-ads.com
 0.0.0.0 lost-alpha.ru
 0.0.0.0 lostfilm-online.ru
 0.0.0.0 lotto6888.com
@@ -2495,6 +2504,7 @@
 0.0.0.0 mackeeper-land-672695126.us-east-1.elb.amazonaws.com
 0.0.0.0 macnewtech.com
 0.0.0.0 macresource.co.uk
+0.0.0.0 mac-shield.com
 0.0.0.0 mactechinfo.info
 0.0.0.0 madot.onlinewebshop.net
 0.0.0.0 mafcards.ru
@@ -2589,6 +2599,7 @@
 0.0.0.0 megaapteka.ru
 0.0.0.0 mega-bony-2017.pl
 0.0.0.0 mega-bony2017.pl
+0.0.0.0 megahdporno.net
 0.0.0.0 megaindex.ru
 0.0.0.0 megakino.net
 0.0.0.0 mega-polis.biz.ua
@@ -2892,6 +2903,7 @@
 0.0.0.0 novgorod.xrus.org
 0.0.0.0 novosibirsk.xrus.org
 0.0.0.0 novosti-hi-tech.ru
+0.0.0.0 nowtorrents.com
 0.0.0.0 npoet.ru
 0.0.0.0 nrv.co.za
 0.0.0.0 nsatc.net
@@ -4401,6 +4413,7 @@
 0.0.0.0 viagroid.ru
 0.0.0.0 viandpet.com
 0.0.0.0 viberdownload10.com
+0.0.0.0 videochat.cafe
 0.0.0.0 video-chat.cn
 0.0.0.0 video-chat.in
 0.0.0.0 videochat.mx
