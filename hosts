@@ -16,7 +16,7 @@
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ### Last Updated
-### Updated: Fri Jun 23 10:18:38 SAST 2017
+### Updated: Fri Jun 23 10:40:26 SAST 2017
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -1582,6 +1582,7 @@
 0.0.0.0 flzhiguan.com
 0.0.0.0 fm-upgrade.ru
 0.0.0.0 focalink.com
+0.0.0.0 fodelsedagspresenter.nu
 0.0.0.0 fok.nl
 0.0.0.0 folowsite.com
 0.0.0.0 f-online.de
@@ -2016,6 +2017,7 @@
 0.0.0.0 htmlcorner.com
 0.0.0.0 hubbble.com
 0.0.0.0 huhn.altervista.org
+0.0.0.0 huimin764128.com
 0.0.0.0 hully.altervista.org
 0.0.0.0 humanorightswatch.org
 0.0.0.0 hundejo.com
@@ -2228,6 +2230,7 @@
 0.0.0.0 karachev-city.ru
 0.0.0.0 karadene.com
 0.0.0.0 karpun-iris.ru
+0.0.0.0 karting196.ru
 0.0.0.0 kartiniresto.com
 0.0.0.0 karusel-market.ru
 0.0.0.0 kashubadesign.ru
@@ -2350,6 +2353,7 @@
 0.0.0.0 ladov.ru
 0.0.0.0 la-fa.ru
 0.0.0.0 lafourmiliaire.com
+0.0.0.0 lafriore.ru
 0.0.0.0 lakesimg.com
 0.0.0.0 lampokrat.ws
 0.0.0.0 lanadelreyfans.us
@@ -3160,6 +3164,7 @@
 0.0.0.0 pk-services.ru
 0.0.0.0 pladform.ru
 0.0.0.0 plaff-go.ru
+0.0.0.0 plastgranar.nu
 0.0.0.0 plastweb.ru
 0.0.0.0 platesauto.com
 0.0.0.0 platinumdeals.gr
@@ -3764,6 +3769,7 @@
 0.0.0.0 simplepooltips.com
 0.0.0.0 simple-share-buttons.com
 0.0.0.0 simply.net
+0.0.0.0 simpoed.ufop.br
 0.0.0.0 sim-service.net
 0.0.0.0 sims-sims.ru
 0.0.0.0 sindragosa.comxa.com
