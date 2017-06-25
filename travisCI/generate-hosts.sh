@@ -43,7 +43,7 @@ _input1=$TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
 _inputdbA=/tmp/lastupdated.db
 _inputdb1=/tmp/lists/hosts.db
 
-# Declare Nginx template and temp variables
+# Declare template and temp variables
 _hosts=$TRAVIS_BUILD_DIR/travisCI/hosts.template
 _tmphostsA=tmphostsA
 _tmphostsB=tmphostsB

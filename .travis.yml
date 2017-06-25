@@ -23,7 +23,7 @@ before_install:
   - export TZ=Africa/Johannesburg
 
 script:
-  - sudo travisCI/generate-hosts
+  - sudo travisCI/generate-hosts.sh
   #- sudo wget https://github.com/mitchellkrogza/Badd-Boyz-Hosts/raw/master/hosts -O /tmp/hosts
   #- sudo mv /etc/hosts /etc/hosts.bak2
   #- sudo cp /tmp/hosts /etc/hosts
