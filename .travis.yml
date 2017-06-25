@@ -24,9 +24,6 @@ before_install:
 
 script:
   - sudo travisCI/generate-hosts.sh
-  #- sudo wget https://github.com/mitchellkrogza/Badd-Boyz-Hosts/raw/master/hosts -O /tmp/hosts
-  #- sudo mv /etc/hosts /etc/hosts.bak2
-  #- sudo cp /tmp/hosts /etc/hosts
   - ping -c 4 000free.us &> /dev/stdout
   - ping -c 4 fix-website-errors.com &> /dev/stdout
   - ping -c 4 get-seo-domain.com &> /dev/stdout
