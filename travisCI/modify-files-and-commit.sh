@@ -73,13 +73,13 @@ git checkout master
 # ***************************************************
 
 # Set scripts executable
-sudo chmod +x $TRAVIS_BUILD_DIR/travisCI/modify-hosts.sh
+#sudo chmod +x $TRAVIS_BUILD_DIR/travisCI/modify-hosts.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/travisCI/deploy-package.sh
 
 # ********************************
 # Run our hosts file modify script
 # ********************************
-sudo $TRAVIS_BUILD_DIR/travisCI/modify-hosts.sh
+#sudo $TRAVIS_BUILD_DIR/travisCI/modify-hosts.sh
 
 # *************************************
 # Add all the modified files and commit
