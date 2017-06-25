@@ -8,6 +8,9 @@ A hosts file for use on any operating system to block bad domains out of your se
 ##### Copyright: https://github.com/mitchellkrogza
 ##### Source: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
 
+##### Version Information #
+##### Version Information ##
+
 - You are free to copy and distribute this file for non-commercial uses, as long the original URL and attribution is included. 
 
 ### If this helps you why not [buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKF9XT6WHATLG):beer:

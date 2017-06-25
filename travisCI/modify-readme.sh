@@ -1,5 +1,5 @@
 #!/bin/bash
-# Travis CI Generating Script for Badd Boyz hosts File
+# Write Build / Version Number into README.md
 # Created by: Mitchell Krog (mitchellkrog@gmail.com)
 # Copyright: Mitchell Krog - https://github.com/mitchellkrogza
 # Repo Url: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
@@ -31,66 +31,56 @@
 # Set Some Variables
 # ******************
 
-#set -v
+YEAR=$(date +%Y)
+MONTH=$(date +%m)
+MY_GIT_TAG=V1.$YEAR.$MONTH.$TRAVIS_BUILD_NUMBER
+BAD_REFERRERS=$(wc -l < $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt)
 
-YEAR=$(date +"%Y")
-MONTH=$(date +"%m")
-cd $TRAVIS_BUILD_DIR
+# **********************************
+# Temporary database files we create
+# **********************************
 
-# *******************************
-# Remove Remote Added by TravisCI
-# *******************************
+_inputdbA=/tmp/lastupdated.db
+_tmpnginxA=tmpnginxA
 
-git remote rm origin
+# ***************************************************************
+# Start and End Strings to Search for to do inserts into template
+# ***************************************************************
 
-# **************************
-# Add Remote with Secure Key
-# **************************
+_startmarker="##### Version Information #"
+_endmarker="##### Version Information ##"
 
-git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
+# ****************************************
+# PRINT VERSION INFORMATION INTO README.md
+# ****************************************
 
-# **********************************************************************************
-# List Remotes ONLY DURING testing - do not do this on live repo / possible key leak
-# git remote -v
-# ***********************************************************************************
+LASTUPDATEIFS=$IFS
+IFS=$'\n'
+now="$(date)"
+end=$(date +%s.%N)    
+echo $_startmarker >> $_tmpnginxA
+runtime=$(python -c "print(${end} - ${start})")
+printf "********************************************\n#### Version: "$MY_GIT_TAG"\n#### Bad Host Count: "$BAD_REFERRERS"\n#### Bad Bot Count: "$BAD_BOTS"\n********************************************\n" >> $_tmpnginxA
+echo $_endmarker  >> $_tmpnginxA
+IFS=$LASTUPDATEIFS
+mv $_tmpnginxA $_inputdbA
+ed -s $_inputdbA<<\IN
+1,/##### Version Information #/d
+/##### Version Information ##/,$d
+,d
+.r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/README.md
+/##### Version Information #/x
+.t.
+.,/##### Version Information ##/-d
+#,p
+#,p used to print output replaced with w below to write
+w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/README.md
+q
+IN
+rm $_inputdbA
 
-# *********************
-# Set Our Git Variables
-# *********************
 
-git config --global user.email "${GIT_EMAIL}"
-git config --global user.name "${GIT_NAME}"
-git config --global push.default simple
-
-# *******************************************
-# Make sure we have checked out master branch
-# *******************************************
-
-git checkout master
-
-# ***************************************************
-# Modify our files with build and version information
-# ***************************************************
-
-sudo chmod +x $TRAVIS_BUILD_DIR/travisCI/deploy-package.sh
-sudo chmod +x $TRAVIS_BUILD_DIR/travisCI/modify-readme.sh
-
-# ***********************************************
-# Update Our Readme File with Version Information
-# ***********************************************
-
-sudo $TRAVIS_BUILD_DIR/travisCI/modify-readme.sh
-
-# *************************************
-# Add all the modified files and commit
-# *************************************
-
-git add -A
-git commit -am "V1.$YEAR.$MONTH.$TRAVIS_BUILD_NUMBER [ci skip]"
-
-# *************************************************************
-# Travis now moves to the before_deploy: section of .travis.yml
-# *************************************************************
+exit 0
 
 # MIT License
 
