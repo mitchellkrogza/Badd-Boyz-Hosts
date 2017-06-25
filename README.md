@@ -9,6 +9,11 @@ A hosts file for use on any operating system to block bad domains out of your se
 ##### Source: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
 
 ##### Version Information #
+********************************************
+#### Version: V1.2017.06.316
+#### Bad Host Count: 4884
+#### Bad Bot Count: 
+********************************************
 ##### Version Information ##
 
 - You are free to copy and distribute this file for non-commercial uses, as long the original URL and attribution is included. 
