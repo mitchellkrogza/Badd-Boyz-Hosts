@@ -10,8 +10,8 @@ A hosts file for use on any operating system to block bad domains out of your se
 
 ##### Version Information #
 ********************************************
-#### Version: V1.2017.06.317
-#### Bad Host Count: 4884
+#### Version: V1.2017.06.318
+#### Bad Host Count: 4902
 ********************************************
 ##### Version Information ##
 
