@@ -17,9 +17,9 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.06.322
-### Updated: Wed Jun 28 10:22:50 SAST 2017
-### Bad Host Count: 4907
+### Version: V1.2017.06.323
+### Updated: Wed Jun 28 10:27:48 SAST 2017
+### Bad Host Count: 4906
 ###################################################
 ##### Version Information ##
 
@@ -297,7 +297,6 @@
 0.0.0.0 alienwheel.es
 0.0.0.0 alienwheels.de
 0.0.0.0 aliexpresscashback.club
-0.0.0.0 aliexpress.com
 0.0.0.0 alif-ba-ta.com
 0.0.0.0 alive-ua.com
 0.0.0.0 all4invest.info
