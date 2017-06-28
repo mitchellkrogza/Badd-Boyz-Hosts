@@ -41,12 +41,12 @@ _input1=$TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
 
 # Temporary database files we create
 _inputdbA=/tmp/lastupdated.db
-_inputdb1=/tmp/lists/hosts.db
+_inputdb1=/tmp/hosts.db
 
 # Declare template and temp variables
 _hosts=$TRAVIS_BUILD_DIR/travisCI/hosts.template
-_tmphostsA=tmphostsA
-_tmphostsB=tmphostsB
+_tmphostsA=/tmp/tmphostsA
+_tmphostsB=/tmp/tmphostsB
 
 # Sort lists alphabetically and remove duplicates
 sort -u $_input1 -o $_input1
