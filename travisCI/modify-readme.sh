@@ -57,10 +57,7 @@ _end="##### VERSION INFORMATION ##"
 LASTUPDATEIFS=$IFS
 IFS=$'\n'
 echo $_start >> $_tmpnginxA
-#printf $_start >> $_tmpnginxA
-#runtime=$(python -c "print(${end} - ${start})")
 printf "********************************************\n#### Version: "$MY_GIT_TAG"\n#### Bad Host Count: "$BAD_REFERRERS"\n********************************************\n" >> $_tmpnginxA
-#printf $_end  >> $_tmpnginxA
 echo $_end  >> $_tmpnginxA
 IFS=$LASTUPDATEIFS
 mv $_tmpnginxA $_inputdbA
