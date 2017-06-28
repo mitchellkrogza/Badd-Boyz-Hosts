@@ -8,8 +8,15 @@
 #fi
 for I in {1..5}; do
     if ping -nq -w5 -c1 zx6.ru | fgrep -q '127.0.0.1'; then
-        echo ok
+        exit 0
     else
-        echo 'not ok'
+        exit 1
     fi
+
+    if ping -nq -w5 -c1 get-seo-domain.com | fgrep -q '127.0.0.1'; then
+        exit 0
+    else
+        exit 1
+    fi
+
 done
