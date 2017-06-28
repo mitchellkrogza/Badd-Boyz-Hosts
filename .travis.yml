@@ -30,7 +30,6 @@ script:
   - ping -c 4 get-seo-domain.com &> /dev/stdout
   - ping -c 4 olympescort.com &> /dev/stdout
   - ping -c 4 zx6.ru &> /dev/stdout
-  - cat /etc/hosts
 
 before_deploy:
   - travisCI/deploy-package.sh
