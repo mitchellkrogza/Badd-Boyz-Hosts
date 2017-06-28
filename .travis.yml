@@ -24,7 +24,7 @@ before_install:
 
 script:
   - sudo travisCI/generate-hosts.sh
-  - travisCI/modify-files-and-commit.sh
+  - sudo travisCI/modify-files-and-commit.sh
   - ping -c 4 000free.us &> /dev/stdout
   - ping -c 4 fix-website-errors.com &> /dev/stdout
   - ping -c 4 get-seo-domain.com &> /dev/stdout

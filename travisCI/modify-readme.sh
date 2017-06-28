@@ -47,8 +47,8 @@ _tmpnginxA=tmpnginxA
 # Start and End Strings to Search for to do inserts into template
 # ***************************************************************
 
-_startmarker="##### Version Information #"
-_endmarker="##### Version Information ##"
+_start="##### Version Information #"
+_end="##### Version Information ##"
 
 # ****************************************
 # PRINT VERSION INFORMATION INTO README.md
@@ -56,10 +56,10 @@ _endmarker="##### Version Information ##"
 
 LASTUPDATEIFS=$IFS
 IFS=$'\n'
-echo $_startmarker >> $_tmpnginxA
+echo $_start >> $_tmpnginxA
 #runtime=$(python -c "print(${end} - ${start})")
 printf "********************************************\n#### Version: "$MY_GIT_TAG"\n#### Bad Host Count: "$BAD_REFERRERS"\n********************************************\n" >> $_tmpnginxA
-echo $_endmarker  >> $_tmpnginxA
+echo $_end  >> $_tmpnginxA
 IFS=$LASTUPDATEIFS
 mv $_tmpnginxA $_inputdbA
 ed -s $_inputdbA<<\IN
