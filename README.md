@@ -11,7 +11,7 @@ A hosts file for use on any operating system to block bad domains out of your se
 ##### Version Information #
 ##### Versio  I formatio  #
 ********************************************
-#### Version: V1.2017.06.325
+#### Version: V1.2017.06.326
 #### Bad Host Count: 4906
 ********************************************
 ##### Versio  I formatio  ##
