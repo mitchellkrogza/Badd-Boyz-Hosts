@@ -17,9 +17,9 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.06.340
-### Updated: Wed Jun 28 14:30:29 SAST 2017
-### Bad Host Count: 4906
+### Version: V1.2017.06.341
+### Updated: Wed Jun 28 17:08:36 SAST 2017
+### Bad Host Count: 4904
 ###################################################
 ##### Version Information ##
 
@@ -2920,7 +2920,6 @@
 0.0.0.0 nonews.co
 0.0.0.0 nootrino.com
 0.0.0.0 nordstar.pro
-0.0.0.0 nordvpn.com
 0.0.0.0 normalegal.ru
 0.0.0.0 northfacestore.online
 0.0.0.0 norththeface.store
@@ -4542,7 +4541,6 @@
 0.0.0.0 vote-up.ru
 0.0.0.0 vozbujdenie.com
 0.0.0.0 vpnhowto.info
-0.0.0.0 vpnmouse.com
 0.0.0.0 vremya.eu
 0.0.0.0 vriel.batcave.net
 0.0.0.0 vrnelectro.ru
