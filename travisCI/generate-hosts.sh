@@ -45,8 +45,8 @@ _inputdb1=/tmp/hosts.db
 
 # Declare template and temp variables
 _hosts=$TRAVIS_BUILD_DIR/travisCI/hosts.template
-_tmphostsA=/tmp/tmphostsA
-_tmphostsB=/tmp/tmphostsB
+_tmphostsA=tmphostsA
+_tmphostsB=tmphostsB
 
 # Sort lists alphabetically and remove duplicates
 sort -u $_input1 -o $_input1

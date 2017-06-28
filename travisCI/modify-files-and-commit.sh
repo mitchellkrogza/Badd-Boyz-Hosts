@@ -79,7 +79,7 @@ sudo chmod +x $TRAVIS_BUILD_DIR/travisCI/modify-readme.sh
 # Update Our Readme File with Version Information
 # ***********************************************
 
-sudo $TRAVIS_BUILD_DIR/travisCI/modify-readme.sh
+sudo sh -x $TRAVIS_BUILD_DIR/travisCI/modify-readme.sh
 
 # *************************************
 # Add all the modified files and commit
