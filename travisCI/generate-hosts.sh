@@ -105,8 +105,6 @@ w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/travisCI/hosts.template
 q
 IN
 rm $_inputdb1
-rm $_tmphostsA
-rm $_tmphostsB
 
 # ************************************
 # Copy Files into place before testing
