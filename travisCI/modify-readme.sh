@@ -57,7 +57,7 @@ _endmarker="##### Version Information ##"
 LASTUPDATEIFS=$IFS
 IFS=$'\n'
 echo $_startmarker >> $_tmpnginxA
-runtime=$(python -c "print(${end} - ${start})")
+#runtime=$(python -c "print(${end} - ${start})")
 printf "********************************************\n#### Version: "$MY_GIT_TAG"\n#### Bad Host Count: "$BAD_REFERRERS"\n********************************************\n" >> $_tmpnginxA
 echo $_endmarker  >> $_tmpnginxA
 IFS=$LASTUPDATEIFS
