@@ -30,6 +30,7 @@ script:
   - ping -c 4 get-seo-domain.com &> /dev/stdout
   - ping -c 4 olympescort.com &> /dev/stdout
   - ping -c 4 zx6.ru &> /dev/stdout
+  - STATUSCODE=$(ping -c 4 zx6.ru &> /dev/stderr) | if test $STATUSCODE 127.0.0.1; then exit 0; fi
 
 before_deploy:
   - travisCI/deploy-package.sh
