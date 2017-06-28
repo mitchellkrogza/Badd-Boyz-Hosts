@@ -47,8 +47,8 @@ _tmpnginxA=tmpnginxA
 # Start and End Strings to Search for to do inserts into template
 # ***************************************************************
 
-_start="##### Version Information #"
-_end="##### Version Information ##"
+_start="##### VERSION INFORMATION #"
+_end="##### VERSION INFORMATION ##"
 
 # ****************************************
 # PRINT VERSION INFORMATION INTO README.md
@@ -56,22 +56,22 @@ _end="##### Version Information ##"
 
 LASTUPDATEIFS=$IFS
 IFS=$'\n'
-#echo $_start >> $_tmpnginxA
-printf $_start >> $_tmpnginxA
+echo $_start >> $_tmpnginxA
+#printf $_start >> $_tmpnginxA
 #runtime=$(python -c "print(${end} - ${start})")
 printf "********************************************\n#### Version: "$MY_GIT_TAG"\n#### Bad Host Count: "$BAD_REFERRERS"\n********************************************\n" >> $_tmpnginxA
-printf $_end  >> $_tmpnginxA
-#echo $_end  >> $_tmpnginxA
+#printf $_end  >> $_tmpnginxA
+echo $_end  >> $_tmpnginxA
 IFS=$LASTUPDATEIFS
 mv $_tmpnginxA $_inputdbA
 ed -s $_inputdbA<<\IN
-1,/##### Version Information #/d
-/##### Version Information ##/,$d
+1,/##### VERSION INFORMATION #/d
+/##### VERSION INFORMATION ##/,$d
 ,d
 .r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/README.md
-/##### Version Information #/x
+/##### VERSION INFORMATION #/x
 .t.
-.,/##### Version Information ##/-d
+.,/##### VERSION INFORMATION ##/-d
 #,p
 #,p used to print output replaced with w below to write
 w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/README.md
