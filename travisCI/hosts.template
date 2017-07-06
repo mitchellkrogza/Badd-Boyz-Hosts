@@ -17,9 +17,9 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.07.342
-### Updated: Thu Jul  6 16:36:29 SAST 2017
-### Bad Host Count: 4986
+### Version: V1.2017.07.343
+### Updated: Thu Jul  6 16:48:03 SAST 2017
+### Bad Host Count: 4985
 ###################################################
 ##### Version Information ##
 
@@ -3002,7 +3002,6 @@
 0.0.0.0 nudo.ca
 0.0.0.0 nufaq.com
 0.0.0.0 nuit-artisanale.com
-0.0.0.0 nullrefer.com
 0.0.0.0 nuup.info
 0.0.0.0 nvformula.ru
 0.0.0.0 nvssf.com
