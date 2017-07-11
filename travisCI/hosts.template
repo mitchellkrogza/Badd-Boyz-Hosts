@@ -17,9 +17,9 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.07.346
-### Updated: Tue Jul 11 10:49:09 SAST 2017
-### Bad Host Count: 5019
+### Version: V1.2017.07.347
+### Updated: Tue Jul 11 16:12:27 SAST 2017
+### Bad Host Count: 5014
 ###################################################
 ##### Version Information ##
 
@@ -3741,7 +3741,6 @@
 0.0.0.0 school-diplomat.ru
 0.0.0.0 scoopquest.com
 0.0.0.0 score-ads.men
-0.0.0.0 scrapy.org
 0.0.0.0 screentoolkit.com
 0.0.0.0 scripted.com
 0.0.0.0 scrnet.biz.ua
