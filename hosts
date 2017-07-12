@@ -17,9 +17,9 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.07.350
-### Updated: Tue Jul 11 17:01:38 SAST 2017
-### Bad Host Count: 5013
+### Version: V1.2017.07.351
+### Updated: Wed Jul 12 12:02:32 SAST 2017
+### Bad Host Count: 5015
 ###################################################
 ##### Version Information ##
 
@@ -1348,6 +1348,7 @@
 0.0.0.0 edshopping.net
 0.0.0.0 educatemetv.com
 0.0.0.0 education-cz.ru
+0.0.0.0 edwinkonijn.com.au
 0.0.0.0 ee77ee.com
 0.0.0.0 efkt.jp
 0.0.0.0 efnor-ac.com
