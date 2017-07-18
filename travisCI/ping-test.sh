@@ -11,7 +11,7 @@ do_ping1() {
 }
 
 do_ping2() {
-    if ping -nq -w5 -c1 fix-website-errors.com | fgrep -q '127.0.0.1'; then
+    if ping -nq -w5 -c1 1millionusd.xyz | fgrep -q '127.0.0.1'; then
         echo "Hosts File Working"
     else
         echo "Hosts File NOT Working"
@@ -20,7 +20,7 @@ do_ping2() {
 }
 
 do_ping3() {
-    if ping -nq -w5 -c1 get-seo-domain.com | fgrep -q '127.0.0.1'; then
+    if ping -nq -w5 -c1 porndairy.in | fgrep -q '127.0.0.1'; then
         echo "Hosts File Working"
     else
         echo "Hosts File NOT Working"
