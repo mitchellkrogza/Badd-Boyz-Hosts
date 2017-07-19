@@ -17,9 +17,9 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.07.360
-### Updated: Tue Jul 18 15:29:10 SAST 2017
-### Bad Host Count: 4870
+### Version: V1.2017.07.361
+### Updated: Wed Jul 19 12:44:21 SAST 2017
+### Bad Host Count: 4871
 ###################################################
 ##### Version Information ##
 
@@ -3842,6 +3842,7 @@
 0.0.0.0 simpoed.ufop.br
 0.0.0.0 sim-service.net
 0.0.0.0 sims-sims.ru
+0.0.0.0 simul.co
 0.0.0.0 sindragosa.comxa.com
 0.0.0.0 sinel.info
 0.0.0.0 sinestesia.host.sk
