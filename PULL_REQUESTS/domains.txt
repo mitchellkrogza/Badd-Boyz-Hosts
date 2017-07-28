@@ -1,5 +1,3 @@
-gov.yanao.ru
-kit-opt.ru
 000free.us
 007angels.com
 00author.com
@@ -1860,6 +1858,7 @@ gotomontenegro.net
 gotorussia.com
 gotwebsite1.com
 gourcy.altervista.org
+gov.yanao.ru
 gowreckdiving.com
 gox.com.ua
 gpirate.com
@@ -2317,6 +2316,7 @@ kinostorm.net
 kinotorka.ru
 kiprinform.com
 kirov.zrus.org
+kit-opt.ru
 kiwe-analytics.com
 kiwi237au.tk
 kladrus.ru
