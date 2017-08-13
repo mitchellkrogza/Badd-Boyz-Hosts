@@ -17,9 +17,9 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.08.367
-### Updated: Sun Aug 13 14:04:34 SAST 2017
-### Bad Host Count: 5398
+### Version: V1.2017.08.368
+### Updated: Sun Aug 13 14:51:15 SAST 2017
+### Bad Host Count: 5399
 ###################################################
 ##### Version Information ##
 
@@ -3956,6 +3956,7 @@
 0.0.0.0 redhotfreebies.co.uk
 0.0.0.0 redirectingat.com
 0.0.0.0 redirectme.net
+0.0.0.0 redirect.trafficreceiver.club
 0.0.0.0 redirlock.com
 0.0.0.0 rednise.com
 0.0.0.0 reelheroes.net
@@ -4751,7 +4752,9 @@
 0.0.0.0 trafficmonetize.org
 0.0.0.0 trafficmp.com
 0.0.0.0 trafficnetzwerk.de
+0.0.0.0 trafficreceiver.club
 0.0.0.0 trafficstars.com
+0.0.0.0 traffictrade.life
 0.0.0.0 traffique.net
 0.0.0.0 traffixer.com
 0.0.0.0 traffmonster.info
