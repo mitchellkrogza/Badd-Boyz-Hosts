@@ -17,9 +17,9 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.08.370
-### Updated: Mon Aug 14 11:10:23 SAST 2017
-### Bad Host Count: 8051
+### Version: V1.2017.08.371
+### Updated: Mon Aug 14 11:21:09 SAST 2017
+### Bad Host Count: 8072
 ###################################################
 ##### Version Information ##
 
@@ -623,12 +623,15 @@
 0.0.0.0 apiholdingmypage-a.akamaihd.net
 0.0.0.0 apiitsthirteende-a.akamaihd.net
 0.0.0.0 apilinkswiftco-a.akamaihd.net
+0.0.0.0 apiluckyleapnet-a.akamaihd.net
 0.0.0.0 apimegabrowsebiz-a.akamaihd.net
 0.0.0.0 apimossnetinfo-a.akamaihd.net
 0.0.0.0 apimountainbikei-a.akamaihd.net
 0.0.0.0 apioasisspacenet-a.akamaihd.net
 0.0.0.0 apioutoboxnet-a.akamaihd.net
 0.0.0.0 apiportalmorecom-a.akamaihd.net
+0.0.0.0 apiqualitinknet-a.akamaihd.net
+0.0.0.0 apisecretsaucebi-a.akamaihd.net
 0.0.0.0 apishops.ru
 0.0.0.0 apispringsmartne-a.akamaihd.net
 0.0.0.0 apiwebwebgetcom-a.akamaihd.net
@@ -1013,6 +1016,7 @@
 0.0.0.0 bestserials.com
 0.0.0.0 bestssaker.com
 0.0.0.0 beststocktrend.com
+0.0.0.0 best-way.men
 0.0.0.0 bestwaystogetpaid.us
 0.0.0.0 bestwebsiteawards.com
 0.0.0.0 bestwebsitesawards.com
@@ -2055,6 +2059,7 @@
 0.0.0.0 doktoronline.no
 0.0.0.0 dokumentalkino.net
 0.0.0.0 domain2008.com
+0.0.0.0 domainanalyzing.xyz
 0.0.0.0 domaincdn.xyz
 0.0.0.0 domaineaneblanc.com
 0.0.0.0 domainedesmauriers.fr
@@ -3162,6 +3167,7 @@
 0.0.0.0 histock.info
 0.0.0.0 historichometeam.com
 0.0.0.0 hitmanjazz.com
+0.0.0.0 hit-men.men
 0.0.0.0 hitsbox.info
 0.0.0.0 hiwibyh.bugs3.com
 0.0.0.0 hjaoopoa.top
@@ -3263,6 +3269,7 @@
 0.0.0.0 huhn.altervista.org
 0.0.0.0 huimin764128.com
 0.0.0.0 hully.altervista.org
+0.0.0.0 humanelydrew.com
 0.0.0.0 humanorightswatch.org
 0.0.0.0 humorcartoes.com.sapo.pt
 0.0.0.0 humortadelacartoes.com.sapo.pt
@@ -4327,6 +4334,7 @@
 0.0.0.0 microsoftportal.net
 0.0.0.0 microstatic.pl
 0.0.0.0 middleportfreight.co.zw
+0.0.0.0 middlerush-a.akamaihd.net
 0.0.0.0 midialeto.com
 0.0.0.0 midiasomeluz.com.br
 0.0.0.0 midst.eu
@@ -5018,6 +5026,7 @@
 0.0.0.0 netpics.org
 0.0.0.0 net-radar.com
 0.0.0.0 networkad.net
+0.0.0.0 networkcheck.xyz
 0.0.0.0 network-prolem-acces.com
 0.0.0.0 nevamoda.ru
 0.0.0.0 nevansk.ru
@@ -5717,6 +5726,7 @@
 0.0.0.0 proekt-mos.ru
 0.0.0.0 profi-ska.ru
 0.0.0.0 profitfx.online
+0.0.0.0 profitkode.com
 0.0.0.0 profit-opportunity.com
 0.0.0.0 profitsport.club
 0.0.0.0 profolan.pl
@@ -5797,6 +5807,7 @@
 0.0.0.0 pulseonclick.com
 0.0.0.0 purchasepillsnorx.com
 0.0.0.0 purplesphere.in
+0.0.0.0 purplestats.com
 0.0.0.0 push-ad.com
 0.0.0.0 pushdata.sendpulse.com
 0.0.0.0 pussyfleet.com
@@ -5914,6 +5925,7 @@
 0.0.0.0 recinziireale.com
 0.0.0.0 recipedays.com
 0.0.0.0 recipedays.ru
+0.0.0.0 reckonstat.info
 0.0.0.0 recordpage-a.akamaihd.net
 0.0.0.0 recover-fb08900.000webhostapp.com
 0.0.0.0 recovery-fanpage1662.suport7288.gq
@@ -7202,6 +7214,8 @@
 0.0.0.0 tropitalia.com.br
 0.0.0.0 trotamundos.com.pl
 0.0.0.0 trubywriting.com
+0.0.0.0 truck-addzilla.life
+0.0.0.0 truck-land.life
 0.0.0.0 trucri.me
 0.0.0.0 trudogolik.net
 0.0.0.0 trueaussielocal.com.au
@@ -7210,6 +7224,7 @@
 0.0.0.0 trumpetedextremes.com
 0.0.0.0 trustedhealthtips.com
 0.0.0.0 trustedmaccleaner.com
+0.0.0.0 trustl.life
 0.0.0.0 try-rx.com
 0.0.0.0 trytoimprovesecurity.com
 0.0.0.0 tsan.net
@@ -7655,6 +7670,7 @@
 0.0.0.0 wesharepics.com
 0.0.0.0 wesharepics.info
 0.0.0.0 wesharepics.site
+0.0.0.0 westen-v.life
 0.0.0.0 westermarkanjou.se
 0.0.0.0 westerna.rs
 0.0.0.0 westfieldsports.nsw.edu.au
