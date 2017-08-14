@@ -17,9 +17,9 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.08.369
-### Updated: Sun Aug 13 16:02:43 SAST 2017
-### Bad Host Count: 8082
+### Version: V1.2017.08.370
+### Updated: Mon Aug 14 11:10:23 SAST 2017
+### Bad Host Count: 8051
 ###################################################
 ##### Version Information ##
 
@@ -7119,6 +7119,7 @@
 0.0.0.0 topquality.cf
 0.0.0.0 topshef.ru
 0.0.0.0 topshop.ro
+0.0.0.0 topsiteminecraft.com
 0.0.0.0 topsy.com
 0.0.0.0 topvidos.ru
 0.0.0.0 torontoplumbinggroup.com
