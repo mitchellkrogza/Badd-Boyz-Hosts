@@ -31,8 +31,6 @@
 # Set Some Variables
 # ******************
 
-#set -v
-
 YEAR=$(date +"%Y")
 MONTH=$(date +"%m")
 cd $TRAVIS_BUILD_DIR
@@ -48,11 +46,6 @@ git remote rm origin
 # **************************
 
 git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
-
-# **********************************************************************************
-# List Remotes ONLY DURING testing - do not do this on live repo / possible key leak
-# git remote -v
-# ***********************************************************************************
 
 # *********************
 # Set Our Git Variables
@@ -72,15 +65,15 @@ git checkout master
 # Modify our files with build and version information
 # ***************************************************
 
-sudo chmod +x $TRAVIS_BUILD_DIR/travisCI/deploy-package.sh
-sudo chmod +x $TRAVIS_BUILD_DIR/travisCI/modify-readme.sh
-sudo chmod +x $TRAVIS_BUILD_DIR/travisCI/ping-test.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/deploy-package.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/ping-test.sh
 
 # ***********************************************
 # Update Our Readme File with Version Information
 # ***********************************************
 
-sudo $TRAVIS_BUILD_DIR/travisCI/modify-readme.sh
+sudo $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 
 # *************************************
 # Add all the modified files and commit

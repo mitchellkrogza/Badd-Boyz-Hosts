@@ -44,7 +44,7 @@ _inputdbA=/tmp/lastupdated.db
 _inputdb1=/tmp/hosts.db
 
 # Declare template and temp variables
-_hosts=$TRAVIS_BUILD_DIR/travisCI/hosts.template
+_hosts=$TRAVIS_BUILD_DIR/.dev-tools/hosts.template
 _tmphostsA=tmphostsA
 _tmphostsB=tmphostsB
 
@@ -71,11 +71,11 @@ ed -s $_inputdbA<<\IN
 1,/##### Version Information #/d
 /##### Version Information ##/,$d
 ,d
-.r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/travisCI/hosts.template
+.r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/.dev-tools/hosts.template
 /##### Version Information #/x
 .t.
 .,/##### Version Information ##/-d
-w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/travisCI/hosts.template
+w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/.dev-tools/hosts.template
 q
 IN
 rm $_inputdbA
@@ -97,11 +97,11 @@ ed -s $_inputdb1<<\IN
 1,/# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/d
 /# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/,$d
 ,d
-.r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/travisCI/hosts.template
+.r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/.dev-tools/hosts.template
 /# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/x
 .t.
 .,/# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/-d
-w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/travisCI/hosts.template
+w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/.dev-tools/hosts.template
 q
 IN
 rm $_inputdb1
@@ -112,6 +112,13 @@ rm $_inputdb1
 sudo mv /etc/hosts /etc/hosts.bak2
 sudo cp $_hosts /etc/hosts
 sudo cp $_hosts $TRAVIS_BUILD_DIR/hosts
+
+# ***********************
+# Make Scripts Executable
+# ***********************
+
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/run_funceble.sh
+
 exit 0
 
 # MIT License
