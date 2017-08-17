@@ -117,7 +117,7 @@ sudo cp $_hosts $TRAVIS_BUILD_DIR/hosts
 # Make Scripts Executable
 # ***********************
 
-sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/run_funceble.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
 
 exit 0
 
