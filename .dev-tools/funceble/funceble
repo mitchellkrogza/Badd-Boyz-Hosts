@@ -86,9 +86,6 @@ customIP='0.0.0.0'
 # DO NOT USE THIS IF YOU DON'T KNOW HOW TO DEBUG FROM OUTPUTTED FILE
 debugUnknown=false
 
-# Date if we append it to file
-fileNameDate=_${currentDate// /_}
-
 # File already treated
 fileAlreadyTreated=false
 
@@ -153,7 +150,7 @@ travisAutoSaveMinutes=30
 splitFiles=false
 
 # Version number
-versionNumber='dev-1.4.0+54'
+versionNumber='dev-1.4.0+56'
 
 # IANA whois server. The following is there to give use the whois
 # host we have to call to get a (valid) response.
@@ -164,6 +161,9 @@ whoisServer="whois.iana.org"
 # Defaut name for hosts file
 hostsDefault='hosts'
 
+# Defaut name for domain list
+domainsDefault='list'
+
 # Output directory.
 # Auto updated with `tool -i`
 # DO NOT FORGET '/' AT THE END
@@ -171,6 +171,18 @@ outputDir='%%currentDir%%/output/'
 
 # Autocontinue log file
 continueLog=${outputDir}continue.txt
+
+# domains directory
+domainsDir=${outputDir}domains/
+
+# INACTIVE domains directory
+downDomainsDir=${domainsDir}INACTIVE/
+
+# ACTIVE domains directory
+upDomainsDir=${domainsDir}ACTIVE/
+
+# INVALID hosts directory
+invalidDomainsDir=${domainsDir}INVALID/
 
 # hosts directory
 hostsDir=${outputDir}hosts/
@@ -201,6 +213,15 @@ executionLog=${logOutput}execution.log
 
 # Ouput of no referer log
 noRefererLogOutput=${logOutput}noReferer/
+
+# Output of inactive domains
+outputDownDomain=${downDomainsDir}${domainsDefault}
+
+# Output of active domains
+outputUpDomain=${upDomainsDir}${domainsDefault}
+
+# Output of invalid domains
+outputInvalidDomain=${invalidDomainsDir}${domainsDefault}
 
 # Output of inactive domain
 outputDownHost=${downHostsDir}${hostsDefault}
@@ -461,6 +482,9 @@ generateHostsFile()
     # type <string>
     local type="${1}"
     
+    # We preassign the variable
+    local domainOutput=''
+    
     if [[ ${generateHosts} == true ]]
     then
         # We clean the files in case we need to start from begining
@@ -511,12 +535,15 @@ generateHostsFile()
         case ${type} in
             'up'|'Up'|'UP'|'active'|'Active'|'ACTIVE'|'valid'|'Valid'|'VALID')
                 local outputDestination="${outputUpHost}"
+                local domainOutput="${outputUpDomain}"
             ;;
             'down'|'Down'|'DOWN'|'inactive'|'Inactive'|'INACTIVE'|'error'|'Error'|'ERROR')
                 local outputDestination="${outputDownHost}"
+                local domainOutput="${outputDownDomain}"
             ;;
             'invalid'|'Invalid'|'INVALID')
                 local outputDestination="${outputInvalidHost}"
+                local domainOutput="${outputInvalidDomain}"
             ;;
             'potentially_up'|'potentially_active')
                 local outputDestination="${outputHTTPPotentiallyActive}${hostsDefault}"
@@ -529,10 +556,15 @@ generateHostsFile()
             ;;
         esac
         
-        # echo "tetetete ${domain}" >> ${outputDestination}
         # We print / create the inactive file
         beforeHeader "${outputDestination}"
         prints 'FullHosts' "${domain}" >> ${outputDestination}
+        
+        if [[ ${domainOutput} != '' ]]
+        then
+            beforeHeader "${domainOutput}"
+            printf "%s\n" "${domain}" >> ${domainOutput}
+        fi
         
     fi
 }

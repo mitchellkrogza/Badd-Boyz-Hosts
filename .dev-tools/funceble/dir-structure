@@ -15,6 +15,10 @@ output/hosts
 output/hosts/ACTIVE
 output/hosts/INVALID
 output/hosts/INACTIVE
+output/domains
+output/domains/ACTIVE
+output/domains/INVALID
+output/domains/INACTIVE
 
 Files
 
@@ -32,4 +36,8 @@ output/hosts/ACTIVE/.gitignore @@ *$!.gitignore$
 output/hosts/INVALID/.gitignore @@ *$!.gitignore$
 output/hosts/INACTIVE/.gitignore @@ *$!.gitignore$
 output/hosts/.gitignore @@ *$!.gitignore$!/ACTIVE/$!/INACTIVE/$!/INVALID/$
-output/.gitignore @@ *$!.gitignore$!/logs/$!/hosts/$!/splited/$!/HTTP_Analytic/$
+output/domains/ACTIVE/.gitignore @@ *$!.gitignore$
+output/domains/INVALID/.gitignore @@ *$!.gitignore$
+output/domains/INACTIVE/.gitignore @@ *$!.gitignore$
+output/domains/.gitignore @@ *$!.gitignore$!/ACTIVE/$!/INACTIVE/$!/INVALID/$
+output/.gitignore @@ *$!.gitignore$!/logs/$!/hosts/$!/splited/$!/HTTP_Analytic/$!/domains/$
