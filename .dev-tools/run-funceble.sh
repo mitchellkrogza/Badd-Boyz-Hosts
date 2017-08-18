@@ -57,6 +57,6 @@ sudo bash $TRAVIS_BUILD_DIR/.dev-tools/funceble/tool -c
 #  Run Funceble and Check Domains List
 # ************************************
 
-sudo bash $TRAVIS_BUILD_DIR/.dev-tools/funceble/funceble -a -t 1 -h -p -f $_input
+sudo bash $TRAVIS_BUILD_DIR/.dev-tools/funceble/funceble -a -t 1 -h -f $_input
 
 exit 0
