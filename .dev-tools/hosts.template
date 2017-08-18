@@ -17,9 +17,9 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.08.379
-### Updated: Fri Aug 18 11:19:28 SAST 2017
-### Bad Host Count: 8036
+### Version: V1.2017.08.380
+### Updated: Fri Aug 18 12:42:21 SAST 2017
+### Bad Host Count: 8055
 ###################################################
 ##### Version Information ##
 
@@ -311,6 +311,7 @@
 0.0.0.0 adsinfo-active.biz
 0.0.0.0 ads-info-sec.biz
 0.0.0.0 adsland.men
+0.0.0.0 adsloads.com
 0.0.0.0 adsports.in
 0.0.0.0 adssafeprotected.com
 0.0.0.0 ads-seo.men
@@ -1381,12 +1382,14 @@
 0.0.0.0 cayado.snn.gr
 0.0.0.0 cbb1smartlist12.click
 0.0.0.0 cbcseward.com
+0.0.0.0 cb.iphantom.com
 0.0.0.0 cbox.ws
 0.0.0.0 cbys.tk
 0.0.0.0 ccbill.com
 0.0.0.0 cc-gastro.de
 0.0.0.0 cctva.tv
 0.0.0.0 cdmarquesdenervion.com
+0.0.0.0 cdnanalytics.xyz
 0.0.0.0 cdncash.com
 0.0.0.0 cdncash.net
 0.0.0.0 cdncash.org
@@ -1873,6 +1876,7 @@
 0.0.0.0 dellalimov.com
 0.0.0.0 delononline.com
 0.0.0.0 delrico.net
+0.0.0.0 delta-line.men
 0.0.0.0 deluxedumps.com
 0.0.0.0 demenageur.com
 0.0.0.0 demisuganda.org
@@ -2720,6 +2724,7 @@
 0.0.0.0 fyh.net.ru
 0.0.0.0 fyl.com.ru
 0.0.0.0 fym.com.ru
+0.0.0.0 fz139.ttk.ru
 0.0.0.0 g33.org
 0.0.0.0 g3i9prnb.myutilitydomain.com
 0.0.0.0 g7m.pl
@@ -3287,6 +3292,7 @@
 0.0.0.0 iflycapetown.co.za
 0.0.0.0 ifmo.ru
 0.0.0.0 igadgetsworld.com
+0.0.0.0 igithab.com
 0.0.0.0 ignorantfishing.com
 0.0.0.0 igrovyeavtomaty777.ru
 0.0.0.0 igrulca174.ru
@@ -5340,8 +5346,10 @@
 0.0.0.0 partex.fr
 0.0.0.0 particuliers-lcl2.acountactivity5.fr
 0.0.0.0 partimontarvillois.org
+0.0.0.0 partnerads.men
 0.0.0.0 partner-cdn.men
 0.0.0.0 partner-high.men
+0.0.0.0 partnerline.men
 0.0.0.0 partner-print.men
 0.0.0.0 partnersafe.men
 0.0.0.0 partnershipflooring.co.uk
@@ -5776,6 +5784,7 @@
 0.0.0.0 purchasepillsnorx.com
 0.0.0.0 purplesphere.in
 0.0.0.0 purplestats.com
+0.0.0.0 puserving.com
 0.0.0.0 push-ad.com
 0.0.0.0 pushdata.sendpulse.com
 0.0.0.0 pussyfleet.com
@@ -7048,6 +7057,7 @@
 0.0.0.0 timetorelax.biz
 0.0.0.0 tingtongb2b.com
 0.0.0.0 tinyurl.com
+0.0.0.0 titan-cloud.life
 0.0.0.0 titelhelden.eu
 0.0.0.0 titslove.yopoint.in
 0.0.0.0 tiyogkn.com
