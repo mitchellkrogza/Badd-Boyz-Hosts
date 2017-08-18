@@ -34,17 +34,6 @@ sudo chown -R travis:travis $TRAVIS_BUILD_DIR/
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/funceble/tool
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/funceble/funceble
 
-# ***************************************************************
-# Clean up old result and output files as we only want the latest
-# and don't want the repo to keep filling up with files
-# ***************************************************************
-
-sudo rm $TRAVIS_BUILD_DIR/.dev-tools/_funceble/output/hosts/ACTIVE/hosts*
-sudo rm $TRAVIS_BUILD_DIR/.dev-tools/_funceble/output/hosts/INACTIVE/hosts*
-sudo rm $TRAVIS_BUILD_DIR/.dev-tools/_funceble/output/hosts/INVALID/hosts*
-sudo rm $TRAVIS_BUILD_DIR/.dev-tools/_funceble/output/logs/percentage/percentage.txt
-sudo rm $TRAVIS_BUILD_DIR/.dev-tools/_funceble/output/result.txt
-
 # ****************************
 # Switch to funceble directory
 # ****************************
@@ -56,6 +45,13 @@ cd $TRAVIS_BUILD_DIR/.dev-tools/funceble/
 # *************************
 
 sudo bash $TRAVIS_BUILD_DIR/.dev-tools/funceble/tool -i
+
+# ***************************************************************
+# Clean up old result and output files as we only want the latest
+# and don't want the repo to keep filling up with files
+# ***************************************************************
+
+sudo bash $TRAVIS_BUILD_DIR/.dev-tools/funceble/tool -c
 
 # ************************************
 #  Run Funceble and Check Domains List
