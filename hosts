@@ -17,9 +17,9 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.08.381
-### Updated: Fri Aug 18 13:33:35 SAST 2017
-### Bad Host Count: 7664
+### Version: V1.2017.08.382
+### Updated: Fri Aug 18 14:12:13 SAST 2017
+### Bad Host Count: 7667
 ###################################################
 ##### Version Information ##
 
@@ -3403,6 +3403,7 @@
 0.0.0.0 iqoption.com
 0.0.0.0 iqoption.pro
 0.0.0.0 iqs.biz.ua
+0.0.0.0 iqupdatetmz.win
 0.0.0.0 iradiology.ru
 0.0.0.0 irfantrading.com
 0.0.0.0 i-robot.kiev.ua
@@ -6691,6 +6692,7 @@
 0.0.0.0 tnaionline.org
 0.0.0.0 tnctrx.com
 0.0.0.0 toastinis.com
+0.0.0.0 tobeyouday.win
 0.0.0.0 tobyortho.com
 0.0.0.0 todayissoftware.com
 0.0.0.0 todohr.com
@@ -7207,6 +7209,7 @@
 0.0.0.0 wavefoundationbd.org
 0.0.0.0 waycash.net
 0.0.0.0 wayforwardafrica.org
+0.0.0.0 waysbetter.cn
 0.0.0.0 wdfdocando.com
 0.0.0.0 wdrake.com
 0.0.0.0 we-are-gamers.com
