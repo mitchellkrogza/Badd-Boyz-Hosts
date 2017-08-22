@@ -2,6 +2,16 @@
 # Copyright: https://github.com/mitchellkrogza
 # Source: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
 
+##################################################################################
+#                                                                                #
+#        ___          __   __    ___                    __ __         __         #
+#       / _ )___ ____/ /__/ /   / _ )___  __ _____     / // /__  ___ / /____     #
+#      / _  / _ `/ _  / _  /   / _  / _ \/ // /_ /    / _  / _ \(_-</ __(_-<     #
+#     /____/\_,_/\_,_/\_,_/   /____/\___/\_, //__/   /_//_/\___/___/\__/___/     #
+#                                       /___/                                    #
+##################################################################################
+
+
 # You are free to copy and distribute this file for non-commercial uses,
 # as long the original URL and attribution is included. 
 
@@ -17,9 +27,9 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.08.388
-### Updated: Mon Aug 21 10:23:57 SAST 2017
-### Bad Host Count: 7420
+### Version: V1.2017.08.394
+### Updated: Tue Aug 22 09:33:39 SAST 2017
+### Bad Host Count: 7421
 ###################################################
 ##### Version Information ##
 
@@ -1020,7 +1030,6 @@
 0.0.0.0 bitcoinpile.com
 0.0.0.0 bitcoins-live.ru
 0.0.0.0 bit.do
-0.0.0.0 bit.ly
 0.0.0.0 bitporno.sx
 0.0.0.0 bitromix.com
 0.0.0.0 bivestafrica.cd
@@ -5434,6 +5443,7 @@
 0.0.0.0 resultshub-a.akamaihd.net
 0.0.0.0 retailwith.com
 0.0.0.0 retreatia.com
+0.0.0.0 retrocafe.se
 0.0.0.0 reverselogistics.in
 0.0.0.0 reversing.cc
 0.0.0.0 revistaindustria.com
@@ -7442,6 +7452,7 @@
 0.0.0.0 zootoplist.com
 0.0.0.0 zootravel.com
 0.0.0.0 zophim.me
+0.0.0.0 zorkiy.net
 0.0.0.0 zovermedical.com.sa
 0.0.0.0 zrdom.com.ua
 0.0.0.0 zrizvtrnpale.tk
