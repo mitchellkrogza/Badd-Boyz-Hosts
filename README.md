@@ -1,5 +1,7 @@
 # Badd-Boyz-Hosts
-[![Build Status](https://travis-ci.org/mitchellkrogza/Badd-Boyz-Hosts.svg?branch=master)](https://travis-ci.org/mitchellkrogza/Badd-Boyz-Hosts)
+
+[![Build Status](https://travis-ci.org/mitchellkrogza/Badd-Boyz-Hosts.svg?branch=master)](https://travis-ci.org/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/>[![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/LICENSE.md)<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/><a href='https://twitter.com/ubuntu101za'><img src='https://img.shields.io/twitter/follow/ubuntu101za.svg?style=social&label=Follow' alt='Follow @ubuntu101za'></a>
+
 A hosts file for use on any operating system to block bad domains out of your servers or devices.
 
 * Here's the [raw hosts file](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts)
@@ -8,34 +10,39 @@ A hosts file for use on any operating system to block bad domains out of your se
 ##### Copyright: https://github.com/mitchellkrogza
 ##### Source: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
 
-##### VERSION INFORMATION #
-********************************************
-#### Version: V1.2017.08.398
-#### Bad Host Count: 7472
-********************************************
-##### VERSION INFORMATION ##
+_______________
+
+____________________
 
 - You are free to copy and distribute this file for non-commercial uses, as long the original URL and attribution is included. 
 
-### If this helps you why not [buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKF9XT6WHATLG):beer:
+************************************************
+### If this helps you why not 
 
-# DOMAIN ADDITIONS / ISSUES: 
+[![Help me out with a mug of beer](https://img.shields.io/badge/Help%20-%20me%20out%20with%20a%20mug%20of%20%F0%9F%8D%BA-blue.svg)](https://paypal.me/mitchellkrog/) or [![Help me feed my cat](https://img.shields.io/badge/Help%20-%20me%20feed%20my%20hungry%20cat%20%F0%9F%98%B8-blue.svg)](https://paypal.me/mitchellkrog/)
 
-Please forward any additions, corrections or comments by logging an issue at https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues or simply send a Pull Request on the domains.txt file in the PULL_REQUESTS folder at https://github.com/mitchellkrogza/Badd-Boyz-Hosts/tree/master/PULL_REQUESTS
+************************************************
+# DOMAIN ADDITIONS FALSE POSITIVES / DOMAIN REMOVALS / OTHER ISSUES: 
 
-# FALSE POSITIVES / DOMAIN REMOVALS / OTHER ISSUES: 
+Please forward any additions, corrections or false positives by:
 
-If you find any domain names on this list which you believe are incorrectly listed, either log an issue at https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues or simply send a Pull Request on the domains.txt file in the PULL_REQUESTS folder at https://github.com/mitchellkrogza/Badd-Boyz-Hosts/tree/master/PULL_REQUESTS
+[![Log an Issue](https://img.shields.io/badge/LOGGING%20-%20an%20issue%20%F0%9F%9A%A6-blue.svg)](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues) 
 
+or send a PULL REQUEST on the domains.txt file in the PULL_REQUESTS folder. 
 
+************************************************
 ## COMPILED FROM:
 
 This list of hosts is compiled from real server logs on my own servers where I run a number of very busy web sites. 
 
-This list originated from the list of bad referrers domain lists for The Nginx Ultimate Bad Bot Blocker at: https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker and the Apache Ultimate Bad Bot Blocker at: https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
+This list originated from the list of bad referrers domain lists for:
+
+[![NGINX ULTIMATE BAD BOT BLOCKER](https://img.shields.io/badge/NGINX%20-%20ULTIMATE%20BAD%20BOT%20BLOCKER%20%E2%9B%94-blue.svg)](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)
+or [![Get the APACHE ULTIMATE BAD BOT BLOCKER](https://img.shields.io/badge/APACHE%20-%20ULTIMATE%20BAD%20BOT%20BLOCKER%20%E2%9B%94-blue.svg)](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker)
 
 The list has now been separated from those projects as it contains certain domains which do not actually belong in a hosts file.
 
+************************************************
 ## WHAT IS A HOSTS FILE?
 
 A hosts file, named `hosts` (with no file extension), is a plain-text file
@@ -49,6 +56,7 @@ Having a smart `hosts` file goes a long way towards blocking malware, adware, ra
 
 A hosts file like this causes any lookups to any of the listed domains to resolve back to your localhost so it prevents any outgoing connections to the listed domains.
 
+************************************************
 ## WHERE DO I PUT THIS ON MY COMPUTER?
 To modify your current `hosts` file, look for it in the following places and modify it with a text
 editor.
@@ -57,6 +65,7 @@ editor.
 
 **Windows Systems**: `%SystemRoot%\system32\drivers\etc\hosts` folder.
 
+************************************************
 ## UNDERSTANDS PUNYCODE / IDN DOMAIN NAMES
 A lot of lists out there put funny domains into their hosts file. Your hosts file and DNS will not understand this. This list uses converted domains which are in the correct DNS format to be understood by any operating system.
 
@@ -91,40 +100,40 @@ xn--lifehacer-1rb.com	nameserver = dns1.yandex.net.
 
 - Look at: https://www.charset.org/punycode for more info on this.
 
-# MIT License
+************************************************
+## Stop Bad Bot and Bad Referrers from gaining access to your web sites.
 
-## Copyright (c) 2017 Mitchell Krog - mitchellkrog@gmail.com
-## https://github.com/mitchellkrogza
+- Check Out The Amazing
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+[![NGINX ULTIMATE BAD BOT BLOCKER](https://img.shields.io/badge/NGINX%20-%20ULTIMATE%20BAD%20BOT%20BLOCKER%20%E2%9B%94-blue.svg)](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)
+or [![Get the APACHE ULTIMATE BAD BOT BLOCKER](https://img.shields.io/badge/APACHE%20-%20ULTIMATE%20BAD%20BOT%20BLOCKER%20%E2%9B%94-blue.svg)](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+************************************************
+## Contributors
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+- Nissar Chababy - https://github.com/funilrys/funceble (Excellent script for checking ACTIVE, INACTIVE and EXPIRED Domain Names)
 
-### If this helped you why not [buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKF9XT6WHATLG):beer:
-
-##### Some other free projects
+************************************************
+## Some other awesome free projects
 
 - https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
 - https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
+- https://github.com/mitchellkrogza/Badd-Boyz-Hosts
+- https://github.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO
 - https://github.com/mitchellkrogza/fail2ban-useful-scripts
 - https://github.com/mitchellkrogza/linux-server-administration-scripts
 - https://github.com/mitchellkrogza/Travis-CI-Nginx-for-Testing-Nginx-Configuration
 - https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations
 - https://github.com/mitchellkrogza/Fail2Ban-Blacklist-JAIL-for-Repeat-Offenders-with-Perma-Extended-Banning
+- https://github.com/funilrys/funceble
+************************************************
+## Support this Project
 
-##### Into Photography?
+[![Help me out with a mug of beer](https://img.shields.io/badge/Help%20-%20me%20out%20with%20a%20mug%20of%20%F0%9F%8D%BA-blue.svg)](https://paypal.me/mitchellkrog/) or [![Help me feed my cat](https://img.shields.io/badge/Help%20-%20me%20feed%20my%20hungry%20cat%20%F0%9F%98%B8-blue.svg)](https://paypal.me/mitchellkrog/)
+
+<img src="https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/blob/master/.assets/zuko.png"/>
+
+************************************************
+### Into Photography?
 
 Come drop by and visit me at https://mitchellkrog.com

@@ -35,42 +35,36 @@ YEAR=$(date +%Y)
 MONTH=$(date +%m)
 MY_GIT_TAG=V1.$YEAR.$MONTH.$TRAVIS_BUILD_NUMBER
 BAD_REFERRERS=$(wc -l < $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt)
+ACTIVE_SITES=$(cat $TRAVIS_BUILD_DIR/.dev-tools/funceble/output/logs/percentage/percentage.txt)
 
 # **********************************
 # Temporary database files we create
 # **********************************
 
 _inputdbA=/tmp/lastupdated.db
-_tmpnginxA=tmpnginxA
+_tmpfileA=tmpfileA
 
 # ***************************************************************
 # Start and End Strings to Search for to do inserts into template
 # ***************************************************************
 
-_start="##### VERSION INFORMATION #"
-_end="##### VERSION INFORMATION ##"
+_startmarker="_______________"
+_endmarker="____________________"
 
 # ****************************************
 # PRINT VERSION INFORMATION INTO README.md
 # ****************************************
 
-LASTUPDATEIFS=$IFS
-IFS=$'\n'
-echo $_start >> $_tmpnginxA
-printf "********************************************\n#### Version: "$MY_GIT_TAG"\n#### Bad Host Count: "$BAD_REFERRERS"\n********************************************\n" >> $_tmpnginxA
-echo $_end  >> $_tmpnginxA
-IFS=$LASTUPDATEIFS
-mv $_tmpnginxA $_inputdbA
+printf '%s\n%s%s\n%s%s\n```\n%s\n```\n%s' "$_startmarker" "#### Version: " "$MY_GIT_TAG" "#### Bad Host Count: " "$TOTAL_SITES" "$ACTIVE_SITES" "$_endmarker" >> "$_tmpfileA"
+mv $_tmpfileA $_inputdbA
 ed -s $_inputdbA<<\IN
-1,/##### VERSION INFORMATION #/d
-/##### VERSION INFORMATION ##/,$d
+1,/_______________/d
+/____________________/,$d
 ,d
 .r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/README.md
-/##### VERSION INFORMATION #/x
+/_______________/x
 .t.
-.,/##### VERSION INFORMATION ##/-d
-#,p
-#,p used to print output replaced with w below to write
+.,/____________________/-d
 w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/README.md
 q
 IN
