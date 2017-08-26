@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt yurgorod.ru 7353 7276 77 0
+/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt zzqrt.com 7472 7392 80 0
