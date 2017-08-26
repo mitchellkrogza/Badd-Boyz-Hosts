@@ -25,10 +25,7 @@ before_install:
   - sudo apt-get -y install dos2unix
 
 script:
-  - bash .dev-tools/generate-hosts.sh
-  - bash .dev-tools/run-funceble.sh
-  #- bash .dev-tools/modify-files-and-commit.sh
-  #- .dev-tools/deploy-package.sh
+  - bash .dev-tools/pre-deploy.sh
 
 notifications:
   email: false

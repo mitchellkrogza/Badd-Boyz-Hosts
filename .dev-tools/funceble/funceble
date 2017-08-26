@@ -1794,6 +1794,7 @@ travisAutoSave()
             
             if [[ $(tail -1 ${file}) =~ "${domain}" ]]
             then
+            	bash $TRAVIS_BUILD_DIR/.dev-tools/generate-hosts.sh
                 bash $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
                 git add -A
                 git commit -a -m "${travisResultsCommitMessage} [ci skip]"

@@ -109,15 +109,15 @@ rm $_inputdb1
 # ************************************
 # Copy Files into place before testing
 # ************************************
-sudo mv /etc/hosts /etc/hosts.bak2
-sudo cp $_hosts /etc/hosts
+#sudo mv /etc/hosts /etc/hosts.bak2
+#sudo cp $_hosts /etc/hosts
 sudo cp $_hosts $TRAVIS_BUILD_DIR/hosts
 
 # ***********************
 # Make Scripts Executable
 # ***********************
 
-sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
+#sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
 
 exit 0
 
