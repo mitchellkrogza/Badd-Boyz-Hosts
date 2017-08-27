@@ -157,7 +157,7 @@ travisMode=false
 travisAutoSaveMinutes=20
 
 # Default travis final commit message
-travisResultsCommitMessage='V1.2017.08.416'
+travisResultsCommitMessage='V1.2017.08.417'
 
 # Default travis autosave commit message
 travisAutoSaveCommitMessage='Build Testing in Progress >> Funceble (Partial Build)'
