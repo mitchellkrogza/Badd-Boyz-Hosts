@@ -154,13 +154,13 @@ showPercentage=true
 travisMode=false
 
 # Minimum of minutes before we start commiting to upstream under travis
-travisAutoSaveMinutes=20
+travisAutoSaveMinutes=35
 
 # Default travis final commit message
-travisResultsCommitMessage='V1.2017.08.420'
+travisResultsCommitMessage='V1.2017.08.421'
 
 # Default travis autosave commit message
-travisAutoSaveCommitMessage='Build Testing in Progress >> Funceble (Partial Build)'
+travisAutoSaveCommitMessage='V1.2017.08.421 [funceble]'
 
 # If set to false, we generate only one file with the results
 splitFiles=false
