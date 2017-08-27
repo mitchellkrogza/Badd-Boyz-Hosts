@@ -27,9 +27,9 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.08.420
-### Updated: Sun Aug 27 14:01:24 SAST 2017
-### Bad Host Count: 7472
+### Version: V1.2017.08.424
+### Updated: Sun Aug 27 16:14:09 SAST 2017
+### Bad Host Count: 7475
 ###################################################
 ##### Version Information ##
 
@@ -2190,6 +2190,7 @@
 0.0.0.0 elvel.com.ua
 0.0.0.0 elvenar.com
 0.0.0.0 emailaccountlogin.co
+0.0.0.0 emailsrv6.gdn
 0.0.0.0 embedle.com
 0.0.0.0 embratel21.home.sapo.pt
 0.0.0.0 embratel21tabela.webcindario.com
@@ -2408,6 +2409,7 @@
 0.0.0.0 favorcosmetics.com
 0.0.0.0 favoritemoney.ru
 0.0.0.0 favornews.com
+0.0.0.0 fawcettinsurance.com
 0.0.0.0 faz99.com
 0.0.0.0 fba-mexico.com
 0.0.0.0 fbcpublications.com
@@ -5282,6 +5284,7 @@
 0.0.0.0 puliquan.com
 0.0.0.0 pulse33.ru
 0.0.0.0 pulseonclick.com
+0.0.0.0 pumipups.com
 0.0.0.0 purchasepillsnorx.com
 0.0.0.0 purplesphere.in
 0.0.0.0 purplestats.com
