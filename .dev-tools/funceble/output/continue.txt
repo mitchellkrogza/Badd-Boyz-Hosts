@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt zzqrt.com 7475 7384 91 0
+/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt envaseslotusama.com 2181 2150 31 0
