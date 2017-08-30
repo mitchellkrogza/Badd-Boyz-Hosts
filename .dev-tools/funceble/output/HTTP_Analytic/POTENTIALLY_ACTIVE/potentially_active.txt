@@ -534,3 +534,11 @@ secret.xn--oogle-wmc.com                                                        
 social-button.xyz                                                                                    INACTIVE    000        Wed Aug 30 19:14:10 SAST 2017
 socialtrade.biz                                                                                      INACTIVE    000        Wed Aug 30 19:14:17 SAST 2017
 tech4master.com                                                                                      INACTIVE    000        Wed Aug 30 19:19:37 SAST 2017
+thin.me.pn                                                                                           INACTIVE    000        Wed Aug 30 19:23:05 SAST 2017
+upgradeclothing.com.ng                                                                               INACTIVE    000        Wed Aug 30 19:27:36 SAST 2017
+vysigy.su                                                                                            INACTIVE    000        Wed Aug 30 19:31:42 SAST 2017
+yahoo-mail-ro.ml                                                                                     INACTIVE    000        Wed Aug 30 19:37:23 SAST 2017
+youraticles.pl                                                                                       INACTIVE    000        Wed Aug 30 19:38:04 SAST 2017
+zatjmuzu.info                                                                                        INACTIVE    000        Wed Aug 30 19:39:05 SAST 2017
+zixizop.net.ru                                                                                       INACTIVE    000        Wed Aug 30 19:39:47 SAST 2017
+zocaparj.kz                                                                                          INACTIVE    000        Wed Aug 30 19:40:00 SAST 2017
