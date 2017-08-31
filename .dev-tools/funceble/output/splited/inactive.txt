@@ -90,3 +90,16 @@ sappas4n.beget.tech                                                             
 sarm.tk                                                                                              Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Aug 31 11:50:35 SAST 2017
 secret.xn--oogle-wmc.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 11:52:17 SAST 2017
 shop.xz618.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Aug 31 11:55:02 SAST 2017
+social-button.xyz                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 11:59:35 SAST 2017
+tech4master.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 12:05:04 SAST 2017
+thin.me.pn                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 12:06:37 SAST 2017
+upgradeclothing.com.ng                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 12:10:58 SAST 2017
+videtubs.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Aug 31 12:13:21 SAST 2017
+vysigy.su                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 12:15:09 SAST 2017
+yahoo-mail-ro.ml                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 12:20:51 SAST 2017
+youraticles.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 12:21:33 SAST 2017
+yourpagesupdate.cf                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 12:21:44 SAST 2017
+youthjobs.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Aug 31 12:21:48 SAST 2017
+zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 12:22:32 SAST 2017
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 12:23:13 SAST 2017
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 12:23:26 SAST 2017
