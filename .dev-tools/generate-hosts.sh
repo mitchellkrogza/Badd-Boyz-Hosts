@@ -40,7 +40,7 @@ BAD_REFERRERS=$(wc -l < $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt)
 # Make Sure Temp Files Exist
 # **************************
 
-sudo touch $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt
+#sudo touch $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt
 
 # **********************************
 # Temporary database files we create
@@ -61,39 +61,39 @@ _tmphostsB=tmphostsB
 # Pull Dead / Inactive Hosts Data from Repo > https://github.com/mitchellkrogza/Dead.Domains.Inactive.Hosts
 # *********************************************************************************************************
 
-sudo wget https://raw.githubusercontent.com/mitchellkrogza/Dead.Domains.Inactive.Hosts/master/dead-domains.txt -O $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
+#sudo wget https://raw.githubusercontent.com/mitchellkrogza/Dead.Domains.Inactive.Hosts/master/dead-domains.txt -O $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
 
 # **********************************
 # Setup input bots and referer lists
 # **********************************
 
 _input1=$TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
-_input2=$TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
+#_input2=$TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
 
 # **************************************************************************
 # Sort lists alphabetically and remove duplicates before cleaning Dead Hosts
 # **************************************************************************
 
 sort -u $_input1 -o $_input1
-sort -u $_input2 -o $_input2
+#sort -u $_input2 -o $_input2
 
 # ***********************************************************
 # Now Run our Cleaner to remove all Dead and Inactive Domains
 # ***********************************************************
 
-awk 'NR==FNR{a[$0];next} !($0 in a)' $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt > $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt && mv $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
+#awk 'NR==FNR{a[$0];next} !($0 in a)' $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt > $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt && mv $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
 
 # *******************************
 # Activate Dos2Unix One Last Time
 # *******************************
 
-dos2unix $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
+#dos2unix $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
 
 # ********************************
 # Delete our dead-domains.txt file
 # ********************************
 
-sudo rm $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
+#sudo rm $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
 
 # ***************************************************************
 # Start and End Strings to Search for to do inserts into template

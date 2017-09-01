@@ -1,8 +1,8 @@
 #!/bin/bash
-# Hosts file generator for Badd Boyz Hosts
+# Duplicate Sorting for the Big List of Hacked Malware Web Sites
 # Created by: Mitchell Krog (mitchellkrog@gmail.com)
 # Copyright: Mitchell Krog - https://github.com/mitchellkrogza
-# Repo Url: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
+# Repo Url: https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites
 
 # MIT License
 
@@ -27,51 +27,65 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+# ******************
+# Set Some Variables
+# ******************
+
+YEAR=$(date +"%Y")
+MONTH=$(date +"%m")
+cd $TRAVIS_BUILD_DIR
+
+# *******************************
+# Remove Remote Added by TravisCI
+# *******************************
+
+git remote rm origin
+
 # **************************
-# Make Sure Temp Files Exist
+# Add Remote with Secure Key
 # **************************
 
-sudo touch $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt
+git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
 
-# *********************************************************************************************************
-# Pull Dead / Inactive Hosts Data from Repo > https://github.com/mitchellkrogza/Dead.Domains.Inactive.Hosts
-# *********************************************************************************************************
+# **********************************************************************************
+# List Remotes ONLY DURING testing - do not do this on live repo / possible key leak
+# git remote -v
+# ***********************************************************************************
 
-sudo wget https://raw.githubusercontent.com/mitchellkrogza/Dead.Domains.Inactive.Hosts/master/dead-domains.txt -O $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
+# *********************
+# Set Our Git Variables
+# *********************
 
-# **********************************
-# Setup input bots and referer lists
-# **********************************
+git config --global user.email "${GIT_EMAIL}"
+git config --global user.name "${GIT_NAME}"
+git config --global push.default simple
 
-_input1=$TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
-_input2=$TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
+# *******************************************
+# Make sure we have checked out master branch
+# *******************************************
 
-# **************************************************************************
-# Sort lists alphabetically and remove duplicates before cleaning Dead Hosts
-# **************************************************************************
+git checkout master
 
-sort -u $_input1 -o $_input1
-sort -u $_input2 -o $_input2
+# ***************************************************
+# Sort our file for duplicates
+# ***************************************************
 
-# ***********************************************************
-# Now Run our Cleaner to remove all Dead and Inactive Domains
-# ***********************************************************
+_inputlist=$TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
+sort -u $_inputlist -o $_inputlist
 
-awk 'NR==FNR{a[$0];next} !($0 in a)' $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt > $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt && mv $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
+# ************************************
+# Make sure all scripts are executable
+# ************************************
 
-# *****************
-# Activate Dos2Unix
-# *****************
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-hosts.sh
 
-dos2unix $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
+# ***************************************************
+# Run funceble to check for dead domains
+# ***************************************************
 
-# ********************************
-# Delete our dead-domains.txt file
-# ********************************
-
-sudo rm $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
-
-exit 0
+sudo sh -x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
 
 # MIT License
 

@@ -13,19 +13,17 @@ php:
   - '5.6'
 cache:
   - apt
-addons:
-  apt:
-    packages:
-      - realpath
 
 before_install:
   - export TZ=Africa/Johannesburg
   - sudo apt-get -y install expect
   - sudo apt-get -y install whois
   - sudo apt-get -y install dos2unix
+  - sudo apt-get -y install realpath
 
 script:
   - bash .dev-tools/pre-deploy.sh
+  - bash .dev-tools/deploy.sh
 
 notifications:
   email: false
