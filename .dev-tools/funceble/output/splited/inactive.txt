@@ -20,3 +20,5 @@ realhomes.wd1.eu                                                                
 sicfor.bcu.cc                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Sep  1 16:24:44 SAST 2017
 socialtrade.biz                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  1 16:27:20 SAST 2017
 stcadastro.ga                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  1 16:29:40 SAST 2017
+tobeyouday.win                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  1 16:36:22 SAST 2017
+zmoda.hostreo.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  1 16:51:20 SAST 2017
