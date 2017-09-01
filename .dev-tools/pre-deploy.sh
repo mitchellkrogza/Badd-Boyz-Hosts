@@ -46,6 +46,11 @@ sudo wget https://raw.githubusercontent.com/mitchellkrogza/Dead.Domains.Inactive
 _input1=$TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
 _input2=$TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
 
+# Make Sure Travis Owns All New Files
+# ***********************************
+
+sudo chown -R travis:travis $TRAVIS_BUILD_DIR
+
 # **************************************************************************
 # Sort lists alphabetically and remove duplicates before cleaning Dead Hosts
 # **************************************************************************
