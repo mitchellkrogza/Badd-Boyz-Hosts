@@ -36,36 +36,82 @@ MONTH=$(date +%m)
 MY_GIT_TAG=V1.$YEAR.$MONTH.$TRAVIS_BUILD_NUMBER
 BAD_REFERRERS=$(wc -l < $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt)
 
-# Setup input bots and referer lists
-_input1=$TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
+# **************************
+# Make Sure Temp Files Exist
+# **************************
 
+sudo touch $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt
+
+# **********************************
 # Temporary database files we create
+# **********************************
+
 _inputdbA=/tmp/lastupdated.db
 _inputdb1=/tmp/hosts.db
 
+# ***********************************
 # Declare template and temp variables
+# ***********************************
+
 _hosts=$TRAVIS_BUILD_DIR/.dev-tools/hosts.template
 _tmphostsA=tmphostsA
 _tmphostsB=tmphostsB
 
-# Sort lists alphabetically and remove duplicates
-sort -u $_input1 -o $_input1
+# *********************************************************************************************************
+# Pull Dead / Inactive Hosts Data from Repo > https://github.com/mitchellkrogza/Dead.Domains.Inactive.Hosts
+# *********************************************************************************************************
 
+sudo wget https://raw.githubusercontent.com/mitchellkrogza/Dead.Domains.Inactive.Hosts/master/dead-domains.txt -O $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
+
+# **********************************
+# Setup input bots and referer lists
+# **********************************
+
+_input1=$TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
+_input2=$TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
+
+# **************************************************************************
+# Sort lists alphabetically and remove duplicates before cleaning Dead Hosts
+# **************************************************************************
+
+sort -u $_input1 -o $_input1
+sort -u $_input2 -o $_input2
+
+# ***********************************************************
+# Now Run our Cleaner to remove all Dead and Inactive Domains
+# ***********************************************************
+
+awk 'NR==FNR{a[$0];next} !($0 in a)' $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt > $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt && mv $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
+
+# *******************************
+# Activate Dos2Unix One Last Time
+# *******************************
+
+dos2unix $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
+
+# ********************************
+# Delete our dead-domains.txt file
+# ********************************
+
+sudo rm $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
+
+# ***************************************************************
 # Start and End Strings to Search for to do inserts into template
+# ***************************************************************
+
 _start1="# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###"
 _end1="# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###"
 _startmarker="##### Version Information #"
 _endmarker="##### Version Information ##"
 
+# **********************************
 # PRINT DATE AND TIME OF LAST UPDATE
 # **********************************
-LASTUPDATEIFS=$IFS
-IFS=$'\n'
+
 now="$(date)"
 echo $_startmarker >> $_tmphostsA
 printf "###################################################\n### Version: "$MY_GIT_TAG"\n### Updated: "$now"\n### Bad Host Count: "$BAD_REFERRERS"\n###################################################\n" >> $_tmphostsA
 echo $_endmarker  >> $_tmphostsA
-IFS=$LASTUPDATEIFS
 mv $_tmphostsA $_inputdbA
 ed -s $_inputdbA<<\IN
 1,/##### Version Information #/d
@@ -84,14 +130,11 @@ rm $_inputdbA
 # Insert hosts into hosts file
 # ****************************
 
-HOSTS=$IFS
-IFS=$'\n'
 echo $_start1 >> $_tmphostsB
 for line in $(cat $_input1); do
 printf "0.0.0.0 ${line}\n" >> $_tmphostsB
 done
 echo $_end1  >> $_tmphostsB
-IFS=$HOSTS
 mv $_tmphostsB $_inputdb1
 ed -s $_inputdb1<<\IN
 1,/# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/d
@@ -109,15 +152,8 @@ rm $_inputdb1
 # ************************************
 # Copy Files into place before testing
 # ************************************
-#sudo mv /etc/hosts /etc/hosts.bak2
-#sudo cp $_hosts /etc/hosts
+
 sudo cp $_hosts $TRAVIS_BUILD_DIR/hosts
-
-# ***********************
-# Make Scripts Executable
-# ***********************
-
-#sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
 
 exit 0
 
