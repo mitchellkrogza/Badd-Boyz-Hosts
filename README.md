@@ -1,14 +1,12 @@
 # Badd-Boyz-Hosts
 
-[![Build Status](https://travis-ci.org/mitchellkrogza/Badd-Boyz-Hosts.svg?branch=master)](https://travis-ci.org/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/>[![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/LICENSE.md)<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/><a href='https://twitter.com/ubuntu101za'><img src='https://img.shields.io/twitter/follow/ubuntu101za.svg?style=social&label=Follow' alt='Follow @ubuntu101za'></a>
+<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/badd-boyz-hosts.jpg" alt="Badd Boyz Hosts File to Protect Your Computer and Devices Against Bad Web Sites"/><img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/>[![Build Status](https://travis-ci.org/mitchellkrogza/Badd-Boyz-Hosts.svg?branch=master)](https://travis-ci.org/mitchellkrogza/Badd-Boyz-Hosts)<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/>[![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/LICENSE.md)<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/>[![GitHub Stats](https://img.shields.io/badge/github-stats-ff5500.svg)](http://githubstats.com/mitchellkrogza/Badd-Boyz-Hosts)<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/><a href='https://twitter.com/ubuntu101za'><img src='https://img.shields.io/twitter/follow/ubuntu101za.svg?style=social&label=Follow' alt='Follow @ubuntu101za'></a>
 
 A hosts file for use on any operating system to block bad domains out of your servers or devices.
 
-* Here's the [raw hosts file](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts)
+* Here's the [RAW hosts file](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts)
 
-##### This hosts file is brought to you by Mitchell Krog
-##### Copyright: https://github.com/mitchellkrogza
-##### Source: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
+- Copyright: https://github.com/mitchellkrogza
 
 _______________
 #### Version: V1.2017.09.453
@@ -26,7 +24,9 @@ INVALID     0%           0
 ```
 ____________________
 
-- You are free to copy and distribute this file for non-commercial uses, as long the original URL and attribution is included. 
+- You are free to copy and distribute this file for non-commercial uses, as long the original URL and attribution is included.
+- <a href="mailto:mitchellkrog@gmail.com?subject=Please Add Me To the Slack Channel (Badd Boyz Hosts)">Ask For an Invite to the<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/slack.png"/></a>Support Channel
+ 
 
 ************************************************
 ### If this helps you why not 
@@ -130,7 +130,7 @@ or [![Get the APACHE ULTIMATE BAD BOT BLOCKER](https://img.shields.io/badge/APAC
 
 - https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
 - https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
-- https://github.com/mitchellkrogza/Badd-Boyz-Hosts
+- https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist
 - https://github.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO
 - https://github.com/mitchellkrogza/fail2ban-useful-scripts
 - https://github.com/mitchellkrogza/linux-server-administration-scripts

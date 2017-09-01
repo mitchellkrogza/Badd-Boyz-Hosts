@@ -55,7 +55,7 @@ _endmarker="____________________"
 # PRINT VERSION INFORMATION INTO README.md
 # ****************************************
 
-printf '%s\n%s%s\n%s%s\n```\n%s\n```\n%s' "$_startmarker" "#### Version: " "$MY_GIT_TAG" "#### Bad Host Count: " "$TOTAL_SITES" "$ACTIVE_SITES" "$_endmarker" >> "$_tmpfileA"
+printf '%s\n%s%s%s\n%s%s\n```\n%s\n```\n%s' "$_startmarker" "[![VERSION](https://img.shields.io/badge/VERSION%20-%20" "$MY_GIT_TAG" "-blue.svg)](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/commits/master)" "#### Bad Host Count: " "$TOTAL_SITES" "$ACTIVE_SITES" "$_endmarker" >> "$_tmpfileA"
 mv $_tmpfileA $_inputdbA
 ed -s $_inputdbA<<\IN
 1,/_______________/d
