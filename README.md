@@ -11,17 +11,17 @@ A hosts file for use on any operating system to block bad domains out of your se
 ##### Source: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
 
 _______________
-#### Version: V1.2017.08.413
-#### Bad Host Count: 7472
+#### Version: V1.2017.09.453
+#### Bad Host Count: 7399
 ```
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sat Aug 26 19:23:07 SAST 2017
+# Date of generation: Fri Sep  1 11:15:17 SAST 2017
 
 
 Status      Percentage   Numbers     
 ----------- ------------ -------------
-ACTIVE      98%          7392        
-INACTIVE    1%           80          
+ACTIVE      99%          7385        
+INACTIVE    0%           14          
 INVALID     0%           0           
 ```
 ____________________
