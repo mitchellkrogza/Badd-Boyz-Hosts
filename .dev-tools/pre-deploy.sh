@@ -73,12 +73,18 @@ git checkout master
 _inputlist=$TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
 sort -u $_inputlist -o $_inputlist
 
+# ************************************
+# Make sure all scripts are executable
+# ************************************
+
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-hosts.sh
 
 # ***************************************************
 # Run funceble to check for dead domains
 # ***************************************************
 
-sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
 sudo sh -x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
 
 # MIT License
