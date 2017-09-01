@@ -18,3 +18,4 @@ sicfor.bcu.cc                                                                   
 socialtrade.biz                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  1 13:38:28 SAST 2017
 stcadastro.ga                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  1 13:40:38 SAST 2017
 tobeyouday.win                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  1 13:45:46 SAST 2017
+zmoda.hostreo.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  1 14:03:07 SAST 2017
