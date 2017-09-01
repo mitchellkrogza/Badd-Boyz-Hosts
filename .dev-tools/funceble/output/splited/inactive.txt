@@ -12,3 +12,5 @@ cadastrost.ga                                                                   
 chicheportiche.club                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  1 15:07:02 SAST 2017
 drpboxcr.biz                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  1 15:17:04 SAST 2017
 drpboxwr.club                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  1 15:17:05 SAST 2017
+elektrozigaretten2.yn.lt                                                                             Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Sep  1 15:21:11 SAST 2017
+kmgamex.cf                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  1 15:45:10 SAST 2017
