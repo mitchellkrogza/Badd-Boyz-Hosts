@@ -7,3 +7,4 @@ Domain                                                                          
 266-334-951.21w1mj0pk2ihn9f3zl4.471zpwcngact2x6d2ib.com.ve                                           Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 14:12:58 SAST 2017
 advocatemsk.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 14:16:08 SAST 2017
 alphacarolinas.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 14:18:05 SAST 2017
+gg.zzyjxs.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 14:57:01 SAST 2017
