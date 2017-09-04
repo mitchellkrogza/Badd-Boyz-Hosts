@@ -8,3 +8,6 @@ Domain                                                                          
 advocatemsk.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 14:16:08 SAST 2017
 alphacarolinas.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 14:18:05 SAST 2017
 gg.zzyjxs.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 14:57:01 SAST 2017
+orangeluxembourg.eu                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 15:32:20 SAST 2017
+realhomes.wd1.eu                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 15:41:37 SAST 2017
+sizeplus.work                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 15:51:12 SAST 2017
