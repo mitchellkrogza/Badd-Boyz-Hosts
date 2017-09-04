@@ -1,22 +1,3 @@
-ads.aerserv.com
-ads.avocarrot.com
-ads30.adcolony.com
-adc3-launch.adcolony.com
-events3alt.adcolony.com
-wd.adcolony.com
-events3alt.adcolony.com
-adserver.unityads.unity3d.com
-d.applvn.com
-app.appsflyer.com
-config.unityads.unity3d.com
-a.applvn.com
-admin.appnext.com
-auction.unityads.unity3d.com
-rt.applovin.com
-live.chartboost.com
-v2.chartboost.com
-rt.applvn.com
-webview.unityads.unity3d.com
 000free.us
 000owamail0.000webhostapp.com
 007angels.com
@@ -177,6 +158,7 @@ aac52006ec82a24e08b665f4db2b5013f7.com
 aad1f4acb0a373420d9b0c4202d38d94fa.com
 aadroid.net
 aalures.com
+a.applvn.com
 aarbur.com
 aaronabel.com
 aaronjames.com.au
@@ -230,6 +212,7 @@ adamoads.com
 adanih.com
 adatepekarot.com
 adbetclickin.pink
+adc3-launch.adcolony.com
 adcash.com
 adclickservice.com
 adclickthru.net
@@ -259,6 +242,7 @@ adman.gr
 adman.se
 admatic.com.tr
 admeasures.com
+admin.appnext.com
 adminshop.com
 admitad.com
 admwarszawa.pl
@@ -266,8 +250,12 @@ adnotbad.com
 adpremium.org
 adprotect.net
 adrenalin-stk.ru
+ads30.adcolony.com
+ads.aerserv.com
+ads.avocarrot.com
 ads-cool.pro
 adserver-e7.com
+adserver.unityads.unity3d.com
 adservme.com
 adsfresh.men
 ads.gold
@@ -557,6 +545,7 @@ apnaauto.net
 app-1490710520.000webhostapp.com
 app-1502132339.000webhostapp.com
 app2.letmacworkfaster.site
+app.appsflyer.com
 apparelmachnery.com
 apparel-offer.com
 appartement-stumm.at
@@ -679,6 +668,7 @@ atovh.local-finders.com
 atualizar-cadastro.com
 atualizeconta.com
 auberge-du-viaduc.fr
+auction.unityads.unity3d.com
 audiobangout.com
 audiofree.ru
 augustogemelli.com
@@ -1545,6 +1535,7 @@ concussiontraetment.com
 condensateunit.com
 condominioparquesanantonio.cl
 confib.ifmo.ru
+config.unityads.unity3d.com
 confirmation-support-info-notify.com
 confirm-support-info-center.com
 confirmupdatepage.cf
@@ -1703,6 +1694,7 @@ dansguardian.org
 daooda.com
 daoudi4.mystagingwebsite.com
 dap.ntua.gr
+d.applvn.com
 daptravel.com
 darkbooks.org
 darmebel.com.ua
@@ -2231,6 +2223,7 @@ eurosamodelki.ru
 euroskat.ru
 evaashop.ru
 evening-dating-club.info
+events3alt.adcolony.com
 event-tracking.com
 everythingisstory.com
 evidencecleanergold.com
@@ -3791,6 +3784,7 @@ littleberry.ru
 littlesunraiser.com
 liupis.com
 liuzzasnola.com
+live.chartboost.com
 livefixer.com
 livejasmin.com
 liver-chintai.org
@@ -5466,6 +5460,8 @@ rs108.nsresponse.com
 rsgaropaba.com.br
 rsonsindia.com
 rsvpphotobooth.com
+rt.applovin.com
+rt.applvn.com
 rubanners.com
 rubychinese.com.au
 ruclicks.com
@@ -6712,6 +6708,7 @@ uytmaster.ru
 uzmanhavuz.com
 uzungil.com
 v24s.net
+v2.chartboost.com
 v720hd.ru
 vabasa.inwtrade.com
 vachevskih.ru
@@ -6921,6 +6918,7 @@ wavefoundationbd.org
 waycash.net
 wayforwardafrica.org
 waysbetter.cn
+wd.adcolony.com
 wdfdocando.com
 wdrake.com
 we-are-gamers.com
@@ -6956,6 +6954,7 @@ websitevaluebot.com
 webskratch.com
 webtherapy.ru
 weburok.com
+webview.unityads.unity3d.com
 webwire-services.fi
 wechatdownload10.com
 wedding0venues.tk
