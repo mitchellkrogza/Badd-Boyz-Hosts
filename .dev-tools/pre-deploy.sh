@@ -37,7 +37,7 @@ sudo touch $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt
 # Pull Dead / Inactive Hosts Data from Repo > https://github.com/mitchellkrogza/Dead.Domains.Inactive.Hosts
 # *********************************************************************************************************
 
-sudo wget https://raw.githubusercontent.com/mitchellkrogza/Dead.Domains.Inactive.Hosts/master/dead-domains.txt -O $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
+sudo wget https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/dead-domains.txt -O $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
 
 # **********************************
 # Setup input bots and referer lists
