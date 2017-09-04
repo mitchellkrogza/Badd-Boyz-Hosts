@@ -8,3 +8,4 @@ Domain                                                                          
 advocatemsk.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Sep  4 16:27:58 SAST 2017
 alphacarolinas.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 16:29:59 SAST 2017
 angkortours.vn                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Sep  4 16:31:09 SAST 2017
+gg.zzyjxs.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 17:08:57 SAST 2017
