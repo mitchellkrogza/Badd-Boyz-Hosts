@@ -1,8 +1,8 @@
 #!/bin/bash
-# Duplicate Sorting for the Big List of Hacked Malware Web Sites
+# Hosts file generator for Badd Boyz Hosts
 # Created by: Mitchell Krog (mitchellkrog@gmail.com)
 # Copyright: Mitchell Krog - https://github.com/mitchellkrogza
-# Repo Url: https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites
+# Repo Url: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
 
 # MIT License
 
@@ -27,26 +27,55 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-# ***************************************************
-# Sort our file for duplicates
-# ***************************************************
+# ******************
+# Set Some Variables
+# ******************
 
-_inputlist=$TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
-sort -u $_inputlist -o $_inputlist
+YEAR=$(date +"%Y")
+MONTH=$(date +"%m")
+cd $TRAVIS_BUILD_DIR
 
-# ************************************
-# Make sure all scripts are executable
-# ************************************
+# *******************************
+# Remove Remote Added by TravisCI
+# *******************************
 
-sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
-sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
+git remote rm origin
+
+# **************************
+# Add Remote with Secure Key
+# **************************
+
+git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
+
+# *********************
+# Set Our Git Variables
+# *********************
+
+git config --global user.email "${GIT_EMAIL}"
+git config --global user.name "${GIT_NAME}"
+git config --global push.default simple
+
+# *******************************************
+# Make sure we have checked out master branch
+# *******************************************
+
+git checkout master
+
+# ***************************************************************************
+# Generate our host file and update README with build and version information
+# ***************************************************************************
+
+sudo chown -R travis:travis $TRAVIS_BUILD_DIR/
+
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-hosts.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 
-# ***************************************************
-# Run funceble to check for dead domains
-# ***************************************************
+sudo $TRAVIS_BUILD_DIR/.dev-tools/generate-hosts.sh
+sudo $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 
-sudo sh -x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
+# *************************************************************
+# Travis now moves to the before_deploy: section of .travis.yml
+# *************************************************************
 
 # MIT License
 
