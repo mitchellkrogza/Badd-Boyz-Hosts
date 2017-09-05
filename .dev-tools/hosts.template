@@ -27,10 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.08.449
-### Updated: Thu Aug 31 17:44:33 SAST 2017
-### Bad Host Count: 7399
-###################################################
+### Version: V1.2017.09.483
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -59,6 +56,7 @@
 0.0.0.0 00webcams.com
 0.0.0.0 01apple.com
 0.0.0.0 03e.info
+0.0.0.0 03p.info
 0.0.0.0 0912701309f8ce.com
 0.0.0.0 0c47f8422d3f.com
 0.0.0.0 0n-line.tv
@@ -85,6 +83,7 @@
 0.0.0.0 1314dh.com
 0.0.0.0 13453765871837679316.googlegroups.com
 0.0.0.0 13tabs.com
+0.0.0.0 14b.info
 0.0.0.0 178evakuator178.ru
 0.0.0.0 189-211-177-171.static.axtel.net
 0.0.0.0 189zx.com
@@ -104,6 +103,7 @@
 0.0.0.0 202ch.com
 0.0.0.0 20pascals.nl
 0.0.0.0 21h2o.com
+0.0.0.0 23kw.ru
 0.0.0.0 24-ak.ru
 0.0.0.0 24videos.tv
 0.0.0.0 24x7-server-support.site
@@ -210,12 +210,14 @@
 0.0.0.0 aad1f4acb0a373420d9b0c4202d38d94fa.com
 0.0.0.0 aadroid.net
 0.0.0.0 aalures.com
+0.0.0.0 a.applvn.com
 0.0.0.0 aarbur.com
 0.0.0.0 aaronabel.com
 0.0.0.0 aaronjames.com.au
 0.0.0.0 aas-bd.org
 0.0.0.0 aashima.goyal.com.au
 0.0.0.0 aashyamayro.com
+0.0.0.0 aasoldes.fr
 0.0.0.0 abacusnet.info
 0.0.0.0 abbanreddy.com
 0.0.0.0 abccomputer.co.tz
@@ -263,6 +265,7 @@
 0.0.0.0 adanih.com
 0.0.0.0 adatepekarot.com
 0.0.0.0 adbetclickin.pink
+0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcash.com
 0.0.0.0 adclickservice.com
 0.0.0.0 adclickthru.net
@@ -292,6 +295,7 @@
 0.0.0.0 adman.se
 0.0.0.0 admatic.com.tr
 0.0.0.0 admeasures.com
+0.0.0.0 admin.appnext.com
 0.0.0.0 adminshop.com
 0.0.0.0 admitad.com
 0.0.0.0 admwarszawa.pl
@@ -299,8 +303,12 @@
 0.0.0.0 adpremium.org
 0.0.0.0 adprotect.net
 0.0.0.0 adrenalin-stk.ru
+0.0.0.0 ads30.adcolony.com
+0.0.0.0 ads.aerserv.com
+0.0.0.0 ads.avocarrot.com
 0.0.0.0 ads-cool.pro
 0.0.0.0 adserver-e7.com
+0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adservme.com
 0.0.0.0 adsfresh.men
 0.0.0.0 ads.gold
@@ -350,6 +358,7 @@
 0.0.0.0 afmuseum.com
 0.0.0.0 afoakomfilmproject.com
 0.0.0.0 afora.ru
+0.0.0.0 a.frcls.fr
 0.0.0.0 afrikultureradio.com
 0.0.0.0 afslankpillen2017nl.eu
 0.0.0.0 agadelha.com.br
@@ -590,6 +599,7 @@
 0.0.0.0 app-1490710520.000webhostapp.com
 0.0.0.0 app-1502132339.000webhostapp.com
 0.0.0.0 app2.letmacworkfaster.site
+0.0.0.0 app.appsflyer.com
 0.0.0.0 apparelmachnery.com
 0.0.0.0 apparel-offer.com
 0.0.0.0 appartement-stumm.at
@@ -649,6 +659,7 @@
 0.0.0.0 artcccp.com
 0.0.0.0 artdeli.co.kr
 0.0.0.0 art-dentica.eu
+0.0.0.0 artdestshop.eu
 0.0.0.0 arteenimagen.net
 0.0.0.0 artefakct.com
 0.0.0.0 artetallerkalfu.cl
@@ -712,6 +723,7 @@
 0.0.0.0 atualizar-cadastro.com
 0.0.0.0 atualizeconta.com
 0.0.0.0 auberge-du-viaduc.fr
+0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audiobangout.com
 0.0.0.0 audiofree.ru
 0.0.0.0 augustogemelli.com
@@ -879,6 +891,7 @@
 0.0.0.0 bb-mobi.com
 0.0.0.0 bbrothersgroup.net
 0.0.0.0 bb-seguro-auto.j.dnr.kz
+0.0.0.0 bbsoldes.fr
 0.0.0.0 bbtec.net
 0.0.0.0 bcgroup-sa.com
 0.0.0.0 bcmp.org
@@ -939,7 +952,6 @@
 0.0.0.0 bestofferswalkmydogouteveryday.gq
 0.0.0.0 bestofpicture.com
 0.0.0.0 bestofupload.info
-0.0.0.0 bestplacetobuyeriacta.jw.lt
 0.0.0.0 bestpriceninja.com
 0.0.0.0 bestprofits-there.com
 0.0.0.0 bestsearch.info
@@ -1027,6 +1039,7 @@
 0.0.0.0 biztocloud.com
 0.0.0.0 bjanshee.ru
 0.0.0.0 bjetjt.com
+0.0.0.0 bjgugu.net.ua
 0.0.0.0 bjorkbacken.nu
 0.0.0.0 bjselectric.com
 0.0.0.0 bkgr.se
@@ -1229,7 +1242,6 @@
 0.0.0.0 cacheimages.com
 0.0.0.0 cachuchabeisbol.com
 0.0.0.0 cactussoft.biz
-0.0.0.0 cadastrost.ga
 0.0.0.0 cadetcollegebhurban.edu.pk
 0.0.0.0 cafesmart.co.uk
 0.0.0.0 cakemediahq.com.au
@@ -1435,7 +1447,6 @@
 0.0.0.0 chevydashparts.com
 0.0.0.0 chiatena.zxy.me
 0.0.0.0 chiblackhawks-jerseys.com
-0.0.0.0 chicheportiche.club
 0.0.0.0 chihuahuainvita.com
 0.0.0.0 chimiver.info
 0.0.0.0 chinacheapelitejerseys.com
@@ -1581,6 +1592,7 @@
 0.0.0.0 condensateunit.com
 0.0.0.0 condominioparquesanantonio.cl
 0.0.0.0 confib.ifmo.ru
+0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 confirmation-support-info-notify.com
 0.0.0.0 confirm-support-info-center.com
 0.0.0.0 confirmupdatepage.cf
@@ -1598,6 +1610,7 @@
 0.0.0.0 construmac.com.mx
 0.0.0.0 contactosonline.com
 0.0.0.0 contextualyield.com
+0.0.0.0 converse.ddsoldes.fr
 0.0.0.0 cookevegas.com
 0.0.0.0 cookielawblog.wordpress.com
 0.0.0.0 cookingmeat.ru
@@ -1739,6 +1752,7 @@
 0.0.0.0 daooda.com
 0.0.0.0 daoudi4.mystagingwebsite.com
 0.0.0.0 dap.ntua.gr
+0.0.0.0 d.applvn.com
 0.0.0.0 daptravel.com
 0.0.0.0 darkbooks.org
 0.0.0.0 darmebel.com.ua
@@ -1770,6 +1784,7 @@
 0.0.0.0 ddlmega.net
 0.0.0.0 ddospanel.com
 0.0.0.0 ddpills.com
+0.0.0.0 ddsoldes.fr
 0.0.0.0 dealighted.com
 0.0.0.0 dealitright.click
 0.0.0.0 dealroom.dk
@@ -1871,6 +1886,7 @@
 0.0.0.0 digital-sale.su
 0.0.0.0 digital-video-processing.com
 0.0.0.0 dignitasdata.se
+0.0.0.0 dikqlyremy.info
 0.0.0.0 dikx.gdn
 0.0.0.0 dildofotzen.net
 0.0.0.0 diminishedvalueoforegon.com
@@ -2001,8 +2017,6 @@
 0.0.0.0 dropdrop.vienna-eg.com
 0.0.0.0 dropfileviewer.com
 0.0.0.0 dropqaq.xf.cz
-0.0.0.0 drpboxcr.biz
-0.0.0.0 drpboxwr.club
 0.0.0.0 drugrehabslouisiana.org
 0.0.0.0 drugspowerstore.com
 0.0.0.0 drugstoreforyou.com
@@ -2139,7 +2153,6 @@
 0.0.0.0 elektrozigaretten1.postbit.com
 0.0.0.0 elektrozigaretten1.tumblr.com
 0.0.0.0 elektrozigaretten1.webs.com
-0.0.0.0 elektrozigaretten2.yn.lt
 0.0.0.0 elfakirnoureddine.com
 0.0.0.0 elidelcream.weebly.com
 0.0.0.0 elison.co.ke
@@ -2270,6 +2283,7 @@
 0.0.0.0 euroskat.ru
 0.0.0.0 evaashop.ru
 0.0.0.0 evening-dating-club.info
+0.0.0.0 events3alt.adcolony.com
 0.0.0.0 event-tracking.com
 0.0.0.0 everythingisstory.com
 0.0.0.0 evidencecleanergold.com
@@ -2514,7 +2528,6 @@
 0.0.0.0 forpackningsutveckling.se
 0.0.0.0 forpostlock.ru
 0.0.0.0 forsex.info
-0.0.0.0 forum20.smailik.org
 0.0.0.0 forum.doctissimo.fr
 0.0.0.0 forum-engineering.ru
 0.0.0.0 forum.poker4life.ru
@@ -2542,6 +2555,8 @@
 0.0.0.0 fransiza.sk
 0.0.0.0 franziska-rosenfeld.de
 0.0.0.0 fratpoet.com
+0.0.0.0 frbizlist.com
+0.0.0.0 frcls.fr
 0.0.0.0 frcsgroup.com
 0.0.0.0 freakycheats.com
 0.0.0.0 fredrickfrank200.000webhostapp.com
@@ -2911,6 +2926,7 @@
 0.0.0.0 gwhwpxbw.bloger.index.hr
 0.0.0.0 gyffu.com
 0.0.0.0 gymcraft.es
+0.0.0.0 gz2.bbsoldes.fr
 0.0.0.0 gzyuxiao.com
 0.0.0.0 h1.ripway.com
 0.0.0.0 h2monline.com
@@ -3091,6 +3107,7 @@
 0.0.0.0 hotloans.ru
 0.0.0.0 hotshoppymac.com
 0.0.0.0 hotsocialz.com
+0.0.0.0 hotxnights.info
 0.0.0.0 houdom.net
 0.0.0.0 housediz.com
 0.0.0.0 housekuba.org
@@ -3136,6 +3153,7 @@
 0.0.0.0 hydropneuengg.com
 0.0.0.0 hydropump.su
 0.0.0.0 hygromycin-b-50mg-ml-solution.com
+0.0.0.0 hyhj.info
 0.0.0.0 hyiphunter.org
 0.0.0.0 hyipmanager.in
 0.0.0.0 hystersister.com
@@ -3609,7 +3627,6 @@
 0.0.0.0 klosetkitten.com
 0.0.0.0 kloshpro.com
 0.0.0.0 kmd-pto.ru
-0.0.0.0 kmgamex.cf
 0.0.0.0 kndxbkdx.bloger.index.hr
 0.0.0.0 knigonosha.net
 0.0.0.0 knogg.net
@@ -3832,6 +3849,7 @@
 0.0.0.0 littlesunraiser.com
 0.0.0.0 liupis.com
 0.0.0.0 liuzzasnola.com
+0.0.0.0 live.chartboost.com
 0.0.0.0 livefixer.com
 0.0.0.0 livejasmin.com
 0.0.0.0 liver-chintai.org
@@ -4333,6 +4351,7 @@
 0.0.0.0 mtquiz.blufysh.com
 0.0.0.0 mttwtrack.com
 0.0.0.0 mturkcontent.com
+0.0.0.0 muabancantho.info
 0.0.0.0 mueblesideas.cl
 0.0.0.0 mug-na-chas-moscow.ru
 0.0.0.0 muizre.ru
@@ -4533,7 +4552,6 @@
 0.0.0.0 nicomanalo.com
 0.0.0.0 nicovideo.jp
 0.0.0.0 nifoodtours.com
-0.0.0.0 nightqueen.ml
 0.0.0.0 nightvision746.weebly.com
 0.0.0.0 nigooglekbgo.xyz
 0.0.0.0 niki-mlt.ru
@@ -4642,6 +4660,7 @@
 0.0.0.0 oklogistic.ru
 0.0.0.0 okmusic.jp
 0.0.0.0 oknavkliny.ru
+0.0.0.0 okonich.com.ua
 0.0.0.0 okout.ru
 0.0.0.0 okroshki.ru
 0.0.0.0 oktube.ru
@@ -4752,6 +4771,7 @@
 0.0.0.0 ororodnik.goodbb.ru
 0.0.0.0 orsonet.ru
 0.0.0.0 oryx-hotel.com
+0.0.0.0 osagonline.ru
 0.0.0.0 osakasushi-herblay.fr
 0.0.0.0 oshoforge.com
 0.0.0.0 oskarshamn.myfreesites.net
@@ -4855,7 +4875,6 @@
 0.0.0.0 pay2me.pl
 0.0.0.0 paydayloanslocal.com
 0.0.0.0 paydayonlinecom.com
-0.0.0.0 paypal2017.tk
 0.0.0.0 paypalvsgooglecheckout.com
 0.0.0.0 paysagiste-isere.com
 0.0.0.0 paytrenberjaya.com
@@ -4981,6 +5000,7 @@
 0.0.0.0 pk-pomosch.ru
 0.0.0.0 pkr1hand.com
 0.0.0.0 pk-services.ru
+0.0.0.0 pl.aasoldes.fr
 0.0.0.0 pladform.ru
 0.0.0.0 plaff-go.ru
 0.0.0.0 planebaby.com
@@ -5208,6 +5228,7 @@
 0.0.0.0 protecaccountamik.000webhostapp.com
 0.0.0.0 proteccionydefensassdi.com
 0.0.0.0 proteckaccounts15621484.000webhostapp.com
+0.0.0.0 proxyelite.biz
 0.0.0.0 proxyradar.com
 0.0.0.0 prpops.com
 0.0.0.0 pr-ten.de
@@ -5509,6 +5530,8 @@
 0.0.0.0 rsgaropaba.com.br
 0.0.0.0 rsonsindia.com
 0.0.0.0 rsvpphotobooth.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 rt.applvn.com
 0.0.0.0 rubanners.com
 0.0.0.0 rubychinese.com.au
 0.0.0.0 ruclicks.com
@@ -5866,7 +5889,6 @@
 0.0.0.0 sibecoprom.ru
 0.0.0.0 sibtest.ru
 0.0.0.0 sibvitr.ru
-0.0.0.0 sicfor.bcu.cc
 0.0.0.0 sierraapps.com
 0.0.0.0 sierravistacfm.com
 0.0.0.0 sigmund-freud.co.uk
@@ -6017,7 +6039,6 @@
 0.0.0.0 socialmadesimple.com
 0.0.0.0 socialmediasuggest.com
 0.0.0.0 socialseet.ru
-0.0.0.0 socialtrade.biz
 0.0.0.0 social-vestnik.ru
 0.0.0.0 soc-proof.su
 0.0.0.0 soda.media
@@ -6152,7 +6173,6 @@
 0.0.0.0 statustroll.com
 0.0.0.0 stauga.altervista.org
 0.0.0.0 staynplay.net
-0.0.0.0 stcadastro.ga
 0.0.0.0 steamcomrnunity.ga
 0.0.0.0 steame.ru
 0.0.0.0 steelmaster.lv
@@ -6466,7 +6486,6 @@
 0.0.0.0 tnaionline.org
 0.0.0.0 tnctrx.com
 0.0.0.0 toastinis.com
-0.0.0.0 tobeyouday.win
 0.0.0.0 tobyortho.com
 0.0.0.0 todayissoftware.com
 0.0.0.0 todohr.com
@@ -6652,6 +6671,7 @@
 0.0.0.0 u17795.netangels.ru
 0.0.0.0 u2apartment.com
 0.0.0.0 u4luk.com
+0.0.0.0 u555u.info
 0.0.0.0 uac.net.au
 0.0.0.0 ua-company.ru
 0.0.0.0 uaf.no
@@ -6759,6 +6779,7 @@
 0.0.0.0 uzmanhavuz.com
 0.0.0.0 uzungil.com
 0.0.0.0 v24s.net
+0.0.0.0 v2.chartboost.com
 0.0.0.0 v720hd.ru
 0.0.0.0 vabasa.inwtrade.com
 0.0.0.0 vachevskih.ru
@@ -6968,6 +6989,7 @@
 0.0.0.0 waycash.net
 0.0.0.0 wayforwardafrica.org
 0.0.0.0 waysbetter.cn
+0.0.0.0 wd.adcolony.com
 0.0.0.0 wdfdocando.com
 0.0.0.0 wdrake.com
 0.0.0.0 we-are-gamers.com
@@ -7003,6 +7025,7 @@
 0.0.0.0 webskratch.com
 0.0.0.0 webtherapy.ru
 0.0.0.0 weburok.com
+0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 webwire-services.fi
 0.0.0.0 wechatdownload10.com
 0.0.0.0 wedding0venues.tk
@@ -7169,6 +7192,7 @@
 0.0.0.0 xfire.com
 0.0.0.0 xgftnlrt.bloger.index.hr
 0.0.0.0 xingzi-vision.com
+0.0.0.0 xitjw.info
 0.0.0.0 xjlottery.com
 0.0.0.0 xjrul.com
 0.0.0.0 xkaz.org
@@ -7218,6 +7242,8 @@
 0.0.0.0 xn--b1agm2d.net
 0.0.0.0 xn--c1acygb.xn--p1ai
 0.0.0.0 xn--d1abj0abs9d.in.ua
+0.0.0.0 xn--d1aifoe0a9a.top
+0.0.0.0 xn----dtbndd4ae7eub.top
 0.0.0.0 xn--e1afanlbnfckd7c3d.xn--p1ai
 0.0.0.0 xn--e1aggki3c.xn--80adxhks
 0.0.0.0 xn--h1aakne2ba.xn--p1ai
@@ -7404,7 +7430,6 @@
 0.0.0.0 zlatnajesen.com
 0.0.0.0 zlqsb.com
 0.0.0.0 z-master.ru
-0.0.0.0 zmoda.hostreo.com
 0.0.0.0 znakomstva-moskva77.ru
 0.0.0.0 znakomstva-piter78.ru
 0.0.0.0 znaniyapolza.ru
@@ -7445,6 +7470,7 @@
 0.0.0.0 zvetki.ru
 0.0.0.0 zvezdagedon.ru
 0.0.0.0 zx6.ru
+0.0.0.0 zynax.ua
 0.0.0.0 zytpirwai.net
 0.0.0.0 zzbroya.com.ua
 0.0.0.0 zzhomes.com
