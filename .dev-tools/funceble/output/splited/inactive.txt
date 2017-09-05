@@ -21,3 +21,6 @@ realhomes.wd1.eu                                                                
 rgooglejubgo.xyz                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Sep  5 12:30:13 SAST 2017
 sizeplus.work                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Sep  5 12:38:18 SAST 2017
 sucursales.cochadigital.com                                                                          Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Sep  5 12:43:21 SAST 2017
+weightatraining.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Sep  5 12:57:48 SAST 2017
+xitjw.info                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Sep  5 13:00:22 SAST 2017
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Sep  5 13:04:48 SAST 2017
