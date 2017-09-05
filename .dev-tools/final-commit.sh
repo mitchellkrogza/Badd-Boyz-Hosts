@@ -27,39 +27,6 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-# ******************
-# Set Some Variables
-# ******************
-
-YEAR=$(date +"%Y")
-MONTH=$(date +"%m")
-cd $TRAVIS_BUILD_DIR
-
-# *******************************
-# Remove Remote Added by TravisCI
-# *******************************
-
-git remote rm origin
-
-# **************************
-# Add Remote with Secure Key
-# **************************
-
-git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
-
-# *********************
-# Set Our Git Variables
-# *********************
-
-git config --global user.email "${GIT_EMAIL}"
-git config --global user.name "${GIT_NAME}"
-git config --global push.default simple
-
-# *******************************************
-# Make sure we have checked out master branch
-# *******************************************
-
-git checkout master
 
 # ***************************************************************************
 # Generate our host file and update README with build and version information
@@ -67,11 +34,11 @@ git checkout master
 
 sudo chown -R travis:travis $TRAVIS_BUILD_DIR/
 
-sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-hosts.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-hosts.sh
 
-sudo $TRAVIS_BUILD_DIR/.dev-tools/generate-hosts.sh
 sudo $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
+sudo $TRAVIS_BUILD_DIR/.dev-tools/generate-hosts.sh
 
 # *************************************************************
 # Travis now moves to the before_deploy: section of .travis.yml
