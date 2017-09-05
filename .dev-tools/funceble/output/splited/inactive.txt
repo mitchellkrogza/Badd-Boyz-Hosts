@@ -1,15 +1,14 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Mon Sep  4 16:23:51 SAST 2017
+# Date of generation: Tue Sep  5 11:02:40 SAST 2017
 
 
 Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
-266-334-951.21w1mj0pk2ihn9f3zl4.471zpwcngact2x6d2ib.com.ve                                           Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 16:24:44 SAST 2017
-advocatemsk.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Sep  4 16:27:58 SAST 2017
-alphacarolinas.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 16:29:59 SAST 2017
-angkortours.vn                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Sep  4 16:31:09 SAST 2017
-gg.zzyjxs.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 17:08:57 SAST 2017
-orangeluxembourg.eu                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 17:43:43 SAST 2017
-realhomes.wd1.eu                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 17:52:46 SAST 2017
-sizeplus.work                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 18:02:19 SAST 2017
-weightatraining.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep  4 18:21:28 SAST 2017
+266-334-951.21w1mj0pk2ihn9f3zl4.471zpwcngact2x6d2ib.com.ve                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Sep  5 11:03:41 SAST 2017
+abccomputer.co.tz                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Sep  5 11:05:26 SAST 2017
+advocatemsk.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Sep  5 11:06:58 SAST 2017
+alphacarolinas.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Sep  5 11:09:01 SAST 2017
+bjgugu.net.ua                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Sep  5 11:18:01 SAST 2017
+caminodelsur.cl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Sep  5 11:21:35 SAST 2017
+dikqlyremy.info                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Sep  5 11:31:35 SAST 2017
+erectile.bid                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Sep  5 11:37:01 SAST 2017
