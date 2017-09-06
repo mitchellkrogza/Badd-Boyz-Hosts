@@ -24,3 +24,6 @@ site-speed-checker.site                                                         
 site-speed-check.site                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 11:54:21 SAST 2017
 sizeplus.work                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 11:54:28 SAST 2017
 stuher.cl                                                                                            Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Sep  6 11:59:16 SAST 2017
+weightatraining.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 12:14:14 SAST 2017
+xitjw.info                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 12:16:51 SAST 2017
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 12:21:35 SAST 2017
