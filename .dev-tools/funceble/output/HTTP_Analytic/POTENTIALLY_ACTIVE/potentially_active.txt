@@ -788,3 +788,5 @@ old.cincinnaticleaning.net                                                      
 rgooglejubgo.xyz                                                                                     INACTIVE    000        Thu Sep  7 18:02:20 SAST 2017
 site-speed-checker.site                                                                              INACTIVE    000        Thu Sep  7 18:10:25 SAST 2017
 site-speed-check.site                                                                                INACTIVE    000        Thu Sep  7 18:10:26 SAST 2017
+xitjw.info                                                                                           INACTIVE    000        Thu Sep  7 18:33:25 SAST 2017
+zynax.ua                                                                                             INACTIVE    000        Thu Sep  7 18:38:17 SAST 2017
