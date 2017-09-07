@@ -1,29 +1,12 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Wed Sep  6 10:15:53 SAST 2017
+# Date of generation: Thu Sep  7 10:17:31 SAST 2017
 
 
 Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
-266-334-951.21w1mj0pk2ihn9f3zl4.471zpwcngact2x6d2ib.com.ve                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 10:16:58 SAST 2017
-advocatemsk.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 10:20:04 SAST 2017
-alphacarolinas.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 10:21:57 SAST 2017
-bjgugu.net.ua                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 10:30:58 SAST 2017
-caminodelsur.cl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 10:34:43 SAST 2017
-dikqlyremy.info                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 10:44:58 SAST 2017
-erectile.bid                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 10:50:20 SAST 2017
-gg.zzyjxs.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 10:59:28 SAST 2017
-hyhj.info                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 11:06:02 SAST 2017
-iqupdatetmz.win                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 11:08:45 SAST 2017
-new-apps.ru                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 11:30:45 SAST 2017
-nigooglekbgo.xyz                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 11:31:27 SAST 2017
-old.cincinnaticleaning.net                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 11:33:18 SAST 2017
-orangeluxembourg.eu                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 11:34:43 SAST 2017
-realhomes.wd1.eu                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 11:44:36 SAST 2017
-rgooglejubgo.xyz                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 11:46:23 SAST 2017
-site-speed-checker.site                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 11:54:19 SAST 2017
-site-speed-check.site                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 11:54:21 SAST 2017
-sizeplus.work                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 11:54:28 SAST 2017
-stuher.cl                                                                                            Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Sep  6 11:59:16 SAST 2017
-weightatraining.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 12:14:14 SAST 2017
-xitjw.info                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 12:16:51 SAST 2017
-zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep  6 12:21:35 SAST 2017
+266-334-951.21w1mj0pk2ihn9f3zl4.471zpwcngact2x6d2ib.com.ve                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Sep  7 10:18:33 SAST 2017
+advocatemsk.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Sep  7 10:21:48 SAST 2017
+alphacarolinas.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Sep  7 10:23:47 SAST 2017
+bjgugu.net.ua                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Sep  7 10:33:07 SAST 2017
+caminodelsur.cl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Sep  7 10:36:52 SAST 2017
+dikqlyremy.info                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Sep  7 10:47:12 SAST 2017
