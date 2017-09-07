@@ -24,3 +24,6 @@ rgooglejubgo.xyz                                                                
 site-speed-checker.site                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Sep  7 11:55:45 SAST 2017
 site-speed-check.site                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Sep  7 11:55:46 SAST 2017
 sizeplus.work                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Sep  7 11:55:54 SAST 2017
+weightatraining.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Sep  7 12:15:16 SAST 2017
+xitjw.info                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Sep  7 12:17:40 SAST 2017
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Sep  7 12:22:18 SAST 2017

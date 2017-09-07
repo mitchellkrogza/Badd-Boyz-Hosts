@@ -771,3 +771,6 @@ rgooglejubgo.xyz                                                                
 site-speed-checker.site                                                                              INACTIVE    000        Thu Sep  7 11:55:45 SAST 2017
 site-speed-check.site                                                                                INACTIVE    000        Thu Sep  7 11:55:46 SAST 2017
 sizeplus.work                                                                                        INACTIVE    000        Thu Sep  7 11:55:54 SAST 2017
+weightatraining.com                                                                                  INACTIVE    000        Thu Sep  7 12:15:16 SAST 2017
+xitjw.info                                                                                           INACTIVE    000        Thu Sep  7 12:17:40 SAST 2017
+zynax.ua                                                                                             INACTIVE    000        Thu Sep  7 12:22:18 SAST 2017
