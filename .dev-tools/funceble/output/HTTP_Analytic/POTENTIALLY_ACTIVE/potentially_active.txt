@@ -809,3 +809,5 @@ pp-service-data-de.eu                                                           
 rgooglejubgo.xyz                                                                                     INACTIVE    000        Fri Sep  8 12:13:37 SAST 2017
 site-speed-checker.site                                                                              INACTIVE    000        Fri Sep  8 12:21:06 SAST 2017
 site-speed-check.site                                                                                INACTIVE    000        Fri Sep  8 12:21:08 SAST 2017
+xitjw.info                                                                                           INACTIVE    000        Fri Sep  8 12:42:50 SAST 2017
+zynax.ua                                                                                             INACTIVE    000        Fri Sep  8 12:47:38 SAST 2017

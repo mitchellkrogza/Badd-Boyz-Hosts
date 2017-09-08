@@ -30,3 +30,6 @@ rgooglejubgo.xyz                                                                
 site-speed-checker.site                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  8 12:21:06 SAST 2017
 site-speed-check.site                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  8 12:21:08 SAST 2017
 tomsuithoorn.nl                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Sep  8 12:30:38 SAST 2017
+word-vorlagen.xyz                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Sep  8 12:41:52 SAST 2017
+xitjw.info                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  8 12:42:50 SAST 2017
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep  8 12:47:38 SAST 2017
