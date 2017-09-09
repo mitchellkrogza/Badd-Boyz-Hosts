@@ -832,3 +832,6 @@ rgooglejubgo.xyz                                                                
 serves.paypal.dargoogle.com                                                                          INACTIVE    000        Sat Sep  9 15:51:16 SAST 2017
 site-speed-checker.site                                                                              INACTIVE    000        Sat Sep  9 15:54:00 SAST 2017
 site-speed-check.site                                                                                INACTIVE    000        Sat Sep  9 15:54:02 SAST 2017
+tengohydar.tk                                                                                        INACTIVE    000        Sat Sep  9 16:03:10 SAST 2017
+xitjw.info                                                                                           INACTIVE    000        Sat Sep  9 16:16:56 SAST 2017
+zynax.ua                                                                                             INACTIVE    000        Sat Sep  9 16:21:50 SAST 2017
