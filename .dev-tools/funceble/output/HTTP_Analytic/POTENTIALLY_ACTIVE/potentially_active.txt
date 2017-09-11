@@ -885,3 +885,6 @@ site-speed-checker.site                                                         
 site-speed-check.site                                                                                INACTIVE    000        Mon Sep 11 12:15:36 SAST 2017
 tengohydar.tk                                                                                        INACTIVE    000        Mon Sep 11 12:23:04 SAST 2017
 truemfilelj.gq                                                                                       INACTIVE    000        Mon Sep 11 12:26:38 SAST 2017
+wp-login.oxypro.com.ph                                                                               INACTIVE    000        Mon Sep 11 12:36:47 SAST 2017
+xitjw.info                                                                                           INACTIVE    000        Mon Sep 11 12:37:25 SAST 2017
+zynax.ua                                                                                             INACTIVE    000        Mon Sep 11 12:42:01 SAST 2017
