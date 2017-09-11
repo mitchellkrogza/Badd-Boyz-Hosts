@@ -32,3 +32,7 @@ serves.paypal.dargoogle.com                                                     
 site-speed-checker.site                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep 11 15:07:21 SAST 2017
 site-speed-check.site                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep 11 15:07:22 SAST 2017
 tengohydar.tk                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep 11 15:14:57 SAST 2017
+truemfilelj.gq                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep 11 15:20:04 SAST 2017
+wp-login.oxypro.com.ph                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep 11 15:29:05 SAST 2017
+xitjw.info                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep 11 15:29:42 SAST 2017
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Mon Sep 11 15:34:14 SAST 2017

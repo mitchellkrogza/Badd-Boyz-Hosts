@@ -916,3 +916,7 @@ serves.paypal.dargoogle.com                                                     
 site-speed-checker.site                                                                              INACTIVE    000        Mon Sep 11 15:07:21 SAST 2017
 site-speed-check.site                                                                                INACTIVE    000        Mon Sep 11 15:07:22 SAST 2017
 tengohydar.tk                                                                                        INACTIVE    000        Mon Sep 11 15:14:57 SAST 2017
+truemfilelj.gq                                                                                       INACTIVE    000        Mon Sep 11 15:20:04 SAST 2017
+wp-login.oxypro.com.ph                                                                               INACTIVE    000        Mon Sep 11 15:29:05 SAST 2017
+xitjw.info                                                                                           INACTIVE    000        Mon Sep 11 15:29:42 SAST 2017
+zynax.ua                                                                                             INACTIVE    000        Mon Sep 11 15:34:14 SAST 2017
