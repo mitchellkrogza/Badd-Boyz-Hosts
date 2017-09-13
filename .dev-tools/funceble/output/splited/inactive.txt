@@ -7,3 +7,11 @@ Domain                                                                          
 bugof.gq                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 12:35:36 SAST 2017
 creatives.adbetclickin.pink                                                                          Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Sep 13 12:44:52 SAST 2017
 dvsdfssffsssd.markeysgallery.com                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 12:51:13 SAST 2017
+elsalumni.de                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 12:54:58 SAST 2017
+exchangeit.gq                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 12:56:52 SAST 2017
+frvo.alptandem.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 13:02:12 SAST 2017
+gg.zzyjxs.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 13:04:08 SAST 2017
+herehloadibs.cf                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 13:08:40 SAST 2017
+hyhj.info                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 13:11:00 SAST 2017
+luckyhome.everybodyshopping.com                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 13:24:51 SAST 2017
+medicines-choice.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 13:27:50 SAST 2017
