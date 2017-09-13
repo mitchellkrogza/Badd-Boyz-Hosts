@@ -30,3 +30,10 @@ serving.adbetclickin.pink                                                       
 site-speed-checker.site                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 13:58:35 SAST 2017
 site-speed-check.site                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 13:58:37 SAST 2017
 stuher.cl                                                                                            Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Sep 13 14:03:33 SAST 2017
+tengohydar.tk                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 14:08:03 SAST 2017
+theplumberschoice.store                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 14:08:57 SAST 2017
+truemfilelj.gq                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 14:11:47 SAST 2017
+wildworld.site                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 14:20:20 SAST 2017
+wp-login.oxypro.com.ph                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 14:21:23 SAST 2017
+xitjw.info                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 14:22:02 SAST 2017
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 13 14:27:07 SAST 2017

@@ -941,3 +941,10 @@ rgooglejubgo.xyz                                                                
 serves.paypal.dargoogle.com                                                                          INACTIVE    000        Wed Sep 13 13:56:09 SAST 2017
 site-speed-checker.site                                                                              INACTIVE    000        Wed Sep 13 13:58:35 SAST 2017
 site-speed-check.site                                                                                INACTIVE    000        Wed Sep 13 13:58:37 SAST 2017
+tengohydar.tk                                                                                        INACTIVE    000        Wed Sep 13 14:08:03 SAST 2017
+theplumberschoice.store                                                                              INACTIVE    000        Wed Sep 13 14:08:57 SAST 2017
+truemfilelj.gq                                                                                       INACTIVE    000        Wed Sep 13 14:11:47 SAST 2017
+wildworld.site                                                                                       INACTIVE    000        Wed Sep 13 14:20:20 SAST 2017
+wp-login.oxypro.com.ph                                                                               INACTIVE    000        Wed Sep 13 14:21:23 SAST 2017
+xitjw.info                                                                                           INACTIVE    000        Wed Sep 13 14:22:02 SAST 2017
+zynax.ua                                                                                             INACTIVE    000        Wed Sep 13 14:27:07 SAST 2017
