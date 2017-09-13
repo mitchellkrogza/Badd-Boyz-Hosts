@@ -920,3 +920,5 @@ truemfilelj.gq                                                                  
 wp-login.oxypro.com.ph                                                                               INACTIVE    000        Mon Sep 11 15:29:05 SAST 2017
 xitjw.info                                                                                           INACTIVE    000        Mon Sep 11 15:29:42 SAST 2017
 zynax.ua                                                                                             INACTIVE    000        Mon Sep 11 15:34:14 SAST 2017
+bugof.gq                                                                                             INACTIVE    000        Wed Sep 13 12:35:36 SAST 2017
+dvsdfssffsssd.markeysgallery.com                                                                     INACTIVE    000        Wed Sep 13 12:51:13 SAST 2017
