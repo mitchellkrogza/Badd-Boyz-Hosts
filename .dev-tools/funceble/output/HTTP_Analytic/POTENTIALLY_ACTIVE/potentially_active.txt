@@ -973,3 +973,9 @@ serves.paypal.dargoogle.com                                                     
 site-speed-checker.site                                                                              INACTIVE    000        Thu Sep 14 13:52:14 SAST 2017
 site-speed-check.site                                                                                INACTIVE    000        Thu Sep 14 13:52:16 SAST 2017
 tengohydar.tk                                                                                        INACTIVE    000        Thu Sep 14 13:59:46 SAST 2017
+truemfilelj.gq                                                                                       INACTIVE    000        Thu Sep 14 14:05:16 SAST 2017
+violationpage2017.cf                                                                                 INACTIVE    000        Thu Sep 14 14:09:43 SAST 2017
+wildworld.site                                                                                       INACTIVE    000        Thu Sep 14 14:12:58 SAST 2017
+wp-login.oxypro.com.ph                                                                               INACTIVE    000        Thu Sep 14 14:13:57 SAST 2017
+xitjw.info                                                                                           INACTIVE    000        Thu Sep 14 14:14:34 SAST 2017
+zynax.ua                                                                                             INACTIVE    000        Thu Sep 14 14:19:17 SAST 2017
