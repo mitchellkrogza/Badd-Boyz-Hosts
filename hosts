@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.09.526
+### Version: V1.2017.09.527
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -1554,6 +1554,7 @@
 0.0.0.0 codq.info
 0.0.0.0 codysbbq.com
 0.0.0.0 coindirect.io
+0.0.0.0 coin-hive.com
 0.0.0.0 coinsspb.com
 0.0.0.0 coldfilm.ru
 0.0.0.0 colegiovirginiapatrick.com.br
