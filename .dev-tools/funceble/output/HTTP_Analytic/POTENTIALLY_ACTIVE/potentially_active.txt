@@ -979,3 +979,7 @@ wildworld.site                                                                  
 wp-login.oxypro.com.ph                                                                               INACTIVE    000        Thu Sep 14 14:13:57 SAST 2017
 xitjw.info                                                                                           INACTIVE    000        Thu Sep 14 14:14:34 SAST 2017
 zynax.ua                                                                                             INACTIVE    000        Thu Sep 14 14:19:17 SAST 2017
+bugof.gq                                                                                             INACTIVE    000        Sun Sep 17 15:02:30 SAST 2017
+buttons-for-your-website.com                                                                         INACTIVE    000        Sun Sep 17 15:02:59 SAST 2017
+callmd5map.com                                                                                       INACTIVE    000        Sun Sep 17 15:03:56 SAST 2017
+dvsdfssffsssd.markeysgallery.com                                                                     INACTIVE    000        Sun Sep 17 15:17:52 SAST 2017
