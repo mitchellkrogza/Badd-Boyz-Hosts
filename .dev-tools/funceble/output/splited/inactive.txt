@@ -1,7 +1,7 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Sun Sep 17 17:25:05 SAST 2017
+# Date of generation: Sun Sep 17 20:24:12 SAST 2017
 
 
 Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
-acortarurl.es                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sun Sep 17 17:28:10 SAST 2017
+acortarurl.es                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sun Sep 17 20:27:17 SAST 2017
