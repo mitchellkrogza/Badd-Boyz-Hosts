@@ -1,8 +1,8 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Tue Sep 19 05:32:35 SAST 2017
+# Date of generation: Tue Sep 19 08:04:22 SAST 2017
 
 
 Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
-cantinhodagi.pt                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Sep 19 05:52:29 SAST 2017
-ptidolaku.id                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Sep 19 07:00:32 SAST 2017
+5wh.co.zw                                                                                            Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Sep 19 08:06:17 SAST 2017
+anchorwheelmotel.com.au                                                                              Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Sep 19 08:11:56 SAST 2017
