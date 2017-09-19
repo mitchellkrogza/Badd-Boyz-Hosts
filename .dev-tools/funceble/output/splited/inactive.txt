@@ -1,8 +1,0 @@
-# File generated with https://github.com/funilrys/funceble
-# Date of generation: Tue Sep 19 08:04:22 SAST 2017
-
-
-Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
----------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
-5wh.co.zw                                                                                            Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Sep 19 08:06:17 SAST 2017
-anchorwheelmotel.com.au                                                                              Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Sep 19 08:11:56 SAST 2017
