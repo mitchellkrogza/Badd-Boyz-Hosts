@@ -1024,3 +1024,4 @@ security-infos.it                                                               
 promocaocielo.com.br                                                                                 INACTIVE    000        Mon Sep 18 17:24:21 SAST 2017
 cantinhodagi.pt                                                                                      INACTIVE    000        Tue Sep 19 05:52:29 SAST 2017
 esfchat.tk                                                                                           INACTIVE    000        Wed Sep 20 13:54:18 SAST 2017
+lacasadelgps2021.com.ve                                                                              INACTIVE    000        Wed Sep 20 16:29:25 SAST 2017
