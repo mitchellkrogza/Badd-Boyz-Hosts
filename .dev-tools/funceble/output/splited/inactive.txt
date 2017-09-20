@@ -5,3 +5,4 @@
 Domain                                                                                               WHOIS Server                        Status          Source HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------------------------------- ----------- ---------- ---------- ----------------------------
 lacasadelgps2021.com.ve                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 20 16:29:25 SAST 2017
+updatedentalcollege.edu.bd                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Sep 20 17:23:20 SAST 2017
