@@ -10,3 +10,7 @@ elsmsoport.com                                                                  
 elsportmso.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 16:59:08 SAST 2017
 expdom.com                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 17:02:48 SAST 2017
 lacasadelgps2021.com.ve                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 17:25:21 SAST 2017
+myportsmo.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 17:42:00 SAST 2017
+smomyport.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 18:09:01 SAST 2017
+smportomy.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 18:09:01 SAST 2017
+swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Sep 22 18:14:18 SAST 2017
