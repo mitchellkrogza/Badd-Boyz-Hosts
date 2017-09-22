@@ -1033,3 +1033,4 @@ lacasadelgps2021.com.ve                                                         
 myportsmo.com                                                                                        INACTIVE    000        Fri Sep 22 17:42:00 SAST 2017
 smomyport.com                                                                                        INACTIVE    000        Fri Sep 22 18:09:01 SAST 2017
 smportomy.com                                                                                        INACTIVE    000        Fri Sep 22 18:09:01 SAST 2017
+totaltabel.sslblindado.com                                                                           INACTIVE    000        Fri Sep 22 18:21:21 SAST 2017
