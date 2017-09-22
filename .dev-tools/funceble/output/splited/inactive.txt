@@ -14,3 +14,4 @@ myportsmo.com                                                                   
 smomyport.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 18:09:01 SAST 2017
 smportomy.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 18:09:01 SAST 2017
 swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Sep 22 18:14:18 SAST 2017
+totaltabel.sslblindado.com                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 18:21:21 SAST 2017
