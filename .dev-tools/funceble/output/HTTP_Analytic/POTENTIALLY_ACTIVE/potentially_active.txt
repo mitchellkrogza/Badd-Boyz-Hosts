@@ -1028,3 +1028,5 @@ lacasadelgps2021.com.ve                                                         
 updatedentalcollege.edu.bd                                                                           INACTIVE    000        Wed Sep 20 17:23:20 SAST 2017
 elsmsoport.com                                                                                       INACTIVE    000        Fri Sep 22 16:59:07 SAST 2017
 elsportmso.com                                                                                       INACTIVE    000        Fri Sep 22 16:59:08 SAST 2017
+expdom.com                                                                                           INACTIVE    000        Fri Sep 22 17:02:48 SAST 2017
+lacasadelgps2021.com.ve                                                                              INACTIVE    000        Fri Sep 22 17:25:21 SAST 2017
