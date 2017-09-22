@@ -8,3 +8,5 @@ ciervos.cl                                                                      
 dorratex.tn                                                                                          Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Sep 22 16:55:38 SAST 2017
 elsmsoport.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 16:59:07 SAST 2017
 elsportmso.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 16:59:08 SAST 2017
+expdom.com                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 17:02:48 SAST 2017
+lacasadelgps2021.com.ve                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 17:25:21 SAST 2017
