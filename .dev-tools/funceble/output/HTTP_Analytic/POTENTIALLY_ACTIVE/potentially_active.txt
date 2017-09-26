@@ -1034,3 +1034,5 @@ myportsmo.com                                                                   
 smomyport.com                                                                                        INACTIVE    000        Fri Sep 22 18:09:01 SAST 2017
 smportomy.com                                                                                        INACTIVE    000        Fri Sep 22 18:09:01 SAST 2017
 totaltabel.sslblindado.com                                                                           INACTIVE    000        Fri Sep 22 18:21:21 SAST 2017
+expdom.com                                                                                           INACTIVE    000        Tue Sep 26 14:18:21 SAST 2017
+mapquestz.us                                                                                         INACTIVE    000        Tue Sep 26 14:45:37 SAST 2017
