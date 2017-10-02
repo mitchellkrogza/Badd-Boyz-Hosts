@@ -71,7 +71,7 @@ sudo touch $TRAVIS_BUILD_DIR/.dev-tools/temp_combined-list.txt
 # Pull Dead / Inactive Hosts Data from Repo > https://github.com/mitchellkrogza/Dead.Domains.Inactive.Hosts
 # *********************************************************************************************************
 
-sudo wget https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/dead-domains.txt -O $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
+sudo wget https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/DOMAINS-dead.txt -O $TRAVIS_BUILD_DIR/.dev-tools/dead-domains.txt
 
 # **********************************
 # Setup input bots and referer lists
@@ -110,7 +110,7 @@ _combinedlist=$TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
 
 printf '\n%s\n%s\n%s\n\n' "##########################" "Stripping out Dead Domains" "##########################"
 
-sudo wget https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/dead-domains.txt -O $TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/dead-domains.txt
+sudo wget https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/DOMAINS-dead.txt -O $TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/dead-domains.txt
 
 _deaddomains=$TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/dead-domains.txt
 _deadtemp=$TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/temp_dead_domains.txt
@@ -128,20 +128,20 @@ printf '\n%s\n%s\n%s\n\n' "###############################" "END: Stripping out 
 # Run our Cleaner to remove all False Positive Domains from https://github.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects
 # *******************************************************************************************************************************************************************
 
-printf '\n%s\n%s\n%s\n\n' "####################################" "Stripping out False Positive Domains" "####################################"
+#printf '\n%s\n%s\n%s\n\n' "####################################" "Stripping out False Positive Domains" "####################################"
 
-sudo wget https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/false-positives.txt -O $TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/false-positives.txt
+#sudo wget https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/false-positives.txt -O $TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/false-positives.txt
 
-_falsepositives=$TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/false-positives.txt
-_falsepositivestemp=$TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/temp_false_positives.txt
+#_falsepositives=$TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/false-positives.txt
+#_falsepositivestemp=$TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/temp_false_positives.txt
 
-sort -u $_falsepositives -o $_falsepositives
+#sort -u $_falsepositives -o $_falsepositives
 
-awk 'NR==FNR{a[$0];next} !($0 in a)' $_falsepositives $_combinedlist > $_falsepositivestemp && mv $_falsepositivestemp $_combinedlist
+#awk 'NR==FNR{a[$0];next} !($0 in a)' $_falsepositives $_combinedlist > $_falsepositivestemp && mv $_falsepositivestemp $_combinedlist
 
-sort -u $_combinedlist -o $_combinedlist
+#sort -u $_combinedlist -o $_combinedlist
 
-printf '\n%s\n%s\n%s\n\n' "#########################################" "END: Stripping out False Positive Domains" "#########################################"
+#printf '\n%s\n%s\n%s\n\n' "#########################################" "END: Stripping out False Positive Domains" "#########################################"
 
 # *******************************************************************************************************************************************************************
 # Run our Cleaner to remove all Whitelisted Domains from https://github.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects
@@ -149,7 +149,7 @@ printf '\n%s\n%s\n%s\n\n' "#########################################" "END: Stri
 
 printf '\n%s\n%s\n%s\n\n' "#################################" "Stripping out Whitelisted Domains" "#################################"
 
-sudo wget https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/whitelist-domains.txt -O $TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/whitelist-domains.txt
+sudo wget https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/DOMAINS-whitelist.txt -O $TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/whitelist-domains.txt
 
 _whitelist=$TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/whitelist-domains.txt
 _whitelisttemp=$TRAVIS_BUILD_DIR/.dev-tools/list-cleaning/temp_whitelisted.txt
