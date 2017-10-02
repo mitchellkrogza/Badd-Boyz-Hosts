@@ -26,3 +26,9 @@ seomarketings.online                                                            
 signal03.ru                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 11:42:42 SAST 2017
 swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 11:49:54 SAST 2017
 tanvan.com.au                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 11:50:28 SAST 2017
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 11:55:43 SAST 2017
+turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 11:58:18 SAST 2017
+virtualcard.brunst.dk                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 12:02:49 SAST 2017
+youporn-forum.uni.me                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 12:10:02 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Mon Oct  2 12:11:31 SAST 2017
+zigarettenonlinekaufen.tumblr.com                                                                                                        INACTIVE    SPECIAL    404        Mon Oct  2 12:11:36 SAST 2017
