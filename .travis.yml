@@ -23,7 +23,7 @@ before_install:
 
 script:
   - bash .dev-tools/pre-deploy.sh
-  - bash .dev-tools/deploy.sh
+  #- bash .dev-tools/deploy.sh
 
 notifications:
   email: false
