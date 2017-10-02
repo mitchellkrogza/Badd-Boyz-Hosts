@@ -70,6 +70,12 @@ q
 IN
 rm $_inputdbA
 
+# ***********************
+# Truncate Cleaning Files
+# ***********************
+
+sudo truncate -s 0 $TRAVIS_BUILD_DIR/.input_sources/.False-Positives-Dead-Domains/whitelist-domains.txt
+sudo truncate -s 0 $TRAVIS_BUILD_DIR/.input_sources/.False-Positives-Dead-Domains/dead-domains.txt
 
 exit 0
 
