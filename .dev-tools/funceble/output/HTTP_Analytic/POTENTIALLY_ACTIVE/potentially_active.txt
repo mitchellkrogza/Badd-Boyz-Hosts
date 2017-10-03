@@ -6,3 +6,7 @@ Domain                                                                          
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
 arriendomesas.cl                                                                                     INACTIVE    000        Tue Oct  3 10:50:51 SAST 2017
 aruplighting.com                                                                                     INACTIVE    000        Tue Oct  3 10:51:11 SAST 2017
+chrklr.eu                                                                                            INACTIVE    000        Tue Oct  3 11:06:43 SAST 2017
+confirmupdatepage.cf                                                                                 INACTIVE    000        Tue Oct  3 11:08:37 SAST 2017
+exhibitionplus.eu                                                                                    INACTIVE    000        Tue Oct  3 11:19:56 SAST 2017
+expdom.com                                                                                           INACTIVE    000        Tue Oct  3 11:19:59 SAST 2017
