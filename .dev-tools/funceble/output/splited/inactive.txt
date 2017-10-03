@@ -36,3 +36,5 @@ turizm.bz                                                                       
 virtualcard.brunst.dk                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 13:11:24 SAST 2017
 wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 13:13:54 SAST 2017
 youporn-forum.uni.me                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 13:18:30 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Tue Oct  3 13:22:48 SAST 2017
+zigarettenonlinekaufen.tumblr.com                                                                                                        INACTIVE    SPECIAL    404        Tue Oct  3 13:22:52 SAST 2017
