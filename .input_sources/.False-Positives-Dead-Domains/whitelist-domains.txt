@@ -202,6 +202,7 @@ uploads.disquscdn.com
 v10.vortex-win.data.microsoft.com
 video-stats.l.google.com
 vox.com
+wally3k.github.io
 walmart.com
 weebly.com
 weeklyad.target.com
