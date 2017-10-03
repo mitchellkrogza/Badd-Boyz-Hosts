@@ -9,17 +9,17 @@ A hosts file for use on any operating system to block bad domains out of your se
 - Copyright: https://github.com/mitchellkrogza
 
 _______________
-[![VERSION](https://img.shields.io/badge/VERSION%20-%20V1.2017.10.597-blue.svg)](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/commits/master)
+[![VERSION](https://img.shields.io/badge/VERSION%20-%20V1.2017.10.598-blue.svg)](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/commits/master)
 #### Bad Host Count: 7420
 ```
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Tue Oct  3 11:31:17 SAST 2017
+# Date of generation: Tue Oct  3 12:03:52 SAST 2017
 
 
 Status      Percentage   Numbers     
 ----------- ------------ -------------
-ACTIVE      99%          3691        
-INACTIVE    0%           13          
+ACTIVE      99%          4858        
+INACTIVE    0%           16          
 INVALID     0%           0           
 ```
 ____________________
