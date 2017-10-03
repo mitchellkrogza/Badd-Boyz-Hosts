@@ -17,3 +17,6 @@ ghernnqr.skyrock.com                                                            
 gsvx.5gbfree.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 11:36:51 SAST 2017
 hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Tue Oct  3 11:39:19 SAST 2017
 kilmme.5gbfree.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 11:48:11 SAST 2017
+loftdigital.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 12:06:10 SAST 2017
+nfljerseyscheapbiz.us                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 12:17:24 SAST 2017
+pdns.download                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 12:23:11 SAST 2017
