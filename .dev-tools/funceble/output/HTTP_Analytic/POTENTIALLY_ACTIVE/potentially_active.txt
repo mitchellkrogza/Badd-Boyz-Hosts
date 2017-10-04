@@ -1,0 +1,10 @@
+# File generated with https://github.com/funilrys/funceble
+# Date of generation: Wed Oct  4 16:04:51 SAST 2017
+
+
+Domain                                                                                               Status      HTTP Code  Analyse Date        
+---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
+arriendomesas.cl                                                                                     INACTIVE    000        Wed Oct  4 16:14:47 SAST 2017
+aruplighting.com                                                                                     INACTIVE    000        Wed Oct  4 16:15:10 SAST 2017
+bellafemmebeauty.co.nz                                                                               INACTIVE    000        Wed Oct  4 16:19:31 SAST 2017
+bupropion-sr-150-mg.us                                                                               INACTIVE    000        Wed Oct  4 16:24:14 SAST 2017
