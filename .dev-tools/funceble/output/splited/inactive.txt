@@ -65,3 +65,5 @@ wahicbefa31.soup.io                                                             
 wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 18:26:21 SAST 2017
 x-rates.ru                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 18:30:15 SAST 2017
 youporn-forum.uni.me                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 18:31:14 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Wed Oct  4 18:34:12 SAST 2017
+zigarettenonlinekaufen.tumblr.com                                                                                                        INACTIVE    SPECIAL    404        Wed Oct  4 18:34:17 SAST 2017
