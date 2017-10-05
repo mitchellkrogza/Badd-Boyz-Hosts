@@ -24,3 +24,7 @@ hoverboard360.se                                                                
 iskunvaimenninhuolto.fi                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 14:24:05 SAST 2017
 kacanghijaubahagia.co.id                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 14:26:57 SAST 2017
 kilmme.5gbfree.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct  5 14:28:20 SAST 2017
+loftdigital.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 14:35:21 SAST 2017
+morconsultoria.cl                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 14:42:27 SAST 2017
+nfljerseyscheapbiz.us                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 14:46:29 SAST 2017
+pdns.download                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 14:52:12 SAST 2017
