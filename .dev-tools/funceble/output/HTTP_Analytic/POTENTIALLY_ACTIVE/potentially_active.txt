@@ -1,59 +1,12 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Wed Oct  4 16:04:51 SAST 2017
+# Date of generation: Thu Oct  5 10:15:24 SAST 2017
 
 
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-arriendomesas.cl                                                                                     INACTIVE    000        Wed Oct  4 16:14:47 SAST 2017
-aruplighting.com                                                                                     INACTIVE    000        Wed Oct  4 16:15:10 SAST 2017
-bellafemmebeauty.co.nz                                                                               INACTIVE    000        Wed Oct  4 16:19:31 SAST 2017
-bupropion-sr-150-mg.us                                                                               INACTIVE    000        Wed Oct  4 16:24:14 SAST 2017
-chrklr.eu                                                                                            INACTIVE    000        Wed Oct  4 16:31:55 SAST 2017
-confirmupdatepage.cf                                                                                 INACTIVE    000        Wed Oct  4 16:33:42 SAST 2017
-exhibitionplus.eu                                                                                    INACTIVE    000        Wed Oct  4 16:45:25 SAST 2017
-expdom.com                                                                                           INACTIVE    000        Wed Oct  4 16:45:28 SAST 2017
-gok-kasten.net                                                                                       INACTIVE    000        Wed Oct  4 17:04:52 SAST 2017
-gsvx.5gbfree.com                                                                                     INACTIVE    000        Wed Oct  4 17:06:26 SAST 2017
-hoverboard360.se                                                                                     INACTIVE    000        Wed Oct  4 17:09:59 SAST 2017
-kilmme.5gbfree.com                                                                                   INACTIVE    000        Wed Oct  4 17:17:29 SAST 2017
-loftdigital.eu                                                                                       INACTIVE    000        Wed Oct  4 17:31:11 SAST 2017
-morconsultoria.cl                                                                                    INACTIVE    000        Wed Oct  4 17:38:03 SAST 2017
-nfljerseyscheapbiz.us                                                                                INACTIVE    000        Wed Oct  4 17:41:57 SAST 2017
-pdns.download                                                                                        INACTIVE    000        Wed Oct  4 17:47:28 SAST 2017
-pochemychka.net                                                                                      INACTIVE    000        Wed Oct  4 17:51:07 SAST 2017
-pornhub-forum.uni.me                                                                                 INACTIVE    000        Wed Oct  4 17:51:46 SAST 2017
-quit-smoking.ga                                                                                      INACTIVE    000        Wed Oct  4 17:55:23 SAST 2017
-sansil.eu                                                                                            INACTIVE    000        Wed Oct  4 18:00:47 SAST 2017
-scanner-george.top                                                                                   INACTIVE    000        Wed Oct  4 18:01:30 SAST 2017
-scanner-irvin.top                                                                                    INACTIVE    000        Wed Oct  4 18:01:30 SAST 2017
-scanner-ivan.top                                                                                     INACTIVE    000        Wed Oct  4 18:01:31 SAST 2017
-scanner-jack.top                                                                                     INACTIVE    000        Wed Oct  4 18:01:32 SAST 2017
-scanner-jane.top                                                                                     INACTIVE    000        Wed Oct  4 18:01:32 SAST 2017
-scanner-jessica.top                                                                                  INACTIVE    000        Wed Oct  4 18:01:33 SAST 2017
-scanner-jess.top                                                                                     INACTIVE    000        Wed Oct  4 18:01:34 SAST 2017
-scanner-john.top                                                                                     INACTIVE    000        Wed Oct  4 18:01:35 SAST 2017
-scanner-josh.top                                                                                     INACTIVE    000        Wed Oct  4 18:01:35 SAST 2017
-scanner-julianna.top                                                                                 INACTIVE    000        Wed Oct  4 18:01:36 SAST 2017
-scanner-julia.top                                                                                    INACTIVE    000        Wed Oct  4 18:01:37 SAST 2017
-scanner-margo.top                                                                                    INACTIVE    000        Wed Oct  4 18:01:37 SAST 2017
-scanner-mark.top                                                                                     INACTIVE    000        Wed Oct  4 18:01:38 SAST 2017
-scanner-marwin.top                                                                                   INACTIVE    000        Wed Oct  4 18:01:39 SAST 2017
-scanner-mary.top                                                                                     INACTIVE    000        Wed Oct  4 18:01:39 SAST 2017
-scanner-nelson.top                                                                                   INACTIVE    000        Wed Oct  4 18:01:40 SAST 2017
-scanner-olga.top                                                                                     INACTIVE    000        Wed Oct  4 18:01:41 SAST 2017
-scanner-viktor.top                                                                                   INACTIVE    000        Wed Oct  4 18:01:42 SAST 2017
-scanner-walter.top                                                                                   INACTIVE    000        Wed Oct  4 18:01:43 SAST 2017
-scanner-walt.top                                                                                     INACTIVE    000        Wed Oct  4 18:01:43 SAST 2017
-scanner-willy.top                                                                                    INACTIVE    000        Wed Oct  4 18:01:44 SAST 2017
-securityandsafetytoday.com.ng                                                                        INACTIVE    000        Wed Oct  4 18:02:48 SAST 2017
-seomarketings.online                                                                                 INACTIVE    000        Wed Oct  4 18:03:20 SAST 2017
-signal03.ru                                                                                          INACTIVE    000        Wed Oct  4 18:05:28 SAST 2017
-swinginwithme.ru                                                                                     INACTIVE    000        Wed Oct  4 18:14:03 SAST 2017
-tanvan.com.au                                                                                        INACTIVE    000        Wed Oct  4 18:14:35 SAST 2017
-titelhelden.eu                                                                                       INACTIVE    000        Wed Oct  4 18:16:48 SAST 2017
-trichizobswiv.agddns.net                                                                             INACTIVE    000        Wed Oct  4 18:18:34 SAST 2017
-turizm.bz                                                                                            INACTIVE    000        Wed Oct  4 18:19:18 SAST 2017
-virtualcard.brunst.dk                                                                                INACTIVE    000        Wed Oct  4 18:23:49 SAST 2017
-wellsfargo.tve.com.au                                                                                INACTIVE    000        Wed Oct  4 18:26:21 SAST 2017
-x-rates.ru                                                                                           INACTIVE    000        Wed Oct  4 18:30:15 SAST 2017
-youporn-forum.uni.me                                                                                 INACTIVE    000        Wed Oct  4 18:31:14 SAST 2017
+apple.com-webbrowsing-security.review                                                                INACTIVE    000        Thu Oct  5 10:23:55 SAST 2017
+apple.com-webbrowsing-security.science                                                               INACTIVE    000        Thu Oct  5 10:23:56 SAST 2017
+arriendomesas.cl                                                                                     INACTIVE    000        Thu Oct  5 10:24:45 SAST 2017
+aruplighting.com                                                                                     INACTIVE    000        Thu Oct  5 10:25:08 SAST 2017
+bellafemmebeauty.co.nz                                                                               INACTIVE    000        Thu Oct  5 10:29:24 SAST 2017
+bupropion-sr-150-mg.us                                                                               INACTIVE    000        Thu Oct  5 10:33:57 SAST 2017
