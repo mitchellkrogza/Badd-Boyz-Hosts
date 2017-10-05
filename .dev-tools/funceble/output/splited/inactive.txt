@@ -66,3 +66,5 @@ urll.eu                                                                         
 virtualcard.brunst.dk                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 15:29:04 SAST 2017
 wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 15:31:42 SAST 2017
 x-rates.ru                                                                                           Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct  5 15:35:56 SAST 2017
+youporn-forum.uni.me                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 15:38:18 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Thu Oct  5 15:39:49 SAST 2017
