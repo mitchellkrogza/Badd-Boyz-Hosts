@@ -58,3 +58,10 @@ scanner-willy.top                                                               
 securityandsafetytoday.com.ng                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:08:36 SAST 2017
 seomarketings.online                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:09:11 SAST 2017
 signal03.ru                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:11:15 SAST 2017
+swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:28:09 SAST 2017
+tanvan.com.au                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:28:44 SAST 2017
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:31:09 SAST 2017
+trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:33:04 SAST 2017
+turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:33:51 SAST 2017
+virtualcard.brunst.dk                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:38:35 SAST 2017
+wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct  5 12:41:15 SAST 2017
