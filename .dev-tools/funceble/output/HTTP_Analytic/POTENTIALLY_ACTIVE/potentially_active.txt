@@ -51,3 +51,9 @@ scanner-willy.top                                                               
 securityandsafetytoday.com.ng                                                                        INACTIVE    000        Thu Oct  5 15:07:17 SAST 2017
 seomarketings.online                                                                                 INACTIVE    000        Thu Oct  5 15:07:55 SAST 2017
 signal03.ru                                                                                          INACTIVE    000        Thu Oct  5 15:10:02 SAST 2017
+tanvan.com.au                                                                                        INACTIVE    000        Thu Oct  5 15:19:22 SAST 2017
+titelhelden.eu                                                                                       INACTIVE    000        Thu Oct  5 15:21:35 SAST 2017
+trichizobswiv.agddns.net                                                                             INACTIVE    000        Thu Oct  5 15:23:26 SAST 2017
+turizm.bz                                                                                            INACTIVE    000        Thu Oct  5 15:24:19 SAST 2017
+virtualcard.brunst.dk                                                                                INACTIVE    000        Thu Oct  5 15:29:04 SAST 2017
+wellsfargo.tve.com.au                                                                                INACTIVE    000        Thu Oct  5 15:31:42 SAST 2017

@@ -57,3 +57,12 @@ scanner-willy.top                                                               
 securityandsafetytoday.com.ng                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 15:07:17 SAST 2017
 seomarketings.online                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 15:07:55 SAST 2017
 signal03.ru                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 15:10:02 SAST 2017
+swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct  5 15:18:46 SAST 2017
+tanvan.com.au                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 15:19:22 SAST 2017
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 15:21:35 SAST 2017
+trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 15:23:26 SAST 2017
+turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 15:24:19 SAST 2017
+urll.eu                                                                                              Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct  5 15:26:09 SAST 2017
+virtualcard.brunst.dk                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 15:29:04 SAST 2017
+wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 15:31:42 SAST 2017
+x-rates.ru                                                                                           Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct  5 15:35:56 SAST 2017
