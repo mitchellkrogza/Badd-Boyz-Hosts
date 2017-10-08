@@ -15,3 +15,10 @@ confirmupdatepage.cf                                                            
 cos.entrope.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Sun Oct  8 16:38:33 SAST 2017
 drahmad.com.pk                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 16:45:02 SAST 2017
 exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 16:49:53 SAST 2017
+ghernnqr.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Sun Oct  8 16:58:33 SAST 2017
+gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 16:59:30 SAST 2017
+gsvx.5gbfree.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 17:01:10 SAST 2017
+hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Sun Oct  8 17:03:41 SAST 2017
+iskunvaimenninhuolto.fi                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 17:08:30 SAST 2017
+jewelryandfiligree.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 17:10:06 SAST 2017
+kilmme.5gbfree.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 17:12:41 SAST 2017
