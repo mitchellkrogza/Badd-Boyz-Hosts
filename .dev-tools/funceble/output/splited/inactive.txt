@@ -56,3 +56,10 @@ scanner-walt.top                                                                
 scanner-willy.top                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 17:52:03 SAST 2017
 seomarketings.online                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 17:53:30 SAST 2017
 signal03.ru                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 17:55:32 SAST 2017
+swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 18:04:27 SAST 2017
+tanvan.com.au                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 18:05:04 SAST 2017
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 18:07:22 SAST 2017
+trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 18:09:21 SAST 2017
+turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 18:10:08 SAST 2017
+virtualcard.brunst.dk                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 18:14:53 SAST 2017
+wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct  8 18:17:28 SAST 2017
