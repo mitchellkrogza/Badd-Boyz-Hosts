@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.10.624
+### Version: V1.2017.10.625
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -2816,7 +2816,6 @@
 0.0.0.0 googlepositions.com
 0.0.0.0 googlevideositemap.com
 0.0.0.0 googst2.ru
-0.0.0.0 goo.ne.jp
 0.0.0.0 gooogle.blackfriday
 0.0.0.0 goosefishpost.bid
 0.0.0.0 gopixdatabase.com
