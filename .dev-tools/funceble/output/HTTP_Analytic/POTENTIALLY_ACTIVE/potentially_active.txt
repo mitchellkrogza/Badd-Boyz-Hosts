@@ -52,3 +52,10 @@ scanner-walt.top                                                                
 scanner-willy.top                                                                                    INACTIVE    000        Sun Oct  8 17:52:03 SAST 2017
 seomarketings.online                                                                                 INACTIVE    000        Sun Oct  8 17:53:30 SAST 2017
 signal03.ru                                                                                          INACTIVE    000        Sun Oct  8 17:55:32 SAST 2017
+swinginwithme.ru                                                                                     INACTIVE    000        Sun Oct  8 18:04:27 SAST 2017
+tanvan.com.au                                                                                        INACTIVE    000        Sun Oct  8 18:05:04 SAST 2017
+titelhelden.eu                                                                                       INACTIVE    000        Sun Oct  8 18:07:22 SAST 2017
+trichizobswiv.agddns.net                                                                             INACTIVE    000        Sun Oct  8 18:09:21 SAST 2017
+turizm.bz                                                                                            INACTIVE    000        Sun Oct  8 18:10:08 SAST 2017
+virtualcard.brunst.dk                                                                                INACTIVE    000        Sun Oct  8 18:14:53 SAST 2017
+wellsfargo.tve.com.au                                                                                INACTIVE    000        Sun Oct  8 18:17:28 SAST 2017
