@@ -1,4 +1,3 @@
-luj.sdsjweb.com
 000free.us
 000owamail0.000webhostapp.com
 007angels.com
@@ -101,8 +100,8 @@ luj.sdsjweb.com
 888.com
 8fvchzuz.myutilitydomain.com
 8gold.com
-#8lufu.com # LAST CHECK POINT BEGIN
 8lufu.com
+#8lufu.com # LAST CHECK POINT BEGIN
 8si.ru
 8xv8.com
 91abcw.com
@@ -3848,6 +3847,7 @@ lubetube.com
 luciddiagnostics.in
 luckyshop.net.ua
 luissalamanca.tarjetavirtual.biz
+luj.sdsjweb.com
 lukaszuk.com.pl
 lukluk.net
 lumb.co
