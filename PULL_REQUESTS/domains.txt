@@ -101,7 +101,6 @@
 8fvchzuz.myutilitydomain.com
 8gold.com
 8lufu.com
-#8lufu.com # LAST CHECK POINT BEGIN
 8si.ru
 8xv8.com
 91abcw.com
@@ -113,10 +112,10 @@
 9stoneinvestments.com
 a0152829.xsph.ru
 a1host.com.au
-a1security.com.ua
 a2btrans.pl
 a2plvcpnl14118.atendclients.com
 a2zgroup.in
+a2zgroup.in#
 aa08daf7e13b6345e09e92f771507fa5f4.com
 aa14ab57a3339c4064bd9ae6fad7495b5f.com
 aa625d84f1587749c1ab011d6f269f7d64.com
