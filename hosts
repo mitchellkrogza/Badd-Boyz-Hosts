@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2017.10.642
+### Version: V1.2017.10.643
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -150,12 +150,6 @@
 0.0.0.0 8fvchzuz.myutilitydomain.com
 0.0.0.0 8gold.com
 0.0.0.0 8lufu.com
-0.0.0.0 #8lufu.com
-0.0.0.0 #
-0.0.0.0 LAST
-0.0.0.0 CHECK
-0.0.0.0 POINT
-0.0.0.0 BEGIN
 0.0.0.0 8si.ru
 0.0.0.0 8xv8.com
 0.0.0.0 91abcw.com
@@ -167,10 +161,10 @@
 0.0.0.0 9stoneinvestments.com
 0.0.0.0 a0152829.xsph.ru
 0.0.0.0 a1host.com.au
-0.0.0.0 a1security.com.ua
 0.0.0.0 a2btrans.pl
 0.0.0.0 a2plvcpnl14118.atendclients.com
 0.0.0.0 a2zgroup.in
+0.0.0.0 a2zgroup.in#
 0.0.0.0 aa08daf7e13b6345e09e92f771507fa5f4.com
 0.0.0.0 aa14ab57a3339c4064bd9ae6fad7495b5f.com
 0.0.0.0 aa625d84f1587749c1ab011d6f269f7d64.com
