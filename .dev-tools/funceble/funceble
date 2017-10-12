@@ -160,16 +160,16 @@ travisMode=false
 travisAutoSaveMinutes=20
 
 # Default travis final commit message
-travisResultsCommitMessage='V1.2017.10.649'
+travisResultsCommitMessage='V1.2017.10.650'
 
 # Default travis autosave commit message
-travisAutoSaveCommitMessage='V1.2017.10.649 [funceble]'
+travisAutoSaveCommitMessage='V1.2017.10.650 [funceble]'
 
 # If set to false, we generate only one file with the results
 splitFiles=false
 
 # Version number
-versionNumber='dev-1.4.0+208'
+versionNumber='dev-1.4.0+209'
 
 # IANA whois server. The following is there to give use the whois
 # host we have to call to get a (valid) response.
@@ -2372,30 +2372,39 @@ main()
                     
                     if [[ ! $(grep -v \# ${file} | tail -1) =~ ${escapedDomain} ]]
                     then
+                        # We assign a temporary file where we save the new list to test
+                        local newFile=/var/tmp/funceble_continue.$$
+                        
+                        # We same the list of domain to test
+                        sed -ne '/'${escapedDomain}'/{s///; :a' -e 'n;p;ba' -e '}' ${file} >> ${newFile}
+                        
+                        # We read a file into an array
+                        readarray fileContentFromLastTested < ${newFile}
+                        
                         # We get the list of domain from last tested until the end
                         # and pass it to the loop where we're gonna filter and
                         # test the domain/IP.
-                        sed -ne '/'${escapedDomain}'/{s///; :a' -e 'n;p;ba' -e '}' ${file} | while read domain
+                        for i in ${!fileContentFromLastTested[*]}
                         do
+                            readLine="$(echo "${fileContentFromLastTested[${i}]}" | cut -d$'\n' -f1)"
                             # In case the file contain comment or empty line we continue to
                             # the next line
-                            case "${domain}" in
-                                \#*|'')
-                                    keepComments "${domain}"
+                            case "${readLine}" in
+                                \#*|"")
+                                    keepComments "${readLine}"
                                     continue
                                 ;;
                                 *localhost*|local|broadcasthost)
-                                    keepComments "${domain}"
+                                    keepComments "${readLine}"
                                     
-                                    formatDomain ${domain}
+                                    formatDomain "${readLine}"
                                     # We update the value of the domain name
                                     updateAutoContinueLog "${escapedFile}" "${domain}"
                                     continue
                                 ;;
-                                '127.0.0.1'*|'0.0.0.0'*)
-                                    formatDomain "${domain}"
-                                ;;
                             esac
+                            
+                            formatDomain "${readLine}"
                             
                             # We escape our filter in order to hava a valid regex format
                             regexFilter=$(escapeString ${toFilter} 'domain')
@@ -2471,29 +2480,32 @@ main()
                 # regex variable
                 local escapedFile=$(escapeString "${file}" "file")
                 
+                # We read our file to an array
+                readarray fileContent < ${file}
+                
                 # We read the list of the file and pass the domain (1 line = 1 domain)
                 # to getExpirationDate
-                while read domain
+                for i in ${!fileContent[*]}
                 do
+                    readLine="$(echo "${fileContent[${i}]}" | cut -d$'\n' -f1)"
                     # In case the file contain comment or empty line we continue to
                     # the next line
-                    case "${domain}" in
-                        \#*|'')
-                            keepComments "${domain}"
+                    case "${readLine}" in
+                        \#*|"")
+                            keepComments "${readLine}"
                             continue
                         ;;
                         *localhost*|local|broadcasthost)
-                            keepComments "${domain}"
+                            keepComments "${readLine}"
                             
-                            formatDomain ${domain}
+                            formatDomain "${readLine}"
                             # We update the value of the domain name
                             updateAutoContinueLog "${escapedFile}" "${domain}"
                             continue
                         ;;
-                        '127.0.0.1'*|'0.0.0.0'*)
-                            formatDomain "${domain}"
-                        ;;
                     esac
+                    
+                    formatDomain "${readLine}"
                     
                     # We escape our filter in order to hava a valid regex format
                     regexFilter=$(escapeString ${toFilter} 'domain')
@@ -2531,7 +2543,7 @@ main()
                     
                     # We commit if time += ${travisAutoSaveMinutes}
                     travisAutoSave
-                done < ${file}
+                done
                 
                 # We commit if time += ${travisAutoSaveMinutes}
                 travisAutoSave
