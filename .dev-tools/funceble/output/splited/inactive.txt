@@ -59,3 +59,13 @@ scanner-walt.top                                                                
 scanner-willy.top                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:16:10 SAST 2017
 seomarketings.online                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:17:36 SAST 2017
 signal03.ru                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:19:40 SAST 2017
+sstamlyn.gq                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:25:20 SAST 2017
+stuher.cl                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:26:55 SAST 2017
+swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:28:11 SAST 2017
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:31:03 SAST 2017
+trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:32:54 SAST 2017
+uftpakistan.com.pk                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct 12 12:34:29 SAST 2017
+verification56.helpfanspagea.tk                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:36:58 SAST 2017
+virtualcard.brunst.dk                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:38:19 SAST 2017
+warrning-fanpa9e1.securittty4.tk                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:39:45 SAST 2017
+wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 12:40:41 SAST 2017
