@@ -70,3 +70,4 @@ virtualcard.brunst.dk                                                           
 warrning-fanpa9e1.securittty4.tk                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 14:18:48 SAST 2017
 wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 14:19:50 SAST 2017
 wiprint.co.id                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 13 14:20:49 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Fri Oct 13 14:27:35 SAST 2017
