@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt zzsyw.com 11759 11572 187 0
+/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt baumgarten-burgdorf.de 1265 1250 15 0
