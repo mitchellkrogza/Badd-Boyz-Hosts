@@ -49,3 +49,12 @@ herbert-ahl.de                                                                  
 hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Tue Oct 17 19:04:19 SAST 2017
 iece1vi.to                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:08:13 SAST 2017
 ieve2ee.to                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:08:28 SAST 2017
+intellektmedia.at                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct 17 19:13:30 SAST 2017
+iromusic.net                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:14:45 SAST 2017
+iskunvaimenninhuolto.fi                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:14:59 SAST 2017
+jewelryandfiligree.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:17:16 SAST 2017
+kilmme.5gbfree.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:21:35 SAST 2017
+lacasadelgps2021.com.ve                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:25:16 SAST 2017
+lagubox.net                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:25:31 SAST 2017
+loftdigital.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:29:38 SAST 2017
+luxuswohnmobile.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 19:31:17 SAST 2017
