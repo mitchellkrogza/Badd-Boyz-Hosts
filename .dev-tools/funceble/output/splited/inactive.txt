@@ -181,3 +181,19 @@ warrning-fanpa9e1.securittty4.tk                                                
 weeth7o.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:40:43 SAST 2017
 wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:40:58 SAST 2017
 wexprime.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:41:30 SAST 2017
+www.bustyjournal.net                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:45:56 SAST 2017
+wwwdiariodenavarra.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:46:13 SAST 2017
+www.dkworld.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:46:16 SAST 2017
+www.gatekeeper.tss.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:46:30 SAST 2017
+wwwgazete.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:46:30 SAST 2017
+wwwgirlchanh.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:46:31 SAST 2017
+www.hitlistcheck.de                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:46:33 SAST 2017
+wwwmpof.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:46:56 SAST 2017
+www.subfix.de                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:47:43 SAST 2017
+www.toursbitsstock.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:47:50 SAST 2017
+ytownhall.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:53:19 SAST 2017
+zabilogha.ehost-services204.com                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 20:53:45 SAST 2017
+zaidia.xhost.ro                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 20:53:58 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Wed Oct 18 20:55:17 SAST 2017
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 20:56:04 SAST 2017
+zovermedical.com.sa                                                                                  Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 20:56:13 SAST 2017
