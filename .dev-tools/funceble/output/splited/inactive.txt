@@ -186,3 +186,18 @@ viewmynewmatchpictures.com                                                      
 virtualcard.brunst.dk                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:40:42 SAST 2017
 wantospo.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:42:49 SAST 2017
 warrning-fanpa9e1.securittty4.tk                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:43:01 SAST 2017
+wellsfargo.tve.com.au                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:46:13 SAST 2017
+wexprime.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:46:42 SAST 2017
+www.bustyjournal.net                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:49:34 SAST 2017
+wwwdiariodenavarra.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:49:52 SAST 2017
+www.dkworld.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:49:54 SAST 2017
+www.gatekeeper.tss.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:50:07 SAST 2017
+wwwgazete.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:50:08 SAST 2017
+wwwgirlchanh.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:50:08 SAST 2017
+www.hitlistcheck.de                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:50:11 SAST 2017
+wwwmpof.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:50:32 SAST 2017
+www.subfix.de                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:51:13 SAST 2017
+www.toursbitsstock.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:51:21 SAST 2017
+ytownhall.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:56:21 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Sun Oct 22 15:58:00 SAST 2017
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 22 15:58:47 SAST 2017
