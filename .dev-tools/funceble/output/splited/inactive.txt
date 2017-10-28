@@ -223,3 +223,8 @@ wwwgirlchanh.com                                                                
 www.hitlistcheck.de                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 20:44:28 SAST 2017
 wwwmpof.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 20:44:51 SAST 2017
 www.toursbitsstock.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 20:45:47 SAST 2017
+yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 20:52:15 SAST 2017
+ytownhall.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 20:52:17 SAST 2017
+zebramart.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 20:53:16 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Sat Oct 28 20:53:53 SAST 2017
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 20:54:40 SAST 2017
