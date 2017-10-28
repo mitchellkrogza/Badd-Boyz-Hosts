@@ -41,3 +41,11 @@ confirmupdatepage.cf                                                            
 confirmyourspage.cf                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:13:02 SAST 2017
 cos.entrope.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Oct 28 18:13:55 SAST 2017
 criativaartesrn.com.br                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:15:01 SAST 2017
+dampfer-flotte.de                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:18:20 SAST 2017
+dev.maiomall.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:20:50 SAST 2017
+eclipse1999.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:26:30 SAST 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:31:44 SAST 2017
+fae5ret.to                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:33:00 SAST 2017
+flatbook.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:36:34 SAST 2017
+floridamhca.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:36:51 SAST 2017
+foi2vie.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Oct 28 18:37:14 SAST 2017
