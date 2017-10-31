@@ -47,3 +47,12 @@ coh9hei.bid                                                                     
 confirmupdatepage.cf                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 18:43:32 SAST 2017
 confirmyourspage.cf                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 18:43:33 SAST 2017
 cos.entrope.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct 31 18:44:32 SAST 2017
+criativaartesrn.com.br                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 18:47:09 SAST 2017
+dampfer-flotte.de                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 18:48:44 SAST 2017
+depot147-dpd.de                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 18:50:29 SAST 2017
+dev.maiomall.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 18:51:15 SAST 2017
+eclipse1999.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 18:56:50 SAST 2017
+erufu7p.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:00:51 SAST 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:02:11 SAST 2017
+fae5ret.to                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:03:22 SAST 2017
+ferien-in-badsaarow.de                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:04:57 SAST 2017
