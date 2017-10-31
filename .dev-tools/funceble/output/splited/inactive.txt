@@ -79,3 +79,16 @@ hostme.ge                                                                       
 iccornacircri.cf                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:25:55 SAST 2017
 iece1vi.to                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:26:30 SAST 2017
 ieve2ee.to                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:26:36 SAST 2017
+intercont1.de                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:31:28 SAST 2017
+iromusic.net                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:32:38 SAST 2017
+iskunvaimenninhuolto.fi                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:32:52 SAST 2017
+ivelin.ushapeit.bg                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:33:38 SAST 2017
+jewelryandfiligree.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:34:56 SAST 2017
+justfindout.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:36:31 SAST 2017
+kilmme.5gbfree.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:38:59 SAST 2017
+kinezist.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:39:06 SAST 2017
+lida-ru.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:44:58 SAST 2017
+loftdigital.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:46:53 SAST 2017
+looj8ae.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:47:22 SAST 2017
+luxuswohnmobile.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:48:27 SAST 2017
+mabato.net                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 19:48:46 SAST 2017
