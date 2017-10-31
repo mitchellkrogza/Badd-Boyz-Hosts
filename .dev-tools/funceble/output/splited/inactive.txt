@@ -223,3 +223,19 @@ wiprint.co.id                                                                   
 wjttowell.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:14:24 SAST 2017
 wog1aeg.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:14:34 SAST 2017
 worldpixel.de                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:15:17 SAST 2017
+www.bustyjournal.net                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:18:26 SAST 2017
+www.cashgoddess.de                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:18:30 SAST 2017
+wwwdiariodenavarra.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:18:43 SAST 2017
+www.dkworld.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:18:45 SAST 2017
+www.gatekeeper.tss.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:19:02 SAST 2017
+wwwgazete.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:19:03 SAST 2017
+wwwgirlchanh.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:19:04 SAST 2017
+www.hitlistcheck.de                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:19:07 SAST 2017
+wwwmpof.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:19:29 SAST 2017
+www.toursbitsstock.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:20:26 SAST 2017
+xn--singlebrsen-guide-5zb.de                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:23:03 SAST 2017
+yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:25:22 SAST 2017
+ytownhall.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:25:23 SAST 2017
+zebramart.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct 31 21:26:22 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Tue Oct 31 21:27:02 SAST 2017
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 31 21:27:44 SAST 2017
