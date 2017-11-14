@@ -83,3 +83,36 @@ ferien-in-badsaarow.de                                                          
 flatbook.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:43:17 SAST 2017
 floridamhca.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:43:34 SAST 2017
 flying-chefs.de                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:43:45 SAST 2017
+forum.angelinfo.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:45:53 SAST 2017
+forum.geizads.de                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:46:07 SAST 2017
+forum.nekoplus.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:46:17 SAST 2017
+free-floating-buttons.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:47:18 SAST 2017
+free-social-buttons.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:47:35 SAST 2017
+gendosoft.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:50:15 SAST 2017
+getaclueamerica.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:50:41 SAST 2017
+get-seo-domain.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:50:49 SAST 2017
+get-your-social-buttons.info                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:50:51 SAST 2017
+ghernnqr.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Tue Nov 14 13:51:00 SAST 2017
+gicqdata.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:51:05 SAST 2017
+goandsmile.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:52:11 SAST 2017
+gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:52:25 SAST 2017
+golfcard.com.au                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:52:33 SAST 2017
+grandeharbourhome.net                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:53:32 SAST 2017
+gsvx.5gbfree.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:54:49 SAST 2017
+gupdate4all.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:55:11 SAST 2017
+gutkewichmann.de                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:55:15 SAST 2017
+hahpe0o.top                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:55:42 SAST 2017
+hemenmp3.net                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:57:29 SAST 2017
+herbert-ahl.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:57:34 SAST 2017
+hermesbracelets.xyz                                                                                  Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Nov 14 13:57:40 SAST 2017
+hermesreplica.pw                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:57:42 SAST 2017
+herramientasgp.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:57:46 SAST 2017
+hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Tue Nov 14 13:58:28 SAST 2017
+hosting7028339.az.pl                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:59:28 SAST 2017
+hoverboard360.at                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 14:00:08 SAST 2017
+huimin764128.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 14:00:39 SAST 2017
+iece1vi.to                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 14:02:02 SAST 2017
+ieve2ee.to                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 14:02:09 SAST 2017
+infospot.pt                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 14:04:38 SAST 2017
+intercont1.de                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 14:05:17 SAST 2017
+interkredyty.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 14:05:23 SAST 2017
