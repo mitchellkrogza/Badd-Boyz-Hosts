@@ -86,3 +86,19 @@ flying-chefs.de                                                                 
 forum.angelinfo.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:14:13 SAST 2017
 forum.geizads.de                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:14:31 SAST 2017
 forum.nekoplus.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:14:42 SAST 2017
+free-floating-buttons.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:17:20 SAST 2017
+free-social-buttons.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:17:34 SAST 2017
+gei7oos.top                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:20:18 SAST 2017
+gendosoft.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:20:26 SAST 2017
+getaclueamerica.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:20:54 SAST 2017
+get-seo-domain.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:21:01 SAST 2017
+get-your-social-buttons.info                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:21:02 SAST 2017
+ghernnqr.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Wed Nov 15 15:21:11 SAST 2017
+gicqdata.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:21:16 SAST 2017
+goandsmile.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:22:21 SAST 2017
+gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:22:37 SAST 2017
+golfcard.com.au                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:22:48 SAST 2017
+grandeharbourhome.net                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:23:53 SAST 2017
+gsvx.5gbfree.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:25:13 SAST 2017
+gupdate4all.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:25:36 SAST 2017
+gutkewichmann.de                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 15:25:41 SAST 2017
