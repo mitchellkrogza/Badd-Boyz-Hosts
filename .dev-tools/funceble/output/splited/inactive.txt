@@ -326,3 +326,12 @@ wwwgazete.com                                                                   
 wwwgirlchanh.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 17:30:41 SAST 2017
 www.hitlistcheck.de                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 17:30:44 SAST 2017
 wwwmpof.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 17:31:05 SAST 2017
+www.toursbitsstock.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 17:33:49 SAST 2017
+xcc24.pl                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 17:34:17 SAST 2017
+xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 17:34:45 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 17:36:10 SAST 2017
+xn--singlebrsen-guide-5zb.de                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 17:36:29 SAST 2017
+yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 17:38:45 SAST 2017
+ytownhall.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 17:38:47 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Wed Nov 15 17:40:23 SAST 2017
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 17:41:05 SAST 2017
