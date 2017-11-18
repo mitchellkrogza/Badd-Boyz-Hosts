@@ -92,3 +92,22 @@ flatbook.pl                                                                     
 floridamhca.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:27:44 SAST 2017
 flying-chefs.de                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:27:53 SAST 2017
 foi2vie.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:28:04 SAST 2017
+forum.geizads.de                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:34:25 SAST 2017
+forum.nekoplus.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:34:35 SAST 2017
+free-floating-buttons.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:35:43 SAST 2017
+freegamesplay.online                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:35:46 SAST 2017
+free-social-buttons.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:35:59 SAST 2017
+gendosoft.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:38:37 SAST 2017
+getaclueamerica.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:39:02 SAST 2017
+get-seo-domain.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:39:09 SAST 2017
+get-your-social-buttons.info                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:39:10 SAST 2017
+gfeh.de                                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:39:13 SAST 2017
+ghernnqr.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Sat Nov 18 14:39:19 SAST 2017
+gicqdata.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:39:23 SAST 2017
+goandsmile.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:40:29 SAST 2017
+gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:40:46 SAST 2017
+golfcard.com.au                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:40:57 SAST 2017
+grandeharbourhome.net                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:41:59 SAST 2017
+gsvx.5gbfree.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:43:11 SAST 2017
+gupdate4all.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:43:33 SAST 2017
+gutkewichmann.de                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:43:37 SAST 2017
