@@ -155,3 +155,17 @@ infospot.pt                                                                     
 intercont1.de                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 14:51:34 SAST 2017
 interkredyty.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 14:51:40 SAST 2017
 iromusic.net                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 14:52:46 SAST 2017
+iskunvaimenninhuolto.fi                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 14:54:24 SAST 2017
+ivelin.ushapeit.bg                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 14:55:07 SAST 2017
+jewelryandfiligree.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 14:56:30 SAST 2017
+joo2ieb.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 14:57:20 SAST 2017
+jumpatjax.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 14:57:49 SAST 2017
+justfindout.de                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 14:57:59 SAST 2017
+k920134.myjino.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 14:58:11 SAST 2017
+kacanghijaubahagia.co.id                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 14:58:19 SAST 2017
+karuniabinainsani-16.co.id                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 14:59:03 SAST 2017
+kde.nfcfhosting.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 14:59:30 SAST 2017
+kilmme.5gbfree.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 15:00:26 SAST 2017
+kinezist.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 15:00:32 SAST 2017
+kinomaniatv.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 15:00:51 SAST 2017
+kong4oh.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 15:02:09 SAST 2017
