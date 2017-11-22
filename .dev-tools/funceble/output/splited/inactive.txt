@@ -411,3 +411,12 @@ xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                   
 xn--989awoz98btnal2e708b.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 16:47:06 SAST 2017
 xn----9sbebi2bvzr7h.xn--p1ai                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 16:47:08 SAST 2017
 xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 16:47:39 SAST 2017
+xn--singlebrsen-guide-5zb.de                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 16:49:57 SAST 2017
+yiexua8.top                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 16:51:11 SAST 2017
+yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 16:52:14 SAST 2017
+ytownhall.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 16:52:17 SAST 2017
+yugk.net                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 16:52:20 SAST 2017
+ziayi0e.top                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 16:53:55 SAST 2017
+zichoh6.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 16:53:56 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Wed Nov 22 16:53:58 SAST 2017
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 16:54:43 SAST 2017
