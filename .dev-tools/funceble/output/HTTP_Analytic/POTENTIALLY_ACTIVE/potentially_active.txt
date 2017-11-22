@@ -364,3 +364,10 @@ xcc24.pl                                                                        
 xlncglasshardware.com                                                                                INACTIVE    000        Wed Nov 22 20:52:36 SAST 2017
 xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        INACTIVE    000        Wed Nov 22 20:52:42 SAST 2017
 xn----9sbebi2bvzr7h.xn--p1ai                                                                         INACTIVE    000        Wed Nov 22 20:53:37 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    INACTIVE    000        Wed Nov 22 20:55:32 SAST 2017
+xn--singlebrsen-guide-5zb.de                                                                         INACTIVE    000        Wed Nov 22 20:55:52 SAST 2017
+yrservice.com.au                                                                                     INACTIVE    000        Wed Nov 22 20:58:14 SAST 2017
+ytownhall.com                                                                                        INACTIVE    000        Wed Nov 22 20:58:15 SAST 2017
+yugk.net                                                                                             INACTIVE    000        Wed Nov 22 20:58:17 SAST 2017
+zichoh6.bid                                                                                          INACTIVE    000        Wed Nov 22 20:59:51 SAST 2017
+zoo-zip.de                                                                                           INACTIVE    000        Wed Nov 22 21:00:37 SAST 2017
