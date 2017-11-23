@@ -400,3 +400,24 @@ worldpixel.de                                                                   
 www.berlincitylady.de                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:08:02 SAST 2017
 www.bustyjournal.net                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:08:09 SAST 2017
 www.cashgoddess.de                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:08:12 SAST 2017
+www.cozycoreclub.de                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:10:10 SAST 2017
+wwwdiariodenavarra.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:10:17 SAST 2017
+www.gatekeeper.tss.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:10:34 SAST 2017
+wwwgazete.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:10:35 SAST 2017
+wwwgirlchanh.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:10:35 SAST 2017
+www.hitlistcheck.de                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:10:38 SAST 2017
+wwwmpof.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:11:02 SAST 2017
+www.toursbitsstock.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:11:59 SAST 2017
+xcc24.pl                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:12:28 SAST 2017
+xlncglasshardware.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:12:51 SAST 2017
+xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:12:56 SAST 2017
+xn----9sbebi2bvzr7h.xn--p1ai                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:13:48 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:14:18 SAST 2017
+xn--singlebrsen-guide-5zb.de                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:14:37 SAST 2017
+yourmovies.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:16:39 SAST 2017
+yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:16:56 SAST 2017
+ytownhall.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:16:58 SAST 2017
+yugk.net                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:17:01 SAST 2017
+zichoh6.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:18:36 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Thu Nov 23 15:18:40 SAST 2017
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 23 15:19:26 SAST 2017
