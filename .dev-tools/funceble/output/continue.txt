@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt waplock.com 10866 10467 399 0
+/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt xoom.virgilio.it 11494 11067 427 0
