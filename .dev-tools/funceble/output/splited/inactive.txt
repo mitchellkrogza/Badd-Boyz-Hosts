@@ -425,3 +425,13 @@ xcc24.pl                                                                        
 xlncglasshardware.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 13:55:21 SAST 2017
 xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 13:55:26 SAST 2017
 xn----9sbebi2bvzr7h.xn--p1ai                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 13:56:20 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 13:58:05 SAST 2017
+xn--singlebrsen-guide-5zb.de                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 13:58:24 SAST 2017
+yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 14:00:42 SAST 2017
+ytownhall.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 14:00:44 SAST 2017
+yugk.net                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 14:00:47 SAST 2017
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 14:01:26 SAST 2017
+ziayi0e.top                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 14:02:16 SAST 2017
+zichoh6.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 14:02:17 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Mon Nov 27 14:02:19 SAST 2017
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 14:03:04 SAST 2017
