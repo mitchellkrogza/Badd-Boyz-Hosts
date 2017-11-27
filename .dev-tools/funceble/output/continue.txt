@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt dampfer-flotte.de 2589 2504 85 0
+/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt elusive.ru 3234 3132 102 0
