@@ -313,7 +313,9 @@ update1.jdownloader.org
 update2.jdownloader.org
 update3.jdownloader.org
 update4.jdownloader.org
+uploaded.com
 uploaded.net
+uploadrocket.net
 uploads.disquscdn.com
 v10.vortex-win.data.microsoft.com
 video-stats.l.google.com

@@ -429,3 +429,18 @@ wwwgirlchanh.com                                                                
 www.hitlistcheck.de                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:41:44 SAST 2017
 wwwmpof.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:42:07 SAST 2017
 www.toursbitsstock.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:43:06 SAST 2017
+xcc24.pl                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:45:04 SAST 2017
+xlncglasshardware.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:45:26 SAST 2017
+xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:45:31 SAST 2017
+xn----9sbebi2bvzr7h.xn--p1ai                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:46:24 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:46:54 SAST 2017
+xn--singlebrsen-guide-5zb.de                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:47:12 SAST 2017
+yiexua8.top                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:48:28 SAST 2017
+yourfortressforwellbeing.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:49:15 SAST 2017
+yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Nov 29 14:49:37 SAST 2017
+ytownhall.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:49:39 SAST 2017
+yugk.net                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:49:43 SAST 2017
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:50:24 SAST 2017
+zichoh6.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:51:11 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Wed Nov 29 14:51:13 SAST 2017
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 14:51:57 SAST 2017
