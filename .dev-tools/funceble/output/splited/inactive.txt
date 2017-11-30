@@ -191,3 +191,17 @@ kde.nfcfhosting.com                                                             
 kilmme.5gbfree.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 17:08:33 SAST 2017
 kinezist.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 17:08:40 SAST 2017
 kinomaniatv.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 17:09:00 SAST 2017
+kong4oh.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 17:11:49 SAST 2017
+learnandpass-ged.org                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 17:14:58 SAST 2017
+lida-ru.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 17:16:00 SAST 2017
+lie8oong.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 17:16:06 SAST 2017
+loftdigital.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 17:17:55 SAST 2017
+loopbluevzla.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 17:18:27 SAST 2017
+louboutinbooties.xyz                                                                                 Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov 30 17:18:39 SAST 2017
+louboutinreplica.pw                                                                                  Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov 30 17:18:42 SAST 2017
+louboutinreplica.xyz                                                                                 Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov 30 17:18:44 SAST 2017
+louboutinshoes.xyz                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov 30 17:18:46 SAST 2017
+luxuswohnmobile.net                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 17:19:27 SAST 2017
+mabato.net                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 17:19:44 SAST 2017
+madb-europa.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 17:20:01 SAST 2017
+magnetfishing.de                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 17:20:25 SAST 2017
