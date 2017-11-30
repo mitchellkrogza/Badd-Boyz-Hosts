@@ -450,3 +450,4 @@ yugk.net                                                                        
 zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:05:03 SAST 2017
 zichoh6.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:05:53 SAST 2017
 zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Thu Nov 30 19:05:55 SAST 2017
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:09:04 SAST 2017

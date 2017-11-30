@@ -399,3 +399,4 @@ ytownhall.com                                                                   
 yugk.net                                                                                             INACTIVE    000        Thu Nov 30 19:04:22 SAST 2017
 zarajbuilders.com                                                                                    INACTIVE    000        Thu Nov 30 19:05:03 SAST 2017
 zichoh6.bid                                                                                          INACTIVE    000        Thu Nov 30 19:05:53 SAST 2017
+zoo-zip.de                                                                                           INACTIVE    000        Thu Nov 30 19:09:04 SAST 2017

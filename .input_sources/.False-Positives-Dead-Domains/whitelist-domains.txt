@@ -63,6 +63,8 @@ cnn.com
 cpms35.spop10.ams.plex.bz
 cpms.spop10.ams.plex.bz
 creative.ak.fbcdn.net
+crowdin.com
+crowdin.net
 cse.google.com
 c.s-microsoft.com
 ctldl.windowsupdate.com
