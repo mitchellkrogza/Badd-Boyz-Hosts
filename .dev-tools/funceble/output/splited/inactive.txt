@@ -426,3 +426,27 @@ wiprint.co.id                                                                   
 wjttowell.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:54:08 SAST 2017
 word-vorlagen.xyz                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Nov 30 18:54:44 SAST 2017
 worldpixel.de                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:54:58 SAST 2017
+www.berlincitylady.de                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:57:09 SAST 2017
+www.bustyjournal.net                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:57:15 SAST 2017
+www.cashgoddess.de                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:57:18 SAST 2017
+www.cozycoreclub.de                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:57:23 SAST 2017
+wwwdiariodenavarra.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:57:29 SAST 2017
+www.gatekeeper.tss.net                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:57:44 SAST 2017
+wwwgazete.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:57:45 SAST 2017
+wwwgirlchanh.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:57:45 SAST 2017
+www.hitlistcheck.de                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:57:48 SAST 2017
+wwwmpof.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:58:09 SAST 2017
+www.toursbitsstock.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:59:05 SAST 2017
+xcc24.pl                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 18:59:34 SAST 2017
+xlncglasshardware.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:00:02 SAST 2017
+xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:00:07 SAST 2017
+xn----9sbebi2bvzr7h.xn--p1ai                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:01:01 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:01:33 SAST 2017
+xn--singlebrsen-guide-5zb.de                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:01:52 SAST 2017
+yourfortressforwellbeing.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:03:56 SAST 2017
+yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:04:16 SAST 2017
+ytownhall.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:04:19 SAST 2017
+yugk.net                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:04:22 SAST 2017
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:05:03 SAST 2017
+zichoh6.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 30 19:05:53 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Thu Nov 30 19:05:55 SAST 2017
