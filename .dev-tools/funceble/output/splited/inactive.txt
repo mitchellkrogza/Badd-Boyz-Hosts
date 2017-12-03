@@ -465,3 +465,4 @@ zarajbuilders.com                                                               
 ziayi0e.top                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sun Dec  3 13:50:55 SAST 2017
 zichoh6.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sun Dec  3 13:50:55 SAST 2017
 zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Sun Dec  3 13:50:58 SAST 2017
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sun Dec  3 13:52:59 SAST 2017
