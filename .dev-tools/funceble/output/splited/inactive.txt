@@ -513,3 +513,5 @@ ytownhall.com                                                                   
 zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Dec 20 16:27:03 SAST 2017
 zichoh6.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Dec 20 16:27:56 SAST 2017
 zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Wed Dec 20 16:27:59 SAST 2017
+zooh1od.top                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Dec 20 16:29:47 SAST 2017
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Dec 20 16:29:56 SAST 2017
