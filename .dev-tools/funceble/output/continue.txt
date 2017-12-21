@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt e2b8u3v8.map2.ssl.hwcdn.net 3059 2946 113 0
+/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt firstinsurancefunding.co 3699 3561 138 0
