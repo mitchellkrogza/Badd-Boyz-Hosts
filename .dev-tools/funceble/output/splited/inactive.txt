@@ -612,3 +612,4 @@ zarajbuilders.com                                                               
 zichoh6.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Jan  2 13:52:16 SAST 2018
 ziej6ai.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Jan  2 13:52:17 SAST 2018
 zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Tue Jan  2 13:52:19 SAST 2018
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Jan  2 13:54:43 SAST 2018
