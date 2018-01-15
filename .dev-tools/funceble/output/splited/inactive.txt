@@ -651,3 +651,25 @@ wwwgirlchanh.com                                                                
 www.hitlistcheck.de                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:19:57 SAST 2018
 wwwmpof.com                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:20:20 SAST 2018
 wwwmywififiext.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:20:23 SAST 2018
+www.toursbitsstock.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:22:23 SAST 2018
+xchangetrak.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:22:54 SAST 2018
+xep3gae.top                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:23:05 SAST 2018
+xlncglasshardware.com                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:23:19 SAST 2018
+xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:23:24 SAST 2018
+xn--80ajjbdhgmudixfjc8c5a9df8b.xn--p1ai                                                              Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:24:04 SAST 2018
+xn--989awoz98btnal2e708b.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:24:13 SAST 2018
+xn--9g3b23j84k.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:24:14 SAST 2018
+xn----9sbebi2bvzr7h.xn--p1ai                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:24:15 SAST 2018
+xn--begndeingilizce-1vb59n.com                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:24:22 SAST 2018
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:24:47 SAST 2018
+xn--singlebrsen-guide-5zb.de                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:25:06 SAST 2018
+yipzz.svwfchblozx09.gefc.gdn                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:26:23 SAST 2018
+youporn-forum.uni.me                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:26:55 SAST 2018
+yrservice.com.au                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:27:24 SAST 2018
+ytownhall.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:27:26 SAST 2018
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:28:12 SAST 2018
+zichoh6.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:29:02 SAST 2018
+ziej6ai.bid                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:29:03 SAST 2018
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Mon Jan 15 13:29:04 SAST 2018
+znapapp.ae                                                                                           Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Jan 15 13:29:32 SAST 2018
+zoo-zip.de                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 13:29:50 SAST 2018
