@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt trollskogenssmycken.se 10307 2141 0 8166
+/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt update-account-information.com.cgi-bin.cgi-bin.webscrcmd-login-submit.ipds.org.np 10535 2186 0 8349
