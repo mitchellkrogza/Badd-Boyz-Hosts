@@ -291,3 +291,10 @@ titan-ads.life                                                                  
 titan-cloud.life                                                                                     ACTIVE      404        Mon Jan 29 20:08:26 SAST 2018
 tongkatmadura.info                                                                                   ACTIVE      404        Mon Jan 29 20:10:33 SAST 2018
 totu.info                                                                                            ACTIVE      404        Mon Jan 29 20:13:28 SAST 2018
+truck-addzilla.life                                                                                  ACTIVE      404        Mon Jan 29 20:20:20 SAST 2018
+truck-land.life                                                                                      ACTIVE      404        Mon Jan 29 20:20:23 SAST 2018
+truck-rece.life                                                                                      ACTIVE      404        Mon Jan 29 20:20:25 SAST 2018
+turn-up-life.life                                                                                    ACTIVE      404        Mon Jan 29 20:22:49 SAST 2018
+tydaya.com                                                                                           ACTIVE      404        Mon Jan 29 20:24:36 SAST 2018
+ugogo.info                                                                                           ACTIVE      404        Mon Jan 29 20:26:26 SAST 2018
+unmaroll.ya.ru                                                                                       ACTIVE      404        Mon Jan 29 20:29:17 SAST 2018
