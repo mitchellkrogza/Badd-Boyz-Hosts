@@ -78,3 +78,7 @@ becuo.com                                                                       
 best-way.men                                                                                         ACTIVE      404        Mon Jan 29 12:26:35 SAST 2018
 bestwebsitesawards.com                                                                               ACTIVE      404        Mon Jan 29 12:26:43 SAST 2018
 big-boards.info                                                                                      ACTIVE      404        Mon Jan 29 12:29:07 SAST 2018
+blackhatworth.com                                                                                    ACTIVE      404        Mon Jan 29 12:35:04 SAST 2018
+bluewinsource.weebly.com                                                                             ACTIVE      404        Mon Jan 29 12:37:17 SAST 2018
+bonanza-fortune.men                                                                                  ACTIVE      404        Mon Jan 29 12:38:51 SAST 2018
+bongiornos.info                                                                                      ACTIVE      404        Mon Jan 29 12:39:02 SAST 2018
