@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt inscapedesign.in.cp-3.webhostbox.net 5045 1036 0 4009
+/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt jeeptrailer.com 5263 1095 0 4168
