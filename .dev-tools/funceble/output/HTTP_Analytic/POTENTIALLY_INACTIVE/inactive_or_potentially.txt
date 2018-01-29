@@ -170,3 +170,8 @@ johnraines2017.000webhostapp.com                                                
 journeydownthescale.info                                                                             ACTIVE      404        Mon Jan 29 15:54:59 SAST 2018
 juliannas957.000webhostapp.com                                                                       ACTIVE      410        Mon Jan 29 15:56:05 SAST 2018
 kabey.000webhostapp.com                                                                              ACTIVE      410        Mon Jan 29 15:57:32 SAST 2018
+kidd.reunionwatch.com                                                                                ACTIVE      404        Mon Jan 29 16:06:02 SAST 2018
+kikilll0009.000webhostapp.com                                                                        ACTIVE      410        Mon Jan 29 16:06:26 SAST 2018
+kinoflux.net                                                                                         ACTIVE      404        Mon Jan 29 16:07:40 SAST 2018
+klejonka.info                                                                                        ACTIVE      404        Mon Jan 29 16:10:17 SAST 2018
+kndxbkdx.bloger.index.hr                                                                             ACTIVE      404        Mon Jan 29 16:11:00 SAST 2018
