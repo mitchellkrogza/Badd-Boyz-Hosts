@@ -164,3 +164,9 @@ info112kff198.000webhostapp.com                                                 
 infosecuritysako.000webhostapp.com                                                                   ACTIVE      410        Mon Jan 29 15:37:22 SAST 2018
 integritybuilding.net                                                                                ACTIVE      404        Mon Jan 29 15:40:14 SAST 2018
 it-helpdeskadmin.000webhostapp.com                                                                   ACTIVE      410        Mon Jan 29 15:45:26 SAST 2018
+jenikamike754.000webhostapp.com                                                                      ACTIVE      410        Mon Jan 29 15:51:29 SAST 2018
+jikoman.info                                                                                         ACTIVE      404        Mon Jan 29 15:52:41 SAST 2018
+johnraines2017.000webhostapp.com                                                                     ACTIVE      410        Mon Jan 29 15:54:09 SAST 2018
+journeydownthescale.info                                                                             ACTIVE      404        Mon Jan 29 15:54:59 SAST 2018
+juliannas957.000webhostapp.com                                                                       ACTIVE      410        Mon Jan 29 15:56:05 SAST 2018
+kabey.000webhostapp.com                                                                              ACTIVE      410        Mon Jan 29 15:57:32 SAST 2018
