@@ -73,3 +73,8 @@ a.yorilada.com                                                                  
 a.zinovila.com                                                                                       ACTIVE      404        Mon Jan 29 12:14:16 SAST 2018
 a.zonolali.com                                                                                       ACTIVE      404        Mon Jan 29 12:14:25 SAST 2018
 balans.shahterworld.org                                                                              ACTIVE      404        Mon Jan 29 12:16:39 SAST 2018
+beachpics.com                                                                                        ACTIVE      404        Mon Jan 29 12:22:32 SAST 2018
+becuo.com                                                                                            ACTIVE      400        Mon Jan 29 12:23:24 SAST 2018
+best-way.men                                                                                         ACTIVE      404        Mon Jan 29 12:26:35 SAST 2018
+bestwebsitesawards.com                                                                               ACTIVE      404        Mon Jan 29 12:26:43 SAST 2018
+big-boards.info                                                                                      ACTIVE      404        Mon Jan 29 12:29:07 SAST 2018
