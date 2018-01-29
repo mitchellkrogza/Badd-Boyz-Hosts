@@ -311,3 +311,7 @@ woman-h.ru                                                                      
 workchopapp.com                                                                                      ACTIVE      404        Mon Jan 29 21:04:47 SAST 2018
 worldlovers.ru                                                                                       ACTIVE      402        Mon Jan 29 21:05:17 SAST 2018
 ws.ampower.me                                                                                        ACTIVE      404        Mon Jan 29 21:06:10 SAST 2018
+wwwdocumentscom.000webhostapp.com                                                                    ACTIVE      410        Mon Jan 29 21:11:52 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Mon Jan 29 21:17:34 SAST 2018
+xgftnlrt.bloger.index.hr                                                                             ACTIVE      404        Mon Jan 29 21:18:25 SAST 2018
+xingzi-vision.com                                                                                    ACTIVE      404        Mon Jan 29 21:18:30 SAST 2018
