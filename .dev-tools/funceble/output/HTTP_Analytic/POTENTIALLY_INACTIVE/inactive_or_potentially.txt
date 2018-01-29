@@ -162,3 +162,5 @@ iminent.com                                                                     
 indetiske.ya.ru                                                                                      ACTIVE      404        Mon Jan 29 15:36:07 SAST 2018
 info112kff198.000webhostapp.com                                                                      ACTIVE      410        Mon Jan 29 15:36:54 SAST 2018
 infosecuritysako.000webhostapp.com                                                                   ACTIVE      410        Mon Jan 29 15:37:22 SAST 2018
+integritybuilding.net                                                                                ACTIVE      404        Mon Jan 29 15:40:14 SAST 2018
+it-helpdeskadmin.000webhostapp.com                                                                   ACTIVE      410        Mon Jan 29 15:45:26 SAST 2018
