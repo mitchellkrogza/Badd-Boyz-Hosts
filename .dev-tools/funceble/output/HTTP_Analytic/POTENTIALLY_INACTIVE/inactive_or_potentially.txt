@@ -285,3 +285,5 @@ starpages.net                                                                   
 statoutlook.info                                                                                     ACTIVE      404        Mon Jan 29 19:39:47 SAST 2018
 stauga.altervista.org                                                                                ACTIVE      404        Mon Jan 29 19:40:06 SAST 2018
 stroilka.info                                                                                        ACTIVE      404        Mon Jan 29 19:43:22 SAST 2018
+suspensioncourriel.weebly.com                                                                        ACTIVE      404        Mon Jan 29 19:49:22 SAST 2018
+taqplayer.info                                                                                       ACTIVE      404        Mon Jan 29 19:54:29 SAST 2018
