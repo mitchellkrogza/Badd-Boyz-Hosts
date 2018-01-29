@@ -210,3 +210,16 @@ odywpjtw.bloger.index.hr                                                        
 oecnhs.info                                                                                          ACTIVE      404        Mon Jan 29 17:39:35 SAST 2018
 olharproducoes.com.br                                                                                ACTIVE      404        Mon Jan 29 17:41:47 SAST 2018
 openfrost.net                                                                                        ACTIVE      404        Mon Jan 29 17:45:46 SAST 2018
+ororodnik.goodbb.ru                                                                                  ACTIVE      404        Mon Jan 29 17:48:45 SAST 2018
+ourville.info                                                                                        ACTIVE      404        Mon Jan 29 17:50:24 SAST 2018
+oynat.info                                                                                           ACTIVE      404        Mon Jan 29 17:51:35 SAST 2018
+oyster-green.com                                                                                     ACTIVE      404        Mon Jan 29 17:51:38 SAST 2018
+pagesecurityinbox5621.000webhostapp.com                                                              ACTIVE      410        Mon Jan 29 17:52:18 SAST 2018
+paleohub.info                                                                                        ACTIVE      404        Mon Jan 29 17:52:40 SAST 2018
+partner-cdn.men                                                                                      ACTIVE      404        Mon Jan 29 17:54:41 SAST 2018
+partner-high.men                                                                                     ACTIVE      404        Mon Jan 29 17:54:44 SAST 2018
+partner-host.men                                                                                     ACTIVE      404        Mon Jan 29 17:54:46 SAST 2018
+partnerline.men                                                                                      ACTIVE      404        Mon Jan 29 17:54:49 SAST 2018
+partner-print.men                                                                                    ACTIVE      404        Mon Jan 29 17:54:52 SAST 2018
+partnersafe.men                                                                                      ACTIVE      404        Mon Jan 29 17:54:54 SAST 2018
+partner-trustworthy.men                                                                              ACTIVE      404        Mon Jan 29 17:55:08 SAST 2018
