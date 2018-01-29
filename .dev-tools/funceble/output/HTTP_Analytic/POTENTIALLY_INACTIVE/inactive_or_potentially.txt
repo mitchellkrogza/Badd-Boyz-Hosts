@@ -85,3 +85,11 @@ bongiornos.info                                                                 
 businescoop.men                                                                                      ACTIVE      404        Mon Jan 29 12:48:09 SAST 2018
 buzzzg.men                                                                                           ACTIVE      404        Mon Jan 29 12:49:56 SAST 2018
 cam-kontakte.org                                                                                     ACTIVE      404        Mon Jan 29 12:52:47 SAST 2018
+cayado.snn.gr                                                                                        ACTIVE      404        Mon Jan 29 12:59:49 SAST 2018
+checkpoint-info330211.000webhostapp.com                                                              ACTIVE      410        Mon Jan 29 13:05:01 SAST 2018
+checkpoint-info330211tf.000webhostapp.com                                                            ACTIVE      410        Mon Jan 29 13:05:03 SAST 2018
+checkpoint-info3996478.000webhostapp.com                                                             ACTIVE      410        Mon Jan 29 13:05:06 SAST 2018
+checkpoint-info6222.000webhostapp.com                                                                ACTIVE      410        Mon Jan 29 13:05:08 SAST 2018
+checkpoint-info62335970.000webhostapp.com                                                            ACTIVE      410        Mon Jan 29 13:05:10 SAST 2018
+checkpoint-info66321844.000webhostapp.com                                                            ACTIVE      410        Mon Jan 29 13:05:13 SAST 2018
+checkpoint-info66669112.000webhostapp.com                                                            ACTIVE      410        Mon Jan 29 13:05:15 SAST 2018
