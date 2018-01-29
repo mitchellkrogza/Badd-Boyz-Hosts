@@ -25,3 +25,12 @@ ads30.adcolony.com                                                              
 ads.aerserv.com                                                                                      ACTIVE      404        Mon Jan 29 11:32:13 SAST 2018
 adserver-e7.com                                                                                      ACTIVE      404        Mon Jan 29 11:32:25 SAST 2018
 a.dulderbulder.com                                                                                   ACTIVE      404        Mon Jan 29 11:33:14 SAST 2018
+a.ekolamis.com                                                                                       ACTIVE      404        Mon Jan 29 11:35:56 SAST 2018
+a.forkitz.com                                                                                        ACTIVE      404        Mon Jan 29 11:36:45 SAST 2018
+a.hirovivi.com                                                                                       ACTIVE      404        Mon Jan 29 11:38:05 SAST 2018
+a.jadizayo.com                                                                                       ACTIVE      404        Mon Jan 29 11:39:11 SAST 2018
+a.jandolav.com                                                                                       ACTIVE      404        Mon Jan 29 11:39:13 SAST 2018
+a.jquerycdn.co.il                                                                                    ACTIVE      404        Mon Jan 29 11:39:17 SAST 2018
+a.kilomansa.com                                                                                      ACTIVE      404        Mon Jan 29 11:39:39 SAST 2018
+a.kilorama.com                                                                                       ACTIVE      404        Mon Jan 29 11:39:41 SAST 2018
+a.liktirov.com                                                                                       ACTIVE      404        Mon Jan 29 11:41:44 SAST 2018
