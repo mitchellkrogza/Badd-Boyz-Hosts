@@ -34,3 +34,17 @@ a.jquerycdn.co.il                                                               
 a.kilomansa.com                                                                                      ACTIVE      404        Mon Jan 29 11:39:39 SAST 2018
 a.kilorama.com                                                                                       ACTIVE      404        Mon Jan 29 11:39:41 SAST 2018
 a.liktirov.com                                                                                       ACTIVE      404        Mon Jan 29 11:41:44 SAST 2018
+amex-webcards.000webhostapp.com                                                                      ACTIVE      410        Mon Jan 29 11:48:34 SAST 2018
+a.milparota.com                                                                                      ACTIVE      404        Mon Jan 29 11:48:48 SAST 2018
+a.mozefakt.com                                                                                       ACTIVE      404        Mon Jan 29 11:48:59 SAST 2018
+a.muligov.com                                                                                        ACTIVE      404        Mon Jan 29 11:49:23 SAST 2018
+a.namitol.com                                                                                        ACTIVE      404        Mon Jan 29 11:49:43 SAST 2018
+a.niklesrov.com                                                                                      ACTIVE      404        Mon Jan 29 11:50:52 SAST 2018
+a.nimdinb.com                                                                                        ACTIVE      404        Mon Jan 29 11:51:13 SAST 2018
+a.pipilida.com                                                                                       ACTIVE      404        Mon Jan 29 11:53:53 SAST 2018
+a.pitatagata.com                                                                                     ACTIVE      404        Mon Jan 29 11:54:08 SAST 2018
+app-1490710520.000webhostapp.com                                                                     ACTIVE      410        Mon Jan 29 11:54:26 SAST 2018
+app-1502132339.000webhostapp.com                                                                     ACTIVE      410        Mon Jan 29 11:54:29 SAST 2018
+app.appsflyer.com                                                                                    ACTIVE      404        Mon Jan 29 11:54:36 SAST 2018
+appearance-cool.com                                                                                  ACTIVE      404        Mon Jan 29 11:54:47 SAST 2018
+applicationg29.com                                                                                   ACTIVE      404        Mon Jan 29 11:55:19 SAST 2018
