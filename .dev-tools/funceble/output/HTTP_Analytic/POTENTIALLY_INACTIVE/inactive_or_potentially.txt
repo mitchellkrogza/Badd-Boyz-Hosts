@@ -315,3 +315,6 @@ wwwdocumentscom.000webhostapp.com                                               
 xchat26.myfreecams.com                                                                               ACTIVE      404        Mon Jan 29 21:17:34 SAST 2018
 xgftnlrt.bloger.index.hr                                                                             ACTIVE      404        Mon Jan 29 21:18:25 SAST 2018
 xingzi-vision.com                                                                                    ACTIVE      404        Mon Jan 29 21:18:30 SAST 2018
+xn--c1acygb.xn--p1ai                                                                                 ACTIVE      404        Mon Jan 29 21:22:59 SAST 2018
+yatrk.xyz                                                                                            ACTIVE      404        Mon Jan 29 21:27:50 SAST 2018
+ynymnwbm.bloger.index.hr                                                                             ACTIVE      404        Mon Jan 29 21:28:47 SAST 2018
