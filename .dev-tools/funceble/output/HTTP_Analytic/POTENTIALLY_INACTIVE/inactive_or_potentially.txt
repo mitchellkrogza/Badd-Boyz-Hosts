@@ -145,3 +145,7 @@ gamevalue7.weebly.com                                                           
 ghernnqr.skyrock.com                                                                                 ACTIVE      404        Mon Jan 29 14:51:07 SAST 2018
 google-liar.ru                                                                                       ACTIVE      404        Mon Jan 29 14:59:49 SAST 2018
 gratuitbaise.com                                                                                     ACTIVE      404        Mon Jan 29 15:02:22 SAST 2018
+guildebzh.info                                                                                       ACTIVE      404        Mon Jan 29 15:07:12 SAST 2018
+gwhwpxbw.bloger.index.hr                                                                             ACTIVE      404        Mon Jan 29 15:08:06 SAST 2018
+hanoman4455.000webhostapp.com                                                                        ACTIVE      410        Mon Jan 29 15:10:17 SAST 2018
+hdapp1008-a.akamaihd.net                                                                             ACTIVE      404        Mon Jan 29 15:11:36 SAST 2018
