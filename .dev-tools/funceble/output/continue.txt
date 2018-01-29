@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt seeresultshub-a.akamaihd.net 8971 1869 0 7102
+/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt simplyinteractiveinc.com 9205 1929 0 7276
