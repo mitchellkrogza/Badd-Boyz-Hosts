@@ -133,3 +133,7 @@ extstat.com                                                                     
 ezigarettekaufen1.hpage.com                                                                          ACTIVE      404        Mon Jan 29 14:16:45 SAST 2018
 ezigaretteshop2.mywapblog.com                                                                        ACTIVE      404        Mon Jan 29 14:17:14 SAST 2018
 ezigaretteshop.webs.com                                                                              ACTIVE      410        Mon Jan 29 14:17:19 SAST 2018
+f5mtrack.com                                                                                         ACTIVE      400        Mon Jan 29 14:18:49 SAST 2018
+fboffensive.000webhostapp.com                                                                        ACTIVE      410        Mon Jan 29 14:22:09 SAST 2018
+filefilter.weebly.com                                                                                ACTIVE      404        Mon Jan 29 14:24:47 SAST 2018
+filerockstar298.weebly.com                                                                           ACTIVE      404        Mon Jan 29 14:24:52 SAST 2018
