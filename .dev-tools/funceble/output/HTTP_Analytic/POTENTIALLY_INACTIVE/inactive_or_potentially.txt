@@ -225,3 +225,6 @@ partnersafe.men                                                                 
 partner-trustworthy.men                                                                              ACTIVE      404        Mon Jan 29 17:55:08 SAST 2018
 pestomou.info                                                                                        ACTIVE      404        Mon Jan 29 18:01:36 SAST 2018
 pipki.r.acdnpro.com                                                                                  ACTIVE      404        Mon Jan 29 18:05:49 SAST 2018
+pontiacsolstice.info                                                                                 ACTIVE      404        Mon Jan 29 18:12:12 SAST 2018
+pornoklad.ru                                                                                         ACTIVE      404        Mon Jan 29 18:13:54 SAST 2018
+propro.mystagingwebsite.com                                                                          ACTIVE      404        Mon Jan 29 18:21:26 SAST 2018
