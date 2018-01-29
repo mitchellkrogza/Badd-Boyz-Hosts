@@ -140,3 +140,6 @@ filerockstar298.weebly.com                                                      
 focalink.com                                                                                         ACTIVE      404        Mon Jan 29 14:31:17 SAST 2018
 franecki.net                                                                                         ACTIVE      404        Mon Jan 29 14:37:01 SAST 2018
 fredrickfrank200.000webhostapp.com                                                                   ACTIVE      410        Mon Jan 29 14:37:36 SAST 2018
+fusoradio.info                                                                                       ACTIVE      404        Mon Jan 29 14:43:32 SAST 2018
+gamevalue7.weebly.com                                                                                ACTIVE      404        Mon Jan 29 14:46:08 SAST 2018
+ghernnqr.skyrock.com                                                                                 ACTIVE      404        Mon Jan 29 14:51:07 SAST 2018
