@@ -303,3 +303,11 @@ uveous-surveys.000webhostapp.com                                                
 vintontech.info                                                                                      ACTIVE      404        Mon Jan 29 20:44:01 SAST 2018
 webmailserveurmailings08.000webhostapp.com                                                           ACTIVE      410        Mon Jan 29 20:53:31 SAST 2018
 webmailvoice.000webhostapp.com                                                                       ACTIVE      410        Mon Jan 29 20:53:36 SAST 2018
+websiteexplorer.info                                                                                 ACTIVE      404        Mon Jan 29 20:57:15 SAST 2018
+westen-v.life                                                                                        ACTIVE      404        Mon Jan 29 20:59:01 SAST 2018
+westen-z.life                                                                                        ACTIVE      404        Mon Jan 29 20:59:03 SAST 2018
+white-truck.life                                                                                     ACTIVE      404        Mon Jan 29 21:00:49 SAST 2018
+woman-h.ru                                                                                           ACTIVE      404        Mon Jan 29 21:03:40 SAST 2018
+workchopapp.com                                                                                      ACTIVE      404        Mon Jan 29 21:04:47 SAST 2018
+worldlovers.ru                                                                                       ACTIVE      402        Mon Jan 29 21:05:17 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Mon Jan 29 21:06:10 SAST 2018
