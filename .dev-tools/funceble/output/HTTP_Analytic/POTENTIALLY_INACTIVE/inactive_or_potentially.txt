@@ -300,3 +300,6 @@ ugogo.info                                                                      
 unmaroll.ya.ru                                                                                       ACTIVE      404        Mon Jan 29 20:29:17 SAST 2018
 urccvfmc.bloger.index.hr                                                                             ACTIVE      404        Mon Jan 29 20:32:41 SAST 2018
 uveous-surveys.000webhostapp.com                                                                     ACTIVE      410        Mon Jan 29 20:34:20 SAST 2018
+vintontech.info                                                                                      ACTIVE      404        Mon Jan 29 20:44:01 SAST 2018
+webmailserveurmailings08.000webhostapp.com                                                           ACTIVE      410        Mon Jan 29 20:53:31 SAST 2018
+webmailvoice.000webhostapp.com                                                                       ACTIVE      410        Mon Jan 29 20:53:36 SAST 2018
