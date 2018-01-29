@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt update-account-information.com.cgi-bin.cgi-bin.webscrcmd-login-submit.ipds.org.np 10535 2186 0 8349
+/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt villacoloniale.com 10754 2230 0 8524

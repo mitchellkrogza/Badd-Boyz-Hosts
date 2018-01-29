@@ -298,3 +298,5 @@ turn-up-life.life                                                               
 tydaya.com                                                                                           ACTIVE      404        Mon Jan 29 20:24:36 SAST 2018
 ugogo.info                                                                                           ACTIVE      404        Mon Jan 29 20:26:26 SAST 2018
 unmaroll.ya.ru                                                                                       ACTIVE      404        Mon Jan 29 20:29:17 SAST 2018
+urccvfmc.bloger.index.hr                                                                             ACTIVE      404        Mon Jan 29 20:32:41 SAST 2018
+uveous-surveys.000webhostapp.com                                                                     ACTIVE      410        Mon Jan 29 20:34:20 SAST 2018
