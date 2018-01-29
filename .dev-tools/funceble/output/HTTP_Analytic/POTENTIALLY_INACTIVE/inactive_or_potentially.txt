@@ -241,3 +241,8 @@ recover-fb08900.000webhostapp.com                                               
 redirectingat.com                                                                                    ACTIVE      404        Mon Jan 29 18:39:36 SAST 2018
 restaurantlescampi.com                                                                               ACTIVE      404        Mon Jan 29 18:43:42 SAST 2018
 rff-cfal.info                                                                                        ACTIVE      404        Mon Jan 29 18:44:56 SAST 2018
+riowebsites.com.br                                                                                   ACTIVE      404        Mon Jan 29 18:47:51 SAST 2018
+rt.applovin.com                                                                                      ACTIVE      404        Mon Jan 29 18:52:21 SAST 2018
+rt.applvn.com                                                                                        ACTIVE      404        Mon Jan 29 18:52:24 SAST 2018
+runtnc.net                                                                                           ACTIVE      404        Mon Jan 29 18:53:41 SAST 2018
+s8-nowy-wygraj.comli.com                                                                             ACTIVE      410        Mon Jan 29 18:54:49 SAST 2018
