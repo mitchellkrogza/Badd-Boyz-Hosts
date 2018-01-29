@@ -137,3 +137,6 @@ f5mtrack.com                                                                    
 fboffensive.000webhostapp.com                                                                        ACTIVE      410        Mon Jan 29 14:22:09 SAST 2018
 filefilter.weebly.com                                                                                ACTIVE      404        Mon Jan 29 14:24:47 SAST 2018
 filerockstar298.weebly.com                                                                           ACTIVE      404        Mon Jan 29 14:24:52 SAST 2018
+focalink.com                                                                                         ACTIVE      404        Mon Jan 29 14:31:17 SAST 2018
+franecki.net                                                                                         ACTIVE      404        Mon Jan 29 14:37:01 SAST 2018
+fredrickfrank200.000webhostapp.com                                                                   ACTIVE      410        Mon Jan 29 14:37:36 SAST 2018
