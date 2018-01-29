@@ -236,3 +236,8 @@ pushdata.sendpulse.com                                                          
 qcstrtvt.bloger.index.hr                                                                             ACTIVE      404        Mon Jan 29 18:30:03 SAST 2018
 q-moto.ru                                                                                            ACTIVE      402        Mon Jan 29 18:30:31 SAST 2018
 quebec-bin.com                                                                                       ACTIVE      404        Mon Jan 29 18:31:11 SAST 2018
+reckonstat.info                                                                                      ACTIVE      404        Mon Jan 29 18:38:56 SAST 2018
+recover-fb08900.000webhostapp.com                                                                    ACTIVE      410        Mon Jan 29 18:39:06 SAST 2018
+redirectingat.com                                                                                    ACTIVE      404        Mon Jan 29 18:39:36 SAST 2018
+restaurantlescampi.com                                                                               ACTIVE      404        Mon Jan 29 18:43:42 SAST 2018
+rff-cfal.info                                                                                        ACTIVE      404        Mon Jan 29 18:44:56 SAST 2018
