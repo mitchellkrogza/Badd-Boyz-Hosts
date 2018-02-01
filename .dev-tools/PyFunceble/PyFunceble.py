@@ -2222,7 +2222,9 @@ class Helpers(object):  # pylint: disable=too-few-public-methods
             :param to_decode: byte(s), Output of a command to decode.
             """
 
-            return to_decode.decode(self.decode_type)
+                if to_decode is not None:
+                    return str(to_decode, self.decode_type)
+                return False
 
         def execute(self):
             """Execute the given command."""
