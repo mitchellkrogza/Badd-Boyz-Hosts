@@ -757,7 +757,7 @@ class AutoSave(object):
 
                 print(Helpers.Command(
                     'git push origin %s' %
-                    Settings.travis_branch).execute(),Settings.travis_branch)
+                    Settings.travis_branch).execute(), Settings.travis_branch)
                 exit(0)
             return
         except AttributeError:
@@ -1009,7 +1009,8 @@ class Prints(object):
         self.headers = OrderedDict()
 
         self.headers['Generic'] = OrderedDict(zip(
-            ['Domain', 'Status', 'Expiration Date', 'Source', 'HTTP Code', 'Analyze Date'],
+            ['Domain', 'Status', 'Expiration Date',
+                'Source', 'HTTP Code', 'Analyze Date'],
             [100, 11, 17, 10, 10, 20]))
 
         self.headers[Settings.official_up_status] = OrderedDict(zip(
@@ -1017,7 +1018,8 @@ class Prints(object):
             [100, 17, 10, 10, 20]))
 
         self.headers[Settings.official_down_status] = OrderedDict(zip(
-            ['Domain', 'WHOIS Server', 'Status', 'Source', 'HTTP Code', 'Analyze Date'],
+            ['Domain', 'WHOIS Server', 'Status',
+                'Source', 'HTTP Code', 'Analyze Date'],
             [100, 35, 11, 10, 10, 20]))
 
         self.headers[Settings.official_invalid_status] = OrderedDict(zip(
@@ -1047,7 +1049,7 @@ class Prints(object):
         if not Settings.no_files \
             and self.output is not None \
                 and self.output != '' \
-            and not path.isfile(self.output):
+        and not path.isfile(self.output):
             link = ("# File generated with %s\n" % Settings.link_to_repo)
             date_of_generation = (
                 "# Date of generation: %s \n\n" %
