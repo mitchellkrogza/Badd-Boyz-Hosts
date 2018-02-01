@@ -755,9 +755,7 @@ class AutoSave(object):
                     Helpers.Command(command %
                                     Settings.travis_autosave_commit).execute()
 
-                print(Helpers.Command(
-                    'git push origin %s' %
-                    Settings.travis_branch).execute())
+                print(Helpers.Command('git push origin %s' % Settings.travis_branch).execute())
                 exit(0)
             return
         except AttributeError:
@@ -2213,9 +2211,10 @@ class Helpers(object):  # pylint: disable=too-few-public-methods
     class Command(object):
         """Shell command execution."""
 
-        def __init__(self, command):
+        def __init__(self, command,allow_stdout=True):
             self.decode_type = 'utf-8'
             self.command = command
+            self.stdout = allow_stdout
 
         def decode_output(self, to_decode):
             """Decode the output of a shell command in order to be readable.
@@ -2228,7 +2227,11 @@ class Helpers(object):  # pylint: disable=too-few-public-methods
         def execute(self):
             """Execute the given command."""
 
-            process = Popen(self.command, stdout=PIPE, stderr=PIPE, shell=True)
+            if not self.stdout:
+                process = Popen(self.command, stdout=PIPE, stderr=PIPE, shell=True)
+            else:
+                process = Popen(self.command, stderr=PIPE, shell=True)
+
             (output, error) = process.communicate()
 
             if process.returncode != 0:
