@@ -755,7 +755,9 @@ class AutoSave(object):
                     Helpers.Command(command %
                                     Settings.travis_autosave_commit).execute()
 
-                print(Helpers.Command('git push origin %s' % Settings.travis_branch).execute())
+                Helpers.Command(
+                    'git push origin %s' %
+                    Settings.travis_branch).execute()
                 exit(0)
             return
         except AttributeError:
@@ -2211,10 +2213,9 @@ class Helpers(object):  # pylint: disable=too-few-public-methods
     class Command(object):
         """Shell command execution."""
 
-        def __init__(self, command,allow_stdout=True):
+        def __init__(self, command):
             self.decode_type = 'utf-8'
             self.command = command
-            self.stdout = allow_stdout
 
         def decode_output(self, to_decode):
             """Decode the output of a shell command in order to be readable.
@@ -2222,18 +2223,12 @@ class Helpers(object):  # pylint: disable=too-few-public-methods
             :param to_decode: byte(s), Output of a command to decode.
             """
 
-            if to_decode is not None:
-                return str(to_decode, self.decode_type)
-            return False
+            return to_decode.decode(self.decode_type)
 
         def execute(self):
             """Execute the given command."""
 
-            if not self.stdout:
-                process = Popen(self.command, stdout=PIPE, stderr=PIPE, shell=True)
-            else:
-                process = Popen(self.command, stderr=PIPE, shell=True)
-
+            process = Popen(self.command, stdout=PIPE, stderr=PIPE, shell=True)
             (output, error) = process.communicate()
 
             if process.returncode != 0:
@@ -2692,7 +2687,7 @@ if __name__ == '__main__':
             '-v',
             '--version',
             action='version',
-            version='%(prog)s 0.24.2-custom'
+            version='%(prog)s 0.24.0-beta'
         )
 
         ARGS = PARSER.parse_args()
