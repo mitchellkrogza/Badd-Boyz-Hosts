@@ -279,7 +279,7 @@ class Install(object):
 
         regex_skip = r'\[PyFunceble\sskip\]|\[ci\sskip\]'
         if Helpers.Regex(
-                Helpers.Command('git log -2').execute(),
+                Helpers.Command('git log -2', False).execute(),
                 regex_skip,
                 return_data=False).match() or self.production:
             Clean()
