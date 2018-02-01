@@ -59,7 +59,7 @@ git config --global push.default simple
 # Make sure we have checked out master branch
 # *******************************************
 
-git checkout master
+git checkout dev
 
 # **************************
 # Make Sure Temp Files Exist
