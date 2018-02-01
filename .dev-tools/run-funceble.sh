@@ -43,12 +43,12 @@ cd $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/
 
 YEAR=$(date +%Y)
 MONTH=$(date +%m)
-sudo bash $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py --dev -u && sudo bash $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py  --autosave-minutes 10 --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [funceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" -i
+sudo $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py --dev -u && sudo bash $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py  --autosave-minutes 10 --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [funceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" -i
 
 # ************************************
 #  Run Funceble and Check Domains List
 # ************************************
 
-sudo bash $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/PyFunceble.py --cmd-before-end "bash $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh" --travis --travis-branch 'dev' -a -ex --plain --split -f $_input
+sudo $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/PyFunceble.py --cmd-before-end "bash $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh" --travis --travis-branch 'dev' -a -ex --plain --split -f $_input
 
 exit 0
