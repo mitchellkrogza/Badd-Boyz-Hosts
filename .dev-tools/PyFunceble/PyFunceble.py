@@ -755,9 +755,9 @@ class AutoSave(object):
                     Helpers.Command(command %
                                     Settings.travis_autosave_commit).execute()
 
-                Helpers.Command(
+                print(Helpers.Command(
                     'git push origin %s' %
-                    Settings.travis_branch).execute()
+                    Settings.travis_branch).execute(),Settings.travis_branch)
                 exit(0)
             return
         except AttributeError:
