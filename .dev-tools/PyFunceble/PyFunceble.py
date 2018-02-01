@@ -154,11 +154,11 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # This tell us in which branch we have to push
     travis_branch = 'master'
     # Minimum of minutes before we start commiting to upstream under Travis CI.
-    travis_autosave_minutes = 2
+    travis_autosave_minutes = 15
     # Default travis final commit message
-    travis_autosave_final_commit = "V1.2018.02.1230"
+    travis_autosave_final_commit = "PyFunceble - Results"
     # Default travis commit message
-    travis_autosave_commit = "V1.2018.02.1230 [PyFunceble]"
+    travis_autosave_commit = "PyFunceble - Autosave"
     # Output into unified files.
     unified_file = True
     ##########################################################################
@@ -238,7 +238,7 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # Note: DO NOT FORGET `/` AT THE END.
 
     # Current directory.
-    current_dir = '/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/.dev-tools/PyFunceble/'
+    current_dir = '%%current_dir%%'
     # Current directory separator
     dir_separator = directory_separator
     # Output directory.
@@ -755,9 +755,9 @@ class AutoSave(object):
                     Helpers.Command(command %
                                     Settings.travis_autosave_commit).execute()
 
-                print(Helpers.Command(
+                Helpers.Command(
                     'git push origin %s' %
-                    Settings.travis_branch).execute(), Settings.travis_branch)
+                    Settings.travis_branch).execute()
                 exit(0)
             return
         except AttributeError:
@@ -1009,8 +1009,7 @@ class Prints(object):
         self.headers = OrderedDict()
 
         self.headers['Generic'] = OrderedDict(zip(
-            ['Domain', 'Status', 'Expiration Date',
-                'Source', 'HTTP Code', 'Analyze Date'],
+            ['Domain', 'Status', 'Expiration Date', 'Source', 'HTTP Code', 'Analyze Date'],
             [100, 11, 17, 10, 10, 20]))
 
         self.headers[Settings.official_up_status] = OrderedDict(zip(
@@ -1018,8 +1017,7 @@ class Prints(object):
             [100, 17, 10, 10, 20]))
 
         self.headers[Settings.official_down_status] = OrderedDict(zip(
-            ['Domain', 'WHOIS Server', 'Status',
-                'Source', 'HTTP Code', 'Analyze Date'],
+            ['Domain', 'WHOIS Server', 'Status', 'Source', 'HTTP Code', 'Analyze Date'],
             [100, 35, 11, 10, 10, 20]))
 
         self.headers[Settings.official_invalid_status] = OrderedDict(zip(
@@ -1049,7 +1047,7 @@ class Prints(object):
         if not Settings.no_files \
             and self.output is not None \
                 and self.output != '' \
-        and not path.isfile(self.output):
+            and not path.isfile(self.output):
             link = ("# File generated with %s\n" % Settings.link_to_repo)
             date_of_generation = (
                 "# Date of generation: %s \n\n" %
