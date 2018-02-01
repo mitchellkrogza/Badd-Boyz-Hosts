@@ -757,7 +757,7 @@ class AutoSave(object):
 
                 Helpers.Command(
                     'git push origin %s' %
-                    Settings.travis_branch).execute()
+                    Settings.travis_branch,True).execute()
                 exit(0)
             return
         except AttributeError:
@@ -2687,7 +2687,7 @@ if __name__ == '__main__':
             '-v',
             '--version',
             action='version',
-            version='%(prog)s 0.24.0-beta'
+            version='%(prog)s 0.24.1-custom'
         )
 
         ARGS = PARSER.parse_args()

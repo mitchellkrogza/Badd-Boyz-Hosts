@@ -16,6 +16,7 @@ python:
 
 cache:
   - apt
+  - pip
 
 before_install:
   - export TZ=Africa/Johannesburg
