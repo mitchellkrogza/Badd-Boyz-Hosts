@@ -28,7 +28,7 @@ sudo chown -R travis:travis $TRAVIS_BUILD_DIR/
 # *******************************
 
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py
-sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/funceble.py
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/PyFunceble.py
 
 # ****************************
 # Switch to funceble directory
@@ -37,18 +37,18 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/funceble.py
 cd $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/
 
 # *************************
-# Run Funceble Install Tool
+# Run PyFunceble
 # *************************
 
 
 YEAR=$(date +%Y)
 MONTH=$(date +%m)
-sudo $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py --dev -u && sudo bash $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py  --autosave-minutes 10 --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [funceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" -i
 
-# ************************************
-#  Run Funceble and Check Domains List
-# ************************************
-
-sudo $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/PyFunceble.py --cmd-before-end "bash $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh" --travis --travis-branch 'dev' -a -ex --plain --split -f $_input
-
-exit 0
+export TRAVIS_BUILD_DIR=${TRAVIS_BUILD_DIR}
+export GH_TOKEN=${GH_TOKEN}
+export TRAVIS_REPO_SLUG=${TRAVIS_REPO_SLUG}
+export GIT_EMAIL=${GIT_EMAIL}
+export GIT_NAME=${GIT_NAME}
+sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py --dev -u && \
+sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py  --autosave-minutes 10 --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [funceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" -i && \
+sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/PyFunceble.py --cmd-before-end "bash $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh" --travis --travis-branch 'dev' -a -ex --plain --split -f $_input
