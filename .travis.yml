@@ -6,7 +6,7 @@ env:
     - GIT_NAME: Travis CI
     - GIT_EMAIL: mitchellkrog@gmail.com
     - TRAVIS_REPO_SLUG: mitchellkrogza/Badd-Boyz-Hosts
-    - GIT_BRANCH: master
+    - GIT_BRANCH: dev
   matrix:
     - USE_NETWORK=true
 php:
