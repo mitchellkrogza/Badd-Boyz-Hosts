@@ -59,6 +59,6 @@ export GIT_NAME=${GIT_NAME}
 #   is not run.
 # ******************************************************************************
 
-sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py --dev && \
+sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py --dev -u && \
 sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py --autosave-minutes 10 --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" -i && \
-sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/PyFunceble.py --travis --travis-branch dev --cmd-before-end "bash $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh" -a -ex --plain --split -f $_input
+sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/PyFunceble.py --travis --cmd-before-end "bash $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh" -a -ex --plain --split -f $_input
