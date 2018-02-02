@@ -26,3 +26,12 @@ ads.aerserv.com                                                                 
 adserver-e7.com                                                                                      ACTIVE      404        Fri Feb  2 09:45:31 SAST 2018
 adserver.unityads.unity3d.com                                                                        ACTIVE      404        Fri Feb  2 09:45:33 SAST 2018
 a.dulderbulder.com                                                                                   ACTIVE      404        Fri Feb  2 09:46:21 SAST 2018
+a.ekolamis.com                                                                                       ACTIVE      404        Fri Feb  2 09:48:58 SAST 2018
+a.forkitz.com                                                                                        ACTIVE      404        Fri Feb  2 09:49:48 SAST 2018
+a.hirovivi.com                                                                                       ACTIVE      404        Fri Feb  2 09:51:10 SAST 2018
+a.jadizayo.com                                                                                       ACTIVE      404        Fri Feb  2 09:52:19 SAST 2018
+a.jandolav.com                                                                                       ACTIVE      404        Fri Feb  2 09:52:22 SAST 2018
+a.jquerycdn.co.il                                                                                    ACTIVE      404        Fri Feb  2 09:52:26 SAST 2018
+a.kilomansa.com                                                                                      ACTIVE      404        Fri Feb  2 09:52:49 SAST 2018
+a.kilorama.com                                                                                       ACTIVE      404        Fri Feb  2 09:52:51 SAST 2018
+a.liktirov.com                                                                                       ACTIVE      404        Fri Feb  2 09:54:58 SAST 2018
