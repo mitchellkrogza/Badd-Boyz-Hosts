@@ -36,19 +36,29 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/PyFunceble.py
 
 cd $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/
 
-# *************************
-# Run PyFunceble
-# *************************
-
+# ************************
+# Settings date variables
+# ************************
 
 YEAR=$(date +%Y)
 MONTH=$(date +%m)
+
+# *****************************************************
+# Exporting all variable that are needed by PyFunceble
+# *****************************************************
 
 export TRAVIS_BUILD_DIR=${TRAVIS_BUILD_DIR}
 export GH_TOKEN=${GH_TOKEN}
 export TRAVIS_REPO_SLUG=${TRAVIS_REPO_SLUG}
 export GIT_EMAIL=${GIT_EMAIL}
 export GIT_NAME=${GIT_NAME}
+
+# ******************************************************************************
+# Updating PyFunceble && Run PyFunceble
+# Note: We use the same statement so that if something is broken everything else
+#   is not run.
+# ******************************************************************************
+
 sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py --dev && \
 sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py --autosave-minutes 10 --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" -i && \
 sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/PyFunceble.py --travis --travis-branch dev --cmd-before-end "bash $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh" -a -ex --plain --split -f $_input
