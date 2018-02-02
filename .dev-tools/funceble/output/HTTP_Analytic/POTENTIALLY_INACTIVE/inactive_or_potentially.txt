@@ -86,3 +86,6 @@ blackhatworth.com                                                               
 bluewinsource.weebly.com                                                                             ACTIVE      404        Fri Feb  2 10:50:57 SAST 2018
 bonanza-fortune.men                                                                                  ACTIVE      404        Fri Feb  2 10:52:38 SAST 2018
 bongiornos.info                                                                                      ACTIVE      404        Fri Feb  2 10:52:50 SAST 2018
+businescoop.men                                                                                      ACTIVE      404        Fri Feb  2 11:02:07 SAST 2018
+buzzzg.men                                                                                           ACTIVE      404        Fri Feb  2 11:03:54 SAST 2018
+cam-kontakte.org                                                                                     ACTIVE      404        Fri Feb  2 11:06:49 SAST 2018
