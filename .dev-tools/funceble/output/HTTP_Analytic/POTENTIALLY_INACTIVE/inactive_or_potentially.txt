@@ -68,3 +68,11 @@ a.upnorma.com                                                                   
 a.uralap.com                                                                                         ACTIVE      404        Fri Feb  2 10:20:16 SAST 2018
 autoblogger24.info                                                                                   ACTIVE      404        Fri Feb  2 10:21:02 SAST 2018
 autodo.info                                                                                          ACTIVE      404        Fri Feb  2 10:21:17 SAST 2018
+a.utorido.com                                                                                        ACTIVE      404        Fri Feb  2 10:25:10 SAST 2018
+a.uzekrs.com                                                                                         ACTIVE      404        Fri Feb  2 10:25:43 SAST 2018
+a.uzotarak.com                                                                                       ACTIVE      404        Fri Feb  2 10:25:46 SAST 2018
+a.wakapita.com                                                                                       ACTIVE      404        Fri Feb  2 10:27:32 SAST 2018
+a.yorilada.com                                                                                       ACTIVE      404        Fri Feb  2 10:28:18 SAST 2018
+a.zinovila.com                                                                                       ACTIVE      404        Fri Feb  2 10:28:58 SAST 2018
+a.zonolali.com                                                                                       ACTIVE      404        Fri Feb  2 10:29:07 SAST 2018
+balans.shahterworld.org                                                                              ACTIVE      404        Fri Feb  2 10:31:18 SAST 2018
