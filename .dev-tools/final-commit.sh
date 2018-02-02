@@ -27,13 +27,16 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+# ***********************************************************
+# Remove our inactive and invalid domains from PULL_REQUESTS
+# ***********************************************************
+
+cat $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > tempdomains.txt
+mv tempdomains.txt $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
 
 # ***************************************************************************
 # Generate our host file and update README with build and version information
 # ***************************************************************************
-
-cat $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > tempdomains.txt
-mv tempdomains.txt $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
 
 sudo chown -R travis:travis $TRAVIS_BUILD_DIR/
 

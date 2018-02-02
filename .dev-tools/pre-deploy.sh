@@ -103,10 +103,10 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-hosts.sh
 # Run funceble to check for dead domains
 # ***************************************************
 
-sudo sh -x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
+sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
 
 
-exit 0
+exit ${?}
 
 # MIT License
 
