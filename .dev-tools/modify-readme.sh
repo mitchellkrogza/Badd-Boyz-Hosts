@@ -35,7 +35,7 @@ YEAR=$(date +%Y)
 MONTH=$(date +%m)
 MY_GIT_TAG=V1.$YEAR.$MONTH.$TRAVIS_BUILD_NUMBER
 TOTAL_SITES=$(wc -l < $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt)
-ACTIVE_SITES=$(cat $TRAVIS_BUILD_DIR/.dev-tools/funceble/output/logs/percentage/percentage.txt)
+ACTIVE_SITES=$(cat $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/output/logs/percentage/percentage.txt)
 
 # **********************************
 # Temporary database files we create
