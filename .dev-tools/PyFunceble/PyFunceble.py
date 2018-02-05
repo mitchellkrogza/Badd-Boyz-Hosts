@@ -156,9 +156,9 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # Minimum of minutes before we start commiting to upstream under Travis CI.
     travis_autosave_minutes = 10
     # Default travis final commit message
-    travis_autosave_final_commit = "V1.2018.02.1658"
+    travis_autosave_final_commit = "V1.2018.02.1659"
     # Default travis commit message
-    travis_autosave_commit = "V1.2018.02.1658 [PyFunceble]"
+    travis_autosave_commit = "V1.2018.02.1659 [PyFunceble]"
     # Output into unified files.
     unified_file = True
     ##########################################################################
@@ -1809,6 +1809,7 @@ class Referer(object):
             'cv',
             'cw',
             'cy',
+            'dj',
             'eg',
             'et',
             'fm',
@@ -1817,9 +1818,12 @@ class Referer(object):
             'gr',
             'gt',
             'jo',
+            'kh',
             'lb',
             'mil',
             'mt',
+            'mv',
+            'mw',
             'ne',
             'ni',
             'np',
@@ -1830,6 +1834,7 @@ class Referer(object):
             'pn',
             'py',
             'sr',
+            'ss',
             'sv',
             'tj',
             'tp',
@@ -2132,6 +2137,7 @@ class ExpirationDate(object):
                 r'[0-9]{2}\-[a-z]{3}\-2[0-9]{3}',
                 return_data=False).match() != True:
             self.log()
+            self.whois_log()
 
     def extract(self):
         """
@@ -2689,7 +2695,7 @@ if __name__ == '__main__':
             '-v',
             '--version',
             action='version',
-            version='%(prog)s 0.24.2-beta'
+            version='%(prog)s 0.24.8-beta'
         )
 
         ARGS = PARSER.parse_args()
