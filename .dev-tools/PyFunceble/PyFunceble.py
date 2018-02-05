@@ -156,9 +156,9 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # Minimum of minutes before we start commiting to upstream under Travis CI.
     travis_autosave_minutes = 10
     # Default travis final commit message
-    travis_autosave_final_commit = "V1.2018.02.1657"
+    travis_autosave_final_commit = "V1.2018.02.1658"
     # Default travis commit message
-    travis_autosave_commit = "V1.2018.02.1657 [PyFunceble]"
+    travis_autosave_commit = "V1.2018.02.1658 [PyFunceble]"
     # Output into unified files.
     unified_file = True
     ##########################################################################
@@ -1829,6 +1829,8 @@ class Referer(object):
             'pk',
             'pn',
             'py',
+            'sr',
+            'sv',
             'tj',
             'tp',
             'tt',
@@ -2687,7 +2689,7 @@ if __name__ == '__main__':
             '-v',
             '--version',
             action='version',
-            version='%(prog)s 0.24.0-beta'
+            version='%(prog)s 0.24.2-beta'
         )
 
         ARGS = PARSER.parse_args()
