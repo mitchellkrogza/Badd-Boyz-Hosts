@@ -43,6 +43,7 @@ bitbucket.com
 bit.ly
 bleacherreport.com
 blog.disqus.com
+brakrock.be
 brightcove.com
 bundler.watch.aetnd.com
 businessfinder.nj.com
@@ -215,6 +216,7 @@ nordvpn.com
 notify.xboxlive.com
 ns1.dropbox.com
 ns2.dropbox.com
+nsatc.net
 ntppool.org
 nullrefer.com
 o1.email.plex.tv
@@ -323,6 +325,7 @@ track.hulu.com
 track.spiceworks.com
 travis-ci.com
 travis-ci.org
+tunein.com
 tvdb2.plex.tv
 tvthemes.plexapp.com
 tvthemes.plexapp.com.cdn.cloudflare.net
