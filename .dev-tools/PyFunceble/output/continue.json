@@ -1,8 +1,8 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
-        "number_of_down": 11128,
+        "number_of_down": 11758,
         "number_of_invalid": 1,
-        "number_of_tested": 16568,
-        "number_of_up": 5439
+        "number_of_tested": 17227,
+        "number_of_up": 5468
     }
 }
