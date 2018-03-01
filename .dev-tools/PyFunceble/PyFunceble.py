@@ -160,9 +160,9 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # Minimum of minutes before we start commiting to upstream under Travis CI.
     travis_autosave_minutes = 10
     # Default travis final commit message
-    travis_autosave_final_commit = "V1.2018.02.2941"
+    travis_autosave_final_commit = "V1.2018.03.2943"
     # Default travis commit message
-    travis_autosave_commit = "V1.2018.02.2941 [PyFunceble]"
+    travis_autosave_commit = "V1.2018.03.2943 [PyFunceble]"
     # Output into unified files.
     unified_file = True
     ##########################################################################
@@ -556,7 +556,31 @@ class PyFunceble(object):
         return extracted_domain
 
     @classmethod
-    def adblock_decode(cls, list_to_test):
+    def format_adblock_decoded(cls, to_format, result=None):
+        """
+        Format the exctracted adblock line before passing it to the system.
+
+        :param to_format: A string, the extracted line.
+        """
+
+        if not result:
+            result = []
+        for data in to_format:
+            if data:
+                if '#' in data:
+                    cls.format_adblock_decoded(data.split('#'), result)
+                elif ',' in data:
+                    cls.format_adblock_decoded(data.split(','), result)
+                elif '~' in data:
+                    cls.format_adblock_decoded(data.split('~'), result)
+                elif '!' in data:
+                    cls.format_adblock_decoded(data.split('!'), result)
+                elif data != '':
+                    result.append(data)
+
+        return result
+
+    def adblock_decode(self, list_to_test):
         """
         Convert the adblock format into a readable format which is understood
         by the system.
@@ -567,11 +591,19 @@ class PyFunceble(object):
 
         result = []
         regex = r'^\|\|(.*)\^$'
+        regex_v2 = r'(.*\..*)(#{2,})'
 
         for line in list_to_test:
             rematch = Helpers.Regex(
                 line,
                 regex,
+                return_data=True,
+                rematch=True,
+                group=0).match()
+
+            rematch_v2 = Helpers.Regex(
+                line,
+                regex_v2,
                 return_data=True,
                 rematch=True,
                 group=0).match()
@@ -587,6 +619,9 @@ class PyFunceble(object):
                     result.extend(rematch)
                 else:
                     result.extend(filtered)
+
+            if rematch_v2 != []:
+                result.extend(self.format_adblock_decoded(rematch_v2))
 
         return result
 
@@ -2788,7 +2823,7 @@ if __name__ == '__main__':
             '-v',
             '--version',
             action='version',
-            version='%(prog)s 0.28.0-beta'
+            version='%(prog)s 0.29.0-beta'
         )
 
         ARGS = PARSER.parse_args()
