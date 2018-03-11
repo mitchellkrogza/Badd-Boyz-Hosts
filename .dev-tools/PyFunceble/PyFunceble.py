@@ -160,9 +160,9 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # Minimum of minutes before we start commiting to upstream under Travis CI.
     travis_autosave_minutes = 10
     # Default travis final commit message
-    travis_autosave_final_commit = "V1.2018.03.3602"
+    travis_autosave_final_commit = "V1.2018.03.3603"
     # Default travis commit message
-    travis_autosave_commit = "V1.2018.03.3602 [PyFunceble]"
+    travis_autosave_commit = "V1.2018.03.3603 [PyFunceble]"
     # Output into unified files.
     unified_file = True
     ##########################################################################
@@ -1743,7 +1743,15 @@ class Generate(object):
             elif Settings.http_code in Settings.potentially_up_codes:
                 self.analytic_file('potentially_up', self.domain_status)
 
-        if self.source != 'HTTP Code':
+        if Helpers.Regex(
+                Settings.domain,
+                r'^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[0-9]{1,}\/[0-9]{1,})$',  # pylint: disable=line-too-long
+                return_data=False).match():
+            self.source = 'SPECIAL'
+            self.domain_status = Settings.official_up_status
+            self.output = Settings.output_up_result
+
+        if self.source != 'HTTP Code' and self.source != 'SPECIAL':
             self.domain_status = Settings.official_down_status
             self.output = Settings.output_down_result
 
@@ -2846,7 +2854,7 @@ if __name__ == '__main__':
             '-v',
             '--version',
             action='version',
-            version='%(prog)s 0.30.1-beta'
+            version='%(prog)s 0.31.0-beta'
         )
 
         ARGS = PARSER.parse_args()
