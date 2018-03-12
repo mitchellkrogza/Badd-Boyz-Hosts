@@ -160,9 +160,9 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # Minimum of minutes before we start commiting to upstream under Travis CI.
     travis_autosave_minutes = 10
     # Default travis final commit message
-    travis_autosave_final_commit = "V1.2018.03.3658"
+    travis_autosave_final_commit = "V1.2018.03.3659"
     # Default travis commit message
-    travis_autosave_commit = "V1.2018.03.3658 [PyFunceble]"
+    travis_autosave_commit = "V1.2018.03.3659 [PyFunceble]"
     # Output into unified files.
     unified_file = True
     ##########################################################################
