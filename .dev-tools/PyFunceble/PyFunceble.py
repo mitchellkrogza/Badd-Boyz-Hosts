@@ -160,9 +160,9 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # Minimum of minutes before we start commiting to upstream under Travis CI.
     travis_autosave_minutes = 10
     # Default travis final commit message
-    travis_autosave_final_commit = "V1.2018.03.3918"
+    travis_autosave_final_commit = "V1.2018.03.3919"
     # Default travis commit message
-    travis_autosave_commit = "V1.2018.03.3918 [PyFunceble]"
+    travis_autosave_commit = "V1.2018.03.3919 [PyFunceble]"
     # Output into unified files.
     unified_file = True
     ##########################################################################
@@ -412,8 +412,7 @@ class Settings(object):  # pylint: disable=too-few-public-methods
         to_print = 'Your configuration is not valid.\n'
         to_print += 'Please use the auto update or post an issue to %s'
 
-        print(to_print % links[variable])
-        exit(1)
+        raise Exception(to_print % links[variable])
 
 
 class PyFunceble(object):
@@ -2854,7 +2853,7 @@ if __name__ == '__main__':
             '-v',
             '--version',
             action='version',
-            version='%(prog)s 0.31.0-beta'
+            version='%(prog)s 0.31.1-beta'
         )
 
         ARGS = PARSER.parse_args()
