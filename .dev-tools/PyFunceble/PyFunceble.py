@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-PyFunceble is the litle sister of Funceble (https://github.com/funilrys/PyFunceble).
+PyFunceble is the litle sister of Funceble (https://github.com/funilrys/funceble).
+Which is archived since March 13th 2018.
 Consider PyFunceble as a tool to check the status of a given domain name
 or IP.
 """
@@ -160,9 +161,9 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # Minimum of minutes before we start commiting to upstream under Travis CI.
     travis_autosave_minutes = 10
     # Default travis final commit message
-    travis_autosave_final_commit = "V1.2018.03.4044"
+    travis_autosave_final_commit = "V1.2018.03.4045"
     # Default travis commit message
-    travis_autosave_commit = "V1.2018.03.4044 [PyFunceble]"
+    travis_autosave_commit = "V1.2018.03.4045 [PyFunceble]"
     # Output into unified files.
     unified_file = True
     ##########################################################################
@@ -585,17 +586,28 @@ class PyFunceble(object):
 
         if not result:
             result = []
+
         for data in to_format:
             if data:
                 if '#' in data:
-                    cls.format_adblock_decoded(data.split('#'), result)
+                    result.extend(
+                        cls.format_adblock_decoded(
+                            data.split('#'), result))
                 elif ',' in data:
-                    cls.format_adblock_decoded(data.split(','), result)
+                    result.extend(
+                        cls.format_adblock_decoded(
+                            data.split(','), result))
                 elif '~' in data:
-                    cls.format_adblock_decoded(data.split('~'), result)
+                    result.extend(
+                        cls.format_adblock_decoded(
+                            data.split('~'), result))
                 elif '!' in data:
-                    cls.format_adblock_decoded(data.split('!'), result)
-                elif data != '':
+                    result.extend(
+                        cls.format_adblock_decoded(
+                            data.split('!'), result))
+                elif data and \
+                    (ExpirationDate.is_domain_valid(data) or
+                     ExpirationDate.is_valid_ip(data)):
                     result.append(data)
 
         return result
@@ -610,8 +622,8 @@ class PyFunceble(object):
         """
 
         result = []
-        regex = r'^\|\|(.*)\^$'
-        regex_v2 = r'(.*\..*)(#{2,})'
+        regex = r'^(?:.*\|\|)([^\/\$\^]{1,}).*$'
+        regex_v2 = r'(.*\..*)(?:#{1,}.*)'
 
         for line in list_to_test:
             rematch = Helpers.Regex(
@@ -629,19 +641,12 @@ class PyFunceble(object):
                 group=0).match()
 
             if rematch != []:
-                filtered = Helpers.Regex(
-                    rematch[0],
-                    r'(.*)\/',
-                    return_data=True,
-                    rematch=True).match()
-
-                if filtered == []:
-                    result.extend(rematch)
-                else:
-                    result.extend(filtered)
+                result.extend(rematch)
 
             if rematch_v2 != []:
-                result.extend(self.format_adblock_decoded(rematch_v2))
+                result.extend(
+                    Helpers.List(
+                        self.format_adblock_decoded(rematch_v2)).format())
 
         return result
 
@@ -1147,7 +1152,7 @@ class Prints(object):
         if not Settings.no_files \
             and self.output is not None \
                 and self.output != '' \
-            and not path.isfile(self.output):
+        and not path.isfile(self.output):
             link = ("# File generated with %s\n" % Settings.link_to_repo)
             date_of_generation = (
                 "# Date of generation: %s \n\n" %
@@ -2047,22 +2052,36 @@ class ExpirationDate(object):
         self.whois_record = ''
 
     @classmethod
-    def is_domain_valid(cls):
+    def is_domain_valid(cls, domain=None):
         """
         Check if Settings.domain is a valid domain.
+
+        Argument:
+            - domain: str
+                The domain to test
+
         """
 
         regex_valid_domains = r'^(?=.{0,253}$)(([a-z0-9][a-z0-9-]{0,61}[a-z0-9]|[a-z0-9])\.)+((?=.*[^0-9])([a-z0-9][a-z0-9-]{0,61}[a-z0-9]|[a-z0-9]))$'  # pylint: disable=line-too-long
 
+        if domain:
+            to_test = domain
+        else:
+            to_test = Settings.domain
+
         return Helpers.Regex(
-            Settings.domain,
+            to_test,
             regex_valid_domains,
             return_data=False).match()
 
     @classmethod
-    def is_valid_ip(cls):
+    def is_valid_ip(cls, IP=None):
         """
         Check if Settings.domain is a valid IPv4.
+
+        Argument:
+            - IP: str
+                The ip to test
 
         Note:
             We only test IPv4 because for now we only support domain and IPv4.
@@ -2070,8 +2089,13 @@ class ExpirationDate(object):
 
         regex_ipv4 = r'^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)'  # pylint: disable=line-too-long
 
+        if IP:
+            to_test = IP
+        else:
+            to_test = Settings.domain
+
         return Helpers.Regex(
-            Settings.domain,
+            to_test,
             regex_ipv4,
             return_data=False).match()
 
@@ -2872,7 +2896,7 @@ if __name__ == '__main__':
             '-v',
             '--version',
             action='version',
-            version='%(prog)s 0.33.0-beta'
+            version='%(prog)s 0.35.0-beta'
         )
 
         ARGS = PARSER.parse_args()
