@@ -161,9 +161,9 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # Minimum of minutes before we start commiting to upstream under Travis CI.
     travis_autosave_minutes = 10
     # Default travis final commit message
-    travis_autosave_final_commit = "V1.2018.03.4145"
+    travis_autosave_final_commit = "V1.2018.03.4146"
     # Default travis commit message
-    travis_autosave_commit = "V1.2018.03.4145 [PyFunceble]"
+    travis_autosave_commit = "V1.2018.03.4146 [PyFunceble]"
     # Output into unified files.
     unified_file = True
     ##########################################################################
@@ -597,6 +597,8 @@ class PyFunceble(object):
                     return cls.format_adblock_decoded(data.split('~'), result)
                 elif '!' in data:
                     return cls.format_adblock_decoded(data.split('!'), result)
+                elif '|' in data:
+                    return cls.format_adblock_decoded(data.split('|'), result)
                 elif data and \
                     (ExpirationDate.is_domain_valid(data) or
                      ExpirationDate.is_valid_ip(data)):
@@ -1144,7 +1146,7 @@ class Prints(object):
         if not Settings.no_files \
             and self.output is not None \
                 and self.output != '' \
-        and not path.isfile(self.output):
+            and not path.isfile(self.output):
             link = ("# File generated with %s\n" % Settings.link_to_repo)
             date_of_generation = (
                 "# Date of generation: %s \n\n" %
@@ -2888,7 +2890,7 @@ if __name__ == '__main__':
             '-v',
             '--version',
             action='version',
-            version='%(prog)s 0.36.0-beta'
+            version='%(prog)s 0.37.0-beta'
         )
 
         ARGS = PARSER.parse_args()
