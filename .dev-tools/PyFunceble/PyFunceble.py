@@ -36,7 +36,7 @@ from re import compile as comp
 from re import sub as substrings
 from re import escape
 from subprocess import PIPE, Popen
-from sys import stdout, version_info
+from sys import version_info
 from time import strftime
 
 import requests
@@ -161,9 +161,9 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # Minimum of minutes before we start commiting to upstream under Travis CI.
     travis_autosave_minutes = 10
     # Default travis final commit message
-    travis_autosave_final_commit = "V1.2018.03.4650"
+    travis_autosave_final_commit = "V1.2018.03.4652"
     # Default travis commit message
-    travis_autosave_commit = "V1.2018.03.4650 [PyFunceble]"
+    travis_autosave_commit = "V1.2018.03.4652 [PyFunceble]"
     # Output into unified files.
     unified_file = True
     ##########################################################################
@@ -427,17 +427,21 @@ class PyFunceble(object):
 
     def __init__(self, domain=None, file_path=None):
         if __name__ == '__main__':
+            self.header_printed = False
+            self.file_path = None
+
             if Settings.travis:
                 AutoSave().travis_permissions()
 
             self.bypass()
             ExecutionTime('start')
 
-            if domain is not None and domain != '':
+            if domain:
                 Settings.domain = domain.lower()
                 self.domain()
-            elif file_path is not None and file_path != '':
-                self.file(file_path)
+            elif file_path:
+                self.file_path = file_path
+                self.file()
 
             ExecutionTime('stop')
             Percentage().log()
@@ -475,33 +479,55 @@ class PyFunceble(object):
 
             AutoSave(True)
 
-    @classmethod
-    def print_header(cls):
+    def print_header(self):
         """
         Decide if we print or not the header.
         """
 
-        if not Settings.quiet:
+        if not Settings.quiet and not self.header_printed:
             print('\n')
             if Settings.less:
                 Prints(None, 'Less').header()
             else:
                 Prints(None, 'Generic').header()
 
-    def domain(self):
+            self.header_printed = True
+
+    def domain(self, domain=None):
         """
         Manage the case that we want to test only a domain.
+
+        :param domain: A string, the domain to test.
         """
 
+        if domain:
+            Settings.domain = self._format_domain(domain)
         self.print_header()
-        if __name__ == '__main__' and Settings.simple:
-            print(ExpirationDate().get())
+
+        if __name__ == '__main__':
+            if Settings.simple:
+                print(ExpirationDate().get())
+            else:
+                status = ExpirationDate().get()
+
+            if not Settings.simple and self.file_path:
+                if Settings.inactive_database:
+                    if status == 'ACTIVE':
+                        Database(self.file_path).remove()
+                    else:
+                        Database(self.file_path).add()
+
+                AutoContinue().backup(self.file_path)
+                AutoSave()
+
+            Settings.http_code = ''
+            Settings.referer = ''
         else:
             ExpirationDate().get()
             return
 
     @classmethod
-    def reset_counters(cls):
+    def _reset_counters(cls):
         """
         Reset the counters when needed.
         """
@@ -515,7 +541,7 @@ class PyFunceble(object):
 
         return
 
-    def clean(self, list_to_test):
+    def _clean(self, list_to_test):
         """
         Check if we have to clean the environnement.
 
@@ -526,12 +552,12 @@ class PyFunceble(object):
             if Settings.number_of_tested == 0 \
                 or list_to_test[Settings.number_of_tested - 1] == list_to_test[-1] \
                     or Settings.number_of_tested == len(list_to_test):
-                self.reset_counters()
+                self._reset_counters()
 
                 from tool import Clean
                 Clean(True)
         except IndexError:
-            self.reset_counters()
+            self._reset_counters()
 
             from tool import Clean
             Clean(True)
@@ -539,7 +565,7 @@ class PyFunceble(object):
         return
 
     @classmethod
-    def format_domain(cls, extracted_domain):
+    def _format_domain(cls, extracted_domain):
         """
         Format the extracted domain before passing it to the system.
 
@@ -577,7 +603,7 @@ class PyFunceble(object):
         return extracted_domain
 
     @classmethod
-    def format_adblock_decoded(cls, to_format, result=None):
+    def _format_adblock_decoded(cls, to_format, result=None):
         """
         Format the exctracted adblock line before passing it to the system.
 
@@ -590,18 +616,18 @@ class PyFunceble(object):
         for data in Helpers.List(to_format).format():
             if data:
                 if '#' in data:
-                    return cls.format_adblock_decoded(data.split('#'), result)
+                    return cls._format_adblock_decoded(data.split('#'), result)
                 elif ',' in data:
-                    return cls.format_adblock_decoded(data.split(','), result)
+                    return cls._format_adblock_decoded(data.split(','), result)
                 elif '~' in data:
-                    return cls.format_adblock_decoded(data.split('~'), result)
+                    return cls._format_adblock_decoded(data.split('~'), result)
                 elif '!' in data:
-                    return cls.format_adblock_decoded(data.split('!'), result)
+                    return cls._format_adblock_decoded(data.split('!'), result)
                 elif '|' in data:
-                    return cls.format_adblock_decoded(data.split('|'), result)
+                    return cls._format_adblock_decoded(data.split('|'), result)
                 elif data and \
                     (ExpirationDate.is_domain_valid(data) or
-                     ExpirationDate.is_valid_ip(data)):
+                     ExpirationDate.is_ip_valid(data)):
                     result.append(data)
 
         return result
@@ -640,96 +666,66 @@ class PyFunceble(object):
             if rematch_v2 != []:
                 result.extend(
                     Helpers.List(
-                        self.format_adblock_decoded(rematch_v2)).format())
+                        self._format_adblock_decoded(rematch_v2)).format())
 
         return result
 
-    def file(self, file_path):  # pylint: disable=too-many-branches,too-many-statements
+    def _extract_domain_from_file(self):
+        """
+        This method extract all non commented lines.
+        """
+
+        result = []
+
+        if path.isfile(self.file_path):
+            with open(self.file_path) as file:
+                for line in file:
+                    if not line.startswith('#'):
+                        result.append(line.rstrip('\n').strip())
+        else:
+            raise FileNotFoundError(self.file_path)
+
+        return result
+
+    def file(self):  # pylint: disable=too-many-branches,too-many-statements
         """
         Manage the case that need to test each domain of a given file path.
         Note: 1 domain per line.
-
-        :param file_path: A string, a path to a file to read.
         """
 
-        list_to_test = []
+        list_to_test = self._extract_domain_from_file()
 
-        AutoContinue().restore(file_path)
-        self.print_header()
-
-        for read in open(file_path):
-            read = read.rstrip('\n').strip()
-
-            if not read.startswith('#'):
-                list_to_test.append(read)
+        AutoContinue().restore(self.file_path)
 
         if Settings.adblock:
             list_to_test = self.adblock_decode(list_to_test)
 
-        self.clean(list_to_test)
+        self._clean(list_to_test)
 
         if Settings.inactive_database:
-            Database(file_path).to_test()
+            Database(self.file_path).to_test()
 
-            if file_path in Settings.inactive_db \
-                and 'to_test' in Settings.inactive_db[file_path] \
-                    and Settings.inactive_db[file_path]['to_test'] != []:
-                list_to_test.extend(Settings.inactive_db[file_path]['to_test'])
+            if self.file_path in Settings.inactive_db \
+                and 'to_test' in Settings.inactive_db[self.file_path] \
+                    and Settings.inactive_db[self.file_path]['to_test'] != []:
+                list_to_test.extend(
+                    Settings.inactive_db[self.file_path]['to_test'])
 
-        list_to_test = Helpers.List(list_to_test).format()
+        regex_delete = r'localhost$|localdomain$|local$|broadcasthost$|0\.0\.0\.0$'
 
-        i = int(Settings.number_of_tested)
+        list_to_test = Helpers.List(
+            Helpers.Regex(
+                list_to_test,
+                regex_delete).not_matching_list()).format()
 
-        while i < len(list_to_test):
-            domain = list_to_test[i]
+        if Settings.to_filter != '':
+            list_to_test = Helpers.List(
+                Helpers.Regex(
+                    list_to_test,
+                    Settings.to_filter,
+                    escape=True).matching_list()).format()
 
-            if Settings.to_filter != '' and not Helpers.Regex(
-                    domain, Settings.to_filter, return_data=False, escape=True).match():
-
-                print(
-                    '\rSearching the next occurrence of "%s" ...' %
-                    Settings.to_filter, end='')
-                stdout.flush()
-
-                i += 1
-                continue
-            else:
-                print('\r', end='')
-
-            regex_listing = [
-                r'.*localhost.*',
-                r'.*local.*',
-                r'.*broadcasthost.*']
-            match_result = []
-
-            for regx in regex_listing:
-                match_result.append(
-                    Helpers.Regex(
-                        domain,
-                        regx,
-                        return_data=False).match())
-
-            domain = domain.rstrip('\n')
-
-            if domain == '' or True in match_result:
-                i += 1
-                continue
-
-            Settings.domain = self.format_domain(domain)
-            status = ExpirationDate().get()
-
-            if Settings.inactive_database:
-                if status == 'ACTIVE':
-                    Database(file_path).remove()
-                else:
-                    Database(file_path).add()
-
-            AutoContinue().backup(file_path)
-            AutoSave()
-
-            Settings.http_code = ''
-            Settings.referer = ''
-            i += 1
+        list(map(self.domain, list_to_test))
 
         AutoSave(True)
 
@@ -794,7 +790,7 @@ class AutoContinue(object):
                         self.backup_content[file_to_restore][string])
 
 
-class AutoSave(object):
+class AutoSave(object):  # pylint: disable=too-few-public-methods
     """
     Logic behind autosave.
     """
@@ -802,7 +798,7 @@ class AutoSave(object):
     def __init__(self, last_domain=False):
         if Settings.travis:
             self.last = last_domain
-            self.travis()
+            self._travis()
 
     @classmethod
     def travis_permissions(cls):
@@ -827,7 +823,7 @@ class AutoSave(object):
 
         return
 
-    def travis(self):
+    def _travis(self):
         """
         Logic behind travis autosave.
         """
@@ -878,7 +874,7 @@ class Database(object):
         self.day_in_seconds = Settings.days_between_db_retest * 24 * 3600
 
     @classmethod
-    def retrieve(cls):
+    def _retrieve(cls):
         """
         Return the current content of the inactive-db.json file.
         """
@@ -892,7 +888,7 @@ class Database(object):
         return
 
     @classmethod
-    def backup(cls):
+    def _backup(cls):
         """
         Save the current database into the inactive-db.json file.
         """
@@ -902,7 +898,7 @@ class Database(object):
                 Settings.inactive_db).to_json(
                     Settings.inactive_db_path)
 
-    def add_to_test(self, to_add):
+    def _add_to_test(self, to_add):
         """
         Add an element or a list of element into Settings.inactive_db[self.file_path]['to_test'].
         """
@@ -918,7 +914,7 @@ class Database(object):
         else:
             Settings.inactive_db.update({self.file_path: {'to_test': to_add}})
 
-        self.backup()
+        self._backup()
 
     def to_test(self):
         """
@@ -928,7 +924,7 @@ class Database(object):
         result = []
         to_delete = []
 
-        self.retrieve()
+        self._retrieve()
 
         if self.file_path in Settings.inactive_db:
             for data in Settings.inactive_db[self.file_path]:
@@ -941,13 +937,13 @@ class Database(object):
             Helpers.Dict(Settings.inactive_db[self.file_path]).remove_key(
                 to_delete)
 
-            self.add_to_test(result)
+            self._add_to_test(result)
         else:
             Settings.inactive_db.update({self.file_path: {}})
 
-        self.backup()
+        self._backup()
 
-    def timestamp(self):
+    def _timestamp(self):
         """
         Return the timestamp where we are going to save our current list.
         """
@@ -963,7 +959,7 @@ class Database(object):
                         result = int(data)
                     else:
                         result = self.current_time
-                        self.add_to_test(
+                        self._add_to_test(
                             Settings.inactive_db[self.file_path][data])
                         to_delete.append(data)
 
@@ -978,7 +974,7 @@ class Database(object):
         Save the current Settings.domain into the current timestamp.
         """
 
-        timestamp = str(self.timestamp())
+        timestamp = str(self._timestamp())
 
         if self.file_path in Settings.inactive_db:
             if timestamp in Settings.inactive_db[self.file_path]:
@@ -997,7 +993,7 @@ class Database(object):
             Settings.inactive_db[self.file_path] = {
                 timestamp: [Settings.domain]}
 
-        self.backup()
+        self._backup()
 
     def remove(self):
         """
@@ -1010,10 +1006,10 @@ class Database(object):
                     Settings.inactive_db[self.file_path][data].remove(
                         Settings.domain)
 
-        self.backup()
+        self._backup()
 
 
-class ExecutionTime(object):
+class ExecutionTime(object):  # pylint: disable=too-few-public-methods
     """
     Set and return the exection time of the program.
 
@@ -1024,9 +1020,9 @@ class ExecutionTime(object):
     def __init__(self, action='start'):
         if Settings.show_execution_time or Settings.travis:
             if action == 'start':
-                self.starting_time()
+                self._starting_time()
             elif action == 'stop':
-                self.stoping_time()
+                self._stoping_time()
 
                 print(
                     Fore.MAGENTA +
@@ -1035,7 +1031,7 @@ class ExecutionTime(object):
                     self.format_execution_time())
 
     @classmethod
-    def starting_time(cls):
+    def _starting_time(cls):
         """
         Set the starting time.
         """
@@ -1043,7 +1039,7 @@ class ExecutionTime(object):
         Settings.start = int(strftime('%s'))
 
     @classmethod
-    def stoping_time(cls):
+    def _stoping_time(cls):
         """
         Set the ending time.
         """
@@ -1051,7 +1047,7 @@ class ExecutionTime(object):
         Settings.end = int(strftime('%s'))
 
     @classmethod
-    def calculate(cls):
+    def _calculate(cls):
         """
         calculate the difference between starting and ending time.
         """
@@ -1071,7 +1067,7 @@ class ExecutionTime(object):
         """
 
         result = ''
-        calculated_time = self.calculate()
+        calculated_time = self._calculate()
         times = list(calculated_time.keys())
 
         for time in times:
@@ -1146,7 +1142,7 @@ class Prints(object):
         if not Settings.no_files \
             and self.output is not None \
                 and self.output != '' \
-            and not path.isfile(self.output):
+        and not path.isfile(self.output):
             link = ("# File generated with %s\n" % Settings.link_to_repo)
             date_of_generation = (
                 "# Date of generation: %s \n\n" %
@@ -1155,7 +1151,7 @@ class Prints(object):
             Helpers().File(self.output).write(link + date_of_generation)
 
     @classmethod
-    def header_constructor(cls, data_to_print, separator='-'):
+    def _header_constructor(cls, data_to_print, separator='-'):
         """
         Construct header of the table according to template.
 
@@ -1221,14 +1217,14 @@ class Prints(object):
 
             if not do_not_print:
                 self.before_header()
-                for formated_template in self.header_constructor(to_print):
+                for formated_template in self._header_constructor(to_print):
                     if not self.only_on_file:
                         print(formated_template)
                     if self.output is not None and self.output != '':
                         Helpers.File(
                             self.output).write(formated_template + '\n')
 
-    def data_constructor(self, size):
+    def _data_constructor(self, size):
         """
         Construct the table of data according to given size.
 
@@ -1251,7 +1247,7 @@ class Prints(object):
         return result
 
     @classmethod
-    def size_from_header(cls, header):
+    def _size_from_header(cls, header):
         """
         Get the size of each columns from the header.
 
@@ -1265,7 +1261,7 @@ class Prints(object):
 
         return result
 
-    def colorify(self, data):
+    def _colorify(self, data):
         """
         Retun colored string.
 
@@ -1296,24 +1292,24 @@ class Prints(object):
 
             if self.template not in alone_cases and self.template not in without_header:
                 self.header(True)
-                to_print_size = self.size_from_header(
+                to_print_size = self._size_from_header(
                     self.currently_used_header)
             elif self.template in without_header:
                 for data in self.data_to_print:
                     to_print_size.append(str(len(data)))
             else:
-                to_print_size = self.size_from_header(
+                to_print_size = self._size_from_header(
                     self.headers[self.template])
 
-            to_print = self.data_constructor(to_print_size)
+            to_print = self._data_constructor(to_print_size)
 
             self.before_header()
 
-            for data in self.header_constructor(to_print, False):
+            for data in self._header_constructor(to_print, False):
                 if self.template in Settings.generic_status or self.template in [
                         'Less', 'Percentage']:
                     if not self.only_on_file:
-                        data = self.colorify(data)
+                        data = self._colorify(data)
                         print(data)
                 if not Settings.no_files and self.output is not None and self.output != '':
                     Helpers.File(self.output).write(data + '\n')
@@ -1323,13 +1319,13 @@ class Prints(object):
             raise Exception('Please review Prints().data()')
 
 
-class HTTPCode(object):
+class HTTPCode(object):  # pylint: disable=too-few-public-methods
     """
     Get and return the HTTP code status of a given domain.
     """
 
     @classmethod
-    def access(cls):
+    def _access(cls):
         """
         Get the HTTP code status.
         """
@@ -1354,7 +1350,7 @@ class HTTPCode(object):
         Return the HTTP code status.
         """
 
-        http_code = self.access()
+        http_code = self._access()
         list_of_valid_http_code = []
 
         for codes in [
@@ -1484,7 +1480,7 @@ class Percentage(object):
                 Settings.number_of_invalid += 1
 
     @classmethod
-    def calculate(cls):
+    def _calculate(cls):
         """
         Calculate the percentage of each status.
         """
@@ -1511,7 +1507,7 @@ class Percentage(object):
         if Settings.show_percentage and Settings.number_of_tested > 0:
             Helpers.File(Settings.output_percentage_log).delete()
 
-            self.calculate()
+            self._calculate()
 
             if not Settings.quiet:
                 print('\n')
@@ -1640,7 +1636,7 @@ class Generate(object):
                     True).data()
 
     @classmethod
-    def analytic_file(cls, new_status, old_status):
+    def _analytic_file(cls, new_status, old_status):
         """
         Generate HTTP_Analytic/* files.
 
@@ -1711,7 +1707,7 @@ class Generate(object):
             self.expiration_date = 'Unknown'
 
         if Settings.http_code_status and Settings.http_code in Settings.down_potentially_codes:
-            self.analytic_file(
+            self._analytic_file(
                 Settings.official_down_status,
                 self.domain_status)
 
@@ -1752,13 +1748,13 @@ class Generate(object):
 
         if Settings.http_code_status:
             if Settings.http_code in Settings.active_http_codes:
-                self.analytic_file(
+                self._analytic_file(
                     Settings.official_up_status, self.domain_status)
                 self.source = 'HTTP Code'
                 self.domain_status = Settings.official_up_status
                 self.output = Settings.output_up_result
             elif Settings.http_code in Settings.potentially_up_codes:
-                self.analytic_file('potentially_up', self.domain_status)
+                self._analytic_file('potentially_up', self.domain_status)
 
         if Helpers.Regex(
                 Settings.domain,
@@ -1781,23 +1777,23 @@ class Generate(object):
 
         if Settings.http_code_status:
             if Settings.http_code in Settings.active_http_codes:
-                self.analytic_file(
+                self._analytic_file(
                     Settings.official_up_status, self.domain_status)
                 self.source = 'HTTP Code'
                 self.domain_status = Settings.official_up_status
                 self.output = Settings.output_up_result
             elif Settings.http_code in Settings.potentially_up_codes:
-                self.analytic_file(
+                self._analytic_file(
                     'potentially_up', self.domain_status)
             elif Settings.http_code in Settings.down_potentially_codes:
-                self.analytic_file(
+                self._analytic_file(
                     Settings.official_down_status, self.domain_status)
 
             if self.source != 'HTTP Code':
                 self.domain_status = Settings.official_invalid_status
                 self.output = Settings.output_invalid_result
 
-    def prints_status_file(self):
+    def _prints_status_file(self):
         """
         Logic behind the printing when generating status file.
         """
@@ -1868,7 +1864,7 @@ class Generate(object):
                        'Generic').data()
 
         if not Settings.no_files and Settings.split_files:
-            self.prints_status_file()
+            self._prints_status_file()
         else:
             self.unified_file()
 
@@ -1948,6 +1944,7 @@ class Referer(object):
             'jo',
             'kh',
             'lb',
+            'mc',
             'mil',
             'mm',
             'mt',
@@ -1978,7 +1975,7 @@ class Referer(object):
         ]
 
     @classmethod
-    def iana_database(cls):
+    def _iana_database(cls):
         """
         Convert `iana-domains-db.json` into a dictionnary.
         """
@@ -1997,7 +1994,7 @@ class Referer(object):
                 referer = None
 
                 if Settings.iana_db == {}:
-                    Settings.iana_db.update(self.iana_database())
+                    Settings.iana_db.update(self._iana_database())
 
                 if self.domain_extension in Settings.iana_db:
                     referer = Settings.iana_db[self.domain_extension]
@@ -2069,7 +2066,7 @@ class ExpirationDate(object):
             return_data=False).match()
 
     @classmethod
-    def is_valid_ip(cls, IP=None):
+    def is_ip_valid(cls, IP=None):
         """
         Check if Settings.domain is a valid IPv4.
 
@@ -2099,7 +2096,7 @@ class ExpirationDate(object):
         """
 
         domain_validation = self.is_domain_valid()
-        ip_validation = self.is_valid_ip()
+        ip_validation = self.is_ip_valid()
 
         if domain_validation and not ip_validation or domain_validation:
             Settings.http_code = HTTPCode().get()
@@ -2111,7 +2108,7 @@ class ExpirationDate(object):
                     Settings.official_invalid_status]:
                 return Settings.referer
             elif Settings.referer is not None:
-                return self.extract()
+                return self._extract()
 
             return Status(Settings.official_down_status).handle()
         elif ip_validation and not domain_validation or ip_validation:
@@ -2120,7 +2117,7 @@ class ExpirationDate(object):
 
         return Status(Settings.official_invalid_status).handle()
 
-    def whois_log(self):
+    def _whois_log(self):
         """
         Log the whois record into a file
         """
@@ -2131,7 +2128,7 @@ class ExpirationDate(object):
             Helpers.File(Settings.whois_logs_dir + Settings.referer).write(log)
 
     @classmethod
-    def convert_1_to_2_digits(cls, number):
+    def _convert_1_to_2_digits(cls, number):
         """
         Convert 1 digit number to two digits.
         """
@@ -2139,7 +2136,7 @@ class ExpirationDate(object):
         return str(number).zfill(2)
 
     @classmethod
-    def convert_or_shorten_month(cls, data):
+    def _convert_or_shorten_month(cls, data):
         """
         Convert a given month into our unified format.
 
@@ -2192,7 +2189,7 @@ class ExpirationDate(object):
                     data=date_to_share)
 
     @classmethod
-    def cases_management(cls, regex_number, matched_result):
+    def _cases_management(cls, regex_number, matched_result):
         """
         A little helper of self.format. (Avoiding of nested loops)
 
@@ -2220,7 +2217,7 @@ class ExpirationDate(object):
                 continue
         return None
 
-    def format(self):
+    def _format(self):
         """
         Format the expiration date into an unified format (01-jan-1970).
         """
@@ -2311,11 +2308,11 @@ class ExpirationDate(object):
                 rematch=True).match()
 
             if matched_result:
-                date = self.cases_management(regx, matched_result)
+                date = self._cases_management(regx, matched_result)
 
                 if date is not None:
-                    day = self.convert_1_to_2_digits(date[0])
-                    month = self.convert_or_shorten_month(date[1])
+                    day = self._convert_1_to_2_digits(date[0])
+                    month = self._convert_or_shorten_month(date[1])
                     year = str(date[2])
 
                     self.expiration_date = day + '-' + month + '-' + year
@@ -2326,9 +2323,9 @@ class ExpirationDate(object):
                 r'[0-9]{2}\-[a-z]{3}\-2[0-9]{3}',
                 return_data=False).match() != True:
             self.log()
-            self.whois_log()
+            self._whois_log()
 
-    def extract(self):
+    def _extract(self):
         """
         Extract the expiration date from the whois record.
         """
@@ -2390,15 +2387,15 @@ class ExpirationDate(object):
                             regex_rumbers,
                             return_data=False).match():
 
-                        self.format()
+                        self._format()
                         Generate(Settings.official_up_status, 'WHOIS',
                                  self.expiration_date).status_file()
                         return Settings.official_up_status
 
-                    self.whois_log()
+                    self._whois_log()
                     return Status(Settings.official_down_status).handle()
 
-        self.whois_log()
+        self._whois_log()
         return Status(Settings.official_down_status).handle()
 
 
@@ -2595,6 +2592,32 @@ class Helpers(object):  # pylint: disable=too-few-public-methods
                 self.regex = escape(regex)
             else:
                 self.regex = regex
+
+        def not_matching_list(self):
+            """
+            This method return a list of string which don't match the
+            given regex.
+            """
+
+            pre_result = comp(self.regex)
+
+            return list(
+                filter(
+                    lambda element: not pre_result.search(str(element)),
+                    self.data))
+
+        def matching_list(self):
+            """
+            This method return a list of the string which match the given
+            regex.
+            """
+
+            pre_result = comp(self.regex)
+
+            return list(
+                filter(
+                    lambda element: pre_result.search(str(element)),
+                    self.data))
 
         def match(self):
             """Used to get exploitable result of re.search"""
@@ -2890,7 +2913,7 @@ if __name__ == '__main__':
             '-v',
             '--version',
             action='version',
-            version='%(prog)s 0.37.0-beta'
+            version='%(prog)s 0.40.0-beta'
         )
 
         ARGS = PARSER.parse_args()
