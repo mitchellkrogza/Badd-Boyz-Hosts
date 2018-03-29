@@ -58,7 +58,14 @@ export GIT_NAME=${GIT_NAME}
 # Note: We use the same statement so that if something is broken everything else
 #   is not run.
 # ******************************************************************************
-
-sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py --dev -u && \
-sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/tool.py -dbr 5 --autosave-minutes 10 --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" -i && \
-sudo python3 $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/PyFunceble.py --travis --cmd-before-end "bash $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh" -a -ex --plain --split -f $_input
+if [ -f ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/tool.py ]
+then
+  sudo python3 ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/tool.py --dev -u && \
+  mv ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/config_production.yaml ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/config.yaml && \
+  sudo python3 ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/modify-readme-file.sh" -a -ex --plain --split --share-logs --autosave-minutes 10 --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" -f $_input
+else
+  sudo python3 ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py --dev -u && \
+  mv ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/config_production.yaml ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/config.yaml && \
+  sudo python3 ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/modify-readme-file.sh" -a -ex --plain --split --share-logs --autosave-minutes 10 --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" -f $_input
+fi
+exit ${?}
