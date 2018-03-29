@@ -69,7 +69,11 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # IANA DB url
     iana_url = 'https://www.iana.org/domains/root/db'
     # dir_structure.json url
-    online_dir_structure = github_raw + 'dir_structure.json'
+    online_dir_structure = github_raw + 'dir_structure_production.json'
+    # requirements.txt url
+    online_requirements = github_raw + 'requirements.txt'
+    # config_production.json url
+    online_config = github_raw + 'config_production.yaml'
     ################################# Options ################################
     # Activate/Deactivate quiet mode.
     quiet = False
@@ -96,7 +100,9 @@ class Settings(object):  # pylint: disable=too-few-public-methods
             'online_script',
             'online_tool',
             'online_iana',
-            'online_dir_structure'
+            'online_dir_structure',
+            'online_requirements',
+            'online_config'
         ]
 
         for var in to_replace:
@@ -553,7 +559,9 @@ class Update(object):
             'script': 'PyFunceble.py',
             'tool': 'tool.py',
             'iana': 'iana-domains-db.json',
-            'dir_structure': 'dir_structure.json'
+            'dir_structure': 'dir_structure_production.json',
+            'config': 'config_production.yaml',
+            'requirements': 'requirements.txt'
         }
 
         if path.isdir(
@@ -578,6 +586,7 @@ class Update(object):
                 if not Settings.quiet:
                     print('Checking version', end=' ')
                 if self.same_version() and not Settings.quiet:
+                    Helpers.File('tool.py').delete()
                     print(
                         Settings.done +
                         '\n\nThe update was successfully completed!')
@@ -631,7 +640,7 @@ class Update(object):
         """
 
         if not Settings.quiet:
-            print('\n Download of the scripts ')
+            print('\nDownload of the scripts', end=' ')
 
         from shutil import copyfileobj
         from requests import get
@@ -656,9 +665,10 @@ class Update(object):
             return
 
         if not Settings.quiet:
+            print(Settings.error)
+
             print(
-                Settings.done +
-                '\nImpossible to update %s.Please report issue.' %
+                '\nImpossible to update %s. Please report issue.' %
                 Settings.script)
             exit(1)
 
@@ -865,8 +875,7 @@ class IANA(object):
 
         if self.download():
             Helpers.Dict(self.get_valid_extensions()).to_json(self.destination)
-            # for extension in extensions:
-            #     Helpers.File(self.destination).write(extension + '\n')
+
             if not Settings.quiet:
                 print(Settings.done)
         else:
@@ -1221,7 +1230,7 @@ if __name__ == '__main__':
         '-v',
         '--version',
         action='version',
-        version='%(prog)s 0.11.3-beta'
+        version='%(prog)s 0.13.0-beta'
     )
 
     ARGS = PARSER.parse_args()
