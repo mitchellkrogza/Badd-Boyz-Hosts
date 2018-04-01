@@ -95,7 +95,7 @@ dos2unix $_input1
 # Make sure all scripts are executable
 # ************************************
 
-sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/run-PyFunceble.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-hosts.sh
 
@@ -103,7 +103,7 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-hosts.sh
 # Run funceble to check for dead domains
 # ***************************************************
 
-sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/run-funceble.sh
+sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/run-PyFunceble.sh
 
 
 exit ${?}
