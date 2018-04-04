@@ -64,7 +64,7 @@ export GIT_NAME=${GIT_NAME}
 #  mv ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/config_production.yaml ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/config.yaml && \
 #  sudo python3 ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/final-commit.sh" -a -ex --plain --split --share-logs --autosave-minutes 10 --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" -f $_input
 #else
-  sudo python3 ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py --dev -u && \
+  sudo python3 ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py --dev && \
   mv ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/config_production.yaml ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/config.yaml && \
   sudo python3 ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/final-commit.sh" -a -ex --plain --split --share-logs --autosave-minutes 10 --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" -f $_input
 #fi
