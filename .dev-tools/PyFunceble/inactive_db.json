@@ -1,6 +1,16 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
-        "1522328248": [
+        "1522825426": [
+            "0zproxy.gq",
+            "101jokes.dk",
+            "1minutelifehack.com",
+            "24-7-singles.com",
+            "254.252.131.213.static.inetbone.net",
+            "2itech.ru",
+            "78984.xyz",
+            "a2.364736.com"
+        ],
+        "to_test": [
             "ultramart.biz",
             "unlocked-accountid.com",
             "unsecured-guarantor-loans.co.uk",
@@ -59,15 +69,6 @@
             "zuzka-model.net",
             "zvezdagedon.ru",
             "zwickauer-musikforum.de",
-            "001.vwoool.com",
-            "0zproxy.gq",
-            "101jokes.dk",
-            "1minutelifehack.com",
-            "2.speedknow.co",
-            "24-7-singles.com",
-            "2itech.ru",
-            "78984.xyz",
-            "a2.364736.com",
             "absolutelyanalog.com",
             "ad.pdassi.de",
             "ad1.adinfuse.com",
@@ -653,8 +654,6 @@
             "uk-ad2.adinfuse.com",
             "uk-go.adinfuse.com",
             "zbiorniczek.pl",
-            "214.13.190.195.unknown.steephost.net",
-            "254.252.131.213.static.inetbone.net",
             "big-tits.clickrightnow.com",
             "bundesloga.de",
             "cardioweb.co.uk",
@@ -677,7 +676,6 @@
             "sexworld.com.au",
             "timetorelax.biz",
             "winstudio.co.uk",
-            "aaronjames.com.au",
             "accionmasvida.com.ar",
             "ads.fiat-bg.org",
             "andrwnolas.top",
@@ -694,8 +692,8 @@
             "pornolines.de",
             "pornovideazdarma.cz",
             "release.com.pl",
-            "sex24.fu.st"
-        ],
-        "to_test": []
+            "sex24.fu.st",
+            "001.vwoool.com"
+        ]
     }
 }
