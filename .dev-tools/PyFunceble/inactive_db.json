@@ -720,10 +720,10 @@
             "minitoplist.de",
             "nufaq.com",
             "offergroup.info",
-            "otto-immobilien-hn.de"
+            "otto-immobilien-hn.de",
+            "paolavicenzocueros.com",
+            "photostudiolightings.com"
         ],
-        "to_test": [
-            "paolavicenzocueros.com"
-        ]
+        "to_test": []
     }
 }
