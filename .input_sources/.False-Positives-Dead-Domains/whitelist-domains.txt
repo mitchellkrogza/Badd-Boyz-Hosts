@@ -154,6 +154,7 @@ fonts.googleapis.com
 fonts.google.com
 fonts.gstatic.com
 footprint.net
+forodvd.com
 forums.sonarr.tv
 freshwallpapers.info
 fueleconomy.gov
