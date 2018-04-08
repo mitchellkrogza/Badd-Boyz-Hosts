@@ -2069,18 +2069,27 @@ class Referer(object):
             "cy",
             "dj",
             "eg",
+            "er",
             "et",
+            "fk",
             "fm",
             "ge",
             "gm",
+            "gn",
             "gp",
             "gr",
             "gt",
+            "gu",
+            "gw",
             "jm",
             "jo",
             "kh",
+            "km",
+            "kp",
             "lb",
+            "lr",
             "mc",
+            "mh",
             "mil",
             "mm",
             "mt",
@@ -2104,6 +2113,7 @@ class Referer(object):
             "tj",
             "tp",
             "tt",
+            "va",
             "vi",
             "vn",
             "ye",
@@ -3985,7 +3995,7 @@ if __name__ == "__main__":
         help=" Get the latest version of PyFunceble.",
     )
     PARSER.add_argument(
-        "-v", "--version", action="version", version="%(prog)s 0.60.0-beta"
+        "-v", "--version", action="version", version="%(prog)s 0.60.10-beta"
     )
 
     ARGS = PARSER.parse_args()
