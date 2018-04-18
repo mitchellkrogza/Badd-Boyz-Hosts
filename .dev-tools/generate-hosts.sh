@@ -11,8 +11,8 @@
 
 yeartag=$(date +%Y)
 monthtag=$(date +%m)
-my_git_tag=V1.${yeartag}.${monthtag}.$TRAVIS_BUILD_NUMBER
-bad_referrers=$(wc -l < $TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt)
+my_git_tag=V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}
+bad_referrers=$(wc -l < ${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt)
 
 # **********************************
 # Temporary database files we create
@@ -25,7 +25,7 @@ inputdb1=/tmp/hosts.db
 # Declare template and temp variables
 # ***********************************
 
-hosts=$TRAVIS_BUILD_DIR/.dev-tools/hosts.template
+hosts=${TRAVIS_BUILD_DIR}/.dev-tools/hosts.template
 tmphostsA=tmphostsA
 tmphostsB=tmphostsB
 
@@ -33,8 +33,8 @@ tmphostsB=tmphostsB
 # Setup input bots and referer lists
 # **********************************
 
-input1=$TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
-input2=$TRAVIS_BUILD_DIR/.dev-tools/domains_tmp.txt
+input1=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
+input2=${TRAVIS_BUILD_DIR}/.dev-tools/domains_tmp.txt
 
 # **************************************************************************
 # Sort lists alphabetically and remove duplicates before cleaning Dead Hosts
@@ -130,7 +130,7 @@ rm ${inputdb1}
 # Copy Files into place before testing
 # ************************************
 
-sudo cp ${hosts} $TRAVIS_BUILD_DIR/hosts
+sudo cp ${hosts} ${TRAVIS_BUILD_DIR}/hosts
 
 exit 0
 
