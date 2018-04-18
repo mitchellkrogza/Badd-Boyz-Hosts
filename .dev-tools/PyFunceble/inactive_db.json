@@ -1,7 +1,9 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
-        "1523604456": [
-            "123kontaktanzeigen.de",
+        "0": [
+            "123kontaktanzeigen.de"
+        ],
+        "to_test": [
             "aed4uozi.com",
             "aguai.com.ar",
             "anapa-inns.ru",
@@ -42,7 +44,6 @@
             "tacbelarus.ru",
             "tendanse.nl",
             "vb.serverknecht.de",
-            "100s.pl",
             "dieta-personalna.pl",
             "nacktefrau.eu",
             "naszemisto.pl",
@@ -199,7 +200,6 @@
             "workle.website",
             "wwwinbank.pl",
             "xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai"
-        ],
-        "to_test": []
+        ]
     }
 }
