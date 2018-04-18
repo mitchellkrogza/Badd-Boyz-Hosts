@@ -1,11 +1,11 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
-        "0": [
-            "123kontaktanzeigen.de"
-        ],
-        "to_test": [
+        "1524045274": [
             "aed4uozi.com",
             "aguai.com.ar",
+            "airbnb.com-rooms-apartment-3078097-location-madrid.digitalocean.pw"
+        ],
+        "to_test": [
             "anapa-inns.ru",
             "booby-fever.blogomer.com",
             "canyonranchdestination.com",
@@ -55,7 +55,6 @@
             "pornohosting.cz",
             "preparufinotamayo.com",
             "xn--u8jtdyb1ew67y.com",
-            "airbnb.com-rooms-apartment-3078097-location-madrid.digitalocean.pw",
             "babedatabase.com",
             "bondageporn.100toppages.com",
             "californiaautoinsurancehq.org",
@@ -69,7 +68,6 @@
             "tapety.zw.pl",
             "theplumberschoice.store",
             "truemfilelj.gq",
-            "ad.bubblestat.com",
             "androids-store.com",
             "auth-bedachungen.de",
             "blasfilme.de",
@@ -199,7 +197,9 @@
             "w3data.co",
             "workle.website",
             "wwwinbank.pl",
-            "xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai"
+            "xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai",
+            "123kontaktanzeigen.de",
+            "ad.bubblestat.com"
         ]
     }
 }
