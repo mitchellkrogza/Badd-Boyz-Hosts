@@ -13,6 +13,9 @@ yeartag=$(date +%Y)
 monthtag=$(date +%m)
 my_git_tag=V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}
 bad_referrers=$(wc -l < ${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt)
+hosts=${TRAVIS_BUILD_DIR}/.dev-tools/hosts.template
+tmphostsA=tmphostsA
+tmphostsB=tmphostsB
 
 # **********************************
 # Temporary database files we create
@@ -20,14 +23,6 @@ bad_referrers=$(wc -l < ${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt)
 
 inputdbA=/tmp/lastupdated.db
 inputdb1=/tmp/hosts.db
-
-# ***********************************
-# Declare template and temp variables
-# ***********************************
-
-hosts=${TRAVIS_BUILD_DIR}/.dev-tools/hosts.template
-tmphostsA=tmphostsA
-tmphostsB=tmphostsB
 
 # **********************************
 # Setup input bots and referer lists
@@ -132,7 +127,8 @@ rm ${inputdb1}
 
 sudo cp ${hosts} ${TRAVIS_BUILD_DIR}/hosts
 
-exit 0
+exit ${?}
+
 
 # MIT License
 

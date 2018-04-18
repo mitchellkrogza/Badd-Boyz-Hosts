@@ -1,46 +1,44 @@
 #!/bin/bash
-# ********************
-# Run Funceble Testing
-# ********************
-
+# **********************
+# Run PyFunceble Testing
+# **********************
 # Created by: Mitchell Krog (mitchellkrog@gmail.com)
 # Copyright: Mitchell Krog - https://github.com/mitchellkrogza
-# Repo Url: https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites
 
 # ****************************************************************
 # This uses the awesome PyFunceble script created by Nissar Chababy
 # Find funceble at: https://github.com/funilrys/PyFunceble
 # ****************************************************************
 
+# **********************
+# Setting date variables
+# **********************
+
+yeartag=$(date +%Y)
+monthtag=$(date +%m)
+
 # ******************
 # Set our Input File
 # ******************
-_input=$TRAVIS_BUILD_DIR/PULL_REQUESTS/domains.txt
+input=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
 
 # ******************************************
 # Make Sure Travis Own all files and Folders
 # ******************************************
 
-sudo chown -R travis:travis $TRAVIS_BUILD_DIR/
+sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}/
 
 # *******************************
 # Set Funceble Scripts Executable
 # *******************************
 
-sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/PyFunceble.py
+sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py
 
 # ****************************
 # Switch to funceble directory
 # ****************************
 
-cd $TRAVIS_BUILD_DIR/.dev-tools/PyFunceble/
-
-# ************************
-# Settings date variables
-# ************************
-
-YEAR=$(date +%Y)
-MONTH=$(date +%m)
+cd ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/
 
 # *****************************************************
 # Exporting all variable that are needed by PyFunceble
@@ -59,6 +57,6 @@ export GIT_NAME=${GIT_NAME}
 # ******************************************************************************
   sudo python3 ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py --dev -u && \
   mv ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/config_production.yaml ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/config.yaml && \
-  sudo python3 ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/final-commit.sh" -a -ex --plain --split --share-logs --autosave-minutes 10 --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" -f $_input
+  sudo python3 ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/final-commit.sh" -a -ex --plain --split --share-logs --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
 
 exit ${?}
