@@ -1,6 +1,14 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
-        "1524045274": [
+        "0": [
+            "123kontaktanzeigen.de"
+        ],
+        "to_test": [
+            "madan-mohan-college.com",
+            "lceihiuarfqbn.bid",
+            "lcnvxuipvq.bid",
+            "ldlritslfej.bid",
+            "ad.bubblestat.com",
             "aed4uozi.com",
             "aguai.com.ar",
             "airbnb.com-rooms-apartment-3078097-location-madrid.digitalocean.pw",
@@ -166,14 +174,6 @@
             "xn--u8jtdyb1ew67y.com",
             "yzhsqdexo.top",
             "zmdtxdomsoo.bid"
-        ],
-        "to_test": [
-            "madan-mohan-college.com",
-            "lceihiuarfqbn.bid",
-            "lcnvxuipvq.bid",
-            "ldlritslfej.bid",
-            "123kontaktanzeigen.de",
-            "ad.bubblestat.com"
         ]
     }
 }
