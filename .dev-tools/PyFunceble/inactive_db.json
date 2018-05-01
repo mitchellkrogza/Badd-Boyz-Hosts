@@ -1,6 +1,12 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
-        "1524574085": [
+        "1525177879": [
+            "123kontaktanzeigen.de",
+            "51unlim.ru",
+            "925.lt"
+        ],
+        "to_test": [
+            "pharm-shop.biz",
             "adstat.fgsta.com",
             "aed4uozi.com",
             "airbnb.com-rooms-apartment-3078097-location-madrid.digitalocean.pw",
@@ -138,12 +144,8 @@
             "wwwinbank.pl",
             "xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai",
             "xn--u8jtdyb1ew67y.com",
-            "young.rules.nu"
-        ],
-        "to_test": [
-            "pharm-shop.biz",
-            "123kontaktanzeigen.de",
-            "925.lt"
+            "young.rules.nu",
+            "100s.pl"
         ]
     }
 }
