@@ -1,9 +1,14 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
-        "1525177879": [
-            "123kontaktanzeigen.de",
+        "1525767786": [
+            "173js173.com",
+            "1st-class.ch",
+            "28l8o.com",
             "51unlim.ru",
-            "925.lt",
+            "925.lt"
+        ],
+        "to_test": [
+            "auth-bedachungen.de",
             "admin.archivemagno.com",
             "adrenalin-stk.ru",
             "adstat.fgsta.com",
@@ -230,11 +235,8 @@
             "xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai",
             "xn--tierheim-lbeck-psb.de",
             "xn--u8jtdyb1ew67y.com",
-            "young.rules.nu"
-        ],
-        "to_test": [
-            "auth-bedachungen.de",
-            "100s.pl"
+            "young.rules.nu",
+            "123kontaktanzeigen.de"
         ]
     }
 }
