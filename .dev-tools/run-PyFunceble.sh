@@ -38,7 +38,7 @@ chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py
 # Switch to funceble directory
 # ****************************
 
-cd ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/
+cd ${TRAVIS_BUILD_DIR}/.dev-tools/
 
 # *****************************************************
 # Exporting all variable that are needed by PyFunceble
