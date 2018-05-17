@@ -79,7 +79,7 @@ sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-hosts.sh
 # Run funceble to check for dead domains
 # ***************************************************
 
-sudo bash -x ${TRAVIS_BUILD_DIR}/.dev-tools/run-PyFunceble.sh
+bash -x ${TRAVIS_BUILD_DIR}/.dev-tools/run-PyFunceble.sh
 
 
 exit ${?}
