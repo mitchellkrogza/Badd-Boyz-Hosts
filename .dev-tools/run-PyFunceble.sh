@@ -21,34 +21,35 @@ monthtag=$(date +%m)
 # Set our Input File
 # ******************
 input=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
+pyfuncebleConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble.yaml
 
 # ******************************************
 # Make Sure Travis Own all files and Folders
 # ******************************************
 
-sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}/
+#sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}/
 
 # *******************************
 # Set Funceble Scripts Executable
 # *******************************
 
-chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py
+#chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/PyFunceble/PyFunceble.py
 
 # ****************************
 # Switch to funceble directory
 # ****************************
 
-cd ${TRAVIS_BUILD_DIR}/.dev-tools/
+#cd ${TRAVIS_BUILD_DIR}/.dev-tools/
 
 # *****************************************************
 # Exporting all variable that are needed by PyFunceble
 # *****************************************************
 
-export TRAVIS_BUILD_DIR=${TRAVIS_BUILD_DIR}
-export GH_TOKEN=${GH_TOKEN}
-export TRAVIS_REPO_SLUG=${TRAVIS_REPO_SLUG}
-export GIT_EMAIL=${GIT_EMAIL}
-export GIT_NAME=${GIT_NAME}
+#export TRAVIS_BUILD_DIR=${TRAVIS_BUILD_DIR}
+#export GH_TOKEN=${GH_TOKEN}
+#export TRAVIS_REPO_SLUG=${TRAVIS_REPO_SLUG}
+#export GIT_EMAIL=${GIT_EMAIL}
+#export GIT_NAME=${GIT_NAME}
 
 # ******************************************************************************
 # Updating PyFunceble && Run PyFunceble
@@ -56,6 +57,34 @@ export GIT_NAME=${GIT_NAME}
 #   is not run.
 # ******************************************************************************
 
-PyFunceble --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/final-commit.sh" -a -ex --plain --split --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
+#PyFunceble --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/final-commit.sh" -a -ex --plain --split --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
+
+# **********************
+# Run PyFunceble Testing
+# **********************************************************
+# Find PyFunceble at: https://github.com/funilrys/PyFunceble
+# **********************************************************
+
+RunFunceble () {
+
+    yeartag=$(date +%Y)
+    monthtag=$(date +%m)
+    #sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}/
+
+    cd ${TRAVIS_BUILD_DIR}/dev-tools
+
+    hash PyFunceble
+
+    if [[ -f "${pyfuncebleConfigurationFileLocation}" ]]
+    then
+        rm "${pyfuncebleConfigurationFileLocation}"
+    fi
+
+    PyFunceble --travis -dbr 5 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/commit.sh" -ex --plain --autosave-minutes 10 --commit-autosave-message "V0.1.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V0.1.${TRAVIS_BUILD_NUMBER}" -f ${input}
+
+}
+
+RunFunceble
+
 
 exit ${?}
