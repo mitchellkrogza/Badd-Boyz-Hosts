@@ -4,8 +4,9 @@ env:
     - GIT_NAME: Travis CI
     - GIT_EMAIL: mitchellkrog@gmail.com
     - TRAVIS_REPO_SLUG: mitchellkrogza/Badd-Boyz-Hosts
-    - GIT_BRANCH: dev
-    - - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
+    - GIT_BRANCH: master
+    - TZ:       Africa/Johannesburg
+    - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
   matrix:
     - USE_NETWORK=true
 
@@ -19,18 +20,24 @@ matrix:
 
 cache:
   - apt
-  - pip
+  - pip3
 
 sudo: required
 
-before_install:
-  - export TZ=Africa/Johannesburg
-  - sudo apt-get -y install dos2unix
-  - pip3 install colorama
+addons:
+  apt:
+    packages:
+      - dos2unix
+      - pandoc
+
+install:
+  - pip3 install --upgrade pip
+  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble
+  - pip3 install git+https://github.com/funilrys/domain2idna.git@master#egg=domain2idna
 
 script:
 
-  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble && bash .dev-tools/pre-deploy.sh
+  - bash .dev-tools/pre-deploy.sh
 
 notifications:
   email: false
