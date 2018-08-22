@@ -21,7 +21,7 @@ monthtag=$(date +%m)
 # Set our Input File
 # ******************
 input=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
-pyfuncebleConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble.yaml
+pyfuncebleConfigurationFileLocation=${TRAVIS_BUILD_DIR}/.dev-tools/.PyFunceble.yaml
 
 # **********************
 # Run PyFunceble Testing
