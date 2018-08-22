@@ -49,12 +49,6 @@ sudo touch ${TRAVIS_BUILD_DIR}/.dev-tools/temp_combined-list.txt
 
 input1=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
 
-# **************************************
-# Downloading of the whitelisting script
-# **************************************
-
-wget https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/dev-center/whitelisting/whitelisting.py -O "${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py"
-
 # ***********************************
 # Make Sure Travis Owns All New Files
 # ***********************************
@@ -72,6 +66,12 @@ sort -u ${input1} -o ${input1}
 # *****************
 
 dos2unix ${input1}
+
+# **************************************
+# Downloading of the whitelisting script
+# **************************************
+
+wget https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/dev-center/whitelisting/whitelisting.py -O "${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py"
 
 # ***********************************
 # Deletion of all whitelisted domains
