@@ -71,7 +71,8 @@ dos2unix ${input1}
 # Downloading of the whitelisting script
 # **************************************
 
-sudo wget https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/dev-center/whitelisting/whitelisting.py -O "${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py"
+wget https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/dev-center/whitelisting/whitelisting.py -O "${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py"
+sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}
 
 # ***********************************
 # Deletion of all whitelisted domains
