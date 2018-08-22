@@ -71,7 +71,7 @@ dos2unix ${input1}
 # Downloading of the whitelisting script
 # **************************************
 
-sudo wget https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/dev-center/whitelisting/whitelisting.py -O "${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py"
+wget https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/dev-center/whitelisting/whitelisting.py -O "${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py"
 
 # ************************************
 # Make sure all scripts are executable
@@ -86,7 +86,7 @@ sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-hosts.sh
 # Deletion of all whitelisted domains
 # ***********************************
 
-sudo ${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py -f "${input1}" -o "${input1}"
+${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py -f "${input1}" -o "${input1}"
 
 
 # ***************************************************
