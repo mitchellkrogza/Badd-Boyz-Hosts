@@ -71,13 +71,7 @@ dos2unix ${input1}
 # Downloading of the whitelisting script
 # **************************************
 
-wget https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/dev-center/whitelisting/whitelisting.py -O "${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py"
-
-# ***********************************
-# Deletion of all whitelisted domains
-# ***********************************
-
-sudo ${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py -f "${input1}" -o "${input1}"
+sudo wget https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/dev-center/whitelisting/whitelisting.py -O "${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py"
 
 # ************************************
 # Make sure all scripts are executable
@@ -87,6 +81,13 @@ sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py
 sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/run-PyFunceble.sh
 sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/modify-readme.sh
 sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-hosts.sh
+
+# ***********************************
+# Deletion of all whitelisted domains
+# ***********************************
+
+sudo ${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py -f "${input1}" -o "${input1}"
+
 
 # ***************************************************
 # Run funceble to check for dead domains
