@@ -9,7 +9,7 @@
 # Remove our inactive and invalid domains from PULL_REQUESTS
 # ***********************************************************
 
-cat ${TRAVIS_BUILD_DIR}/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > tempdomains.txt
+cat ${TRAVIS_BUILD_DIR}/.dev-tools/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > tempdomains.txt
 mv tempdomains.txt ${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
 
 # ***************************************************************************
