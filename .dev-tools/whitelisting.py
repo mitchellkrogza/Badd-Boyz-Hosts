@@ -88,6 +88,26 @@ class Whitelist:
         self.get_whitelist()
         self.string = string
 
+    @classmethod
+    def _bare_whitelisting(cls, line, to_remove):
+        """
+        This method will whitelitist the list against the bare list.
+
+        Argument:
+            - line: list
+                The current line.
+            - to_remove: set
+                The set representing the whitelist list.
+        """
+
+        if not isinstance(line, tuple):
+            return line
+
+        if line[0] not in to_remove:
+            return line[-1]
+
+        return None
+
     def get(self):  # pylint:disable=inconsistent-return-statements
         """
         This method will put everything together!
@@ -96,16 +116,24 @@ class Whitelist:
         content = []
 
         if self.file:
-            content.extend(Helpers.File(self.file).to_list())
+            content.extend(
+                list(map(self._format_line, Helpers.File(self.file).to_list()))
+            )
         elif self.string:
-            content.extend(self.string.split("\n"))
+            content.extend(list(map(self._format_line, self.string.split("\n"))))
 
         if content:
             if self.output_file:
                 Helpers.File(self.output_file).write("", overwrite=True)
 
             to_remove = set(Settings.whitelist)
-            whitelisted = [line for line in content if line not in to_remove]
+
+            whitelisted = [
+                self._bare_whitelisting(line, to_remove)
+                for line in content
+                if line not in to_remove
+            ]
+            whitelisted = [line for line in whitelisted if line]
 
             printed_or_written = self._print_or_write(
                 Helpers.Regex(
