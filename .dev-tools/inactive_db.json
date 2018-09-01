@@ -878,9 +878,8 @@
             "dev34.dioniqlabb.se",
             "dev40.dioniqlabb.se",
             "dev78.dioniqlabb.se",
-            "diatoetsen.com"
-        ],
-        "to_test": [
+            "diatoetsen.com",
+            "docs.pyrthon.org",
             "downbepo.hostami.me",
             "downbiefred.hostami.me",
             "downgebud.hostami.me",
@@ -892,7 +891,9 @@
             "downtane.hostami.me",
             "downtiocan.hostami.me",
             "downvientit.hostami.me",
-            "downviovi.hostami.me",
+            "downviovi.hostami.me"
+        ],
+        "to_test": [
             "emptyus.trixy.pl",
             "eroinfo.de",
             "erotikdating4u.de",
