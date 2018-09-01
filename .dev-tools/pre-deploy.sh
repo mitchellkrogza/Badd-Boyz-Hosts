@@ -86,7 +86,10 @@ sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-hosts.sh
 # Deletion of all whitelisted domains
 # ***********************************
 
-${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py -f "${input1}" -o "${input1}"
+if [[ "$(git log -1 | tail -1 | xargs)" =~ "ci skip" ]]
+then
+    ${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py -f "${input1}" -o "${input1}"
+fi
 
 
 # ***************************************************
