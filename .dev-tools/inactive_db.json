@@ -894,9 +894,7 @@
             "dev78.dioniqlabb.se",
             "diatoetsen.com",
             "dljmine.com",
-            "docs.pyrthon.org"
-        ],
-        "to_test": [
+            "docs.pyrthon.org",
             "downbepo.hostami.me",
             "downbiefred.hostami.me",
             "downgebud.hostami.me",
@@ -908,7 +906,9 @@
             "downtane.hostami.me",
             "downtiocan.hostami.me",
             "downvientit.hostami.me",
-            "downviovi.hostami.me",
+            "downviovi.hostami.me"
+        ],
+        "to_test": [
             "eroinfo.de",
             "erotikdating4u.de",
             "fnmsk.ru",
