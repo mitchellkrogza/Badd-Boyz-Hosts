@@ -122,7 +122,7 @@ or [![Get the APACHE ULTIMATE BAD BOT BLOCKER](https://img.shields.io/badge/APAC
 ************************************************
 ## Contributors
 
-- Nissar Chababy - https://github.com/funilrys/funceble (Excellent script for checking ACTIVE, INACTIVE and EXPIRED Domain Names)
+- Nissar Chababy - https://github.com/funilrys/PyFunceble (Excellent script for checking ACTIVE, INACTIVE and EXPIRED Domain Names)
 
 ************************************************
 ## Some other awesome free projects
@@ -137,6 +137,7 @@ or [![Get the APACHE ULTIMATE BAD BOT BLOCKER](https://img.shields.io/badge/APAC
 - https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations
 - https://github.com/mitchellkrogza/Fail2Ban-Blacklist-JAIL-for-Repeat-Offenders-with-Perma-Extended-Banning
 - https://github.com/funilrys/funceble
+- https://github.com/funilrys/PyFunceble
 ************************************************
 ## Support this Project
 
