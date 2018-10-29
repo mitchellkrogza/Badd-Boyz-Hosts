@@ -31268,7 +31268,7 @@
         "vipsiterip.org": {
             "epoch": "1540764000",
             "expiration_date": "29-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "viptreat.com": {
             "epoch": "1543960800",
@@ -31711,9 +31711,9 @@
             "state": "future"
         },
         "wavefoundationbd.org": {
-            "epoch": "1540591200",
-            "expiration_date": "27-oct-2018",
-            "state": "past"
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
         },
         "waveresume.com": {
             "epoch": "1549836000",
@@ -32043,7 +32043,7 @@
         "wetcasino.com": {
             "epoch": "1540677600",
             "expiration_date": "28-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "wetforsex.com": {
             "epoch": "1544652000",
@@ -32088,7 +32088,7 @@
         "wholesaleadultstore.com": {
             "epoch": "1540764000",
             "expiration_date": "29-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "wholesalecheapjerseysfree.com": {
             "epoch": "1571522400",
@@ -32131,8 +32131,8 @@
             "state": "future"
         },
         "winblackjack.net": {
-            "epoch": "1540677600",
-            "expiration_date": "28-oct-2018",
+            "epoch": "1572213600",
+            "expiration_date": "28-oct-2019",
             "state": "future"
         },
         "wind.mobi": {
@@ -32408,11 +32408,16 @@
         "wowweb.net": {
             "epoch": "1540764000",
             "expiration_date": "29-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "woxy.co": {
             "epoch": "1571090400",
             "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
+        "wpisz-to.pl": {
+            "epoch": "1543269600",
+            "expiration_date": "27-nov-2018",
             "state": "future"
         },
         "wpizde.ru": {
@@ -32468,6 +32473,11 @@
         "wuhuyuhua.com": {
             "epoch": "1570485600",
             "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "wwwallegro.pl": {
+            "epoch": "1557784800",
+            "expiration_date": "14-may-2019",
             "state": "future"
         },
         "wwwbaid.com": {
@@ -33108,7 +33118,7 @@
         "xxxvoyeurs.com": {
             "epoch": "1540764000",
             "expiration_date": "29-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "xxxwebgames.com": {
             "epoch": "1572645600",
