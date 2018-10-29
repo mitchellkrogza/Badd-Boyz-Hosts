@@ -13180,6 +13180,11 @@
             "expiration_date": "02-feb-2019",
             "state": "future"
         },
+        "goandsmile.pl": {
+            "epoch": "1577397600",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
         "goatminer.com": {
             "epoch": "1548280800",
             "expiration_date": "24-jan-2019",
@@ -13208,12 +13213,12 @@
         "gobusinessloan.com": {
             "epoch": "1540764000",
             "expiration_date": "29-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "gocitytext.com": {
-            "epoch": "1540504800",
-            "expiration_date": "26-oct-2018",
-            "state": "past"
+            "epoch": "1572040800",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
         },
         "goddessvip.com": {
             "epoch": "1572127200",
@@ -13261,9 +13266,9 @@
             "state": "future"
         },
         "gogodot.com": {
-            "epoch": "1540591200",
-            "expiration_date": "27-oct-2018",
-            "state": "past"
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
         },
         "gogps.me": {
             "epoch": "1655848800",
@@ -13333,6 +13338,11 @@
         "graffcolor.net": {
             "epoch": "1571522400",
             "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
+        "grafit.pl": {
+            "epoch": "1553551200",
+            "expiration_date": "26-mar-2019",
             "state": "future"
         },
         "grafpnt.com": {
@@ -13843,7 +13853,7 @@
         "heavenly-babes.com": {
             "epoch": "1540764000",
             "expiration_date": "29-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "heavenlytits.com": {
             "epoch": "1575756000",
@@ -13883,7 +13893,7 @@
         "heightblog.com": {
             "epoch": "1540764000",
             "expiration_date": "29-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "heisse-cams.com": {
             "epoch": "1569276000",
@@ -14385,6 +14395,11 @@
             "expiration_date": "01-jan-2019",
             "state": "future"
         },
+        "hotgirl.cz": {
+            "epoch": "1564783200",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
         "hotgirlsx.info": {
             "epoch": "1542319200",
             "expiration_date": "16-nov-2018",
@@ -14708,7 +14723,7 @@
         "howigotporn.com": {
             "epoch": "1540677600",
             "expiration_date": "28-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "howopen.ru": {
             "epoch": "1557612000",
@@ -15523,7 +15538,7 @@
         "innergywear.com": {
             "epoch": "1540764000",
             "expiration_date": "29-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "innmg.com": {
             "epoch": "1570312800",
@@ -16201,9 +16216,9 @@
             "state": "future"
         },
         "justmoresex.com": {
-            "epoch": "1540591200",
-            "expiration_date": "27-oct-2018",
-            "state": "past"
+            "epoch": "1572127200",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
         },
         "justos.com": {
             "epoch": "1612044000",
