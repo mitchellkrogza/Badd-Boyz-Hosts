@@ -2905,6 +2905,11 @@
             "expiration_date": "11-sep-2019",
             "state": "future"
         },
+        "amanda-porn.ga": {
+            "epoch": "1744840800",
+            "expiration_date": "17-apr-2025",
+            "state": "future"
+        },
         "amaporn.com": {
             "epoch": "1566943200",
             "expiration_date": "28-aug-2019",
@@ -4628,7 +4633,7 @@
         "bevit.ru": {
             "epoch": "1540677600",
             "expiration_date": "28-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "bewumuhax.bid": {
             "epoch": "1535234400",
@@ -4880,6 +4885,11 @@
             "expiration_date": "07-jan-2019",
             "state": "future"
         },
+        "bijuteriistarmd.ro": {
+            "epoch": "1549144800",
+            "expiration_date": "03-feb-2019",
+            "state": "future"
+        },
         "bike-path.com": {
             "epoch": "1570917600",
             "expiration_date": "13-oct-2019",
@@ -4928,6 +4938,11 @@
         "bitpirata.com": {
             "epoch": "1571868000",
             "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "bitporno.sx": {
+            "epoch": "1549231200",
+            "expiration_date": "04-feb-2019",
             "state": "future"
         },
         "bitsearch.org": {
