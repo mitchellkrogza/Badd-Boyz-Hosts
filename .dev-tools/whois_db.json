@@ -33398,7 +33398,7 @@
         "ytqm.org": {
             "epoch": "1540850400",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "yubikk.info": {
             "epoch": "1554328800",
@@ -33459,6 +33459,11 @@
             "epoch": "1536357600",
             "expiration_date": "08-sep-2018",
             "state": "past"
+        },
+        "zarabiaj-dzis.pl": {
+            "epoch": "1551564000",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
         },
         "zarabotat-na-sajte.ru": {
             "epoch": "1556229600",
@@ -33815,9 +33820,19 @@
             "expiration_date": "21-sep-2019",
             "state": "future"
         },
+        "zverokruh-shop.cz": {
+            "epoch": "1576101600",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
         "zvetki.ru": {
             "epoch": "1574460000",
             "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
+        "zwariowane.pl": {
+            "epoch": "1542232800",
+            "expiration_date": "15-nov-2018",
             "state": "future"
         },
         "zx6.ru": {
@@ -33838,7 +33853,7 @@
         "zzhomes.com": {
             "epoch": "1540936800",
             "expiration_date": "31-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "zzqrt.com": {
             "epoch": "1554156000",
