@@ -15953,7 +15953,7 @@
         "iooopsadd.info": {
             "epoch": "1541023200",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ioops.com": {
             "epoch": "1575151200",
@@ -16021,9 +16021,9 @@
             "state": "past"
         },
         "ipornservice.com": {
-            "epoch": "1540850400",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572386400",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "iposhq.com": {
             "epoch": "1557439200",
@@ -16161,9 +16161,9 @@
             "state": "future"
         },
         "juliannmore.com": {
-            "epoch": "1541023200",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572559200",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "juliaworld.net": {
             "epoch": "1552428000",
