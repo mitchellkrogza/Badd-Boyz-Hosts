@@ -2115,6 +2115,11 @@
             "expiration_date": "08-mar-2019",
             "state": "future"
         },
+        "activewatch.ro": {
+            "epoch": "1571349600",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
         "actricesmexicanasdesnudas.com": {
             "epoch": "1570572000",
             "expiration_date": "09-oct-2019",
@@ -2893,7 +2898,7 @@
         "ama-fitness.com": {
             "epoch": "1541109600",
             "expiration_date": "02-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "amadurece.net": {
             "epoch": "1536789600",
