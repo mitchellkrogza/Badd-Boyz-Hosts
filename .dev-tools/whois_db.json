@@ -22791,9 +22791,9 @@
             "state": "future"
         },
         "postclass.com": {
-            "epoch": "1540850400",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572386400",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "postquampro.com": {
             "epoch": "1565474400",
@@ -23001,9 +23001,9 @@
             "state": "future"
         },
         "pretty-models.info": {
-            "epoch": "1540936800",
-            "expiration_date": "31-oct-2018",
-            "state": "past"
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
         },
         "pretty-n-pink.com": {
             "epoch": "1549317600",
@@ -25006,9 +25006,9 @@
             "state": "future"
         },
         "saltysailer.com": {
-            "epoch": "1541023200",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572559200",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "salutmontreal.com": {
             "epoch": "1563228000",
