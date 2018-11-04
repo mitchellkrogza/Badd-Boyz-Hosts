@@ -33093,7 +33093,7 @@
         "xxxproam.com": {
             "epoch": "1541196000",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "xxxpussypics.nu": {
             "epoch": "1540936800",
@@ -33670,6 +33670,11 @@
             "expiration_date": "17-jun-2019",
             "state": "future"
         },
+        "zlektorem.pl": {
+            "epoch": "1548972000",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
         "znakomstva-piter78.ru": {
             "epoch": "1566165600",
             "expiration_date": "19-aug-2019",
@@ -33753,7 +33758,7 @@
         "zoo-x.net": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "zoodrawings.com": {
             "epoch": "1546725600",
@@ -33891,9 +33896,9 @@
             "state": "future"
         },
         "zzhomes.com": {
-            "epoch": "1540936800",
-            "expiration_date": "31-oct-2018",
-            "state": "past"
+            "epoch": "1572472800",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
         },
         "zzqrt.com": {
             "epoch": "1554156000",
