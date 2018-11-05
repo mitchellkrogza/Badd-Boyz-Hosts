@@ -24888,7 +24888,7 @@
         "ropesta.com": {
             "epoch": "1541368800",
             "expiration_date": "05-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ros-ctm.ru": {
             "epoch": "1543701600",
@@ -25418,7 +25418,7 @@
         "secure-account-update-information.com": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "secure-accountunlocked.com": {
             "epoch": "1536703200",
@@ -25766,8 +25766,8 @@
             "state": "future"
         },
         "sex-toons.info": {
-            "epoch": "1541196000",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572732000",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "sex-video.nu": {
@@ -25838,7 +25838,7 @@
         "sexaddicts.us": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sexadult.nu": {
             "epoch": "1536098400",
@@ -25910,6 +25910,11 @@
             "expiration_date": "31-jan-2019",
             "state": "future"
         },
+        "sexdziewczyny.pl": {
+            "epoch": "1572300000",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
         "sexfrm.com": {
             "epoch": "1569189600",
             "expiration_date": "23-sep-2019",
@@ -25943,7 +25948,7 @@
         "sexgirlz.net": {
             "epoch": "1541282400",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sexgratos.biz": {
             "epoch": "1537740000",
@@ -26736,9 +26741,9 @@
             "state": "future"
         },
         "sexyblonde.net": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "sexyblondecum.com": {
             "epoch": "1544479200",
@@ -28046,9 +28051,9 @@
             "state": "future"
         },
         "softupdate.net": {
-            "epoch": "1541109600",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1572645600",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "softwareoutfit.com": {
             "epoch": "1546380000",
