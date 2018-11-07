@@ -3036,9 +3036,9 @@
             "state": "past"
         },
         "amateurspain.com": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "amateurspread.nu": {
             "epoch": "1545861600",
@@ -3786,9 +3786,9 @@
             "state": "future"
         },
         "artesproduction.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
-            "state": "past"
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
         },
         "arteysexo.com": {
             "epoch": "1548453600",
@@ -4676,8 +4676,8 @@
             "state": "future"
         },
         "bhavanabank.com": {
-            "epoch": "1541455200",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572991200",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "bhmenavkijeufq.bid": {
@@ -4971,9 +4971,9 @@
             "state": "future"
         },
         "bitstalks.com": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
-            "state": "past"
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
         },
         "bivouac-iguana-sahara-merzouga.com": {
             "epoch": "1571090400",
@@ -5593,7 +5593,7 @@
         "bottegavenetaloewesale.biz": {
             "epoch": "1541455200",
             "expiration_date": "06-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bottrue.com": {
             "epoch": "1541541600",
