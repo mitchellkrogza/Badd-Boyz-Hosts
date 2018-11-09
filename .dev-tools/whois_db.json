@@ -33346,8 +33346,8 @@
             "state": "future"
         },
         "yourporn.cc": {
-            "epoch": "1541455200",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572991200",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "yourporn.com": {
@@ -33811,9 +33811,9 @@
             "state": "future"
         },
         "zoo-x.net": {
-            "epoch": "1541282400",
-            "expiration_date": "04-nov-2018",
-            "state": "past"
+            "epoch": "1572818400",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
         },
         "zoodrawings.com": {
             "epoch": "1546725600",
