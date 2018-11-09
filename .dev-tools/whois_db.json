@@ -6438,7 +6438,7 @@
         "cinemabio.com": {
             "epoch": "1541714400",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "cinemaenergy-hd.ru": {
             "epoch": "1557784800",
@@ -6805,6 +6805,11 @@
             "expiration_date": "10-mar-2019",
             "state": "future"
         },
+        "coolgaymovies.co": {
+            "epoch": "1573077600",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
+        },
         "coolsvision.com": {
             "epoch": "1544652000",
             "expiration_date": "13-dec-2018",
@@ -6816,8 +6821,8 @@
             "state": "future"
         },
         "coolyarddecorations.com": {
-            "epoch": "1541628000",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573164000",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "coop-gamers.ru": {
@@ -7251,8 +7256,8 @@
             "state": "past"
         },
         "cunilingusx.com": {
-            "epoch": "1541541600",
-            "expiration_date": "07-nov-2018",
+            "epoch": "1573077600",
+            "expiration_date": "07-nov-2019",
             "state": "future"
         },
         "cuntonly.com": {
@@ -7421,8 +7426,8 @@
             "state": "future"
         },
         "cybercloud.info": {
-            "epoch": "1541714400",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "cybererotica.nu": {
@@ -7566,9 +7571,9 @@
             "state": "future"
         },
         "dailymovie.us": {
-            "epoch": "1537999200",
-            "expiration_date": "27-sep-2018",
-            "state": "past"
+            "epoch": "1569535200",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
         },
         "dailypetphoto.com": {
             "epoch": "1556834400",
@@ -7761,8 +7766,8 @@
             "state": "future"
         },
         "decorazilla.com": {
-            "epoch": "1541541600",
-            "expiration_date": "07-nov-2018",
+            "epoch": "1573077600",
+            "expiration_date": "07-nov-2019",
             "state": "future"
         },
         "dedicatedtobeauty.com": {
@@ -7888,7 +7893,7 @@
         "depotorder.com": {
             "epoch": "1541628000",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "depraved.biz": {
             "epoch": "1537999200",
@@ -7923,6 +7928,11 @@
         "descargar-musica-gratis.net": {
             "epoch": "1572472800",
             "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "descargatelocorp.co": {
+            "epoch": "1573164000",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "deseosx.com": {
@@ -8431,9 +8441,9 @@
             "state": "future"
         },
         "docfetish.com": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "docloudy.com": {
             "epoch": "1579989600",
@@ -8851,8 +8861,8 @@
             "state": "future"
         },
         "downloadporn.biz": {
-            "epoch": "1541455200",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572991200",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "drawgreat.com": {
@@ -9133,7 +9143,7 @@
         "ecialde.it": {
             "epoch": "1541628000",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ecigbrandsonreview.com": {
             "epoch": "1569016800",
@@ -9296,9 +9306,9 @@
             "state": "future"
         },
         "educationalmail.com": {
-            "epoch": "1541368800",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572904800",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "educationtree.com": {
             "epoch": "1551304800",
