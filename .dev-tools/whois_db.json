@@ -25555,6 +25555,11 @@
             "expiration_date": "16-feb-2019",
             "state": "future"
         },
+        "seniority.pl": {
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
+            "state": "future"
+        },
         "seniorlivinglistings.review": {
             "epoch": "1569794400",
             "expiration_date": "30-sep-2019",
@@ -25596,8 +25601,8 @@
             "state": "future"
         },
         "seocheckupx.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "seocheki.net": {
@@ -27106,9 +27111,9 @@
             "state": "future"
         },
         "shaptech.net": {
-            "epoch": "1541800800",
-            "expiration_date": "10-nov-2018",
-            "state": "past"
+            "epoch": "1573336800",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
         },
         "share-buttons-for-free.com": {
             "epoch": "1553032800",
@@ -27336,9 +27341,9 @@
             "state": "future"
         },
         "shenzhengarden.com": {
-            "epoch": "1541887200",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573423200",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "sherkconstruction.ca": {
             "epoch": "1555538400",
@@ -27726,8 +27731,8 @@
             "state": "future"
         },
         "sizzlecams.net": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "skachat-besplatno-obrazcy.ru": {
@@ -28431,8 +28436,8 @@
             "state": "future"
         },
         "star-movies.com": {
-            "epoch": "1541973600",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "stardevine.com": {
@@ -28493,7 +28498,7 @@
         "statistici.ro": {
             "epoch": "1542232800",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "statrafongon.biz": {
             "epoch": "1538431200",
