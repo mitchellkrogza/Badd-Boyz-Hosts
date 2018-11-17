@@ -4421,8 +4421,8 @@
             "state": "future"
         },
         "benifitsaccess.org": {
-            "epoch": "1542232800",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1605391200",
+            "expiration_date": "15-nov-2020",
             "state": "future"
         },
         "benpres-holdings.com": {
@@ -5131,14 +5131,14 @@
             "state": "future"
         },
         "blackandblew.com": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "blackandthick.com": {
             "epoch": "1542405600",
             "expiration_date": "17-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "blackasslover.com": {
             "epoch": "1544652000",
@@ -5361,9 +5361,9 @@
             "state": "future"
         },
         "blumepower.net": {
-            "epoch": "1541973600",
-            "expiration_date": "12-nov-2018",
-            "state": "past"
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "bmwhighperformers.com": {
             "epoch": "1564092000",
@@ -5391,8 +5391,8 @@
             "state": "future"
         },
         "boa-plc.com": {
-            "epoch": "1542232800",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573768800",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "bombes-orientales.com": {
@@ -5486,8 +5486,8 @@
             "state": "future"
         },
         "boobs-club.com": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "boobshack.com": {
@@ -5543,7 +5543,7 @@
         "boostyour-t.com": {
             "epoch": "1542405600",
             "expiration_date": "17-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bootsonclearance.info": {
             "epoch": "1542924000",
@@ -6381,9 +6381,9 @@
             "state": "future"
         },
         "cialismed.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "cialisovercounteratwalmartusa.com": {
             "epoch": "1565215200",
@@ -7191,8 +7191,8 @@
             "state": "past"
         },
         "cum2mommy.com": {
-            "epoch": "1542405600",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "cumfiesta-pics.info": {
@@ -7783,6 +7783,11 @@
         "deeclub.com": {
             "epoch": "1548194400",
             "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "dejm.pl": {
+            "epoch": "1573250400",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "deliziedelpassato.it": {
@@ -8608,7 +8613,7 @@
         "dolbak.com": {
             "epoch": "1542405600",
             "expiration_date": "17-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "dolite.com": {
             "epoch": "1555970400",
