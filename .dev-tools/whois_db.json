@@ -428,7 +428,7 @@
         "1818sex.com": {
             "epoch": "1542319200",
             "expiration_date": "16-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "18744.com": {
             "epoch": "1562277600",
@@ -783,7 +783,7 @@
         "2milks.com": {
             "epoch": "1542319200",
             "expiration_date": "16-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "2mj.pl": {
             "epoch": "1572904800",
@@ -901,8 +901,8 @@
             "state": "future"
         },
         "377baidu.com": {
-            "epoch": "1542232800",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573768800",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "39bola.com": {
@@ -1363,7 +1363,7 @@
         "69proof.com": {
             "epoch": "1542319200",
             "expiration_date": "16-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "69tubex.com": {
             "epoch": "1546293600",
@@ -1951,9 +1951,9 @@
             "state": "future"
         },
         "abercrombiehollister.net": {
-            "epoch": "1541973600",
-            "expiration_date": "12-nov-2018",
-            "state": "past"
+            "epoch": "1573509600",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "abercrombieport.com": {
             "epoch": "1573077600",
@@ -2166,9 +2166,9 @@
             "state": "future"
         },
         "airportsys.com": {
-            "epoch": "1542060000",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573596000",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "aisiansex.com": {
             "epoch": "1568239200",
@@ -2648,7 +2648,7 @@
         "allosexmovies.com": {
             "epoch": "1542232800",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "alloysteel.ru": {
             "epoch": "1567807200",
@@ -3251,8 +3251,8 @@
             "state": "future"
         },
         "amplitude-peinture.fr": {
-            "epoch": "1542146400",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573682400",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "ampower.me": {
