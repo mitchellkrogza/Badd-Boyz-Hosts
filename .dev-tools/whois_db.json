@@ -30908,7 +30908,7 @@
         "twarea.com": {
             "epoch": "1542492000",
             "expiration_date": "18-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "twatcountry.com": {
             "epoch": "1544911200",
@@ -31368,7 +31368,7 @@
         "videoslive.net": {
             "epoch": "1542492000",
             "expiration_date": "18-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "videosmadurasgratis.net": {
             "epoch": "1549404000",
@@ -31466,9 +31466,9 @@
             "state": "future"
         },
         "virginc.com": {
-            "epoch": "1542405600",
-            "expiration_date": "17-nov-2018",
-            "state": "past"
+            "epoch": "1573941600",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
         },
         "virginphotos.info": {
             "epoch": "1544220000",
@@ -31523,7 +31523,7 @@
         "visa-pasport.ru": {
             "epoch": "1542578400",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "vision-galaxy.com": {
             "epoch": "1571263200",
@@ -32413,7 +32413,7 @@
         "wisconsinexotics.com": {
             "epoch": "1542578400",
             "expiration_date": "19-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "wise-music.com": {
             "epoch": "1545861600",
