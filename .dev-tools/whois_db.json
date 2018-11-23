@@ -28211,9 +28211,9 @@
             "state": "future"
         },
         "spankdatass.com": {
-            "epoch": "1542664800",
-            "expiration_date": "20-nov-2018",
-            "state": "past"
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "spanking-images.com": {
             "epoch": "1547589600",
@@ -28711,8 +28711,8 @@
             "state": "future"
         },
         "survivingthemadness.com": {
-            "epoch": "1542924000",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "susanholtphotography.com": {
@@ -33318,7 +33318,7 @@
         "xxxsiren.com": {
             "epoch": "1542837600",
             "expiration_date": "22-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "xxxstories.nu": {
             "epoch": "1540936800",
