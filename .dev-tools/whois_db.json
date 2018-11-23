@@ -4951,9 +4951,9 @@
             "state": "future"
         },
         "bisexland.com": {
-            "epoch": "1542751200",
-            "expiration_date": "21-nov-2018",
-            "state": "past"
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "bismatic.com": {
             "epoch": "1546812000",
@@ -5336,9 +5336,9 @@
             "state": "future"
         },
         "bluenight.org": {
-            "epoch": "1542751200",
-            "expiration_date": "21-nov-2018",
-            "state": "past"
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "bluerobot.info": {
             "epoch": "1573423200",
@@ -5356,8 +5356,8 @@
             "state": "future"
         },
         "bluesman.nu": {
-            "epoch": "1542837600",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574373600",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "blumepower.net": {
@@ -5406,9 +5406,9 @@
             "state": "future"
         },
         "bondage-here.com": {
-            "epoch": "1536703200",
-            "expiration_date": "12-sep-2018",
-            "state": "past"
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "bondage-porn.net": {
             "epoch": "1570140000",
@@ -5548,12 +5548,12 @@
         "bootsonclearance.info": {
             "epoch": "1542924000",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bootsoutlets-store12.info": {
             "epoch": "1542924000",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bootydancer.com": {
             "epoch": "1571176800",
@@ -6400,10 +6400,15 @@
             "expiration_date": "21-nov-2022",
             "state": "future"
         },
+        "ciekawinki.pl": {
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
         "cienum.fr": {
-            "epoch": "1542751200",
-            "expiration_date": "21-nov-2018",
-            "state": "past"
+            "epoch": "1574287200",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "cif.su": {
             "epoch": "1578607200",
@@ -7071,9 +7076,9 @@
             "state": "future"
         },
         "crystalxxxmovies.com": {
-            "epoch": "1542664800",
-            "expiration_date": "20-nov-2018",
-            "state": "past"
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "cs-gra.pl": {
             "epoch": "1571176800",
@@ -8405,6 +8410,11 @@
             "expiration_date": "17-dec-2018",
             "state": "future"
         },
+        "dlesite.ru": {
+            "epoch": "1577052000",
+            "expiration_date": "23-dec-2019",
+            "state": "future"
+        },
         "dlruifeng.com": {
             "epoch": "1543615200",
             "expiration_date": "01-dec-2018",
@@ -8696,9 +8706,9 @@
             "state": "future"
         },
         "doo-interactive.com": {
-            "epoch": "1542664800",
-            "expiration_date": "20-nov-2018",
-            "state": "past"
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "dookie.biz": {
             "epoch": "1538431200",
@@ -9271,9 +9281,9 @@
             "state": "future"
         },
         "edmyth.com": {
-            "epoch": "1542664800",
-            "expiration_date": "20-nov-2018",
-            "state": "past"
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "edosushicresthill.com": {
             "epoch": "1565388000",
@@ -10306,9 +10316,9 @@
             "state": "future"
         },
         "expdom.com": {
-            "epoch": "1538604000",
-            "expiration_date": "04-oct-2018",
-            "state": "past"
+            "epoch": "1574200800",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
         },
         "expertblog.info": {
             "epoch": "1558130400",
