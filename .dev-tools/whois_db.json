@@ -5250,6 +5250,11 @@
             "expiration_date": "02-dec-2018",
             "state": "future"
         },
+        "blacksexporn.net": {
+            "epoch": "1574632800",
+            "expiration_date": "25-nov-2019",
+            "state": "future"
+        },
         "blacksexualunderground.com": {
             "epoch": "1580508000",
             "expiration_date": "01-feb-2020",
@@ -5461,9 +5466,9 @@
             "state": "past"
         },
         "bonzybuddy.com": {
-            "epoch": "1536098400",
-            "expiration_date": "05-sep-2018",
-            "state": "past"
+            "epoch": "1574546400",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
         },
         "boob.dk": {
             "epoch": "1540936800",
@@ -5521,8 +5526,8 @@
             "state": "future"
         },
         "boomcash.org": {
-            "epoch": "1543010400",
-            "expiration_date": "24-nov-2018",
+            "epoch": "1574546400",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "boomsgkenwewjoytto.net": {
@@ -5546,14 +5551,14 @@
             "state": "future"
         },
         "bootsonclearance.info": {
-            "epoch": "1542924000",
-            "expiration_date": "23-nov-2018",
-            "state": "past"
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
         },
         "bootsoutlets-store12.info": {
-            "epoch": "1542924000",
-            "expiration_date": "23-nov-2018",
-            "state": "past"
+            "epoch": "1574460000",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
         },
         "bootydancer.com": {
             "epoch": "1571176800",
@@ -5643,7 +5648,7 @@
         "boyarena.com": {
             "epoch": "1543096800",
             "expiration_date": "25-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "branchlearn.com": {
             "epoch": "1579125600",
@@ -7773,7 +7778,7 @@
         "decidesilver.net": {
             "epoch": "1543096800",
             "expiration_date": "25-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "decorazilla.com": {
             "epoch": "1573077600",
@@ -11778,7 +11783,7 @@
         "freepornos.biz": {
             "epoch": "1543010400",
             "expiration_date": "24-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "freepornpics.nu": {
             "epoch": "1540850400",
