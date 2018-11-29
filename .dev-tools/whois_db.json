@@ -21936,8 +21936,8 @@
             "state": "future"
         },
         "porn-movies.org": {
-            "epoch": "1543356000",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574892000",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "porn-pay-per-minute.com": {
@@ -22306,9 +22306,9 @@
             "state": "future"
         },
         "pornosexevideo.com": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
-            "state": "past"
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
         },
         "pornosexmaniac.com": {
             "epoch": "1574546400",
@@ -24456,8 +24456,8 @@
             "state": "future"
         },
         "redlightranch.com": {
-            "epoch": "1543442400",
-            "expiration_date": "29-nov-2018",
+            "epoch": "1574978400",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "rednecksluts.com": {
@@ -24508,7 +24508,7 @@
         "redzon.com": {
             "epoch": "1543442400",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "reelheroes.net": {
             "epoch": "1552514400",
@@ -26143,7 +26143,7 @@
         "sexinuniforms.com": {
             "epoch": "1543356000",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sexisland.it": {
             "epoch": "1539986400",
@@ -26196,9 +26196,9 @@
             "state": "future"
         },
         "sexlaughs.com": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
-            "state": "past"
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
         },
         "sexlesbian.nu": {
             "epoch": "1540936800",
@@ -26216,8 +26216,8 @@
             "state": "future"
         },
         "sexnax.com": {
-            "epoch": "1543442400",
-            "expiration_date": "29-nov-2018",
+            "epoch": "1574978400",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "sexnew.org": {
@@ -26336,9 +26336,9 @@
             "state": "future"
         },
         "sexoloko.com": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
-            "state": "past"
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
         },
         "sexoma.info": {
             "epoch": "1568239200",
@@ -27018,7 +27018,7 @@
         "sexylife.info": {
             "epoch": "1543442400",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sexylittlefeet.com": {
             "epoch": "1573941600",
@@ -27278,7 +27278,7 @@
         "shchaoneng.cn": {
             "epoch": "1543442400",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "shcpa2011.com": {
             "epoch": "1547589600",
@@ -28291,9 +28291,9 @@
             "state": "future"
         },
         "spanktown.com": {
-            "epoch": "1536530400",
-            "expiration_date": "10-sep-2018",
-            "state": "past"
+            "epoch": "1574892000",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
         },
         "spaplanet.pl": {
             "epoch": "1574460000",
@@ -28599,6 +28599,11 @@
             "epoch": "1542232800",
             "expiration_date": "15-nov-2018",
             "state": "past"
+        },
+        "statoutlook.info": {
+            "epoch": "1574632800",
+            "expiration_date": "25-nov-2019",
+            "state": "future"
         },
         "statrafongon.biz": {
             "epoch": "1538431200",
