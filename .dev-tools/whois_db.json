@@ -246,9 +246,9 @@
             "state": "future"
         },
         "101gals.com": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
-            "state": "past"
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
         },
         "101raccoon.ru": {
             "epoch": "1555624800",
@@ -616,8 +616,8 @@
             "state": "future"
         },
         "2015god.org": {
-            "epoch": "1543356000",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574892000",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "201mb.com": {
@@ -1716,9 +1716,9 @@
             "state": "future"
         },
         "a7search.com": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
-            "state": "past"
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
         },
         "a85.info": {
             "epoch": "1570485600",
@@ -2521,9 +2521,9 @@
             "state": "future"
         },
         "allavailable.me": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
-            "state": "past"
+            "epoch": "1574805600",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
         },
         "allbdpaper.com": {
             "epoch": "1552082400",
@@ -2656,8 +2656,8 @@
             "state": "future"
         },
         "allpdfmags.net": {
-            "epoch": "1543356000",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574892000",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "allpornarea.com": {
@@ -3085,6 +3085,11 @@
             "expiration_date": "30-oct-2018",
             "state": "past"
         },
+        "amatorlandia.pl": {
+            "epoch": "1574978400",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
         "amatorsikis.org": {
             "epoch": "1573250400",
             "expiration_date": "09-nov-2019",
@@ -3418,7 +3423,7 @@
         "analsexporn.org": {
             "epoch": "1543442400",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "analsexwhores.com": {
             "epoch": "1546898400",
@@ -3624,6 +3629,11 @@
             "epoch": "1536789600",
             "expiration_date": "13-sep-2018",
             "state": "past"
+        },
+        "appyaviator.com": {
+            "epoch": "1574546400",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
         },
         "arenda-yeisk.ru": {
             "epoch": "1551736800",
@@ -4168,7 +4178,7 @@
         "avoidaroid.com": {
             "epoch": "1543442400",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "avoidfilter.net": {
             "epoch": "1569448800",
