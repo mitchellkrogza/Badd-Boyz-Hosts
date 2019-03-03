@@ -23745,6 +23745,11 @@
             "expiration_date": "10-jan-2020",
             "state": "future"
         },
+        "pp-budpostach.com.ua": {
+            "epoch": "1574028000",
+            "expiration_date": "18-nov-2019",
+            "state": "future"
+        },
         "ppcexpertclasses.com": {
             "epoch": "1562536800",
             "expiration_date": "08-jul-2019",
@@ -33581,9 +33586,9 @@
             "state": "future"
         },
         "wpisz-to.pl": {
-            "epoch": "1543269600",
-            "expiration_date": "27-nov-2018",
-            "state": "past"
+            "epoch": "1554847200",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
         },
         "wpizde.ru": {
             "epoch": "1550181600",
@@ -33705,6 +33710,11 @@
             "expiration_date": "04-feb-2019",
             "state": "future"
         },
+        "wwwinbank.pl": {
+            "epoch": "1554328800",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
         "wwwmyshopriteexperience.com": {
             "epoch": "1563832800",
             "expiration_date": "23-jul-2019",
@@ -33778,6 +33788,11 @@
         "xcombear.ru": {
             "epoch": "1570140000",
             "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "xfun.pl": {
+            "epoch": "1575410400",
+            "expiration_date": "04-dec-2019",
             "state": "future"
         },
         "xn-----8kcatubaocd1bneepefojs1h2e.xn--p1ai": {
