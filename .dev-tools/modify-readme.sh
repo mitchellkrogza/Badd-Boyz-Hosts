@@ -54,7 +54,7 @@ exit ${?}
 
 # MIT License
 
-# Copyright (c) 2017 Mitchell Krog - mitchellkrog@gmail.com
+# Copyright (c) 2017, 2018, 2019 Mitchell Krog - mitchellkrog@gmail.com
 # https://github.com/mitchellkrogza
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy

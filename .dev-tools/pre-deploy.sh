@@ -67,17 +67,10 @@ sort -u ${input1} -o ${input1}
 
 dos2unix ${input1}
 
-# **************************************
-# Downloading of the whitelisting script
-# **************************************
-
-wget https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/dev-center/whitelisting/whitelisting.py -O "${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py"
-
 # ************************************
 # Make sure all scripts are executable
 # ************************************
 
-sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py
 sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/run-PyFunceble.sh
 sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/modify-readme.sh
 sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-hosts.sh
@@ -88,7 +81,8 @@ sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-hosts.sh
 
 if [[ "$(git log -1 | tail -1 | xargs)" =~ "ci skip" ]]
 then
-    ${TRAVIS_BUILD_DIR}/.dev-tools/whitelisting.py -f "${input1}" -o "${input1}"
+    hash uhb_whitelist
+    uhb_whitelist -f "${input1}" -o "${input1}"
 fi
 
 
@@ -103,7 +97,7 @@ exit ${?}
 
 # MIT License
 
-# Copyright (c) 2017 Mitchell Krog - mitchellkrog@gmail.com
+# Copyright (c) 2017, 2018, 2019 Mitchell Krog - mitchellkrog@gmail.com
 # https://github.com/mitchellkrogza
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
