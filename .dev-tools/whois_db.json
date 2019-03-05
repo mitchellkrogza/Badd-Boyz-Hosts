@@ -8893,7 +8893,7 @@
         "dojave-united.com": {
             "epoch": "1551736800",
             "expiration_date": "05-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "dojki-hd.com": {
             "epoch": "1572991200",
@@ -13706,8 +13706,8 @@
             "state": "future"
         },
         "gobettygo.com": {
-            "epoch": "1551650400",
-            "expiration_date": "04-mar-2019",
+            "epoch": "1583272800",
+            "expiration_date": "04-mar-2020",
             "state": "future"
         },
         "gobusinessloan.com": {
