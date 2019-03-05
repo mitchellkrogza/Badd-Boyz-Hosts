@@ -17996,8 +17996,8 @@
             "state": "future"
         },
         "lakeecogroup.com": {
-            "epoch": "1551650400",
-            "expiration_date": "04-mar-2019",
+            "epoch": "1583272800",
+            "expiration_date": "04-mar-2020",
             "state": "future"
         },
         "lakemedelsvarket.se": {
@@ -18008,7 +18008,7 @@
         "lakita.com": {
             "epoch": "1551736800",
             "expiration_date": "05-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "lamaisondelaforet.net": {
             "epoch": "1557698400",
@@ -21041,8 +21041,8 @@
             "state": "future"
         },
         "nuit-artisanale.com": {
-            "epoch": "1551736800",
-            "expiration_date": "05-mar-2019",
+            "epoch": "1583359200",
+            "expiration_date": "05-mar-2020",
             "state": "future"
         },
         "nuker.com": {
