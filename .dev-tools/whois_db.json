@@ -13871,8 +13871,8 @@
             "state": "future"
         },
         "grainedesexe.com": {
-            "epoch": "1544652000",
-            "expiration_date": "13-dec-2018",
+            "epoch": "1583445600",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "grand-chlen.ru": {
@@ -14043,7 +14043,7 @@
         "greatfireoflondon.org.uk": {
             "epoch": "1551996000",
             "expiration_date": "08-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "greatgrace.ru": {
             "epoch": "1578002400",
@@ -14358,6 +14358,11 @@
         "happyhour.dk": {
             "epoch": "1561845600",
             "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "hard-drive.net": {
+            "epoch": "1583272800",
+            "expiration_date": "04-mar-2020",
             "state": "future"
         },
         "heat-gallery.com": {
@@ -15971,8 +15976,8 @@
             "state": "future"
         },
         "ilxhsgd.com": {
-            "epoch": "1552082400",
-            "expiration_date": "09-mar-2019",
+            "epoch": "1583704800",
+            "expiration_date": "09-mar-2020",
             "state": "future"
         },
         "imadedinner.net": {
