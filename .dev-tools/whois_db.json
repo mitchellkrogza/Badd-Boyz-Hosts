@@ -6680,6 +6680,11 @@
             "expiration_date": "30-sep-2019",
             "state": "future"
         },
+        "cipowisko.com.pl": {
+            "epoch": "1553032800",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
         "circuitovip.com": {
             "epoch": "1547071200",
             "expiration_date": "10-jan-2019",
@@ -7151,8 +7156,8 @@
             "state": "future"
         },
         "cosadclinic.com": {
-            "epoch": "1551996000",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583618400",
+            "expiration_date": "08-mar-2020",
             "state": "future"
         },
         "cositos.com.mx": {
@@ -7333,7 +7338,7 @@
         "cs-passion.pl": {
             "epoch": "1552082400",
             "expiration_date": "09-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "cs1g.com": {
             "epoch": "1559599200",
@@ -7975,6 +7980,11 @@
             "expiration_date": "18-oct-2018",
             "state": "past"
         },
+        "darmowe-sms.pl": {
+            "epoch": "1553032800",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
         "darmowy-seks.pl": {
             "epoch": "1558216800",
             "expiration_date": "19-may-2019",
@@ -8153,6 +8163,11 @@
         "dennispearsondesign.com": {
             "epoch": "1580853600",
             "expiration_date": "05-feb-2020",
+            "state": "future"
+        },
+        "denoncocoon.pl": {
+            "epoch": "1553032800",
+            "expiration_date": "20-mar-2019",
             "state": "future"
         },
         "densart.com": {
@@ -10786,8 +10801,8 @@
             "state": "future"
         },
         "fabiocaminero.com": {
-            "epoch": "1544738400",
-            "expiration_date": "14-dec-2018",
+            "epoch": "1583359200",
+            "expiration_date": "05-mar-2020",
             "state": "future"
         },
         "fabiogoleirooficial.com": {
@@ -10811,8 +10826,8 @@
             "state": "future"
         },
         "facadecleaners.com": {
-            "epoch": "1551996000",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583618400",
+            "expiration_date": "08-mar-2020",
             "state": "future"
         },
         "face-books.org": {
