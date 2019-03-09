@@ -34816,8 +34816,8 @@
             "state": "future"
         },
         "znakomstvaonlain.ru": {
-            "epoch": "1541023200",
-            "expiration_date": "01-nov-2018",
+            "epoch": "1586210400",
+            "expiration_date": "07-apr-2020",
             "state": "future"
         },
         "znaniyapolza.ru": {
@@ -34986,9 +34986,9 @@
             "state": "future"
         },
         "zorras.cc": {
-            "epoch": "1545256800",
-            "expiration_date": "20-dec-2018",
-            "state": "past"
+            "epoch": "1583704800",
+            "expiration_date": "09-mar-2020",
+            "state": "future"
         },
         "zrdom.com.ua": {
             "epoch": "1560376800",
