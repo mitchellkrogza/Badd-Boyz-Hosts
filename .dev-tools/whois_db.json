@@ -17013,7 +17013,7 @@
         "katariyaconsultancy.com": {
             "epoch": "1552082400",
             "expiration_date": "09-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "katastof.nu": {
             "epoch": "1536012000",
@@ -18106,9 +18106,9 @@
             "state": "future"
         },
         "lararquitectura.com": {
-            "epoch": "1551909600",
-            "expiration_date": "07-mar-2019",
-            "state": "past"
+            "epoch": "1583532000",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
         },
         "larion.in": {
             "epoch": "1546466400",
@@ -18556,9 +18556,9 @@
             "state": "future"
         },
         "lowmol.com": {
-            "epoch": "1545170400",
-            "expiration_date": "19-dec-2018",
-            "state": "past"
+            "epoch": "1583618400",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
         },
         "lowrider.ru": {
             "epoch": "1553724000",
@@ -21281,8 +21281,8 @@
             "state": "future"
         },
         "ofertypan.pl": {
-            "epoch": "1552082400",
-            "expiration_date": "09-mar-2019",
+            "epoch": "1559858400",
+            "expiration_date": "07-jun-2019",
             "state": "future"
         },
         "offer-pills.ru": {
@@ -22921,8 +22921,8 @@
             "state": "future"
         },
         "pornoglamour.com": {
-            "epoch": "1544652000",
-            "expiration_date": "13-dec-2018",
+            "epoch": "1583359200",
+            "expiration_date": "05-mar-2020",
             "state": "future"
         },
         "pornokociaki.pl": {
@@ -23641,9 +23641,9 @@
             "state": "future"
         },
         "pospr.waw.pl": {
-            "epoch": "1551909600",
-            "expiration_date": "07-mar-2019",
-            "state": "past"
+            "epoch": "1554501600",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
         },
         "postclass.com": {
             "epoch": "1572386400",
