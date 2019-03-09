@@ -28326,8 +28326,8 @@
             "state": "future"
         },
         "shop-electron.ru": {
-            "epoch": "1551996000",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583532000",
+            "expiration_date": "07-mar-2020",
             "state": "future"
         },
         "shopalliedpools.com": {
@@ -29271,9 +29271,9 @@
             "state": "future"
         },
         "sslvpn.us": {
-            "epoch": "1538431200",
-            "expiration_date": "02-oct-2018",
-            "state": "past"
+            "epoch": "1583532000",
+            "expiration_date": "07-mar-2020",
+            "state": "future"
         },
         "ssmklfrn.bid": {
             "epoch": "1535493600",
