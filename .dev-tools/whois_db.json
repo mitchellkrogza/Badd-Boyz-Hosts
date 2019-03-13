@@ -16,8 +16,8 @@
             "state": "future"
         },
         "00author.com": {
-            "epoch": "1552428000",
-            "expiration_date": "13-mar-2019",
+            "epoch": "1584050400",
+            "expiration_date": "13-mar-2020",
             "state": "future"
         },
         "00go.com": {
@@ -26,8 +26,8 @@
             "state": "future"
         },
         "00it.com": {
-            "epoch": "1552428000",
-            "expiration_date": "13-mar-2019",
+            "epoch": "1584050400",
+            "expiration_date": "13-mar-2020",
             "state": "future"
         },
         "00sexus.com": {
@@ -1063,7 +1063,7 @@
         "420bankofwashington.com": {
             "epoch": "1552341600",
             "expiration_date": "12-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "423.ru": {
             "epoch": "1562191200",
@@ -2118,7 +2118,7 @@
         "acmsa.com.ar": {
             "epoch": "1552428000",
             "expiration_date": "13-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "acneforums.com": {
             "epoch": "1577829600",
@@ -5616,9 +5616,9 @@
             "state": "future"
         },
         "bonzaivids.com": {
-            "epoch": "1545256800",
-            "expiration_date": "20-dec-2018",
-            "state": "past"
+            "epoch": "1583877600",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
         },
         "bonzbuddy.com": {
             "epoch": "1574892000",
