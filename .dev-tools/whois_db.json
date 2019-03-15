@@ -18736,9 +18736,9 @@
             "state": "past"
         },
         "lustcastle.com": {
-            "epoch": "1545343200",
-            "expiration_date": "21-dec-2018",
-            "state": "past"
+            "epoch": "1584223200",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
         },
         "lusted.biz": {
             "epoch": "1543269600",
@@ -24143,6 +24143,11 @@
         "puffy-nipples-paradise.com": {
             "epoch": "1545084000",
             "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "pufip.com": {
+            "epoch": "1583877600",
+            "expiration_date": "11-mar-2020",
             "state": "future"
         },
         "puliquan.com": {
