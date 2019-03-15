@@ -5851,8 +5851,8 @@
             "state": "future"
         },
         "buyfriend.ru": {
-            "epoch": "1552600800",
-            "expiration_date": "15-mar-2019",
+            "epoch": "1584136800",
+            "expiration_date": "14-mar-2020",
             "state": "future"
         },
         "buyhoverboard.com": {
@@ -6673,7 +6673,7 @@
         "cinnamonmaster.com": {
             "epoch": "1552514400",
             "expiration_date": "14-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "cinselkameralisohbet.com": {
             "epoch": "1569794400",
@@ -7251,8 +7251,8 @@
             "state": "future"
         },
         "creamdolls.com": {
-            "epoch": "1545084000",
-            "expiration_date": "18-dec-2018",
+            "epoch": "1584136800",
+            "expiration_date": "14-mar-2020",
             "state": "future"
         },
         "creameet.com": {
@@ -7671,8 +7671,8 @@
             "state": "future"
         },
         "cw-international.com": {
-            "epoch": "1552514400",
-            "expiration_date": "14-mar-2019",
+            "epoch": "1584136800",
+            "expiration_date": "14-mar-2020",
             "state": "future"
         },
         "cwpaving.com": {
