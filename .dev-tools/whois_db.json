@@ -8983,7 +8983,7 @@
         "domain2008.com": {
             "epoch": "1552687200",
             "expiration_date": "16-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "domini.cat": {
             "epoch": "1557007200",
@@ -11946,9 +11946,9 @@
             "state": "past"
         },
         "freedailyxvids.com": {
-            "epoch": "1545775200",
-            "expiration_date": "26-dec-2018",
-            "state": "past"
+            "epoch": "1584223200",
+            "expiration_date": "15-mar-2020",
+            "state": "future"
         },
         "freediversion.com": {
             "epoch": "1536616800",
