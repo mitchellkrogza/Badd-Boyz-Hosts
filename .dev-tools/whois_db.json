@@ -2363,7 +2363,7 @@
         "albergoabruzzo.com": {
             "epoch": "1552687200",
             "expiration_date": "16-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "alberguecasaanita.com": {
             "epoch": "1569794400",
