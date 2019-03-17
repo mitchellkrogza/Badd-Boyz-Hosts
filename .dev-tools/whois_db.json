@@ -24858,7 +24858,7 @@
         "quality-traffic.com": {
             "epoch": "1552773600",
             "expiration_date": "17-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "quality.gold": {
             "epoch": "1566165600",
@@ -29201,9 +29201,9 @@
             "state": "future"
         },
         "specialvipaccess.com": {
-            "epoch": "1545861600",
-            "expiration_date": "27-dec-2018",
-            "state": "past"
+            "epoch": "1584309600",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
         },
         "speed4up.com": {
             "epoch": "1578434400",
@@ -29341,9 +29341,9 @@
             "state": "future"
         },
         "stairliftsarea.com": {
-            "epoch": "1545861600",
-            "expiration_date": "27-dec-2018",
-            "state": "past"
+            "epoch": "1584309600",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
         },
         "stairliftstrue.com": {
             "epoch": "1580421600",
@@ -34818,7 +34818,7 @@
         "zlektorem.pl": {
             "epoch": "1552773600",
             "expiration_date": "17-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "znakomstva-piter78.ru": {
             "epoch": "1566165600",
