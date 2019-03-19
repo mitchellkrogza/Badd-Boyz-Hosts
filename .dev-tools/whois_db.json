@@ -29383,7 +29383,7 @@
         "stapt.com": {
             "epoch": "1552946400",
             "expiration_date": "19-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "star-gay.net": {
             "epoch": "1576965600",
@@ -34816,9 +34816,9 @@
             "state": "future"
         },
         "zlektorem.pl": {
-            "epoch": "1552773600",
-            "expiration_date": "17-mar-2019",
-            "state": "past"
+            "epoch": "1560636000",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
         },
         "znakomstva-piter78.ru": {
             "epoch": "1566165600",
