@@ -1246,8 +1246,8 @@
             "state": "future"
         },
         "511a.cn": {
-            "epoch": "1552860000",
-            "expiration_date": "18-mar-2019",
+            "epoch": "1584482400",
+            "expiration_date": "18-mar-2020",
             "state": "future"
         },
         "5241.it": {
@@ -2398,7 +2398,7 @@
         "alekseevec.ru": {
             "epoch": "1552946400",
             "expiration_date": "19-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "alessandraleone.com": {
             "epoch": "1578780000",
@@ -2636,8 +2636,8 @@
             "state": "future"
         },
         "allergiques.com": {
-            "epoch": "1552946400",
-            "expiration_date": "19-mar-2019",
+            "epoch": "1584568800",
+            "expiration_date": "19-mar-2020",
             "state": "future"
         },
         "allergycenter.info": {
@@ -3688,7 +3688,7 @@
         "antcompany.com": {
             "epoch": "1552860000",
             "expiration_date": "18-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "anthonymthompson.com": {
             "epoch": "1575064800",
