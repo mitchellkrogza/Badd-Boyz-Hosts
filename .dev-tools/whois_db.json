@@ -18936,8 +18936,8 @@
             "state": "future"
         },
         "mature-lady.biz": {
-            "epoch": "1544392800",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1584396000",
+            "expiration_date": "17-mar-2020",
             "state": "future"
         },
         "mature-models.com": {
@@ -20166,9 +20166,9 @@
             "state": "future"
         },
         "mycreditrepairfix.com": {
-            "epoch": "1552860000",
-            "expiration_date": "18-mar-2019",
-            "state": "past"
+            "epoch": "1584482400",
+            "expiration_date": "18-mar-2020",
+            "state": "future"
         },
         "mydancexpress.com": {
             "epoch": "1572991200",
@@ -22088,6 +22088,11 @@
         "pinkymart.com": {
             "epoch": "1568498400",
             "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "pinkyslondonescorts.co.uk": {
+            "epoch": "1584655200",
+            "expiration_date": "20-mar-2020",
             "state": "future"
         },
         "pinkysplayhouse.com": {
