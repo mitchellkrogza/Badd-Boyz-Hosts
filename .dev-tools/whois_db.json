@@ -28016,8 +28016,8 @@
             "state": "future"
         },
         "share-buttons-for-free.com": {
-            "epoch": "1553032800",
-            "expiration_date": "20-mar-2019",
+            "epoch": "1584655200",
+            "expiration_date": "20-mar-2020",
             "state": "future"
         },
         "shareagree.com": {
@@ -28881,9 +28881,9 @@
             "state": "future"
         },
         "slut-factory.com": {
-            "epoch": "1546207200",
-            "expiration_date": "31-dec-2018",
-            "state": "past"
+            "epoch": "1584568800",
+            "expiration_date": "19-mar-2020",
+            "state": "future"
         },
         "slut-tee.com": {
             "epoch": "1536271200",
@@ -29391,9 +29391,9 @@
             "state": "future"
         },
         "stapt.com": {
-            "epoch": "1552946400",
-            "expiration_date": "19-mar-2019",
-            "state": "past"
+            "epoch": "1584568800",
+            "expiration_date": "19-mar-2020",
+            "state": "future"
         },
         "star-gay.net": {
             "epoch": "1576965600",
@@ -32448,6 +32448,11 @@
         "vipromoffers.com": {
             "epoch": "1560117600",
             "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "vipsexshop.com.br": {
+            "epoch": "1584655200",
+            "expiration_date": "20-mar-2020",
             "state": "future"
         },
         "vipsexstore.com": {
