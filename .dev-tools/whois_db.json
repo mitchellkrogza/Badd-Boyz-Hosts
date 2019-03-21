@@ -896,9 +896,9 @@
             "state": "future"
         },
         "300sk.com": {
-            "epoch": "1546552800",
-            "expiration_date": "04-jan-2019",
-            "state": "past"
+            "epoch": "1584655200",
+            "expiration_date": "20-mar-2020",
+            "state": "future"
         },
         "30sec.info": {
             "epoch": "1600639200",
@@ -3686,9 +3686,9 @@
             "state": "future"
         },
         "antcompany.com": {
-            "epoch": "1552860000",
-            "expiration_date": "18-mar-2019",
-            "state": "past"
+            "epoch": "1584482400",
+            "expiration_date": "18-mar-2020",
+            "state": "future"
         },
         "anthonymthompson.com": {
             "epoch": "1575064800",
