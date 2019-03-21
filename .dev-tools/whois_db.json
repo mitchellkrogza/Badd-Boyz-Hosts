@@ -7555,6 +7555,11 @@
             "expiration_date": "30-sep-2019",
             "state": "future"
         },
+        "cursoganhardinheiroonline.com.br": {
+            "epoch": "1553032800",
+            "expiration_date": "20-mar-2019",
+            "state": "past"
+        },
         "curvaplay.com": {
             "epoch": "1570140000",
             "expiration_date": "04-oct-2019",
