@@ -21,8 +21,8 @@
             "state": "future"
         },
         "00go.com": {
-            "epoch": "1553205600",
-            "expiration_date": "22-mar-2019",
+            "epoch": "1584828000",
+            "expiration_date": "22-mar-2020",
             "state": "future"
         },
         "00it.com": {
@@ -1051,8 +1051,8 @@
             "state": "future"
         },
         "40cg.com": {
-            "epoch": "1553292000",
-            "expiration_date": "23-mar-2019",
+            "epoch": "1584914400",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "411-singles.com": {
@@ -1396,9 +1396,9 @@
             "state": "future"
         },
         "69tubex.com": {
-            "epoch": "1546293600",
-            "expiration_date": "01-jan-2019",
-            "state": "past"
+            "epoch": "1584828000",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
         },
         "6amateure.net": {
             "epoch": "1570312800",
@@ -1821,9 +1821,9 @@
             "state": "future"
         },
         "aab94f698f36684c5a852a2ef272e031bb.com": {
-            "epoch": "1546466400",
-            "expiration_date": "03-jan-2019",
-            "state": "past"
+            "epoch": "1584828000",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
         },
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "epoch": "1577138400",
@@ -7338,7 +7338,7 @@
         "cs-passion.pl": {
             "epoch": "1553292000",
             "expiration_date": "23-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "cs1g.com": {
             "epoch": "1559599200",
@@ -7481,9 +7481,9 @@
             "state": "past"
         },
         "cumluv.com": {
-            "epoch": "1546380000",
-            "expiration_date": "02-jan-2019",
-            "state": "past"
+            "epoch": "1584828000",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
         },
         "cumsea.net": {
             "epoch": "1569794400",
@@ -8186,8 +8186,8 @@
             "state": "future"
         },
         "dentalcliniclondonontario.com": {
-            "epoch": "1553205600",
-            "expiration_date": "22-mar-2019",
+            "epoch": "1584828000",
+            "expiration_date": "22-mar-2020",
             "state": "future"
         },
         "dentalimpllants.com": {
