@@ -21268,7 +21268,7 @@
         "odpicujfure.pl": {
             "epoch": "1553637600",
             "expiration_date": "27-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "oecnhs.info": {
             "epoch": "1571263200",
@@ -24591,8 +24591,8 @@
             "state": "future"
         },
         "putitin.me": {
-            "epoch": "1543874400",
-            "expiration_date": "04-dec-2018",
+            "epoch": "1584741600",
+            "expiration_date": "21-mar-2020",
             "state": "future"
         },
         "putlockers.ist": {
