@@ -893,7 +893,7 @@
         "3-letter-domains.net": {
             "epoch": "1553810400",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "300sk.com": {
             "epoch": "1584655200",
