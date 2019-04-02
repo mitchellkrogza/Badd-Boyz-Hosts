@@ -17270,6 +17270,11 @@
             "expiration_date": "14-jun-2020",
             "state": "future"
         },
+        "kickasstorrents.website": {
+            "epoch": "1569794400",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
         "kickassvids.com": {
             "epoch": "1543960800",
             "expiration_date": "05-dec-2018",
@@ -24971,8 +24976,8 @@
             "state": "future"
         },
         "quelle.ru": {
-            "epoch": "1554069600",
-            "expiration_date": "01-apr-2019",
+            "epoch": "1585692000",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "quentes.com.br": {
@@ -25434,6 +25439,16 @@
             "epoch": "1538431200",
             "expiration_date": "02-oct-2018",
             "state": "past"
+        },
+        "renecaovilla.online": {
+            "epoch": "1579989600",
+            "expiration_date": "26-jan-2020",
+            "state": "future"
+        },
+        "renecaovillasale.online": {
+            "epoch": "1579989600",
+            "expiration_date": "26-jan-2020",
+            "state": "future"
         },
         "renewablewealth.com": {
             "epoch": "1544997600",
