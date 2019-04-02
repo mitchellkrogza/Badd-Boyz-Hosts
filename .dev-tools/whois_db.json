@@ -6908,7 +6908,7 @@
         "companycreators.co.uk": {
             "epoch": "1554069600",
             "expiration_date": "01-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "compassenergyservices.com": {
             "epoch": "1706047200",
@@ -7143,7 +7143,7 @@
         "cordstrap.cc": {
             "epoch": "1554156000",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "cornerstone-countertops.com": {
             "epoch": "1583359200",
