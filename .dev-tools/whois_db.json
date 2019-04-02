@@ -9010,6 +9010,11 @@
             "expiration_date": "16-mar-2020",
             "state": "future"
         },
+        "domainanalyzing.xyz": {
+            "epoch": "1584050400",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
         "domini.cat": {
             "epoch": "1557007200",
             "expiration_date": "05-may-2019",
@@ -11093,7 +11098,7 @@
         "fatmaelgarny.com": {
             "epoch": "1554156000",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "fatpussy.biz": {
             "epoch": "1539813600",
@@ -11581,9 +11586,9 @@
             "state": "future"
         },
         "fickenprivat.info": {
-            "epoch": "1553983200",
-            "expiration_date": "31-mar-2019",
-            "state": "past"
+            "epoch": "1585605600",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
         },
         "fickenzz.net": {
             "epoch": "1574200800",
@@ -11603,6 +11608,11 @@
         "fickvotze.com": {
             "epoch": "1568671200",
             "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "ficusoid.xyz": {
+            "epoch": "1570140000",
+            "expiration_date": "04-oct-2019",
             "state": "future"
         },
         "fil.ru": {
@@ -11643,6 +11653,11 @@
         "financialnewsupdates.com": {
             "epoch": "1571695200",
             "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "flatterra.com": {
+            "epoch": "1585692000",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "flooringinstallation-edmonton.com": {
@@ -12083,6 +12098,11 @@
         "freeindiangals.com": {
             "epoch": "1579644000",
             "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
+        "freeiplist.xyz": {
+            "epoch": "1574546400",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "freelifeclub.org": {
@@ -14046,8 +14066,8 @@
             "state": "future"
         },
         "great-health.ru": {
-            "epoch": "1548453600",
-            "expiration_date": "26-jan-2019",
+            "epoch": "1588284000",
+            "expiration_date": "01-may-2020",
             "state": "future"
         },
         "great-voipphoneoption.com": {
