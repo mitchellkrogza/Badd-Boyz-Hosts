@@ -35100,6 +35100,11 @@
             "expiration_date": "09-mar-2020",
             "state": "future"
         },
+        "zqal.xyz": {
+            "epoch": "1578520800",
+            "expiration_date": "09-jan-2020",
+            "state": "future"
+        },
         "zrdom.com.ua": {
             "epoch": "1560376800",
             "expiration_date": "13-jun-2019",
@@ -35158,7 +35163,7 @@
         "zzqrt.com": {
             "epoch": "1554156000",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "zzsyw.com": {
             "epoch": "1559167200",
