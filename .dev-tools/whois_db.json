@@ -19213,7 +19213,7 @@
         "maxwealthy.com": {
             "epoch": "1554242400",
             "expiration_date": "03-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "maxxisproduct.com": {
             "epoch": "1574546400",
@@ -21331,9 +21331,9 @@
             "state": "future"
         },
         "odpicujfure.pl": {
-            "epoch": "1553637600",
-            "expiration_date": "27-mar-2019",
-            "state": "past"
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
         },
         "oecnhs.info": {
             "epoch": "1571263200",
@@ -24811,9 +24811,9 @@
             "state": "future"
         },
         "q-moto.ru": {
-            "epoch": "1553896800",
-            "expiration_date": "30-mar-2019",
-            "state": "past"
+            "epoch": "1588456800",
+            "expiration_date": "03-may-2020",
+            "state": "future"
         },
         "q-venture.com": {
             "epoch": "1557525600",
@@ -25058,7 +25058,7 @@
         "quiltsr4u.com": {
             "epoch": "1554242400",
             "expiration_date": "03-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "quirkycoolliving.com": {
             "epoch": "1562536800",
@@ -33843,7 +33843,7 @@
         "wwwinbank.pl": {
             "epoch": "1554328800",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "wwwmyshopriteexperience.com": {
             "epoch": "1563832800",
@@ -34673,7 +34673,7 @@
         "yubikk.info": {
             "epoch": "1554328800",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "yudexjr.com": {
             "epoch": "1582840800",
@@ -34746,9 +34746,9 @@
             "state": "future"
         },
         "zarabiaj-dzis.pl": {
-            "epoch": "1554156000",
-            "expiration_date": "02-apr-2019",
-            "state": "past"
+            "epoch": "1555365600",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
         },
         "zarabotat-na-sajte.ru": {
             "epoch": "1556229600",
@@ -35161,9 +35161,9 @@
             "state": "future"
         },
         "zzqrt.com": {
-            "epoch": "1554156000",
-            "expiration_date": "02-apr-2019",
-            "state": "past"
+            "epoch": "1585778400",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
         },
         "zzsyw.com": {
             "epoch": "1559167200",
