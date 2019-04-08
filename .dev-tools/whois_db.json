@@ -21495,6 +21495,11 @@
             "expiration_date": "31-mar-2020",
             "state": "future"
         },
+        "online-classes-usa.org": {
+            "epoch": "1586037600",
+            "expiration_date": "05-apr-2020",
+            "state": "future"
+        },
         "online-sex-video.com": {
             "epoch": "1547848800",
             "expiration_date": "19-jan-2019",
@@ -23726,9 +23731,9 @@
             "state": "future"
         },
         "pospr.waw.pl": {
-            "epoch": "1554501600",
-            "expiration_date": "06-apr-2019",
-            "state": "past"
+            "epoch": "1555711200",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
         },
         "postclass.com": {
             "epoch": "1572386400",
@@ -24208,6 +24213,11 @@
         "prostitutki-tyumeni.org": {
             "epoch": "1557352800",
             "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "pts163.ru": {
+            "epoch": "1588543200",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "pudukkottai.in": {
@@ -27501,9 +27511,9 @@
             "state": "past"
         },
         "sexworld69.com": {
-            "epoch": "1547676000",
-            "expiration_date": "17-jan-2019",
-            "state": "past"
+            "epoch": "1586124000",
+            "expiration_date": "06-apr-2020",
+            "state": "future"
         },
         "sexwp.pl": {
             "epoch": "1574546400",
