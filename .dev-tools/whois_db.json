@@ -1888,7 +1888,7 @@
         "aaronabel.com": {
             "epoch": "1554760800",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "aaronautosandtrucks.com": {
             "epoch": "1579212000",
@@ -2136,9 +2136,9 @@
             "state": "future"
         },
         "acompanhantesdeportugal.com": {
-            "epoch": "1546898400",
-            "expiration_date": "08-jan-2019",
-            "state": "past"
+            "epoch": "1586037600",
+            "expiration_date": "05-apr-2020",
+            "state": "future"
         },
         "acompanhantesportoalegre.net": {
             "epoch": "1568844000",
@@ -2383,7 +2383,7 @@
         "alboautotrasportatori.it": {
             "epoch": "1554760800",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "alcohort.com": {
             "epoch": "1571436000",
@@ -7053,7 +7053,7 @@
         "coolemailnames.com": {
             "epoch": "1554760800",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "coolfoto.dk": {
             "epoch": "1569794400",
