@@ -14111,9 +14111,9 @@
             "state": "past"
         },
         "greatsexcontent.dk": {
-            "epoch": "1553983200",
-            "expiration_date": "31-mar-2019",
-            "state": "past"
+            "epoch": "1585605600",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
         },
         "greatshoesever.com": {
             "epoch": "1562277600",
@@ -15736,9 +15736,9 @@
             "state": "future"
         },
         "hypnoseterapi.com": {
-            "epoch": "1547848800",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1586296800",
+            "expiration_date": "08-apr-2020",
+            "state": "future"
         },
         "hypnotone.com": {
             "epoch": "1584655200",
