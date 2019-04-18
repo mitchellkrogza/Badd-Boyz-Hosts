@@ -18521,8 +18521,8 @@
             "state": "past"
         },
         "lider-zhaluzi.kiev.ua": {
-            "epoch": "1555452000",
-            "expiration_date": "17-apr-2019",
+            "epoch": "1587074400",
+            "expiration_date": "17-apr-2020",
             "state": "future"
         },
         "lideragro.ru": {
@@ -21351,9 +21351,9 @@
             "state": "future"
         },
         "odpicujfure.pl": {
-            "epoch": "1555365600",
-            "expiration_date": "16-apr-2019",
-            "state": "past"
+            "epoch": "1563141600",
+            "expiration_date": "15-jul-2019",
+            "state": "future"
         },
         "oecnhs.info": {
             "epoch": "1571263200",
@@ -29306,9 +29306,9 @@
             "state": "future"
         },
         "spasswelt.xyz": {
-            "epoch": "1548712800",
-            "expiration_date": "29-jan-2019",
-            "state": "past"
+            "epoch": "1587160800",
+            "expiration_date": "18-apr-2020",
+            "state": "future"
         },
         "spb-plitka.ru": {
             "epoch": "1573077600",
