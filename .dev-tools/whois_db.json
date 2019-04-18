@@ -2316,8 +2316,8 @@
             "state": "future"
         },
         "akuhni.by": {
-            "epoch": "1555452000",
-            "expiration_date": "17-apr-2019",
+            "epoch": "1587074400",
+            "expiration_date": "17-apr-2020",
             "state": "future"
         },
         "akusherok.ru": {
@@ -2326,9 +2326,9 @@
             "state": "future"
         },
         "akzmaihd.net": {
-            "epoch": "1555279200",
-            "expiration_date": "15-apr-2019",
-            "state": "past"
+            "epoch": "1586901600",
+            "expiration_date": "15-apr-2020",
+            "state": "future"
         },
         "al-futtaiminvestmentgroup.com": {
             "epoch": "1569189600",
