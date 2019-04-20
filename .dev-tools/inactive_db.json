@@ -1676,9 +1676,7 @@
             "sms.pessoafisicabb.com",
             "smtp-host.smtp.ru",
             "smtp.orwbystre.com",
-            "snjack.info"
-        ],
-        "to_test": [
+            "snjack.info",
             "soaksoak.ru",
             "sofiaaxelsson.se",
             "sofortkontakte24.de",
@@ -1880,7 +1878,9 @@
             "wmzfcchqnkrux.bid",
             "wnhwpkiaozow.bid",
             "woha.nu",
-            "wojtaszek.xorg.pl",
+            "wojtaszek.xorg.pl"
+        ],
+        "to_test": [
             "woooosh.de",
             "workchopapp.com",
             "worldtraveler.world",
