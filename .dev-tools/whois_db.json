@@ -261,8 +261,8 @@
             "state": "future"
         },
         "101raccoon.ru": {
-            "epoch": "1555624800",
-            "expiration_date": "19-apr-2019",
+            "epoch": "1587247200",
+            "expiration_date": "19-apr-2020",
             "state": "future"
         },
         "101satcom.com": {
@@ -4263,6 +4263,11 @@
         "avantgardevisions.com": {
             "epoch": "1594072800",
             "expiration_date": "07-jul-2020",
+            "state": "future"
+        },
+        "avantlog.com.br": {
+            "epoch": "1587074400",
+            "expiration_date": "17-apr-2020",
             "state": "future"
         },
         "avdata.com": {
