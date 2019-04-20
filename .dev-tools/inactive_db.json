@@ -1481,9 +1481,7 @@
             "restaurantlescampi.com",
             "reviewcity.ru",
             "ring4rhino.com",
-            "rivaajplanner.com"
-        ],
-        "to_test": [
+            "rivaajplanner.com",
             "rockhestershie.com",
             "rockprogblog.com",
             "ross.exhl.pl",
@@ -1678,7 +1676,9 @@
             "sms.pessoafisicabb.com",
             "smtp-host.smtp.ru",
             "smtp.orwbystre.com",
-            "snjack.info",
+            "snjack.info"
+        ],
+        "to_test": [
             "soaksoak.ru",
             "sofiaaxelsson.se",
             "sofortkontakte24.de",
