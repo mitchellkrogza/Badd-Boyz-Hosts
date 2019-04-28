@@ -12096,8 +12096,8 @@
             "state": "past"
         },
         "freehanbam.net": {
-            "epoch": "1556316000",
-            "expiration_date": "27-apr-2019",
+            "epoch": "1587938400",
+            "expiration_date": "27-apr-2020",
             "state": "future"
         },
         "freehdmovies.biz": {
@@ -17191,8 +17191,8 @@
             "state": "future"
         },
         "kazrent.com": {
-            "epoch": "1556316000",
-            "expiration_date": "27-apr-2019",
+            "epoch": "1587938400",
+            "expiration_date": "27-apr-2020",
             "state": "future"
         },
         "kbgphmpg.bid": {
@@ -21183,7 +21183,7 @@
         "nuker.com": {
             "epoch": "1556402400",
             "expiration_date": "28-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "nulik.net": {
             "epoch": "1569794400",
@@ -29116,9 +29116,9 @@
             "state": "future"
         },
         "smkn2ponorogo.sch.id": {
-            "epoch": "1556229600",
-            "expiration_date": "26-apr-2019",
-            "state": "past"
+            "epoch": "1587852000",
+            "expiration_date": "26-apr-2020",
+            "state": "future"
         },
         "smokersblogs.com": {
             "epoch": "1565820000",
@@ -35196,8 +35196,8 @@
             "state": "future"
         },
         "zx6.ru": {
-            "epoch": "1556316000",
-            "expiration_date": "27-apr-2019",
+            "epoch": "1587938400",
+            "expiration_date": "27-apr-2020",
             "state": "future"
         },
         "zybezradio.com": {
