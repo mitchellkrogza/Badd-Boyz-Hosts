@@ -2361,8 +2361,8 @@
             "state": "future"
         },
         "alarmobninsk.ru": {
-            "epoch": "1556316000",
-            "expiration_date": "27-apr-2019",
+            "epoch": "1587938400",
+            "expiration_date": "27-apr-2020",
             "state": "future"
         },
         "albamargroup.com": {
@@ -6931,9 +6931,9 @@
             "state": "future"
         },
         "companycreators.co.uk": {
-            "epoch": "1554069600",
-            "expiration_date": "01-apr-2019",
-            "state": "past"
+            "epoch": "1587938400",
+            "expiration_date": "27-apr-2020",
+            "state": "future"
         },
         "compassenergyservices.com": {
             "epoch": "1706047200",
