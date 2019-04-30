@@ -17146,8 +17146,8 @@
             "state": "future"
         },
         "katushka.net": {
-            "epoch": "1556488800",
-            "expiration_date": "29-apr-2019",
+            "epoch": "1588111200",
+            "expiration_date": "29-apr-2020",
             "state": "future"
         },
         "katyoung.co.uk": {
@@ -17583,7 +17583,7 @@
         "kitaj.dk": {
             "epoch": "1556575200",
             "expiration_date": "30-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "kittyscash.com": {
             "epoch": "1572127200",
@@ -20191,8 +20191,8 @@
             "state": "future"
         },
         "myanyone.net": {
-            "epoch": "1556575200",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588197600",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "myasianfetish.com": {
@@ -21173,7 +21173,7 @@
         "nugenix.co": {
             "epoch": "1556488800",
             "expiration_date": "29-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "nuit-artisanale.com": {
             "epoch": "1583359200",
@@ -21181,9 +21181,9 @@
             "state": "future"
         },
         "nuker.com": {
-            "epoch": "1556402400",
-            "expiration_date": "28-apr-2019",
-            "state": "past"
+            "epoch": "1588024800",
+            "expiration_date": "28-apr-2020",
+            "state": "future"
         },
         "nulik.net": {
             "epoch": "1569794400",
@@ -34746,9 +34746,9 @@
             "state": "future"
         },
         "yun56.co": {
-            "epoch": "1549231200",
-            "expiration_date": "04-feb-2019",
-            "state": "past"
+            "epoch": "1587765600",
+            "expiration_date": "25-apr-2020",
+            "state": "future"
         },
         "yupdduk.co.kr": {
             "epoch": "1568757600",
