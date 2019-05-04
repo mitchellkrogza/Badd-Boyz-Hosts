@@ -648,7 +648,7 @@
         "2020iscoming.info": {
             "epoch": "1556920800",
             "expiration_date": "04-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "202ch.com": {
             "epoch": "1586296800",
@@ -7048,7 +7048,7 @@
         "coocomall.com": {
             "epoch": "1556834400",
             "expiration_date": "03-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "cookevegas.com": {
             "epoch": "1579471200",
@@ -7056,8 +7056,8 @@
             "state": "future"
         },
         "cookingmeat.ru": {
-            "epoch": "1556834400",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588456800",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "cookingyourspanish.com": {
@@ -11061,8 +11061,8 @@
             "state": "future"
         },
         "familienzahnaerzte.com": {
-            "epoch": "1556920800",
-            "expiration_date": "04-may-2019",
+            "epoch": "1588543200",
+            "expiration_date": "04-may-2020",
             "state": "future"
         },
         "family1st.ca": {
