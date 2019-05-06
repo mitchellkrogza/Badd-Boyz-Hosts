@@ -646,9 +646,9 @@
             "state": "future"
         },
         "2020iscoming.info": {
-            "epoch": "1556920800",
-            "expiration_date": "04-may-2019",
-            "state": "past"
+            "epoch": "1588543200",
+            "expiration_date": "04-may-2020",
+            "state": "future"
         },
         "202ch.com": {
             "epoch": "1586296800",
@@ -7046,9 +7046,9 @@
             "state": "future"
         },
         "coocomall.com": {
-            "epoch": "1556834400",
-            "expiration_date": "03-may-2019",
-            "state": "past"
+            "epoch": "1588456800",
+            "expiration_date": "03-may-2020",
+            "state": "future"
         },
         "cookevegas.com": {
             "epoch": "1579471200",
@@ -10573,7 +10573,7 @@
         "event-tracking.com": {
             "epoch": "1557007200",
             "expiration_date": "05-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "eventkalender.com": {
             "epoch": "1581544800",
@@ -10726,8 +10726,8 @@
             "state": "future"
         },
         "exoogle.com": {
-            "epoch": "1557093600",
-            "expiration_date": "06-may-2019",
+            "epoch": "1588716000",
+            "expiration_date": "06-may-2020",
             "state": "future"
         },
         "exoticadverts.com": {
