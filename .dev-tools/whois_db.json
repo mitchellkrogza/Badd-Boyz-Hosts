@@ -6988,7 +6988,7 @@
         "comsprague.com": {
             "epoch": "1557266400",
             "expiration_date": "08-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "comsysnet.com": {
             "epoch": "1570658400",
