@@ -86,14 +86,14 @@
             "state": "past"
         },
         "03e.info": {
-            "epoch": "1557612000",
-            "expiration_date": "12-may-2019",
+            "epoch": "1589234400",
+            "expiration_date": "12-may-2020",
             "state": "future"
         },
         "03p.info": {
             "epoch": "1557612000",
             "expiration_date": "12-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "075.nu": {
             "epoch": "1536012000",
@@ -358,7 +358,7 @@
         "12u.info": {
             "epoch": "1557612000",
             "expiration_date": "12-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "12xhardcore.com": {
             "epoch": "1568498400",
@@ -388,7 +388,7 @@
         "14b.info": {
             "epoch": "1557612000",
             "expiration_date": "12-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "14teen.com": {
             "epoch": "1570572000",
@@ -1698,7 +1698,7 @@
         "9med.net": {
             "epoch": "1557612000",
             "expiration_date": "12-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "9n68b4.top": {
             "epoch": "1561759200",
@@ -2351,8 +2351,8 @@
             "state": "future"
         },
         "alanstrack.com": {
-            "epoch": "1557525600",
-            "expiration_date": "11-may-2019",
+            "epoch": "1620684000",
+            "expiration_date": "11-may-2021",
             "state": "future"
         },
         "alarash.com": {
@@ -3736,9 +3736,9 @@
             "state": "future"
         },
         "anticodistretto.com": {
-            "epoch": "1557352800",
-            "expiration_date": "09-may-2019",
-            "state": "past"
+            "epoch": "1588975200",
+            "expiration_date": "09-may-2020",
+            "state": "future"
         },
         "anticosm.com": {
             "epoch": "1577484000",
