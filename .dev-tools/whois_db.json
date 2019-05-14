@@ -29141,9 +29141,9 @@
             "state": "past"
         },
         "smkn1muaraenim.sch.id": {
-            "epoch": "1557612000",
-            "expiration_date": "12-may-2019",
-            "state": "past"
+            "epoch": "1589234400",
+            "expiration_date": "12-may-2020",
+            "state": "future"
         },
         "smkn2ponorogo.sch.id": {
             "epoch": "1587852000",
