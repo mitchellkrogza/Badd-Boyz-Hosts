@@ -6703,7 +6703,7 @@
         "cinemaenergy-hd.ru": {
             "epoch": "1557784800",
             "expiration_date": "14-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "cinematraffic.com": {
             "epoch": "1579816800",
@@ -9096,9 +9096,9 @@
             "state": "future"
         },
         "dookie.biz": {
-            "epoch": "1538431200",
-            "expiration_date": "02-oct-2018",
-            "state": "past"
+            "epoch": "1588888800",
+            "expiration_date": "08-may-2020",
+            "state": "future"
         },
         "dorki.info": {
             "epoch": "1572472800",
@@ -11601,9 +11601,9 @@
             "state": "future"
         },
         "fetiteprofesioniste.biz": {
-            "epoch": "1537999200",
-            "expiration_date": "27-sep-2018",
-            "state": "past"
+            "epoch": "1588888800",
+            "expiration_date": "08-may-2020",
+            "state": "future"
         },
         "fettefrauen.net": {
             "epoch": "1546639200",
@@ -12001,9 +12001,9 @@
             "state": "future"
         },
         "freebigtits.biz": {
-            "epoch": "1538431200",
-            "expiration_date": "02-oct-2018",
-            "state": "past"
+            "epoch": "1589148000",
+            "expiration_date": "11-may-2020",
+            "state": "future"
         },
         "freebrowser.info": {
             "epoch": "1572472800",
@@ -12838,6 +12838,11 @@
         "gambarkatabaru.com": {
             "epoch": "1572472800",
             "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "gambarxkata.co": {
+            "epoch": "1589148000",
+            "expiration_date": "11-may-2020",
             "state": "future"
         },
         "gambling-internet.org": {
