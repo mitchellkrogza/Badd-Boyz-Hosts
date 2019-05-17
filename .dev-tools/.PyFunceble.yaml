@@ -12,8 +12,18 @@ custom_ip: "0.0.0.0"
 days_between_db_retest: 1
 # Enable / disable the generation of debug file(s).
 debug: False
+# Set the DNS server to use. If None is given we use the one given by the OS.
+# Note:
+#   The following format is expected if you want to give custom dns server.
+#
+#       dns_server:
+#         - "1.1.1.1" # First DNS server.
+#         - "1.0.0.1" # Second DNS server.
+dns_server: null
 # Set the element to filter.
 filter: ""
+# Enable / disable the generation of complements.
+generate_complements: False
 # Enable / disable the generation of the hosts file(s).
 generate_hosts: True
 # Enable / Disable the generation of a JSON format for the output
@@ -34,14 +44,18 @@ less: True
 local: False
 # Enable / Disable the output of every logs.
 logs: True
+# Set the maximal number of simultaneous processes to run.
+maximal_processes: 25
+# Enable / Disable the URL/domain mining.
+mining: False
+# Enable / Disable the usage of multiple processes.
+multiprocess: False
 # Enable / Disable the generation of any file(s).
 no_files: False
 # Enable / Disable the usage of the SPECIAL rule(s).
 no_special: False
 # Enable / Disable the usage of whois in the tests.
 no_whois: False
-# Enable / Disable the URL/domain mining.
-mining: False
 # Enable / Disable the generation of the plain list of element sorted by statuses.
 plain_list_domain: False
 # Enable / Disable the generation of output on screen.
@@ -49,7 +63,7 @@ quiet: False
 # Set the timeout to apply to every HTTP status code requests.
 seconds_before_http_timeout: 3
 # Enable / disable the logs sharing.
-share_logs: True
+share_logs: False
 # Enable / disable the output of the execution time.
 show_execution_time: False
 # Enable / disable the output of the percentage of each statuses.
@@ -74,7 +88,7 @@ travis_branch: master
 # Activate/Deactivate the generation of unified files for the results logs.
 unified: False
 # Set the default user agent use when requesting the HTTP code.
-user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+user_agent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
 # Enable / disable the verification of the certificate when testing for URL.
 verify_ssl_certificate: False
 # Enable / disable the usage of a database to store the hash of the whois record
@@ -97,6 +111,7 @@ outputs:
   hosts:
     directory: hosts
     filename: hosts
+    ip_filename: ips
 
   json:
     directory: json
@@ -114,6 +129,9 @@ outputs:
       potentially_up: potentially_up
       up: active_and_merged_in_results
       suspicious: suspicious_and_merged_in_results
+
+  complements:
+    directory: complements
 
   logs:
     directories:
@@ -220,9 +238,9 @@ http_codes:
 links:
   api_date_format: "https://pyfunceble.funilrys.com/api/date-format"
   api_no_referer: "https://pyfunceble.funilrys.com/api/no-referer"
-  config: "https://raw.githubusercontent.com/funilrys/PyFunceble/master/.PyFunceble_production.yaml"
-  dir_structure: "https://raw.githubusercontent.com/funilrys/PyFunceble/master/dir_structure_production.json"
-  iana: "https://raw.githubusercontent.com/funilrys/PyFunceble/master/iana-domains-db.json"
+  config: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/.PyFunceble_production.yaml"
+  dir_structure: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/dir_structure_production.json"
+  iana: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/iana-domains-db.json"
   repo: "https://github.com/funilrys/PyFunceble"
-  requirements: "https://raw.githubusercontent.com/funilrys/PyFunceble/master/requirements.txt"
-  psl: "https://raw.githubusercontent.com/funilrys/PyFunceble/master/public-suffix.json"
+  requirements: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/requirements.txt"
+  psl: "https://raw.githubusercontent.com/funilrys/PyFunceble/dev/public-suffix.json"
