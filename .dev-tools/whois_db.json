@@ -6749,6 +6749,11 @@
         "expiration_date": "10-jan-2019",
         "state": "future"
     },
+    "cliqz.com": {
+        "epoch": 1580767200,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "clknsee.com": {
         "epoch": "1565906400",
         "expiration_date": "16-aug-2019",
