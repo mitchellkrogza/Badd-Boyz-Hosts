@@ -6965,9 +6965,9 @@
         "state": "past"
     },
     "compositefarming.com": {
-        "epoch": 1558044000,
-        "expiration_date": "17-may-2019",
-        "state": "past"
+        "epoch": 1589666400,
+        "expiration_date": "17-may-2020",
+        "state": "future"
     },
     "comprafacil.com.br": {
         "epoch": "1666130400",
