@@ -16,13 +16,8 @@ mv tempdomains.txt ${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
 # Generate our host file and update README with build and version information
 # ***************************************************************************
 
-sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}/
-
-sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/modify-readme.sh
-sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-hosts.sh
-
-sudo ${TRAVIS_BUILD_DIR}/.dev-tools/modify-readme.sh
-sudo ${TRAVIS_BUILD_DIR}/.dev-tools/generate-hosts.sh
+bash ${TRAVIS_BUILD_DIR}/.dev-tools/modify-readme.sh
+bash ${TRAVIS_BUILD_DIR}/.dev-tools/generate-hosts.sh
 
 # *************************************************************
 # Travis now moves to the before_deploy: section of .travis.yml

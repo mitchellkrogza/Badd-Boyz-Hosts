@@ -5,93 +5,47 @@
 # Repo Url: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
 # MIT License
 
-# ***************************************
-# Make sure we are in the Build Directory
-# ***************************************
-
-cd ${TRAVIS_BUILD_DIR}
-
-# *******************************
-# Remove Remote Added by TravisCI
-# *******************************
-
-git remote rm origin
-
-# **************************
-# Add Remote with Secure Key
-# **************************
-
-git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
-
-# *********************
-# Set Our Git Variables
-# *********************
-
-git config --global user.email "${GIT_EMAIL}"
-git config --global user.name "${GIT_NAME}"
-git config --global push.default simple
-
-# *******************************************
-# Make sure we have checked out master branch
-# *******************************************
-
-git checkout master
-
-# **************************
-# Make Sure Temp Files Exist
-# **************************
-
-sudo touch ${TRAVIS_BUILD_DIR}/.dev-tools/temp_combined-list.txt
-
 # **********************************
 # Setup input bots and referer lists
 # **********************************
 
 input1=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
 
-# ***********************************
-# Make Sure Travis Owns All New Files
-# ***********************************
+# *********************************************
+# Get Travis CI Prepared for Committing to Repo
+# *********************************************
 
-sudo chown -R travis:travis ${TRAVIS_BUILD_DIR}
+PrepareTravis () {
+    git remote rm origin
+    git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
+    git config --global user.email "${GIT_EMAIL}"
+    git config --global user.name "${GIT_NAME}"
+    git config --global push.default simple
+    git checkout "${GIT_BRANCH}"
+}
+PrepareTravis
 
 # **************************************************************************
 # Sort lists alphabetically and remove duplicates before cleaning Dead Hosts
 # **************************************************************************
-
-sort -u ${input1} -o ${input1}
-
-# *****************
-# Activate Dos2Unix
-# *****************
-
-dos2unix ${input1}
-
-# ************************************
-# Make sure all scripts are executable
-# ************************************
-
-sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/run-PyFunceble.sh
-sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/modify-readme.sh
-sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-hosts.sh
+ PrepareLists () {
+    sort -u ${input1} -o ${input1}
+    dos2unix ${input1}
+ }
+PrepareLists
 
 # ***********************************
 # Deletion of all whitelisted domains
 # ***********************************
 
-if [[ "$(git log -1 | tail -1 | xargs)" =~ "ci skip" ]]
-then
-    hash uhb_whitelist
-    uhb_whitelist -f "${input1}" -o "${input1}"
-fi
-
-
-# ***************************************************
-# Run funceble to check for dead domains
-# ***************************************************
-
-bash -x ${TRAVIS_BUILD_DIR}/.dev-tools/run-PyFunceble.sh
-
+WhiteListing () {
+    if [[ "$(git log -1 | tail -1 | xargs)" =~ "ci skip" ]]
+        then
+            hash uhb_whitelist
+            uhb_whitelist -f "${input1}" -o "${input1}"
+    fi
+}
+WhiteListing
 
 exit ${?}
 
