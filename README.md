@@ -1,6 +1,6 @@
 # Badd-Boyz-Hosts
 
-<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/badd-boyz-hosts.jpg" alt="Badd Boyz Hosts File to Protect Your Computer and Devices Against Bad Web Sites"/><img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/>[![Build Status](https://travis-ci.org/mitchellkrogza/Badd-Boyz-Hosts.svg?branch=master)](https://travis-ci.org/mitchellkrogza/Badd-Boyz-Hosts)<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/>[![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/LICENSE.md)<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/>[![GitHub Stats](https://img.shields.io/badge/github-stats-ff5500.svg)](http://githubstats.com/mitchellkrogza/Badd-Boyz-Hosts)<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/><a href='https://twitter.com/ubuntu101za'><img src='https://img.shields.io/twitter/follow/ubuntu101za.svg?style=social&label=Follow' alt='Follow @ubuntu101za'></a>
+<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/badd-boyz-hosts-logo.jpg" alt="Badd Boyz Hosts File to Protect Your Computer and Devices Against Bad Web Sites"/><br/><img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/>[![Build Status](https://travis-ci.org/mitchellkrogza/Badd-Boyz-Hosts.svg?branch=master)](https://travis-ci.org/mitchellkrogza/Badd-Boyz-Hosts)<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/>[![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/LICENSE.md)<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/>[![GitHub Stats](https://img.shields.io/badge/github-stats-ff5500.svg)](http://githubstats.com/mitchellkrogza/Badd-Boyz-Hosts)<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/spacer.jpg"/><a href='https://twitter.com/ubuntu101za'><img src='https://img.shields.io/twitter/follow/ubuntu101za.svg?style=social&label=Follow' alt='Follow @ubuntu101za'></a>
 
 A hosts file for use on any operating system to block bad domains out of your servers or devices.
 
@@ -24,8 +24,10 @@ INVALID     0%           0
 ____________________
 
 - You are free to copy and distribute this file for non-commercial uses, as long the original URL and attribution is included.
-- <a href="mailto:mitchellkrog@gmail.com?subject=Please Add Me To the Slack Channel (Badd Boyz Hosts)">Ask For an Invite to the<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/slack.png"/></a>Support Channel
- 
+
+## Help Support This Project 
+
+[<img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/kofi4.png" alt="Buy me Coffee"/>](https://ko-fi.com/mitchellkrog)
 
 ************************************************
 ### If this helps you why not 
