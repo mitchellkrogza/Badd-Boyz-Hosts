@@ -265,9 +265,9 @@
         "state": "future"
     },
     "101satcom.com": {
-        "epoch": "1558216800",
+        "epoch": 1558216800,
         "expiration_date": "19-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "108shot.com": {
         "epoch": "1586037600",
@@ -14070,9 +14070,9 @@
         "state": "future"
     },
     "gratis-sexkontakte.com": {
-        "epoch": "1558216800",
+        "epoch": 1558216800,
         "expiration_date": "19-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "gratis-tgp.com": {
         "epoch": "1544911200",
