@@ -11719,6 +11719,11 @@
         "expiration_date": "02-dec-2019",
         "state": "future"
     },
+    "fnmsk.ru": {
+        "epoch": 1592431200,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
     "frauen-nackt.biz": {
         "epoch": "1538431200",
         "expiration_date": "02-oct-2018",
