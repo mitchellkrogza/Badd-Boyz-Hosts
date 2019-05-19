@@ -27,7 +27,7 @@ ____________________
 
 ## Help Support This Project 
 
-[<img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/kofi4.png" alt="Buy me Coffee"/>](https://ko-fi.com/mitchellkrog)
+[<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/kofi5.png" alt="Buy me Coffee"/>](https://ko-fi.com/mitchellkrog)
 
 ************************************************
 ### If this helps you why not 
