@@ -32,7 +32,7 @@ install:
 
 script:
   # We put both in same statement so that if one fails the whole test result will fail.
-  - bash .dev-tools/pre-deploy.sh && bash .dev-tools/run-PyFunceble.sh
+  - bash dev-tools/PrepareData.sh && bash dev-tools/DataTesting.sh
 
 notifications:
   on_success: never

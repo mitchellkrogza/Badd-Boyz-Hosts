@@ -13,7 +13,7 @@ yeartag=$(date +%Y)
 monthtag=$(date +%m)
 my_git_tag=V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}
 bad_referrers=$(wc -l < ${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt)
-hosts=${TRAVIS_BUILD_DIR}/.dev-tools/hosts.template
+hosts=${TRAVIS_BUILD_DIR}/dev-tools/hosts.template
 tmphostsA=tmphostsA
 tmphostsB=tmphostsB
 
@@ -29,7 +29,7 @@ inputdb1=/tmp/hosts.db
 # **********************************
 
 input1=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
-input2=${TRAVIS_BUILD_DIR}/.dev-tools/domains_tmp.txt
+input2=${TRAVIS_BUILD_DIR}/dev-tools/domains_tmp.txt
 
 # **************************************************************************
 # Sort lists alphabetically and remove duplicates before cleaning Dead Hosts
@@ -89,11 +89,11 @@ ed -s ${inputdbA}<<\IN
 1,/##### Version Information #/d
 /##### Version Information ##/,$d
 ,d
-.r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/.dev-tools/hosts.template
+.r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/dev-tools/hosts.template
 /##### Version Information #/x
 .t.
 .,/##### Version Information ##/-d
-w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/.dev-tools/hosts.template
+w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/dev-tools/hosts.template
 q
 IN
 rm ${inputdbA}
@@ -112,11 +112,11 @@ ed -s ${inputdb1}<<\IN
 1,/# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/d
 /# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/,$d
 ,d
-.r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/.dev-tools/hosts.template
+.r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/dev-tools/hosts.template
 /# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/x
 .t.
 .,/# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/-d
-w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/.dev-tools/hosts.template
+w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/dev-tools/hosts.template
 q
 IN
 rm ${inputdb1}
