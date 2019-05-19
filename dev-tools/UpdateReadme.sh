@@ -48,12 +48,13 @@ q
 IN
 rm ${inputdbA}
 
+# Create Logo with Version Number - Function Disabled as it will create a binary JPG object on every commit causing repo size to grow unnecessarily.
 makelogo () {
     # First disable the new ImageMagick-6 Policy file which pretty much breaks all operations of ImageMagick even for SUDO ??? Stupidest thing ever !!!
     sudo mv /etc/ImageMagick-6/policy.xml /etc/ImageMagick-6/policy.xmlout
     sudo convert ${TRAVIS_BUILD_DIR}/.assets/badd-boyz-logo-original.jpg -font DejaVu-Sans-Bold -pointsize 20 -fill red -gravity southeast -annotate +60+70 "${my_git_tag}" ${TRAVIS_BUILD_DIR}/.assets/badd-boyz-hosts-logo.jpg
 }
-makelogo
+#makelogo
 
 
 exit ${?}
