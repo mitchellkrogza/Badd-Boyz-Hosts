@@ -24,11 +24,6 @@ ____________________
 [<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/kofi5.png" alt="Buy me Coffee"/>](https://ko-fi.com/mitchellkrog)
 
 ************************************************
-### If this helps you why not 
-
-[![Help me out with a mug of beer](https://img.shields.io/badge/Help%20-%20me%20out%20with%20a%20mug%20of%20%F0%9F%8D%BA-blue.svg)](https://paypal.me/mitchellkrog/) or [![Help me feed my cat](https://img.shields.io/badge/Help%20-%20me%20feed%20my%20hungry%20cat%20%F0%9F%98%B8-blue.svg)](https://paypal.me/mitchellkrog/)
-
-************************************************
 # DOMAIN ADDITIONS FALSE POSITIVES / DOMAIN REMOVALS / OTHER ISSUES: 
 
 Please forward any additions, corrections or false positives by:
@@ -135,11 +130,14 @@ or [![Get the APACHE ULTIMATE BAD BOT BLOCKER](https://img.shields.io/badge/APAC
 - https://github.com/funilrys/funceble
 - https://github.com/funilrys/PyFunceble
 ************************************************
-## Support this Project
+## Help Support This Project 
 
-[![Help me out with a mug of beer](https://img.shields.io/badge/Help%20-%20me%20out%20with%20a%20mug%20of%20%F0%9F%8D%BA-blue.svg)](https://paypal.me/mitchellkrog/) or [![Help me feed my cat](https://img.shields.io/badge/Help%20-%20me%20feed%20my%20hungry%20cat%20%F0%9F%98%B8-blue.svg)](https://paypal.me/mitchellkrog/)
+[<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/kofi5.png" alt="Buy me Coffee"/>](https://ko-fi.com/mitchellkrog)
 
-<img src="https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/blob/master/.assets/zuko.png"/>
+## Help Feed My Hungry Kitty 
+
+[<img src="https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/.assets/zuko.png"/>](https://ko-fi.com/mitchellkrog)
+
 
 ************************************************
 ### Into Photography?
