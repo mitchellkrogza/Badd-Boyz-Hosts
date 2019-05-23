@@ -5,6 +5,7 @@
 A hosts file for use on any operating system to block bad domains out of your servers or devices.
 
 * Here's the [RAW hosts file](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts)
+* Here's the [DNSMASQ hosts file for DD-WRT](https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/dnsmasq)
 
 - Copyright: https://github.com/mitchellkrogza
 
