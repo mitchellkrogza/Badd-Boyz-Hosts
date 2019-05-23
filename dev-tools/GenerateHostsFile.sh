@@ -14,6 +14,7 @@ monthtag=$(date +%m)
 my_git_tag=V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}
 bad_referrers=$(wc -l < ${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt)
 hosts=${TRAVIS_BUILD_DIR}/dev-tools/hosts.template
+dnsmasq=${TRAVIS_BUILD_DIR}/dev-tools/ddwrt-dnsmasq.template
 tmphostsA=tmphostsA
 tmphostsB=tmphostsB
 tmphostsC=tmphostsC
@@ -157,13 +158,13 @@ done
 echo ${end2}  >> ${tmphostsB}
 mv ${tmphostsB} ${inputdb1}
 ed -s ${inputdb1}<<\IN
-1,/# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/d
-/# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/,$d
+1,/# START DNSMASQ LIST ### DO NOT EDIT THIS LINE AT ALL ###/d
+/# END DNSMASQ LIST ### DO NOT EDIT THIS LINE AT ALL ###/,$d
 ,d
 .r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/dev-tools/ddwrt-dnsmasq.template
-/# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/x
+/# START DNSMASQ LIST ### DO NOT EDIT THIS LINE AT ALL ###/x
 .t.
-.,/# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/-d
+.,/# END DNSMASQ LIST ### DO NOT EDIT THIS LINE AT ALL ###/-d
 w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/dev-tools/ddwrt-dnsmasq.template
 q
 IN
@@ -174,6 +175,7 @@ rm ${inputdb1}
 # ************************************
 
 sudo cp ${hosts} ${TRAVIS_BUILD_DIR}/hosts
+sudo cp ${dnsmasq} ${TRAVIS_BUILD_DIR}/dnsmasq
 
 exit ${?}
 
