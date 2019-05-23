@@ -16,6 +16,7 @@ bad_referrers=$(wc -l < ${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt)
 hosts=${TRAVIS_BUILD_DIR}/dev-tools/hosts.template
 tmphostsA=tmphostsA
 tmphostsB=tmphostsB
+tmphostsC=tmphostsC
 
 # **********************************
 # Temporary database files we create
@@ -73,12 +74,14 @@ dos2unix ${input1}
 
 start1="# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###"
 end1="# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###"
+start2="# START DNSMASQ LIST ### DO NOT EDIT THIS LINE AT ALL ###"
+end2="# END DNSMASQ LIST ### DO NOT EDIT THIS LINE AT ALL ###"
 startmarker="##### Version Information #"
 endmarker="##### Version Information ##"
 
-# **********************************
-# PRINT DATE AND TIME OF LAST UPDATE
-# **********************************
+# ******************************************************
+# PRINT DATE AND TIME OF LAST UPDATE INTO HOSTS TEMPLATE
+# ******************************************************
 
 now="$(date)"
 echo ${startmarker} >> ${tmphostsA}
@@ -98,9 +101,31 @@ q
 IN
 rm ${inputdbA}
 
-# ****************************
-# Insert hosts into hosts file
-# ****************************
+# ********************************************************
+# PRINT DATE AND TIME OF LAST UPDATE INTO DNSMASQ TEMPLATE
+# ********************************************************
+
+now="$(date)"
+echo ${startmarker} >> ${tmphostsA}
+printf "###################################################\n### Version: "${my_git_tag}"\n### Updated: "$now"\n### Bad Host Count: "${bad_referrers}"\n###################################################\n" >> ${tmphostsA}
+echo ${endmarker}  >> ${tmphostsA}
+mv ${tmphostsA} ${inputdbA}
+ed -s ${inputdbA}<<\IN
+1,/##### Version Information #/d
+/##### Version Information ##/,$d
+,d
+.r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/dev-tools/ddwrt-dnsmasq.template
+/##### Version Information #/x
+.t.
+.,/##### Version Information ##/-d
+w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/dev-tools/ddwrt-dnsmasq.template
+q
+IN
+rm ${inputdbA}
+
+# ********************************
+# Insert hosts into hosts template
+# ********************************
 
 echo ${start1} >> ${tmphostsB}
 for line in $(cat ${input1}); do
@@ -117,6 +142,29 @@ ed -s ${inputdb1}<<\IN
 .t.
 .,/# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/-d
 w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/dev-tools/hosts.template
+q
+IN
+rm ${inputdb1}
+
+# **********************************
+# Insert hosts into DNSMASQ template
+# **********************************
+
+echo ${start2} >> ${tmphostsB}
+for line in $(cat ${input1}); do
+printf '%s%s%s\n' "address=/" "${line}" "/" >> ${tmphostsB}
+done
+echo ${end2}  >> ${tmphostsB}
+mv ${tmphostsB} ${inputdb1}
+ed -s ${inputdb1}<<\IN
+1,/# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/d
+/# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/,$d
+,d
+.r /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/dev-tools/ddwrt-dnsmasq.template
+/# START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/x
+.t.
+.,/# END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###/-d
+w /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/dev-tools/ddwrt-dnsmasq.template
 q
 IN
 rm ${inputdb1}
