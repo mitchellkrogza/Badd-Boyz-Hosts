@@ -10,8 +10,8 @@ A hosts file for use on any operating system to block bad domains out of your se
 - Copyright: https://github.com/mitchellkrogza
 
 _______________
-[![VERSION](https://img.shields.io/badge/VERSION%20-%20V1.2019.05.7884-blue.svg)](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/commits/master)
-#### Bad Host Count: 1563
+[![VERSION](https://img.shields.io/badge/VERSION%20-%20V1.2019.05.7885-blue.svg)](https://github.com/mitchellkrogza/Badd-Boyz-Hosts/commits/master)
+#### Bad Host Count: 1573
 ```
 
 ```
