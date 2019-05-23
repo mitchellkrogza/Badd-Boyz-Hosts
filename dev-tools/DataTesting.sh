@@ -45,7 +45,7 @@ RunFunceble () {
         rm "${pyfuncebleProductionConfigurationFileLocation}"
     fi
 
-    PyFunceble --travis -dbr 5 --multiprocess --processes 80 --dns 1.1.1.1 1.0.0.1 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" -ex --plain --autosave-minutes 15 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
+    PyFunceble --travis -dbr 5 --multiprocess --processes 20 --dns 1.1.1.1 1.0.0.1 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" -ex --plain --autosave-minutes 15 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
 
 }
 
