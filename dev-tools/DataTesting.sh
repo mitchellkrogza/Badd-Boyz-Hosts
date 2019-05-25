@@ -34,7 +34,7 @@ RunFunceble () {
 
     yeartag=$(date +%Y)
     monthtag=$(date +%m)
-
+    ulimit -u
     cd ${TRAVIS_BUILD_DIR}/dev-tools
 
     hash PyFunceble
