@@ -2355,8 +2355,8 @@
         "state": "future"
     },
     "alarash.com": {
-        "epoch": "1558994400",
-        "expiration_date": "28-may-2019",
+        "epoch": 1590616800,
+        "expiration_date": "28-may-2020",
         "state": "future"
     },
     "alarmobninsk.ru": {
@@ -10480,9 +10480,9 @@
         "state": "future"
     },
     "eu-cookie-law.info": {
-        "epoch": 1558821600,
-        "expiration_date": "26-may-2019",
-        "state": "past"
+        "epoch": 1590444000,
+        "expiration_date": "26-may-2020",
+        "state": "future"
     },
     "eu-survey.com": {
         "epoch": "1573768800",
@@ -16965,8 +16965,8 @@
         "state": "future"
     },
     "justintimetac.com": {
-        "epoch": "1558908000",
-        "expiration_date": "27-may-2019",
+        "epoch": 1590530400,
+        "expiration_date": "27-may-2020",
         "state": "future"
     },
     "justme2ztr.com": {
