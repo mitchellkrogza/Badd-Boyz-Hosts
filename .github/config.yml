@@ -68,7 +68,7 @@ requestInfoOn:
 # *OPTIONAL* Add a list of people whose Issues/PRs will not be commented on
 # keys must be GitHub usernames
 requestInfoUserstoExclude:
-  #- mitchellkrog
+  - mitchellkrogza
   - funilrys
 
 # *************
@@ -83,7 +83,7 @@ sentimentBotToxicityThreshold: .7
 
 # *Required* Comment to reply with
 sentimentBotReplyComment: >
-  Your comment seemed to go against our community code of conduct and ethics. Please be respectful of other users. cc/ @mitchellkrog cc/ @funilrys
+  Your comment seemed to go against our community code of conduct and ethics. Please be respectful of other users. cc/ @mitchellkrogza @funilrys
 
 # *********
 # STALE BOT
