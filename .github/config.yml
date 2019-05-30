@@ -60,7 +60,7 @@ requestInfoOn:
 # *OPTIONAL* Add a list of people whose Issues/PRs will not be commented on
 # keys must be GitHub usernames
 requestInfoUserstoExclude:
-  - mitchellkrog
+  #- mitchellkrog
   - funilrys
 
 # Configuration for sentiment-bot - https://github.com/behaviorbot/sentiment-bot
