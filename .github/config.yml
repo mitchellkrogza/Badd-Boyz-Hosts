@@ -62,3 +62,13 @@ requestInfoOn:
 requestInfoUserstoExclude:
   - mitchellkrog
   - funilrys
+
+# Configuration for sentiment-bot - https://github.com/behaviorbot/sentiment-bot
+
+# *Required* toxicity threshold between 0 and .99 with the higher numbers being the most toxic
+# Anything higher than this threshold will be marked as toxic and commented on
+sentimentBotToxicityThreshold: .7
+
+# *Required* Comment to reply with
+sentimentBotReplyComment: >
+  Your comment seemed to go against our community code of conduct and ethics. Please be respectful of other users. cc/ @mitchellkrog @funilrys
