@@ -1,3 +1,7 @@
+# ***********
+# WELCOME BOT
+# ***********
+
 # Configuration for welcome - https://github.com/behaviorbot/welcome
 
 # Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
@@ -19,6 +23,10 @@ firstPRMergeComment: >
   :1st_place_medal: Congrats on merging your first pull request! The community here at Nginx Ultimate Bad Bot Blocker are proud of you!
 
 # It is recommended to include as many gifs and emojis as possible!
+
+# ****************
+# REQUEST INFO BOT
+# ****************
 
 # Configuration for request-info - https://github.com/behaviorbot/request-info
 
@@ -63,6 +71,10 @@ requestInfoUserstoExclude:
   #- mitchellkrog
   - funilrys
 
+# *************
+# SENTIMENT BOT
+# *************
+
 # Configuration for sentiment-bot - https://github.com/behaviorbot/sentiment-bot
 
 # *Required* toxicity threshold between 0 and .99 with the higher numbers being the most toxic
@@ -72,3 +84,37 @@ sentimentBotToxicityThreshold: .7
 # *Required* Comment to reply with
 sentimentBotReplyComment: >
   Your comment seemed to go against our community code of conduct and ethics. Please be respectful of other users. cc/ @mitchellkrog cc/ @funilrys
+
+# *********
+# STALE BOT
+# *********
+
+# Number of days of inactivity before an issue becomes stale
+daysUntilStale: 60
+# Number of days of inactivity before a stale issue is closed
+daysUntilClose: 7
+# Issues with these labels will never be considered stale
+exemptLabels:
+  - pinned
+  - security
+# Label to use when marking an issue as stale
+staleLabel: wontfix
+# Comment to post when marking an issue as stale. Set to `false` to disable
+markComment: >
+  :exclamation: This issue has been automatically marked as stale because it has not had
+  recent activity. It will be closed if no further activity occurs. Thank you
+  for your contributions.
+# Comment to post when closing a stale issue. Set to `false` to disable
+closeComment: true
+
+# *********
+# TO DO BOT
+# *********
+
+todo:
+  keyword: "@todo"
+  keyword: "@createissue"
+  autoAssign: true
+  label: true
+  reopenClosed: true
+
