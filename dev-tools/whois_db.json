@@ -840,9 +840,9 @@
         "state": "future"
     },
     "2p9fyvx.com": {
-        "epoch": "1559253600",
+        "epoch": 1559253600,
         "expiration_date": "31-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "2pxg8bcf.top": {
         "epoch": "1584136800",
@@ -6670,8 +6670,8 @@
         "state": "future"
     },
     "cigarette-online.com": {
-        "epoch": "1559253600",
-        "expiration_date": "31-may-2019",
+        "epoch": 1590876000,
+        "expiration_date": "31-may-2020",
         "state": "future"
     },
     "cimrman.org": {
@@ -6945,8 +6945,8 @@
         "state": "past"
     },
     "companies-catalog.com": {
-        "epoch": "1559253600",
-        "expiration_date": "31-may-2019",
+        "epoch": 1590876000,
+        "expiration_date": "31-may-2020",
         "state": "future"
     },
     "companycreators.co.uk": {
@@ -7435,8 +7435,8 @@
         "state": "future"
     },
     "csk.ru": {
-        "epoch": "1559340000",
-        "expiration_date": "01-jun-2019",
+        "epoch": 1590962400,
+        "expiration_date": "01-jun-2020",
         "state": "future"
     },
     "csk2014.info": {
@@ -10440,8 +10440,8 @@
         "state": "future"
     },
     "ethan.wang": {
-        "epoch": "1559253600",
-        "expiration_date": "31-may-2019",
+        "epoch": 1590876000,
+        "expiration_date": "31-may-2020",
         "state": "future"
     },
     "ethanslayton.com": {
@@ -12130,9 +12130,9 @@
         "state": "past"
     },
     "freehealthpoints.com": {
-        "epoch": "1559253600",
+        "epoch": 1559253600,
         "expiration_date": "31-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "freehentai.biz": {
         "epoch": "1539813600",
@@ -29285,8 +29285,8 @@
         "state": "future"
     },
     "soheavyblog.com": {
-        "epoch": "1559340000",
-        "expiration_date": "01-jun-2019",
+        "epoch": 1590962400,
+        "expiration_date": "01-jun-2020",
         "state": "future"
     },
     "sokratesolkusz.pl": {
