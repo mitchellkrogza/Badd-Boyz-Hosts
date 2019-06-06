@@ -450,8 +450,8 @@
         "state": "future"
     },
     "189zx.com": {
-        "epoch": "1559772000",
-        "expiration_date": "06-jun-2019",
+        "epoch": 1591394400,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "18cm.org": {
@@ -2250,9 +2250,9 @@
         "state": "future"
     },
     "airportaxi.pl": {
-        "epoch": "1559772000",
+        "epoch": 1559772000,
         "expiration_date": "06-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "airportsys.com": {
         "epoch": "1573596000",
@@ -6640,9 +6640,9 @@
         "state": "future"
     },
     "cialiswithoutadoctor.net": {
-        "epoch": "1559772000",
+        "epoch": 1559772000,
         "expiration_date": "06-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "ciaplus.com.br": {
         "epoch": "1571263200",
@@ -11090,8 +11090,8 @@
         "state": "future"
     },
     "famir.com": {
-        "epoch": "1559772000",
-        "expiration_date": "06-jun-2019",
+        "epoch": 1591394400,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "famobusca.com": {
@@ -15840,8 +15840,8 @@
         "state": "future"
     },
     "i-hobot.ru": {
-        "epoch": "1559772000",
-        "expiration_date": "06-jun-2019",
+        "epoch": 1591394400,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "i-int.com": {
@@ -17145,9 +17145,9 @@
         "state": "future"
     },
     "karadene.com": {
-        "epoch": "1559772000",
+        "epoch": 1559772000,
         "expiration_date": "06-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "kassandra-bibby.us": {
         "epoch": "1539122400",
