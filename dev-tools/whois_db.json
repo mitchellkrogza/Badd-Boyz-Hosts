@@ -7450,8 +7450,8 @@
         "state": "future"
     },
     "cstrespsurvey.ca": {
-        "epoch": "1560549600",
-        "expiration_date": "15-jun-2019",
+        "epoch": 1592172000,
+        "expiration_date": "15-jun-2020",
         "state": "future"
     },
     "ctrps.ru": {
@@ -29045,9 +29045,9 @@
         "state": "future"
     },
     "slonechka.ru": {
-        "epoch": "1560636000",
+        "epoch": 1560636000,
         "expiration_date": "16-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "sloppyhoes.com": {
         "epoch": "1575583200",
@@ -34815,9 +34815,9 @@
         "state": "future"
     },
     "yur-p.ru": {
-        "epoch": "1560636000",
+        "epoch": 1560636000,
         "expiration_date": "16-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "yurgorod.ru": {
         "epoch": "1565992800",
