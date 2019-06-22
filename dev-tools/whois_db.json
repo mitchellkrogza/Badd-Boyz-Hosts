@@ -2250,8 +2250,8 @@
         "state": "future"
     },
     "airportaxi.pl": {
-        "epoch": 1561068000,
-        "expiration_date": "21-jun-2019",
+        "epoch": 1568844000,
+        "expiration_date": "19-sep-2019",
         "state": "future"
     },
     "airportsys.com": {
@@ -7400,8 +7400,8 @@
         "state": "future"
     },
     "cs-passion.pl": {
-        "epoch": "1561068000",
-        "expiration_date": "21-jun-2019",
+        "epoch": 1562277600,
+        "expiration_date": "05-jul-2019",
         "state": "future"
     },
     "cs1g.com": {
@@ -10650,8 +10650,8 @@
         "state": "past"
     },
     "evkc.com": {
-        "epoch": "1561068000",
-        "expiration_date": "21-jun-2019",
+        "epoch": 1592690400,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "evobill.biz": {
@@ -35100,8 +35100,8 @@
         "state": "future"
     },
     "zona-aqua.ru": {
-        "epoch": "1561154400",
-        "expiration_date": "22-jun-2019",
+        "epoch": 1592776800,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "zonaamateur.com": {
