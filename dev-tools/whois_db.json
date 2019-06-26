@@ -7040,9 +7040,9 @@
         "state": "past"
     },
     "contextualyield.com": {
-        "epoch": 1561413600,
-        "expiration_date": "25-jun-2019",
-        "state": "past"
+        "epoch": 1593036000,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
     },
     "contexualsearch.com": {
         "epoch": "1570485600",
@@ -13955,9 +13955,9 @@
         "state": "future"
     },
     "grach.biz": {
-        "epoch": "1561500000",
+        "epoch": 1561500000,
         "expiration_date": "26-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "graffcolor.net": {
         "epoch": "1571522400",
