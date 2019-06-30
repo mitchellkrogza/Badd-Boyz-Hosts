@@ -1700,9 +1700,9 @@
         "state": "future"
     },
     "9n68b4.top": {
-        "epoch": "1561759200",
+        "epoch": 1561759200,
         "expiration_date": "29-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "9stoneinvestments.com": {
         "epoch": "1576360800",
@@ -6680,8 +6680,8 @@
         "state": "future"
     },
     "cinedaily.com": {
-        "epoch": "1561759200",
-        "expiration_date": "29-jun-2019",
+        "epoch": 1593381600,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "cineface.com": {
@@ -18205,8 +18205,8 @@
         "state": "future"
     },
     "landreferat.ru": {
-        "epoch": "1561845600",
-        "expiration_date": "30-jun-2019",
+        "epoch": 1593468000,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "landscaping.center": {
