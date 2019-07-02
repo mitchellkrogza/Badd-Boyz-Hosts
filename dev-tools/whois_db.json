@@ -580,8 +580,8 @@
         "state": "future"
     },
     "1stat.ru": {
-        "epoch": "1562018400",
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593640800,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "1stproxy.info": {
@@ -1700,9 +1700,9 @@
         "state": "future"
     },
     "9n68b4.top": {
-        "epoch": 1561759200,
-        "expiration_date": "29-jun-2019",
-        "state": "past"
+        "epoch": 1593381600,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
     },
     "9stoneinvestments.com": {
         "epoch": "1576360800",
@@ -2150,9 +2150,9 @@
         "state": "future"
     },
     "acornpointlodge.com": {
-        "epoch": "1562018400",
+        "epoch": 1562018400,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "acoustoopticmodulator.com": {
         "epoch": "1577052000",
@@ -10620,8 +10620,8 @@
         "state": "future"
     },
     "everythingisstory.com": {
-        "epoch": "1561932000",
-        "expiration_date": "01-jul-2019",
+        "epoch": 1593554400,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "evesaddictin.com": {
@@ -16435,8 +16435,8 @@
         "state": "future"
     },
     "internet-apteka.ru": {
-        "epoch": "1562018400",
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593640800,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "internetartfair.com": {
