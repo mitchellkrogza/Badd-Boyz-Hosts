@@ -2150,9 +2150,9 @@
         "state": "future"
     },
     "acornpointlodge.com": {
-        "epoch": 1562018400,
-        "expiration_date": "02-jul-2019",
-        "state": "past"
+        "epoch": 1593640800,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
     },
     "acoustoopticmodulator.com": {
         "epoch": "1577052000",
@@ -18520,8 +18520,8 @@
         "state": "future"
     },
     "li-er.ru": {
-        "epoch": "1562104800",
-        "expiration_date": "03-jul-2019",
+        "epoch": 1593727200,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "li122.cn": {
@@ -28770,9 +28770,9 @@
         "state": "future"
     },
     "sitbiztut.ru": {
-        "epoch": "1562104800",
+        "epoch": 1562104800,
         "expiration_date": "03-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "site-analyzer.com": {
         "epoch": "1617055200",
