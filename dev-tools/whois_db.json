@@ -445,8 +445,8 @@
         "state": "future"
     },
     "18744.com": {
-        "epoch": "1562277600",
-        "expiration_date": "05-jul-2019",
+        "epoch": 1593900000,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "189zx.com": {
@@ -1075,8 +1075,8 @@
         "state": "future"
     },
     "423.ru": {
-        "epoch": "1562191200",
-        "expiration_date": "04-jul-2019",
+        "epoch": 1593813600,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "45ansetplus.com": {
@@ -2170,9 +2170,9 @@
         "state": "future"
     },
     "acrowiswhite.com": {
-        "epoch": "1562277600",
+        "epoch": 1562277600,
         "expiration_date": "05-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "actingonacts.com": {
         "epoch": "1568930400",
@@ -2365,8 +2365,8 @@
         "state": "future"
     },
     "albamargroup.com": {
-        "epoch": "1562191200",
-        "expiration_date": "04-jul-2019",
+        "epoch": 1593813600,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "albanypowerexchange.com": {
@@ -7402,7 +7402,7 @@
     "cs-passion.pl": {
         "epoch": 1562277600,
         "expiration_date": "05-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "cs1g.com": {
         "epoch": 1591221600,
@@ -14180,9 +14180,9 @@
         "state": "future"
     },
     "greatshoesever.com": {
-        "epoch": "1562277600",
+        "epoch": 1562277600,
         "expiration_date": "05-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "greatsimplicity.com": {
         "epoch": "1575583200",
@@ -16395,9 +16395,9 @@
         "state": "future"
     },
     "interfucks.net": {
-        "epoch": "1562277600",
+        "epoch": 1562277600,
         "expiration_date": "05-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "interior-stickers.ru": {
         "epoch": "1577397600",
@@ -16710,8 +16710,8 @@
         "state": "future"
     },
     "ipmsc.com": {
-        "epoch": "1562191200",
-        "expiration_date": "04-jul-2019",
+        "epoch": 1593813600,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "ipndulsempjgb.bid": {
