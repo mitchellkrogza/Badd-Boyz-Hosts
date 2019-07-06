@@ -2170,9 +2170,9 @@
         "state": "future"
     },
     "acrowiswhite.com": {
-        "epoch": 1562277600,
-        "expiration_date": "05-jul-2019",
-        "state": "past"
+        "epoch": 1593900000,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
     },
     "actingonacts.com": {
         "epoch": "1568930400",
@@ -6930,9 +6930,9 @@
         "state": "past"
     },
     "communisave.co.za": {
-        "epoch": "1562364000",
+        "epoch": 1562364000,
         "expiration_date": "06-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "communitypetclinicmanteca.com": {
         "epoch": "1564351200",
@@ -14180,9 +14180,9 @@
         "state": "future"
     },
     "greatshoesever.com": {
-        "epoch": 1562277600,
-        "expiration_date": "05-jul-2019",
-        "state": "past"
+        "epoch": 1593900000,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
     },
     "greatsimplicity.com": {
         "epoch": "1575583200",
@@ -16395,9 +16395,9 @@
         "state": "future"
     },
     "interfucks.net": {
-        "epoch": 1562277600,
-        "expiration_date": "05-jul-2019",
-        "state": "past"
+        "epoch": 1593900000,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
     },
     "interior-stickers.ru": {
         "epoch": "1577397600",
