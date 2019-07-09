@@ -310,9 +310,9 @@
         "state": "future"
     },
     "123kuma.com": {
-        "epoch": 1562450400,
-        "expiration_date": "07-jul-2019",
-        "state": "past"
+        "epoch": 1594072800,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
     },
     "123laceypink.com": {
         "epoch": "1570399200",
@@ -4370,9 +4370,9 @@
         "state": "future"
     },
     "avon-novosib.ru": {
-        "epoch": "1562623200",
+        "epoch": 1562623200,
         "expiration_date": "09-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "avon-severozapad.ru": {
         "epoch": "1578607200",
@@ -28620,9 +28620,9 @@
         "state": "future"
     },
     "simon3.ru": {
-        "epoch": "1562536800",
+        "epoch": 1562536800,
         "expiration_date": "08-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "simpatiaose.com": {
         "epoch": "1579730400",
@@ -28630,9 +28630,9 @@
         "state": "future"
     },
     "simple-image.com.ua": {
-        "epoch": "1562536800",
+        "epoch": 1562536800,
         "expiration_date": "08-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "simplenudes.org": {
         "epoch": "1567634400",
