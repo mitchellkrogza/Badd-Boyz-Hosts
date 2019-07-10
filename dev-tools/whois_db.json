@@ -2595,9 +2595,9 @@
         "state": "past"
     },
     "all4invest.info": {
-        "epoch": "1562709600",
+        "epoch": 1562709600,
         "expiration_date": "10-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "all4invest.ru": {
         "epoch": "1575324000",
