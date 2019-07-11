@@ -2595,9 +2595,9 @@
         "state": "past"
     },
     "all4invest.info": {
-        "epoch": 1562709600,
-        "expiration_date": "10-jul-2019",
-        "state": "past"
+        "epoch": 1594332000,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
     },
     "all4invest.ru": {
         "epoch": "1575324000",
@@ -17015,9 +17015,9 @@
         "state": "future"
     },
     "kabannihon.biz": {
-        "epoch": "1562796000",
+        "epoch": 1562796000,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "kadikoyden.com": {
         "epoch": "1569535200",
@@ -23020,8 +23020,8 @@
         "state": "past"
     },
     "porno-raskazy.ru": {
-        "epoch": "1562796000",
-        "expiration_date": "11-jul-2019",
+        "epoch": 1594418400,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "porno-service.com": {
@@ -34890,9 +34890,9 @@
         "state": "future"
     },
     "zavariushoponline.com": {
-        "epoch": "1562796000",
+        "epoch": 1562796000,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zazagames.org": {
         "epoch": "1563487200",
