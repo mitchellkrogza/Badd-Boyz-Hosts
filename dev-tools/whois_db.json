@@ -750,9 +750,9 @@
         "state": "future"
     },
     "2boys.pl": {
-        "epoch": "1563228000",
+        "epoch": 1563228000,
         "expiration_date": "16-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "2chicks1dick.biz": {
         "epoch": "1543269600",
@@ -15615,8 +15615,8 @@
         "state": "future"
     },
     "hundejo.com": {
-        "epoch": "1563141600",
-        "expiration_date": "15-jul-2019",
+        "epoch": 1594764000,
+        "expiration_date": "15-jul-2020",
         "state": "future"
     },
     "hundpolen.se": {
@@ -16355,9 +16355,9 @@
         "state": "future"
     },
     "intellekt21.ru": {
-        "epoch": "1563141600",
+        "epoch": 1563141600,
         "expiration_date": "15-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "intellicampaign.com": {
         "epoch": "1574028000",
@@ -21415,8 +21415,8 @@
         "state": "future"
     },
     "odpicujfure.pl": {
-        "epoch": "1563141600",
-        "expiration_date": "15-jul-2019",
+        "epoch": 1587506400,
+        "expiration_date": "22-apr-2020",
         "state": "future"
     },
     "oecnhs.info": {
