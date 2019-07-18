@@ -275,9 +275,9 @@
         "state": "future"
     },
     "10bet.com": {
-        "epoch": 1563314400,
-        "expiration_date": "17-jul-2019",
-        "state": "past"
+        "epoch": 1594936800,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
     },
     "11-15.net": {
         "epoch": "1574287200",
@@ -3600,8 +3600,8 @@
         "state": "future"
     },
     "android-systems.ru": {
-        "epoch": "1563400800",
-        "expiration_date": "18-jul-2019",
+        "epoch": 1595023200,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "android-vsem.org": {
@@ -4405,8 +4405,8 @@
         "state": "future"
     },
     "babylyst.com": {
-        "epoch": "1563400800",
-        "expiration_date": "18-jul-2019",
+        "epoch": 1595023200,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "babynow.org": {
@@ -6685,9 +6685,9 @@
         "state": "future"
     },
     "cineface.com": {
-        "epoch": "1563400800",
+        "epoch": 1563400800,
         "expiration_date": "18-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "cineitalia.top": {
         "epoch": "1571868000",
@@ -16195,9 +16195,9 @@
         "state": "past"
     },
     "independentescortservices.com": {
-        "epoch": "1563400800",
+        "epoch": 1563400800,
         "expiration_date": "18-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "independientecd.com": {
         "epoch": "1579903200",
