@@ -2300,8 +2300,8 @@
         "state": "future"
     },
     "akariyer.com": {
-        "epoch": "1563573600",
-        "expiration_date": "20-jul-2019",
+        "epoch": 1595196000,
+        "expiration_date": "20-jul-2020",
         "state": "future"
     },
     "aksao.com": {
@@ -6685,9 +6685,9 @@
         "state": "future"
     },
     "cineface.com": {
-        "epoch": 1563400800,
-        "expiration_date": "18-jul-2019",
-        "state": "past"
+        "epoch": 1595023200,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
     },
     "cineitalia.top": {
         "epoch": "1571868000",
@@ -16080,8 +16080,8 @@
         "state": "past"
     },
     "ilovevitaly.com": {
-        "epoch": "1563487200",
-        "expiration_date": "19-jul-2019",
+        "epoch": 1595109600,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "ilovevitaly.ru": {
@@ -16195,9 +16195,9 @@
         "state": "past"
     },
     "independentescortservices.com": {
-        "epoch": 1563400800,
-        "expiration_date": "18-jul-2019",
-        "state": "past"
+        "epoch": 1595023200,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
     },
     "independientecd.com": {
         "epoch": "1579903200",
