@@ -2100,8 +2100,8 @@
         "state": "past"
     },
     "acheterviagrafr24.com": {
-        "epoch": "1563746400",
-        "expiration_date": "22-jul-2019",
+        "epoch": 1595368800,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "aciklise.web.tr": {
@@ -6985,9 +6985,9 @@
         "state": "future"
     },
     "computernetworksonline.com": {
-        "epoch": "1563746400",
+        "epoch": 1563746400,
         "expiration_date": "22-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "comsalud360.com": {
         "epoch": "1571608800",
