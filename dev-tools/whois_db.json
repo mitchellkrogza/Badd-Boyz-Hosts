@@ -1900,8 +1900,8 @@
         "state": "future"
     },
     "aarpadvantages.co": {
-        "epoch": "1563832800",
-        "expiration_date": "23-jul-2019",
+        "epoch": 1595455200,
+        "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "aarsneuken.nu": {
@@ -6695,9 +6695,9 @@
         "state": "future"
     },
     "cinema3satu.com": {
-        "epoch": "1563919200",
+        "epoch": 1563919200,
         "expiration_date": "24-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "cinemabio.com": {
         "epoch": "1573250400",
@@ -6985,9 +6985,9 @@
         "state": "future"
     },
     "computernetworksonline.com": {
-        "epoch": 1563746400,
-        "expiration_date": "22-jul-2019",
-        "state": "past"
+        "epoch": 1595368800,
+        "expiration_date": "22-jul-2020",
+        "state": "future"
     },
     "comsalud360.com": {
         "epoch": "1571608800",
