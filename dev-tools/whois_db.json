@@ -2535,9 +2535,9 @@
         "state": "future"
     },
     "alif-ba-ta.com": {
-        "epoch": 1564092000,
-        "expiration_date": "26-jul-2019",
-        "state": "past"
+        "epoch": 1595714400,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
     },
     "alirey.com": {
         "epoch": "1578520800",
@@ -4460,8 +4460,8 @@
         "state": "future"
     },
     "backpaininstantrelief.com": {
-        "epoch": "1564178400",
-        "expiration_date": "27-jul-2019",
+        "epoch": 1595800800,
+        "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "backseat-bangers.biz": {
