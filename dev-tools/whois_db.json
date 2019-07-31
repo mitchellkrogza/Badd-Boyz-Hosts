@@ -6935,9 +6935,9 @@
         "state": "future"
     },
     "communitypetclinicmanteca.com": {
-        "epoch": 1564351200,
-        "expiration_date": "29-jul-2019",
-        "state": "past"
+        "epoch": 1595973600,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
     },
     "companie.biz": {
         "epoch": "1537912800",
@@ -15610,8 +15610,8 @@
         "state": "future"
     },
     "humraaz.com": {
-        "epoch": "1564524000",
-        "expiration_date": "31-jul-2019",
+        "epoch": 1596146400,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "hundejo.com": {
