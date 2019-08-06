@@ -1170,8 +1170,8 @@
         "state": "future"
     },
     "4replicawatch.net": {
-        "epoch": "1565042400",
-        "expiration_date": "06-aug-2019",
+        "epoch": 1596664800,
+        "expiration_date": "06-aug-2020",
         "state": "future"
     },
     "4sex.nu": {
@@ -16155,9 +16155,9 @@
         "state": "future"
     },
     "imbattibili.com": {
-        "epoch": "1565042400",
+        "epoch": 1565042400,
         "expiration_date": "06-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "imediadesk.com": {
         "epoch": "1544047200",
