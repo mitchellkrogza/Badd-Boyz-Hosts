@@ -16155,9 +16155,9 @@
         "state": "future"
     },
     "imbattibili.com": {
-        "epoch": 1565042400,
-        "expiration_date": "06-aug-2019",
-        "state": "past"
+        "epoch": 1596664800,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
     },
     "imediadesk.com": {
         "epoch": "1544047200",
@@ -17630,9 +17630,9 @@
         "state": "past"
     },
     "kittystore.net": {
-        "epoch": "1565128800",
+        "epoch": 1565128800,
         "expiration_date": "07-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "kiviksaif.se": {
         "epoch": "1535407200",
