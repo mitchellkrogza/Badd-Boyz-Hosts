@@ -3560,8 +3560,8 @@
         "state": "past"
     },
     "ananashotel.com": {
-        "epoch": "1565215200",
-        "expiration_date": "08-aug-2019",
+        "epoch": 1596837600,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "anatomytrains.co.uk": {
@@ -6635,8 +6635,8 @@
         "state": "future"
     },
     "cialisovercounteratwalmartusa.com": {
-        "epoch": "1565215200",
-        "expiration_date": "08-aug-2019",
+        "epoch": 1596837600,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "cialiswithoutadoctor.net": {
@@ -16510,8 +16510,8 @@
         "state": "past"
     },
     "intervsem.ru": {
-        "epoch": "1565215200",
-        "expiration_date": "08-aug-2019",
+        "epoch": 1596837600,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "inthevip-sex.com": {
@@ -17280,9 +17280,9 @@
         "state": "future"
     },
     "keepcolletive.com": {
-        "epoch": "1565301600",
+        "epoch": 1565301600,
         "expiration_date": "09-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "keephide.com": {
         "epoch": "1573596000",
@@ -17630,9 +17630,9 @@
         "state": "past"
     },
     "kittystore.net": {
-        "epoch": 1565128800,
-        "expiration_date": "07-aug-2019",
-        "state": "past"
+        "epoch": 1596751200,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
     },
     "kiviksaif.se": {
         "epoch": "1535407200",
@@ -18210,14 +18210,14 @@
         "state": "future"
     },
     "landscaping.center": {
-        "epoch": "1565301600",
-        "expiration_date": "09-aug-2019",
+        "epoch": 1596924000,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "landtrades.co.uk": {
-        "epoch": "1565215200",
+        "epoch": 1565215200,
         "expiration_date": "08-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "languagecode.com": {
         "epoch": "1579644000",
