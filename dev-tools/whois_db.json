@@ -17280,9 +17280,9 @@
         "state": "future"
     },
     "keepcolletive.com": {
-        "epoch": 1565301600,
-        "expiration_date": "09-aug-2019",
-        "state": "past"
+        "epoch": 1596924000,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
     },
     "keephide.com": {
         "epoch": "1573596000",
@@ -18215,9 +18215,9 @@
         "state": "future"
     },
     "landtrades.co.uk": {
-        "epoch": 1565215200,
-        "expiration_date": "08-aug-2019",
-        "state": "past"
+        "epoch": 1596837600,
+        "expiration_date": "08-aug-2020",
+        "state": "future"
     },
     "languagecode.com": {
         "epoch": "1579644000",
