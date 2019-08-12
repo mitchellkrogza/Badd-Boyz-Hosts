@@ -320,8 +320,8 @@
         "state": "future"
     },
     "123locker.com": {
-        "epoch": "1565474400",
-        "expiration_date": "11-aug-2019",
+        "epoch": 1597096800,
+        "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "123sex.biz": {
@@ -410,8 +410,8 @@
         "state": "future"
     },
     "166f.com": {
-        "epoch": "1565474400",
-        "expiration_date": "11-aug-2019",
+        "epoch": 1597096800,
+        "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "16aq.cn": {
@@ -670,8 +670,8 @@
         "state": "future"
     },
     "24695.com": {
-        "epoch": "1565560800",
-        "expiration_date": "12-aug-2019",
+        "epoch": 1597183200,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "247locksmith-tucson.com": {
@@ -1855,8 +1855,8 @@
         "state": "future"
     },
     "aadultwork.com": {
-        "epoch": "1565560800",
-        "expiration_date": "12-aug-2019",
+        "epoch": 1597183200,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "aaflt.org": {
@@ -17310,9 +17310,9 @@
         "state": "past"
     },
     "kellnerengenharia.com.br": {
-        "epoch": "1565560800",
+        "epoch": 1565560800,
         "expiration_date": "12-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "kelly-arrant.us": {
         "epoch": "1539727200",
