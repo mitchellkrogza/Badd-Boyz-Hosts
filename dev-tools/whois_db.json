@@ -510,8 +510,8 @@
         "state": "future"
     },
     "1adult.com": {
-        "epoch": "1565733600",
-        "expiration_date": "14-aug-2019",
+        "epoch": 1597356000,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "1auntie-phone-sex.info": {
@@ -660,9 +660,9 @@
         "state": "future"
     },
     "24-ak.ru": {
-        "epoch": "1565820000",
+        "epoch": 1565820000,
         "expiration_date": "15-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "24-xxx.biz": {
         "epoch": "1574805600",
@@ -19260,8 +19260,8 @@
         "state": "future"
     },
     "maximafitness.com": {
-        "epoch": "1565733600",
-        "expiration_date": "14-aug-2019",
+        "epoch": 1597356000,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "maximilitary.ru": {
@@ -20310,8 +20310,8 @@
         "state": "future"
     },
     "mycouponizemac.com": {
-        "epoch": "1565733600",
-        "expiration_date": "14-aug-2019",
+        "epoch": 1597356000,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "mycreditrepairfix.com": {
@@ -29175,8 +29175,8 @@
         "state": "future"
     },
     "smokersblogs.com": {
-        "epoch": "1565820000",
-        "expiration_date": "15-aug-2019",
+        "epoch": 1597442400,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "smokesonstate.com": {
