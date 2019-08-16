@@ -425,9 +425,9 @@
         "state": "future"
     },
     "178evakuator178.ru": {
-        "epoch": "1565906400",
+        "epoch": 1565906400,
         "expiration_date": "16-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "17chezhan.com": {
         "epoch": "1575928800",
@@ -660,9 +660,9 @@
         "state": "future"
     },
     "24-ak.ru": {
-        "epoch": 1565820000,
-        "expiration_date": "15-aug-2019",
-        "state": "past"
+        "epoch": 1600120800,
+        "expiration_date": "15-sep-2020",
+        "state": "future"
     },
     "24-xxx.biz": {
         "epoch": "1574805600",
@@ -4350,9 +4350,9 @@
         "state": "future"
     },
     "avkzarabotok.com": {
-        "epoch": "1565906400",
+        "epoch": 1565906400,
         "expiration_date": "16-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "avkzarabotok.info": {
         "epoch": "1581890400",
