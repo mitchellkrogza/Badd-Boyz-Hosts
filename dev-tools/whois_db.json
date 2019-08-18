@@ -2035,9 +2035,9 @@
         "state": "future"
     },
     "aboomnsaoq.top": {
-        "epoch": "1566079200",
+        "epoch": 1566079200,
         "expiration_date": "18-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "abouthomesdecorating.com": {
         "epoch": "1588197600",
@@ -4350,9 +4350,9 @@
         "state": "future"
     },
     "avkzarabotok.com": {
-        "epoch": 1565906400,
-        "expiration_date": "16-aug-2019",
-        "state": "past"
+        "epoch": 1597528800,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
     },
     "avkzarabotok.info": {
         "epoch": "1581890400",
@@ -28500,9 +28500,9 @@
         "state": "future"
     },
     "shmetall.com.ua": {
-        "epoch": "1565992800",
+        "epoch": 1565992800,
         "expiration_date": "17-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "shockinganals.com": {
         "epoch": "1572300000",
@@ -34820,8 +34820,8 @@
         "state": "future"
     },
     "yurgorod.ru": {
-        "epoch": "1565992800",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597615200,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "z-master.ru": {
