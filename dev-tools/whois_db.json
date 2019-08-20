@@ -105,9 +105,9 @@
         "state": "future"
     },
     "080jxrab.top": {
-        "epoch": "1566165600",
+        "epoch": 1566165600,
         "expiration_date": "19-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "09zyy.com": {
         "epoch": "1569535200",
@@ -860,8 +860,8 @@
         "state": "future"
     },
     "2sexy.ro": {
-        "epoch": "1566165600",
-        "expiration_date": "19-aug-2019",
+        "epoch": 1597701600,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "2step-garage.co.uk": {
@@ -1245,9 +1245,9 @@
         "state": "future"
     },
     "50h6v79p.top": {
-        "epoch": "1566165600",
+        "epoch": 1566165600,
         "expiration_date": "19-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "51.la": {
         "epoch": "1673906400",
@@ -1310,9 +1310,9 @@
         "state": "future"
     },
     "5hmmm1mk.top": {
-        "epoch": "1566165600",
+        "epoch": 1566165600,
         "expiration_date": "19-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "5i2.net": {
         "epoch": "1566597600",
@@ -2035,9 +2035,9 @@
         "state": "future"
     },
     "aboomnsaoq.top": {
-        "epoch": 1566079200,
-        "expiration_date": "18-aug-2019",
-        "state": "past"
+        "epoch": 1597701600,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
     },
     "abouthomesdecorating.com": {
         "epoch": "1588197600",
@@ -14115,8 +14115,8 @@
         "state": "past"
     },
     "gratisweb.com": {
-        "epoch": "1566252000",
-        "expiration_date": "20-aug-2019",
+        "epoch": 1597874400,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "gravygirls.com": {
@@ -16125,9 +16125,9 @@
         "state": "future"
     },
     "imageprostyle-communication.fr": {
-        "epoch": "1566252000",
+        "epoch": 1566252000,
         "expiration_date": "20-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "images-graphics-pics.com": {
         "epoch": 1594591200,
@@ -20230,8 +20230,8 @@
         "state": "future"
     },
     "myanmardream.com": {
-        "epoch": "1566165600",
-        "expiration_date": "19-aug-2019",
+        "epoch": 1597788000,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "myanyone.net": {
@@ -28500,9 +28500,9 @@
         "state": "future"
     },
     "shmetall.com.ua": {
-        "epoch": 1565992800,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1597615200,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
     },
     "shockinganals.com": {
         "epoch": "1572300000",
@@ -34760,9 +34760,9 @@
         "state": "past"
     },
     "ytf8i5ce.top": {
-        "epoch": "1566165600",
+        "epoch": 1566165600,
         "expiration_date": "19-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "ytiqdpws.bid": {
         "epoch": "1534370400",
