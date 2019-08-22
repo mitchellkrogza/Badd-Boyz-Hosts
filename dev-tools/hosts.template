@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2019.08.7959
+### Version: V1.2019.08.7960
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -1511,7 +1511,6 @@
 0.0.0.0 starvirgin.com
 0.0.0.0 stats.cliqz.com
 0.0.0.0 switch.pt
-0.0.0.0 wpisz-to.pl
 0.0.0.0 www.cliqz.com
 0.0.0.0 xtrafficplus.com
 0.0.0.0 ypcpw.com
