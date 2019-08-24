@@ -220,8 +220,8 @@
         "state": "future"
     },
     "100dollars-seo.com": {
-        "epoch": "1566511200",
-        "expiration_date": "23-aug-2019",
+        "epoch": 1598133600,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "100pornstars.com": {
@@ -1315,8 +1315,8 @@
         "state": "future"
     },
     "5i2.net": {
-        "epoch": "1566597600",
-        "expiration_date": "24-aug-2019",
+        "epoch": 1598220000,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "5kstore.com": {
@@ -3615,9 +3615,9 @@
         "state": "future"
     },
     "andrwnolas.top": {
-        "epoch": 1566338400,
-        "expiration_date": "21-aug-2019",
-        "state": "past"
+        "epoch": 1597960800,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
     },
     "anduongjsc.com": {
         "epoch": "1585778400",
