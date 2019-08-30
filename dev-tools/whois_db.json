@@ -1505,8 +1505,8 @@
         "state": "future"
     },
     "7thlegion.ru": {
-        "epoch": "1567116000",
-        "expiration_date": "30-aug-2019",
+        "epoch": 1598738400,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "7wind.ru": {
@@ -29225,8 +29225,8 @@
         "state": "future"
     },
     "soft-terminal.ru": {
-        "epoch": "1567116000",
-        "expiration_date": "30-aug-2019",
+        "epoch": 1598738400,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "soft1.ru": {
