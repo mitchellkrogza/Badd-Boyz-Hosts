@@ -1975,9 +1975,9 @@
         "state": "future"
     },
     "abcsex.dk": {
-        "epoch": "1567202400",
+        "epoch": 1567202400,
         "expiration_date": "31-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "abctoppictures.net": {
         "epoch": "1573164000",
@@ -2220,8 +2220,8 @@
         "state": "past"
     },
     "actulite.com": {
-        "epoch": "1567202400",
-        "expiration_date": "31-aug-2019",
+        "epoch": 1598824800,
+        "expiration_date": "31-aug-2020",
         "state": "future"
     },
     "ad-logics.com": {
@@ -16020,9 +16020,9 @@
         "state": "future"
     },
     "ifuckshemales.com": {
-        "epoch": "1567288800",
+        "epoch": 1567288800,
         "expiration_date": "01-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "igadgetsworld.com": {
         "epoch": "1576447200",
@@ -29610,8 +29610,8 @@
         "state": "future"
     },
     "stardevine.com": {
-        "epoch": "1567288800",
-        "expiration_date": "01-sep-2019",
+        "epoch": 1598911200,
+        "expiration_date": "01-sep-2020",
         "state": "future"
     },
     "starsnude.biz": {
