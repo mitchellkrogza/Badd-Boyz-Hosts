@@ -1655,9 +1655,9 @@
         "state": "future"
     },
     "999webdesign.com": {
-        "epoch": "1567807200",
+        "epoch": 1567807200,
         "expiration_date": "07-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "99bthgc.me": {
         "epoch": "1580335200",
@@ -2760,8 +2760,8 @@
         "state": "past"
     },
     "alloysteel.ru": {
-        "epoch": "1567807200",
-        "expiration_date": "07-sep-2019",
+        "epoch": 1599429600,
+        "expiration_date": "07-sep-2020",
         "state": "future"
     },
     "allpdfmags.net": {
@@ -28780,8 +28780,8 @@
         "state": "future"
     },
     "sitebeam.net": {
-        "epoch": "1567807200",
-        "expiration_date": "07-sep-2019",
+        "epoch": 1599429600,
+        "expiration_date": "07-sep-2020",
         "state": "future"
     },
     "siteduzero.net": {
@@ -29085,9 +29085,9 @@
         "state": "past"
     },
     "slutcock.com": {
-        "epoch": "1567807200",
+        "epoch": 1567807200,
         "expiration_date": "07-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "slutcorner.com": {
         "epoch": "1570744800",
