@@ -155,8 +155,8 @@
         "state": "future"
     },
     "0pros.com": {
-        "epoch": "1568066400",
-        "expiration_date": "10-sep-2019",
+        "epoch": 1599688800,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "0to.info": {
@@ -735,9 +735,9 @@
         "state": "future"
     },
     "289931.com": {
-        "epoch": "1568152800",
+        "epoch": 1568152800,
         "expiration_date": "11-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "2a24.com": {
         "epoch": "1547071200",
@@ -1365,8 +1365,8 @@
         "state": "future"
     },
     "6660003.com": {
-        "epoch": "1568066400",
-        "expiration_date": "10-sep-2019",
+        "epoch": 1599688800,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "666s.info": {
@@ -28755,8 +28755,8 @@
         "state": "future"
     },
     "sisterincest.com": {
-        "epoch": "1568066400",
-        "expiration_date": "10-sep-2019",
+        "epoch": 1599688800,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "sisyfos.se": {
@@ -29235,8 +29235,8 @@
         "state": "future"
     },
     "softclit.com": {
-        "epoch": "1568066400",
-        "expiration_date": "10-sep-2019",
+        "epoch": 1599688800,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "softfeather.nu": {
@@ -34735,9 +34735,9 @@
         "state": "past"
     },
     "yplassembly.in": {
-        "epoch": "1568152800",
+        "epoch": 1568152800,
         "expiration_date": "11-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "yqmnyyfe.bid": {
         "epoch": "1535580000",
