@@ -1580,9 +1580,9 @@
         "state": "future"
     },
     "8khmer.com": {
-        "epoch": 1568671200,
-        "expiration_date": "17-sep-2019",
-        "state": "past"
+        "epoch": 1600293600,
+        "expiration_date": "17-sep-2020",
+        "state": "future"
     },
     "8rf.com": {
         "epoch": "1575842400",
@@ -34810,8 +34810,8 @@
         "state": "future"
     },
     "yupdduk.co.kr": {
-        "epoch": "1568757600",
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600380000,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "yur-p.ru": {
