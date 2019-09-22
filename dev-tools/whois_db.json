@@ -21510,8 +21510,8 @@
         "state": "future"
     },
     "omercadobitcoin.com.br": {
-        "epoch": "1568930400",
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600552800,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "omniproject.net": {
@@ -22810,8 +22810,8 @@
         "state": "future"
     },
     "porn-sex-free.com": {
-        "epoch": "1569103200",
-        "expiration_date": "22-sep-2019",
+        "epoch": 1632261600,
+        "expiration_date": "22-sep-2021",
         "state": "future"
     },
     "porn-sex-sluts-webcams-movies.com": {
@@ -29315,8 +29315,8 @@
         "state": "future"
     },
     "solitaire-game.ru": {
-        "epoch": "1569103200",
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600725600,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "solnplast.ru": {
@@ -29340,8 +29340,8 @@
         "state": "past"
     },
     "spanking-sex.com": {
-        "epoch": "1568930400",
-        "expiration_date": "20-sep-2019",
+        "epoch": 1593468000,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "spankingvideo.us": {
@@ -29625,8 +29625,8 @@
         "state": "past"
     },
     "startlmes.com": {
-        "epoch": "1569016800",
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600639200,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "startonmonday.com": {
@@ -30112,6 +30112,11 @@
     "swiped.su": {
         "epoch": "1547848800",
         "expiration_date": "19-jan-2019",
+        "state": "future"
+    },
+    "switch.pt": {
+        "epoch": 1717711200,
+        "expiration_date": "07-jun-2024",
         "state": "future"
     },
     "switzerland-clinics.com": {
@@ -34930,8 +34935,8 @@
         "state": "future"
     },
     "zeed2you.com": {
-        "epoch": "1568930400",
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600552800,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "zeg-distribution.com": {
