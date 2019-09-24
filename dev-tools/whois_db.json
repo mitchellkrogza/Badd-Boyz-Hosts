@@ -395,9 +395,9 @@
         "state": "future"
     },
     "156002.com": {
-        "epoch": "1569276000",
+        "epoch": 1569276000,
         "expiration_date": "24-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "15bb51.info": {
         "epoch": "1572559200",
@@ -1430,9 +1430,9 @@
         "state": "future"
     },
     "6server.com": {
-        "epoch": "1569276000",
+        "epoch": 1569276000,
         "expiration_date": "24-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "6stuff.com": {
         "epoch": "1584050400",
@@ -2185,8 +2185,8 @@
         "state": "past"
     },
     "actionmobilemarine.net": {
-        "epoch": "1569276000",
-        "expiration_date": "24-sep-2019",
+        "epoch": 1600898400,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "actionnooz.com": {
@@ -2555,9 +2555,9 @@
         "state": "future"
     },
     "aljassarengineering.com": {
-        "epoch": 1569103200,
-        "expiration_date": "22-sep-2019",
-        "state": "past"
+        "epoch": 1600725600,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
     },
     "alkalifeph.fr": {
         "epoch": "1588024800",
@@ -7010,8 +7010,8 @@
         "state": "future"
     },
     "construfuturo.com.mx": {
-        "epoch": "1569189600",
-        "expiration_date": "23-sep-2019",
+        "epoch": 1600812000,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "construmac.com.mx": {
@@ -7415,8 +7415,8 @@
         "state": "future"
     },
     "csgo-jackpot.net": {
-        "epoch": "1569276000",
-        "expiration_date": "24-sep-2019",
+        "epoch": 1582840800,
+        "expiration_date": "28-feb-2020",
         "state": "future"
     },
     "csgoezknife.com": {
@@ -16110,8 +16110,8 @@
         "state": "future"
     },
     "imafangirl.net": {
-        "epoch": "1569189600",
-        "expiration_date": "23-sep-2019",
+        "epoch": 1600812000,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "imagecoolpub.com": {
@@ -29515,9 +29515,9 @@
         "state": "future"
     },
     "stackpoints.com": {
-        "epoch": "1569276000",
+        "epoch": 1569276000,
         "expiration_date": "24-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "stackthatbucks.com": {
         "epoch": "1572559200",
