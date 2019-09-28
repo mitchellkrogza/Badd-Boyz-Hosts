@@ -110,8 +110,8 @@
         "state": "future"
     },
     "09zyy.com": {
-        "epoch": "1569535200",
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601157600,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "0azx1.com": {
@@ -4345,8 +4345,8 @@
         "state": "future"
     },
     "avixxx.com": {
-        "epoch": "1569535200",
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601157600,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "avkzarabotok.com": {
@@ -10490,9 +10490,9 @@
         "state": "future"
     },
     "euadoroisso.com.br": {
-        "epoch": 1567634400,
-        "expiration_date": "05-sep-2019",
-        "state": "past"
+        "epoch": 1599256800,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
     },
     "eugenevaultstorage.com": {
         "epoch": "1572559200",
@@ -10635,9 +10635,9 @@
         "state": "future"
     },
     "evil69.com": {
-        "epoch": "1569621600",
+        "epoch": 1569621600,
         "expiration_date": "28-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "evile.co.uk": {
         "epoch": 1599429600,
@@ -14140,8 +14140,8 @@
         "state": "past"
     },
     "greatamericansexdiet.com": {
-        "epoch": "1569621600",
-        "expiration_date": "28-sep-2019",
+        "epoch": 1601244000,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "greatest-store.com": {
@@ -15955,9 +15955,9 @@
         "state": "future"
     },
     "idolhairsalon.com": {
-        "epoch": 1569448800,
-        "expiration_date": "26-sep-2019",
-        "state": "past"
+        "epoch": 1601071200,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
     },
     "idolight.net": {
         "epoch": "1571954400",
@@ -18470,8 +18470,8 @@
         "state": "future"
     },
     "lezcuties.info": {
-        "epoch": "1569535200",
-        "expiration_date": "27-sep-2019",
+        "epoch": 1578952800,
+        "expiration_date": "14-jan-2020",
         "state": "future"
     },
     "lezrotic.com": {
