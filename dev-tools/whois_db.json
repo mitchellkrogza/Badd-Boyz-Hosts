@@ -2430,8 +2430,8 @@
         "state": "future"
     },
     "alexandria-locksmithservice.com": {
-        "epoch": "1570917600",
-        "expiration_date": "13-oct-2019",
+        "epoch": 1602540000,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "alexbensonship.com": {
