@@ -1230,9 +1230,9 @@
         "state": "future"
     },
     "4youcom.com": {
-        "epoch": "1571263200",
+        "epoch": 1571263200,
         "expiration_date": "17-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "5000-cotydzien.com": {
         "epoch": "1569362400",
@@ -1480,9 +1480,9 @@
         "state": "future"
     },
     "7cfmnf.top": {
-        "epoch": "1571176800",
+        "epoch": 1571176800,
         "expiration_date": "16-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "7fb.ru": {
         "epoch": 1594072800,
