@@ -1569,6 +1569,11 @@
         "expiration_date": "11-dec-2019",
         "state": "future"
     },
+    "ac-transfer.com": {
+        "epoch": 1573250400,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
     "acads.net": {
         "epoch": 1599256800,
         "expiration_date": "05-sep-2020",
@@ -1592,6 +1597,146 @@
     "acimo.com": {
         "epoch": 1593036000,
         "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "acmmarketingdigital.com.br": {
+        "epoch": 1578780000,
+        "expiration_date": "12-jan-2020",
+        "state": "future"
+    },
+    "acmsa.com.ar": {
+        "epoch": 1584050400,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "acneforums.com": {
+        "epoch": 1577829600,
+        "expiration_date": "01-jan-2020",
+        "state": "future"
+    },
+    "acompanhantesbrasil.com.br": {
+        "epoch": 1600639200,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
+    "acompanhantesdeportugal.com": {
+        "epoch": 1586037600,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "acornpointlodge.com": {
+        "epoch": 1593640800,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "acoustoopticmodulator.com": {
+        "epoch": 1577052000,
+        "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
+    "acpbdf.com.br": {
+        "epoch": 1571868000,
+        "expiration_date": "24-oct-2019",
+        "state": "future"
+    },
+    "acproyectos.com": {
+        "epoch": 1634508000,
+        "expiration_date": "18-oct-2021",
+        "state": "future"
+    },
+    "acrowiswhite.com": {
+        "epoch": 1600552800,
+        "expiration_date": "20-sep-2020",
+        "state": "future"
+    },
+    "actionmobilemarine.net": {
+        "epoch": 1600898400,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
+    "actionnooz.com": {
+        "epoch": 1586642400,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "activeideas.net": {
+        "epoch": 1592517600,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "activepr.ru": {
+        "epoch": 1583532000,
+        "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
+    "activewatch.ro": {
+        "epoch": 1665957600,
+        "expiration_date": "17-oct-2022",
+        "state": "future"
+    },
+    "actricesmexicanasdesnudas.com": {
+        "epoch": 1577397600,
+        "expiration_date": "27-dec-2019",
+        "state": "future"
+    },
+    "actulite.com": {
+        "epoch": 1567202400,
+        "expiration_date": "31-aug-2019",
+        "state": "past"
+    },
+    "ad-logics.com": {
+        "epoch": 1578088800,
+        "expiration_date": "04-jan-2020",
+        "state": "future"
+    },
+    "adrunnr.com": {
+        "epoch": 1614636000,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "airmore.co": {
+        "epoch": 1573077600,
+        "expiration_date": "07-nov-2019",
+        "state": "future"
+    },
+    "airnetinfotech.com": {
+        "epoch": 1837548000,
+        "expiration_date": "25-mar-2028",
+        "state": "future"
+    },
+    "airpb.com": {
+        "epoch": 1594591200,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "airportsys.com": {
+        "epoch": 1585087200,
+        "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "aisiansex.com": {
+        "epoch": 1599861600,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "ajansyenimedya.com": {
+        "epoch": 1611957600,
+        "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
+    "ajkzd9h.com": {
+        "epoch": 1583704800,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "akama.com": {
+        "epoch": 1590098400,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
+    "akariyer.com": {
+        "epoch": 1595196000,
+        "expiration_date": "20-jul-2020",
         "state": "future"
     }
 }
