@@ -37,7 +37,6 @@ install:
   - python -VV
   - pip install PyFunceble
   - pip install ultimate-hosts-blacklist-whitelist
-  - apt install dos2unix
 
 script:
   - bash dev-tools/PrepareData.sh && bash dev-tools/DataTesting.sh
