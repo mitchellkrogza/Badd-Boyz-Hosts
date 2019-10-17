@@ -47,52 +47,52 @@ else
    echo "${bold}${green}CONDA FOUND - Continuing"
 fi
 }
-checkforconda
+#checkforconda
 
 # -------------------------------
 # Set Conda Path and Update Conda
 # -------------------------------
 
-printf '\n\n%s\n\n' "${bold}${magenta}Updating Conda"
-conda update -q conda
+#printf '\n\n%s\n\n' "${bold}${magenta}Updating Conda"
+#conda update -q conda
 
 # -------------------------------------------------
 # Make sure we always run the latest Python version
 # -------------------------------------------------
 
-conda update python
+#conda update python
 
 # -----------------------------------------------------------
 # Check for Existing Environment otherwise Create Environment
 # -----------------------------------------------------------
 
-DIR="${HOME}/miniconda/envs/${environmentname}"
-if [ -d "${DIR}" ]; then
-	printf '\n%s\n%s\n\n' "${bold}${cyan}Environment ${DIR} Found" "Continuing with Renewals"
-else
-	printf '\n%s\n%s\n\n' "${bold}${red}Environment ${DIR} Not Found" "${bold}${yellow}Creating Environment"
-    conda create -q -n ${environmentname} python="${pythonversion}"
-fi
+#DIR="${HOME}/miniconda/envs/${environmentname}"
+#if [ -d "${DIR}" ]; then
+#	printf '\n%s\n%s\n\n' "${bold}${cyan}Environment ${DIR} Found" "Continuing with Renewals"
+#else
+#	printf '\n%s\n%s\n\n' "${bold}${red}Environment ${DIR} Not Found" "${bold}${yellow}Creating Environment"
+#    conda create -q -n ${environmentname} python="${pythonversion}"
+#fi
 
 # --------------------
 # Activate Environment
 # --------------------
 
-printf '\n%s\n\n' "${bold}${magenta}Activating Environment"
-source activate ${environmentname}
+#printf '\n%s\n\n' "${bold}${magenta}Activating Environment"
+#source activate ${environmentname}
 
 # ---------------------
 # Upgrade / Install Pip
 # ---------------------
 
-printf '\n%s\n\n' "${bold}${magenta}Upgrading PIP"
-pip install --upgrade pip
+#printf '\n%s\n\n' "${bold}${magenta}Upgrading PIP"
+#pip install --upgrade pip
 
 # ------------------------------------
 # Show Python and Certbot Version Info
 # ------------------------------------
 
-python -VV
+#python -VV
 
 # *********************************************
 # Get Travis CI Prepared for Committing to Repo
@@ -105,9 +105,8 @@ PrepareTravis () {
     git config --global user.name "${GIT_NAME}"
     git config --global push.default simple
     git checkout "${GIT_BRANCH}"
-    ulimit -u
 }
-PrepareTravis
+#PrepareTravis
 
 # **************************************************************************
 # Sort lists alphabetically and remove duplicates before cleaning Dead Hosts
@@ -146,7 +145,7 @@ git add -A
 git commit -am "V.${TRAVIS_BUILD_NUMBER} (${commitdate} ${committime} ${timezone}) [ci skip]"
 git push origin master    
 }
-CommitData
+#CommitData
 
 exit ${?}
 

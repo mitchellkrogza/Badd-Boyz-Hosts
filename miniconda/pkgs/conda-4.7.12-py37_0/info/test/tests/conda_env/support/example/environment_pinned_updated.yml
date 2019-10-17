@@ -1,3 +1,0 @@
-name: test
-dependencies:
-  - flask==1.0.2

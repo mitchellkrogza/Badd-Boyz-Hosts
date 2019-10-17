@@ -20,7 +20,7 @@ env:
 language: python
 
 python:
-  - "3.7.3"
+  - "3.7"
 
 matrix:
   fast_finish: true
@@ -28,14 +28,22 @@ matrix:
 sudo: required
 
 install:
-  - pip3 install --upgrade pip
-  - pip3 install PyFunceble
-  - pip3 install ultimate-hosts-blacklist-whitelist
+  - export PATH="${HOME}/miniconda/bin:${PATH}"
+  - if [[ "${TRAVIS_OS_NAME}" == "osx" ]]; then wget https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -O miniconda.sh; else wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh; fi
+  - bash miniconda.sh -b -p ${HOME}/miniconda
+  - hash -r
+  - conda config --set always_yes yes --set changeps1 no
+  - conda update -q conda
+  - conda create -q -n test-environment python="${PYTHON_VERSION}"
+  - source activate test-environment
+  - python -VV
+  - pip install PyFunceble ultimate-hosts-blacklist-whitelist
+  #- pip install ultimate-hosts-blacklist-whitelist
 
 script:
   # We put both in same statement so that if one fails the whole test result will fail.
-  #- bash dev-tools/PrepareData.sh && bash dev-tools/DataTesting.sh
-  - bash dev-tools/PrepareData.sh
+  - bash dev-tools/PrepareData.sh && bash dev-tools/DataTesting.sh
+  #- bash dev-tools/PrepareData.sh
 
   notifications:
   on_success: never

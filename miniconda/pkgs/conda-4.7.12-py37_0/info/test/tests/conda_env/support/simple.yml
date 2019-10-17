@@ -1,3 +1,0 @@
-name: nlp
-dependencies:
-  - nltk
