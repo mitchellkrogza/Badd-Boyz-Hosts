@@ -34,7 +34,6 @@ RunFunceble () {
 
     yeartag=$(date +%Y)
     monthtag=$(date +%m)
-    ulimit -u
     cd ${TRAVIS_BUILD_DIR}/dev-tools
 
     hash PyFunceble
@@ -45,7 +44,7 @@ RunFunceble () {
         rm "${pyfuncebleProductionConfigurationFileLocation}"
     fi
 
-    PyFunceble --travis -db -t 3 -ex --dns 1.1.1.1 1.0.0.1 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" --plain --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
+    PyFunceble --travis -db -ex --dns 1.1.1.1 1.0.0.1 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" --plain --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
 
 }
 
