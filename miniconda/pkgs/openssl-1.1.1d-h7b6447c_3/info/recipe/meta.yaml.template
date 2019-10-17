@@ -1,0 +1,81 @@
+{% set name = "openssl" %}
+{% set version = "1.1.1d" %}
+
+package:
+  name: {{ name|lower }}
+  version: {{ version }}
+
+source:
+  fn: {{ name }}-{{ version }}.tar.gz
+  url: http://www.openssl.org/source/{{ name }}-{{ version }}.tar.gz
+  sha256: 1e3a91bc1f9dfce01af26026f856e064eab4c8ee0a8f457b5ae30b40b8b711f2
+  patches:
+    - 0001-Don-t-use-USE_BCRYPTGENRANDOM-for-VS-older-than-2015.patch
+    # ppc64le fixes, see https://github.com/openssl/openssl/pull/10044/files
+    - 10044.patch
+
+build:
+  number: 3
+  no_link: lib/libcrypto.so.1.1        # [linux]
+  no_link: lib/libcrypto.1.1.dylib     # [osx]
+  has_prefix_files:                      # [unix]
+    - bin/c_rehash                       # [unix]
+    - lib/pkgconfig/libcrypto.pc         # [unix]
+    - lib/pkgconfig/libssl.pc            # [unix]
+    - lib/pkgconfig/openssl.pc           # [unix]
+  run_exports:
+    # openssl's versioning is X.Y.Z(rev), where rev is really the patch release ID
+    #    This pin allows the patch release to be >= the build-time openssl version.
+    - {{ pin_subpackage('openssl', max_pin='x.x.x') }}
+  detect_binary_files_with_prefix: True
+  binary_has_prefix_files:
+    - lib/libcrypto.so.1.1  # [linux]
+    - lib/libcrypto.1.1.dylib  # [osx]
+    - lib/libcrypto.a  # [unix]
+
+requirements:
+  build:
+    - {{ compiler('c') }}
+    - nasm               # [win]
+    - make               # [unix]
+    - patch              # [unix]
+    - m2-patch           # [win]
+
+  host:
+    # technically a build tool, but the windows makefile really wants to find it in the host env.
+    #    easier to do this than carry a patch.
+    - perl
+  run:
+    - ca-certificates
+
+test:
+  # Not sure this does anything!
+  downstreams:
+    - python
+  requires:
+    - python
+    - six
+  commands:
+    - copy NUL checksum.txt        # [win]
+    - touch checksum.txt           # [unix]
+    - openssl sha256 checksum.txt
+    - python -c "from six.moves import urllib; urllib.request.urlopen('https://pypi.org')"
+
+
+about:
+  home: http://www.openssl.org/
+  license_file: LICENSE
+  license: OpenSSL
+  license_family: Apache
+  summary: OpenSSL is an open-source implementation of the SSL and TLS protocols
+  dev_url: https://github.com/openssl/openssl
+  doc_url: https://www.openssl.org/docs/man1.1.1/
+
+extra:
+  recipe-maintainers:
+    - jakirkham
+    - jjhelmus
+    - msarahan
+    - ocefpaf
+    - pelson
+    - carlodri

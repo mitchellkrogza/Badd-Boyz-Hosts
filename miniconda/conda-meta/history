@@ -37,3 +37,9 @@
 +defaults::conda-4.7.12-py37_0
 # update specs: ['conda', 'python=3.7']
 
+==> 2019-10-17 13:12:30 <==
+# cmd: /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/miniconda/bin/conda update -q conda
+# conda version: 4.7.12
+-defaults::openssl-1.1.1d-h7b6447c_2
++defaults::openssl-1.1.1d-h7b6447c_3
+# update specs: ['conda']
