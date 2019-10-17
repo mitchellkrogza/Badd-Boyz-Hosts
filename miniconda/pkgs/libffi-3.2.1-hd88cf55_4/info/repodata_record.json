@@ -1,0 +1,24 @@
+{
+  "build": "hd88cf55_4",
+  "build_number": 4,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.2.0",
+    "libstdcxx-ng >=7.2.0"
+  ],
+  "features": "",
+  "fn": "libffi-3.2.1-hd88cf55_4.conda",
+  "legacy_bz2_md5": "723c98107d830bdf000772bf1976e0c3",
+  "legacy_bz2_size": 44477,
+  "license": "Custom",
+  "md5": "670083422f422f03dcd3e7e0d4de1e3a",
+  "name": "libffi",
+  "sha256": "806aeff0c3279e44cbed04d64ecb13527e27e7b34dd70b873287f1fbab5e8916",
+  "size": 41208,
+  "subdir": "linux-64",
+  "timestamp": 1510177337742,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/libffi-3.2.1-hd88cf55_4.conda",
+  "version": "3.2.1"
+}

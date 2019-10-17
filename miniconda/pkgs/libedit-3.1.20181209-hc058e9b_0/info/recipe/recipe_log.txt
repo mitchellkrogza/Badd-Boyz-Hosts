@@ -1,0 +1,62 @@
+commit 74c6f52b89c2b67319b3612b098003148080a821
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Thu May 10 01:49:25 2018 +0100
+
+    Move host down
+
+commit f3c27b4d6d6f780bdc3c470cdaa5e7778b66ed77
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Wed May 2 14:37:04 2018 -0500
+
+    find libtinfo before libcurses; remove GPL_ok selector
+
+commit a11a8cfed924b41800e4303887874dc92eb153a1
+Author: Nehal J Wani <nehaljw.kkd1@gmail.com>
+Date:   Sat Jan 13 06:56:26 2018 -0500
+
+    Move ncurses under 'host' section
+
+commit 311732057812141bcf8cd7e991f526d969e6c95d
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Thu Nov 9 12:14:16 2017 +0000
+
+    Add cross-compilation and conda-build 3 support
+
+commit 6c310d5f28878c918142d9a664937ff38b684ce1
+Merge: 8dc625b b90474f
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Sun Nov 5 13:01:18 2017 -0500
+
+    Merge pull request #1 from dougalsutherland/add-date
+    
+    tag date in version
+
+commit b90474f37c415b169896659307e49147954501ff
+Author: Dougal J. Sutherland <dougal@gmail.com>
+Date:   Sat Nov 4 15:02:33 2017 +0000
+
+    add myself as maintainer
+
+commit 2f2720e27c350f03c01ebbd184cdb5d5c6fcbe30
+Author: Dougal J. Sutherland <dougal@gmail.com>
+Date:   Fri Nov 3 17:23:28 2017 +0000
+
+    tag date in version
+
+commit 8dc625b98e95ce0142220de8c8728f60d4508c27
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Sat Oct 28 03:16:08 2017 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit 35ee3240eb4812cd556b87c3c64154da1b430200
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Sat Oct 28 03:14:23 2017 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit e8a9f6c2c8c8912440ee0da4fde680c5f80b45dd
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Sat Oct 28 03:11:36 2017 +0000
+
+    Initial feedstock commit with conda-smithy 2.4.2.

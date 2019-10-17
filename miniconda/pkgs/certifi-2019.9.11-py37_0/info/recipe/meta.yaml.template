@@ -1,0 +1,56 @@
+{% set version = "2019.9.11" %}
+
+{% set pip_version = "19.1.1" %}
+{% set setuptools_version = "41.0.1" %}
+
+package:
+  name: certifi
+  version: {{ version }}
+
+source:
+  - url: https://pypi.io/packages/source/c/certifi/certifi-{{ version }}.tar.gz
+    sha256: e4f3620cfea4f83eedc95b24abd9cd56f3c4b146dd0177e83a21b4eb49e21e50
+    folder: certifi
+  # bootstrap pip and setuptools to avoid circular dependency
+  # but without losing metadata
+  - url: https://pypi.io/packages/py2.py3/p/pip/pip-{{ pip_version }}-py2.py3-none-any.whl
+    sha256: 993134f0475471b91452ca029d4390dc8f298ac63a712814f101cd1b6db46676
+    folder: pip_wheel
+  - url: https://pypi.io/packages/py2.py3/s/setuptools/setuptools-{{ setuptools_version }}-py2.py3-none-any.whl
+    sha256: c7769ce668c7a333d84e17fe8b524b1c45e7ee9f7908ad0a73e1eda7e6a5aebf
+    folder: setuptools_wheel
+
+build:
+  number: 0
+
+requirements:
+  host:
+    - python
+  run:
+    - python
+
+test:
+  imports:
+    - certifi
+
+about:
+  home: http://certifi.io/
+  license: ISC
+  license_file: certifi/LICENSE
+  summary: Python package for providing Mozilla's CA Bundle.
+  description: |
+   Certifi is a curated collection of Root Certificates for validating the
+   trustworthiness of SSL certificates while verifying the identity of TLS
+   hosts.
+  doc_url: https://pypi.python.org/pypi/certifi
+  dev_url: https://github.com/certifi/python-certifi
+  doc_source_url: https://github.com/certifi/certifi.io/blob/master/README.rst
+
+extra:
+  recipe-maintainers:
+    - jakirkham
+    - pelson
+    - sigmavirus24
+    - ocefpaf
+    - mingwandroid
+    - jjhelmus

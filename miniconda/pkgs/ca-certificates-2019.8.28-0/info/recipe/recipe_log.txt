@@ -1,0 +1,302 @@
+commit c818b33879e41ca5dc37ed6db09a3db5ebb13e56
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Fri Aug 9 12:40:41 2019 -0500
+
+    correct and include MPL 2.0 license
+    
+    The PEM file is converted from the original Mozilla source file which
+    have a MPL 2.0 license.  See discussion at:
+    https://curl.haxx.se/docs/caextract.html
+
+commit c77a6dd859e8f7c37d963421f506dd1192fc20bb
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Tue Jun 4 09:28:49 2019 -0500
+
+    2019.5.15
+
+commit 0a046827db792646f6457e866959cce51a6322d0
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Wed Feb 6 14:29:53 2019 -0600
+
+    2019.1.23
+
+commit ea0f2818081dfae782c0dfbeaae9136cc2943ebf
+Author: Nehal J Wani <nehaljw.kkd1@gmail.com>
+Date:   Mon Jan 28 04:50:27 2019 -0600
+
+    Bump version to 2018.12.5
+
+commit 7e16d122865fb5491fb0199a0e6625d8a9082bed
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Mon Apr 2 13:47:48 2018 -0500
+
+    source from curl.haxx.se
+    
+    Use the certificate bundle provided by the curl authors as the source for this
+    package.  Updates and sha256 are published to:
+    https://curl.haxx.se/docs/caextract.html
+
+commit 6346f9f18891e98edd944b06dbd3d0844c550f50
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Fri Sep 15 03:52:51 2017 -0700
+
+    Use m2-openssl to build this on Windows
+
+commit 995ce3cbf53975f3a8beb4fd564a3077e5e0838e
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Tue Sep 5 14:12:55 2017 +0100
+
+    Stop working around now fixed conda-build bug
+
+commit a8c5109725e146a9660f516802049ac05eba2f97
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Tue Aug 29 07:02:38 2017 +0100
+
+    Fix script name
+
+commit 34e1fc25073bcfd0e41784a2bc354e7f4f06aec8
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Mon Aug 28 18:03:20 2017 -0700
+
+    Update version
+
+commit 1fb517cafaa3f3a8e59bd161fcf46658009bec02
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Mon Aug 28 17:59:12 2017 -0700
+
+    Add support for macOS mktemp
+
+commit 0e9f0bc34c03f7504cda6749ef33ae5e765f985f
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sun Aug 27 17:24:19 2017 +0100
+
+    Work around conda-build bug (WIP)
+
+commit 182de441eb893883a47f14ad973a1999a918a6f8
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sun Aug 27 02:15:15 2017 +0100
+
+    Update to 2017.05.14
+
+commit f810859b2ba6718113254ae3a9405b64a42825c8
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sun Apr 9 11:35:55 2017 +0100
+
+    Rewrite to allow bootstrapping
+    
+    Since this is a dependency of OpenSSL and therefore Python, it shouldn't use
+    Python during the build. Instead switch to the Linux From Scratch shell script.
+    
+    Also, I've not tested that the Linux from Scratch script can be run on either
+    macOS or Windows yet.
+
+commit 0e2eac112956a61a11a8f912fc9dbdf5dbb880d4
+Merge: 7d36e15 899318b
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Mon Mar 13 01:28:28 2017 -0400
+
+    Merge pull request #15 from conda-forge-admin/feedstock_rerender_master
+    
+    MNT: Re-render the feedstock [ci skip]
+
+commit 899318b22971e63d693fc44ac40319530145ec61
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Mon Mar 13 01:43:04 2017 +0000
+
+    MNT: Updated the feedstock for conda-smithy version 2.1.1.
+
+commit 7d36e15078daf45264b8cb2a4fa5bb66177e3765
+Merge: 8a90f4f ccd92cc
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Fri Feb 10 09:29:00 2017 -0500
+
+    Merge pull request #13 from jakirkham/add_core
+    
+    Add core as maintainers
+
+commit 8a90f4fa22fc4b57abd2dce04bdf7bb92c57ef82
+Merge: 4a9a6d0 d4d1fd1
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Fri Feb 10 09:28:42 2017 -0500
+
+    Merge pull request #12 from jakirkham/release_2017.1.23
+    
+    Bump to 2017.1.23
+
+commit ccd92cc01bb0eeeaf1ae8dcce826cc35a0fc0abe
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Thu Feb 9 19:38:13 2017 -0500
+
+    Add core as maintainers.
+    
+    [ci skip]
+
+commit d4d1fd194c812eeddb4e95369c6231e3c11e751f
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Thu Feb 9 12:47:10 2017 -0500
+
+    Bump to 2017.1.23
+
+commit cb20cecea2b6e84a2269ac480b9846e76bf38bcb
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Thu Feb 9 12:46:06 2017 -0500
+
+    Fix path separator in `always_include_files` for Windows.
+
+commit e18655fcee36765b057782cbd024fa52b3ddb75e
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Thu Feb 9 12:44:23 2017 -0500
+
+    MNT: Re-rendered with conda-smithy 2.0.1
+
+commit 4a9a6d0ef7f833cef8c1b8174d20d486c69db53f
+Merge: 1e43b8f 02f3658
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Sun Nov 6 16:14:53 2016 -0500
+
+    Merge pull request #11 from jakirkham/release_2016.9.26
+    
+    Release 2016.9.26
+
+commit 02f36587ee199835ae7684d85a4ddda338473e33
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Sun Nov 6 15:05:03 2016 -0500
+
+    recipe: Release 2016.9.26.
+
+commit acdd8d4d404f1c82a893cbf6c295ae067d4619c9
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Sun Nov 6 15:05:51 2016 -0500
+
+    MNT: Re-rendered with conda-smithy 1.4.6
+
+commit 1e43b8f86dfaac991d283796278dadcb7b4029d0
+Merge: 05ea55c d9525b3
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Tue Sep 6 20:50:53 2016 -0400
+
+    Merge pull request #10 from jakirkham/bump_2016.8.31
+    
+    Bump to version 2016.8.31
+
+commit d9525b3ea6f7e462d41c2b4713c56b052ed61d64
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue Sep 6 09:34:56 2016 -0400
+
+    recipe: Bump to version 2016.8.31.
+
+commit 05ea55cf5fd3534cffb2afecbb1ea98302abdb12
+Merge: a00a9fd 71ebb05
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Tue Sep 6 18:35:00 2016 -0400
+
+    Merge pull request #9 from jakirkham/bump_2016.8.8
+    
+    Bump to version 2016.8.8
+
+commit 71ebb0546e5f35f67294f6d9e1be095f2bd6594d
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue Sep 6 09:31:38 2016 -0400
+
+    recipe: Bump to version 2016.8.8.
+
+commit a00a9fd2decb0c95bb09d7181c80c01a1e32f597
+Merge: 9e624ef 418d0d4
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Sat Aug 6 02:08:05 2016 -0400
+
+    Merge pull request #7 from jakirkham/rerender_1_0_3
+    
+    Re-render with `conda-smithy` version `1.0.3`
+
+commit 418d0d4b8a1bcbaf4c53c3e53613795495febb11
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Sat Aug 6 02:03:49 2016 -0400
+
+    Re-render with `conda-smithy` version `1.0.3`.
+
+commit 9e624ef06f311ad15b3ad4a19b6a2218a16700a1
+Merge: 535766c 808727a
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Thu Aug 4 17:14:27 2016 -0500
+
+    Merge pull request #6 from jakirkham/bump_2016_08_02
+    
+    WIP: Bump to 2016.8.2
+
+commit 808727ae8b5cf5a531eefd50e1fc28e8d53e0271
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Thu Aug 4 17:06:40 2016 -0400
+
+    recipe: Bump to version `2016.8.2`.
+
+commit e1b88a2d22134248041de27bc2b6a403dd41f695
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Thu Aug 4 17:01:43 2016 -0400
+
+    recipe: Remove [de]activate scripts.
+
+commit 535766c33ce7d6c4071fbb68da6de3a51d2873e3
+Merge: 12935ef d6eee5a
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Wed Jul 6 14:57:10 2016 -0400
+
+    Merge pull request #3 from bollwyvl/patch-1
+    
+    CONDA_ENV_PATH renamed to CONDA_PREFIX
+
+commit d6eee5a441b994fa6c574c6146abceb723e6d657
+Author: Nicholas Bollweg <nbollweg@continuum.io>
+Date:   Wed Jul 6 14:42:17 2016 -0400
+
+    bump the build number
+
+commit 0d0113f8988303b28436ce84bc23068c593ba54b
+Author: Nicholas Bollweg <nick.bollweg@gmail.com>
+Date:   Thu Jun 30 09:38:01 2016 -0400
+
+    CONDA_ENV_PATH renamed to CONDA_PREFIX
+
+commit 12935ef6c8a04d9896beed54101df3c4de9870da
+Merge: 566555d 816e04d
+Author: Phil Elson <pelson.pub@gmail.com>
+Date:   Mon Jun 27 11:36:07 2016 +0100
+
+    Merge pull request #2 from jakirkham/config_env_var
+    
+    Set/unset environment variables locating certificates
+
+commit 816e04d0a3189751bf1acb6bd9657cafeda9e054
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Sun Jun 26 12:09:59 2016 -0400
+
+    recipe: Set/unset environment variables to point to certificates.
+
+commit 566555dacd0ac76e35a2b98d0dc28a4d52e44364
+Merge: 0c0fe1a 1ee89e9
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Mon May 16 15:25:05 2016 -0400
+
+    Merge pull request #1 from conda-forge-admin/feedstock_rerender_master
+    
+    MNT: Re-render the feedstock
+
+commit 1ee89e9f3fdd777a37d3fe5e4978f6402575803d
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Mon May 16 18:43:13 2016 +0000
+
+    MNT: Updated the feedstock for conda-smithy version 0.10.3.
+    
+    [ci skip]
+
+commit 0c0fe1aaddbac04e5b56c9b9d151127704545b6f
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Fri May 6 22:39:14 2016 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit adebfeb5968cee44c439b5cf9daa626d7d7ccef8
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Fri May 6 22:38:32 2016 +0000
+
+    Initial commit of the ca-certificates feedstock.

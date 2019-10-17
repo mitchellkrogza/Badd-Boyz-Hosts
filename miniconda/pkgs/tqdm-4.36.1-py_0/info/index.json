@@ -1,0 +1,16 @@
+{
+  "arch": null,
+  "build": "py_0",
+  "build_number": 0,
+  "depends": [
+    "python"
+  ],
+  "license": "MPLv2.0, MIT",
+  "license_family": "MIT",
+  "name": "tqdm",
+  "noarch": "python",
+  "platform": null,
+  "subdir": "noarch",
+  "timestamp": 1569349986538,
+  "version": "4.36.1"
+}

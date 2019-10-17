@@ -1,0 +1,349 @@
+commit 7d7004ab3858860261b59596efad49e979bc7642
+Merge: a4d6b96 b880290
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Wed Apr 17 16:47:25 2019 -0300
+
+    Merge pull request #21 from regro-cf-autotick-bot/1.24.2
+    
+    urllib3 v1.24.2
+
+commit b880290f88f2f0177db27c025b591666b93f6314
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Wed Apr 17 18:24:32 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.17.8, conda-smithy 3.3.2, and conda-forge-pinning 2019.04.12
+
+commit b4efdf4690e2f8c2479e3bf7bf729127edcfc20c
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Wed Apr 17 18:24:19 2019 +0000
+
+    updated v1.24.2
+
+commit a4d6b962847cd58038ed112c097342e930a44d98
+Merge: 1227e8e e4f9db7
+Author: Jonathan J. Helmus <jjhelmus@gmail.com>
+Date:   Wed Feb 27 07:39:15 2019 -0600
+
+    Merge pull request #20 from regro-cf-autotick-bot/rebuildaarch64_and_ppc64le_addition_arch
+    
+    Arch Migrator
+
+commit e4f9db7e5ecd0b8c4be316d12117a7834f5433d8
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Feb 26 23:30:55 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.17.8, conda-smithy 3.2.14, and conda-forge-pinning 2019.02.24
+
+commit 308ff02cd04adf6c92c2a98d22671d7d823873d5
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Feb 26 23:30:42 2019 +0000
+
+    bump build number
+
+commit 1227e8eb2cba482608791aa0244c8f48ed9cc9e6
+Merge: 5abd850 e5e6899
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Fri Nov 2 18:13:09 2018 -0300
+
+    Merge pull request #19 from regro-cf-autotick-bot/1.24.1
+    
+    urllib3 v1.24.1
+
+commit e5e68998f7f9e67e112d99445f71fe643fbaecd1
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Fri Nov 2 19:13:46 2018 +0000
+
+    updated v1.24.1
+
+commit 5abd8500773b134b325ada866a3f9e39958041a2
+Merge: 405b8a7 cc59c95
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Wed Oct 17 08:37:56 2018 -0300
+
+    Merge pull request #17 from regro-cf-autotick-bot/1.24
+    
+    urllib3 v1.24
+
+commit cc59c958f6a8e9b8bdfca32d4ba5b8b9ff26492c
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Oct 16 18:30:42 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.12 and pinning 2018.10.13
+
+commit dc825c15000807dfa34a65bff029d12445a8ff14
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Oct 16 18:30:38 2018 +0000
+
+    updated v1.24
+
+commit 405b8a700a2afbdbe6a2eaee429ea61e2ff4bd5e
+Merge: 7c4b113 8b12b85
+Author: Marius van Niekerk <marius.v.niekerk@gmail.com>
+Date:   Tue Oct 9 13:38:01 2018 -0400
+
+    Merge pull request #16 from regro-cf-autotick-bot/rebuild
+    
+    Rebuild for Python 3.7, GCC 7, R 3.5.1, openBLAS 0.3.2
+
+commit 8b12b8544defcf03eb8ab9955c59450b92d9c91d
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Oct 9 17:05:54 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.12 and pinning 2018.10.08
+
+commit f2167646168dcfddf563dd9fedaea6d086317a9a
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Oct 9 17:05:50 2018 +0000
+
+    bump build number
+
+commit 7c4b113e65fa7684b7a4535e6c35300485616345
+Merge: 565078e 599d096
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Sun Aug 5 12:05:01 2018 -0300
+
+    Merge pull request #15 from ocefpaf/add_py37
+    
+    Add py37
+
+commit 599d09654b4f14ec2255656e36fd101aeb37a021
+Author: Filipe Fernandes <ocefpaf@gmail.com>
+Date:   Sun Aug 5 08:59:23 2018 -0300
+
+    MNT: Re-rendered with conda-smithy 3.1.10 and pinning 2018.07.24
+
+commit 2beb93c6f209d59c5f09295d07d708b950b8d06d
+Author: Filipe Fernandes <ocefpaf@gmail.com>
+Date:   Sun Aug 5 08:59:19 2018 -0300
+
+    update-cb3
+
+commit 565078e55c939d832eca2a32db6deb250fd90826
+Merge: f303fba 0138999
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Sat Aug 4 15:18:46 2018 -0300
+
+    Merge pull request #14 from minrk/pip
+    
+    install with pip
+
+commit f303fba51e49a5e2efd7df9c109918abcc44b1f6
+Author: Travis CI User <travis@example.org>
+Date:   Sat Aug 4 17:16:59 2018 +0000
+
+    [ci skip] [skip ci] Update anaconda token
+
+commit 0138999233277388e0fe199777a93c13f1881359
+Author: Min RK <benjaminrk@gmail.com>
+Date:   Thu Jul 19 00:58:12 2018 -0700
+
+    install with pip
+    
+    Appears to fix permission issues in metadata files in tests
+
+commit cb481f663bf6c132faf84ef13dd9998a82b89544
+Merge: 0936e45 ac2c9fd
+Author: Peter M. Landwehr <plandweh@andrew.cmu.edu>
+Date:   Fri Jun 22 23:06:43 2018 -0700
+
+    Merge pull request #12 from regro-cf-autotick-bot/1.23
+    
+    urllib3 v1.23
+
+commit ac2c9fdb63b0f712b5eda2a8d12b13e90c77f8f5
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue Jun 5 00:32:30 2018 -0400
+
+    Fix Jinja spacing/style
+    
+    Add a space after `{%` to fix lint and improve readability.
+
+commit fe60604858419b727a0212ddeff9b29c418e5326
+Author: Travis CI User <travis@example.org>
+Date:   Tue Jun 5 04:29:10 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.5 and pinning 2018.05.22
+
+commit 6fac8a088224406c51cdfadfa106b7f39bd64a03
+Author: Travis CI User <travis@example.org>
+Date:   Tue Jun 5 04:28:53 2018 +0000
+
+    updated v1.23
+
+commit 0936e454d6aad915768d531d0132ec3e45bf73ed
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Sat Aug 26 19:51:30 2017 +0000
+
+    [ci skip] [skip ci] Update anaconda token
+
+commit acf85cd6847eafe65168f6e9fd56745d70278908
+Merge: 7d39115 5d4330f
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Tue Jul 25 22:26:34 2017 -0700
+
+    Merge pull request #11 from ocefpaf/update_to-1.22
+    
+    Update to 1.22
+
+commit 5d4330f22660b467367f9263ba770e9a5d67c281
+Author: Filipe Fernandes <ocefpaf@gmail.com>
+Date:   Tue Jul 25 17:04:31 2017 -0300
+
+    Update to 1.22
+
+commit 7d39115d4e14fbb113ac4a36d7c7b4d0a24e2365
+Merge: 3b9e8dc 1386c63
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Jun 5 15:02:30 2017 -0300
+
+    Merge pull request #9 from ocefpaf/extra_req
+    
+    handle extra req
+
+commit 1386c631ebc5022ebd0b3753eb4a29843b909e42
+Author: ocefpaf <ocefpaf@gmail.com>
+Date:   Mon Jun 5 13:44:21 2017 -0300
+
+    handle extra req
+
+commit 3b9e8dc4b32574a220e835c8dde25eecf978f491
+Merge: 713c849 e0b162f
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Jun 5 13:43:00 2017 -0300
+
+    Merge pull request #7 from pmlandwehr/master
+    
+    Ticked version, regenerated if needed. (Double-check reqs!)
+
+commit e0b162fcd592142edd1cf874b059f45a9dd25ab5
+Merge: 8877546 713c849
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Jun 5 13:19:59 2017 -0300
+
+    Merge branch 'master' into master
+
+commit 713c849b33ce3c415475bf11acfeff86598cef69
+Merge: 0782d91 80dc2e0
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Jun 5 12:49:23 2017 -0300
+
+    Merge pull request #8 from ocefpaf/update_to_1.21.1
+    
+    Update to 1.21.1
+
+commit 80dc2e08dd32827d768a7b90efa6866840c5091c
+Author: ocefpaf <ocefpaf@gmail.com>
+Date:   Mon Jun 5 11:18:07 2017 -0300
+
+    Update to 1.21.1
+
+commit 2a7edbb6901b58b800f0689b7d4d7176c51a8a6b
+Author: ocefpaf <ocefpaf@gmail.com>
+Date:   Mon Jun 5 11:18:04 2017 -0300
+
+    rerender with auto
+
+commit 8877546bc92f276d5d9425945044651ac3b531f6
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Thu May 25 23:14:20 2017 -0700
+
+    Add reqs for extras
+
+commit 57cf941db2a37f10a225f80b54850decdc2b44d3
+Author: pmlandwehr <None>
+Date:   Thu May 25 16:46:06 2017 -0700
+
+    MNT: Updated the feedstock for conda-smithy version 2.3.1.
+
+commit 6e4fbe9254b265f5d686ad0b4511072f0d142797
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Thu May 25 16:44:22 2017 -0700
+
+    Tick version to 1.21.1
+
+commit 0782d91ca4440043cff9c15716d3b244ef8d4ec8
+Merge: 2aae0e8 3c5a052
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Sat Feb 25 14:30:02 2017 -0800
+
+    Merge pull request #5 from pmlandwehr/master
+    
+    Add license link, rerender, tick build number
+
+commit 3c5a05232ac5528b4614812a85b4ea3730511a67
+Author: Peter Landwehr <pmlandwehr@gmail.com>
+Date:   Sat Feb 25 13:02:19 2017 -0800
+
+    MNT: Re-rendered with conda-smithy 2.1.0
+
+commit 8effc8580ec18e494cc2e756d2f5ddd7bfe5ca90
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Sat Feb 25 13:00:45 2017 -0800
+
+    Add link to license, tick build number
+
+commit 2aae0e8e1283a33500775e882f11993fb5474b49
+Author: Peter Landwehr <pmlandwehr@gmail.com>
+Date:   Tue Jan 31 22:47:12 2017 -0800
+
+    MNT: Re-rendered with conda-smithy 2.0.1
+
+commit 7c6f444e9385cdd4e4ef5430f141415d44cbfc2a
+Author: Peter Landwehr <pmlandwehr@gmail.com>
+Date:   Tue Jan 31 22:46:39 2017 -0800
+
+    Tick version to 1.20, reformat
+
+commit 088c0a69a7909690914744b9a83128881c6c5523
+Merge: dfe2dc9 8eb0a07
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Thu Oct 27 16:21:28 2016 -0300
+
+    Merge pull request #2 from ocefpaf/update
+    
+    Update
+
+commit 8eb0a0741902491dbb0428dc49bcfc0e4897b658
+Author: ocefpaf <ocefpaf@gmail.com>
+Date:   Thu Oct 27 09:27:54 2016 -0300
+
+    render
+
+commit 2297bb5cf521152de7ac63fc7970d67991fe8ed6
+Author: ocefpaf <ocefpaf@gmail.com>
+Date:   Thu Oct 27 09:09:26 2016 -0300
+
+    Update to 1.18.1
+
+commit dfe2dc9f9b9c6839cff195720a95cfa603790187
+Merge: 39a8212 84c51b2
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Sat Jun 25 00:08:30 2016 -0700
+
+    Merge pull request #1 from pmlandwehr/master
+    
+    md5 -> sha256, added @sigmavirus24 as a maintainer
+
+commit 84c51b28df7688e1eaeb2dbf9382e19b6b1afb23
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Fri Jun 24 14:40:09 2016 -0700
+
+    Ticked build number: 0 -> 1
+
+commit 6e896b09c88f4d784f1996c150328a3251e3d328
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Fri Jun 24 14:34:22 2016 -0700
+
+    md5 -> sha256, added @sigmavirus24 as a maintainer
+
+commit 39a8212302537e4163a108e787286aeace1a9629
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Fri Jun 24 10:41:18 2016 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit 55d40a534639c015a264f381292a2264c77ef04f
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Fri Jun 24 10:40:08 2016 +0000
+
+    Initial commit of the urllib3 feedstock.

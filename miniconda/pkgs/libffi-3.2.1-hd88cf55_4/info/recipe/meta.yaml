@@ -1,0 +1,62 @@
+# This file created by conda-build 3.0.28
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/libffi-3.2.1-on-linux_64, last modified Wed Nov  8 21:37:49 2017
+# ------------------------------------------------
+
+package:
+    name: libffi
+    version: 3.2.1
+source:
+    fn: libffi-3.2.1.tar.gz
+    patches:
+        - configure_includedir_option.patch
+    sha1: 280c265b789e041c02e5c97815793dfc283fb1e6
+    url: ftp://sourceware.org/pub/libffi/libffi-3.2.1.tar.gz
+build:
+    number: '4'
+    run_exports:
+        - libffi >=3.2.1,<4.0a0
+    string: hd88cf55_4
+requirements:
+    build:
+        - autoconf 2.69 pl526hebd4dad_5
+        - automake 1.15.1 pl526h7747ae0_0
+        - binutils_impl_linux-64 2.28.1 h04c84fa_2
+        - binutils_linux-64 7.2.0 hc67e822_9
+        - gcc_impl_linux-64 7.2.0 hc5ce805_2
+        - gcc_linux-64 7.2.0 h60973fd_9
+        - gxx_impl_linux-64 7.2.0 hd3faf3d_2
+        - gxx_linux-64 7.2.0 h57110d4_9
+        - libgcc-ng 7.2.0 h7cc24e2_2
+        - libstdcxx-ng 7.2.0 h7a57d05_2
+        - libtool 2.4.6 h544aabb_3
+        - m4 1.4.18 h4e445db_0
+        - perl 5.26.0 hae598fd_0
+    run:
+        - libgcc-ng 7.2.0.*
+        - libstdcxx-ng 7.2.0.*
+test:
+    commands:
+        - test -e $PREFIX/lib/libffi.so
+        - test -e $PREFIX/lib/libffi.a
+        - test -e $PREFIX/include/ffi.h
+        - test -e $PREFIX/include/ffitarget.h
+about:
+    description: 'The libffi library provides a portable, high level programming interface
+
+        to various calling conventions. This allows a programmer to call any
+
+        function specified by a call interface description at run-time.
+
+        '
+    dev_url: https://github.com/libffi/libffi
+    doc_url: https://sourceware.org/libffi/
+    home: https://sourceware.org/libffi/
+    license: Custom
+    summary: A Portable Foreign Function Interface Library.
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - scopatz
+        - stefan-balke

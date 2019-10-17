@@ -1,0 +1,26 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "features": "",
+  "fn": "tqdm-4.36.1-py_0.conda",
+  "legacy_bz2_md5": "e59fbb52a97d91d92acee47c3af5bc70",
+  "legacy_bz2_size": 51500,
+  "license": "MPLv2.0, MIT",
+  "license_family": "MIT",
+  "md5": "2928aaf4aeefe1e1e71f227174f5206b",
+  "name": "tqdm",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "34cbc3dff88963e1bc7b9cbd034dd3fa33563de2ce1fe95e172d21762f094193",
+  "size": 51275,
+  "subdir": "noarch",
+  "timestamp": 1569349986538,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/tqdm-4.36.1-py_0.conda",
+  "version": "4.36.1"
+}

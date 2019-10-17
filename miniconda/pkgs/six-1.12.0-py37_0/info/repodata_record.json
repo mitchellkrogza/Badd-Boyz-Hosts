@@ -1,0 +1,24 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "features": "",
+  "fn": "six-1.12.0-py37_0.conda",
+  "legacy_bz2_md5": "737521afc3a721bd133cc96cc871888c",
+  "legacy_bz2_size": 22691,
+  "license": "MIT",
+  "license_family": "MIT",
+  "md5": "d407aa3de9814089d1dacee4e818fa19",
+  "name": "six",
+  "sha256": "6f3d8b80f1b94032753b27fa5ab4540a82733245914db54285f089287eeff406",
+  "size": 23164,
+  "subdir": "linux-64",
+  "timestamp": 1544542931768,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/six-1.12.0-py37_0.conda",
+  "version": "1.12.0"
+}

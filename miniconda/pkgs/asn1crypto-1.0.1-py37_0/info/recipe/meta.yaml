@@ -1,0 +1,52 @@
+# This file created by conda-build 3.18.9
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/asn1crypto-1.0.1-python_3.7-on-linux_64, last modified Mon Oct  7 15:32:19 2019
+# ------------------------------------------------
+
+package:
+    name: asn1crypto
+    version: 1.0.1
+source:
+    sha256: 0b199f211ae690df3db4fd6c1c4ff976497fb1da689193e368eedbadc53d9292
+    url: https://pypi.io/packages/source/a/asn1crypto/asn1crypto-1.0.1.tar.gz
+build:
+    number: '0'
+    script: /tmp/build/80754af9/asn1crypto_1570463003769/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla/bin/python
+        -m pip install . --no-deps --ignore-installed --no-cache-dir -vvv
+    string: py37_0
+requirements:
+    host:
+        - _libgcc_mutex 0.1 main
+        - ca-certificates 2019.8.28 0
+        - certifi 2019.9.11 py37_0
+        - libedit 3.1.20181209 hc058e9b_0
+        - libffi 3.2.1 hd88cf55_4
+        - libgcc-ng 9.1.0 hdf63c60_0
+        - libstdcxx-ng 9.1.0 hdf63c60_0
+        - ncurses 6.1 he6710b0_1
+        - openssl 1.1.1d h7b6447c_2
+        - pip 19.2.3 py37_0
+        - python 3.7.4 h265db76_1
+        - readline 7.0 h7b6447c_5
+        - setuptools 41.4.0 py37_0
+        - sqlite 3.30.0 h7b6447c_0
+        - tk 8.6.8 hbc83047_0
+        - wheel 0.33.6 py37_0
+        - xz 5.2.4 h14c3975_4
+        - zlib 1.2.11 h7b6447c_3
+    run:
+        - python >=3.7,<3.8.0a0
+test:
+    imports:
+        - asn1crypto
+about:
+    home: https://github.com/wbond/asn1crypto
+    license: MIT
+    license_file: LICENSE
+    summary: Python ASN.1 library with a focus on performance and a pythonic API
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - jschueller
+        - ocefpaf

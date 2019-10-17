@@ -1,0 +1,7 @@
+lib/libstdc++.so
+lib/libstdc++.so.6
+lib/libstdc++.so.6.0.26
+share/licenses/libstdc++/RUNTIME.LIBRARY.EXCEPTION
+x86_64-conda_cos6-linux-gnu/sysroot/lib/libstdc++.so
+x86_64-conda_cos6-linux-gnu/sysroot/lib/libstdc++.so.6
+x86_64-conda_cos6-linux-gnu/sysroot/lib/libstdc++.so.6.0.26

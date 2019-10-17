@@ -1,0 +1,32 @@
+{
+  "requirements": {
+    "build": [
+      "binutils_impl_linux-64 2.28.1 h04c84fa_2",
+      "binutils_linux-64 7.2.0 hc67e822_11",
+      "gcc_impl_linux-64 7.2.0 hc5ce805_2",
+      "gcc_linux-64 7.2.0 h4118e58_11",
+      "libgcc-ng 7.2.0 h7cc24e2_2",
+      "libstdcxx-ng 7.2.0 h7a57d05_2",
+      "libtool 2.4.6 h544aabb_3",
+      "pkg-config 0.29.2 hf7364cd_5"
+    ],
+    "run": [
+      "libgcc-ng 7.2.0.*"
+    ]
+  },
+  "build": {
+    "run_exports": [
+      "yaml >=0.1.7,<0.2.0a0"
+    ]
+  },
+  "source": {
+    "url": "http://pyyaml.org/download/libyaml/yaml-0.1.7.tar.gz",
+    "sha256": "8088e457264a98ba451a90b8661fcb4f9d6f478f7265d48322a196cec2480729",
+    "patches": [
+      "CMakeLists.txt.patch"
+    ]
+  },
+  "extra": {
+    "copy_test_source_files": true
+  }
+}

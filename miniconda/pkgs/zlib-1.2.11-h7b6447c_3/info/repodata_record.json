@@ -1,0 +1,24 @@
+{
+  "build": "h7b6447c_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0"
+  ],
+  "features": "",
+  "fn": "zlib-1.2.11-h7b6447c_3.conda",
+  "legacy_bz2_md5": "e76217678961a4836e1067a2d11603e2",
+  "legacy_bz2_size": 122469,
+  "license": "zlib",
+  "license_family": "Other",
+  "md5": "50aa4407424985d56ec8ae2f94626aa9",
+  "name": "zlib",
+  "sha256": "5c5346ca7da14d7e11e15a8cc5e695d805ecb79c0e59d7043bea5843ffc493e5",
+  "size": 104994,
+  "subdir": "linux-64",
+  "timestamp": 1542814864621,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/zlib-1.2.11-h7b6447c_3.conda",
+  "version": "1.2.11"
+}

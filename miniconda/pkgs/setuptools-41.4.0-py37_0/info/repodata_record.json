@@ -1,0 +1,23 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "certifi >=2016.09",
+    "python >=3.7,<3.8.0a0"
+  ],
+  "features": "",
+  "fn": "setuptools-41.4.0-py37_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "md5": "4622c3a04a36d26192160bd21392a652",
+  "name": "setuptools",
+  "sha256": "b37857a6ccfb35ebefdd2b24698bc3680272b9b59066447bc7c7d8637cb3156b",
+  "size": 667027,
+  "subdir": "linux-64",
+  "timestamp": 1570459517903,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/setuptools-41.4.0-py37_0.tar.bz2",
+  "version": "41.4.0"
+}

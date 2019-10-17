@@ -1,0 +1,72 @@
+# This file created by conda-build 3.13.0
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/readline-7.0-on-linux_64, last modified Tue Aug 28 16:54:17 2018
+# ------------------------------------------------
+
+package:
+    name: readline
+    version: '7.0'
+source:
+    patches:
+        - patches/readline70-001
+        - patches/readline70-002
+        - patches/readline70-003
+        - patches/readline70-004
+        - patches/readline70-005
+    sha256: 750d437185286f40a369e1e4f4764eda932b9459b5ec9a731628393dd3d32334
+    url: ftp://ftp.gnu.org/gnu/readline/readline-7.0.tar.gz
+build:
+    number: '5'
+    run_exports:
+        - readline >=7.0,<8.0a0
+    string: h7b6447c_5
+requirements:
+    build:
+        - binutils_impl_linux-64 2.31.1 h6176602_1
+        - binutils_linux-64 2.31.1 h6176602_3
+        - gcc_impl_linux-64 7.3.0 habb00fd_1
+        - gcc_linux-64 7.3.0 h553295d_3
+        - libgcc-ng 8.2.0 hdf63c60_1
+        - libstdcxx-ng 8.2.0 hdf63c60_1
+        - make 4.2.1 h1bed415_1
+        - pkg-config 0.29.2 h1bed415_8
+    host:
+        - libgcc-ng 8.2.0 hdf63c60_1
+        - libstdcxx-ng 8.2.0 hdf63c60_1
+        - ncurses 6.1 hf484d3e_0
+    run:
+        - libgcc-ng >=7.3.0
+        - ncurses >=6.1,<7.0a0
+test:
+    commands:
+        - test -f ${PREFIX}/lib/libreadline.a
+        - test -f ${PREFIX}/lib/libreadline${SHLIB_EXT}
+        - test -f ${PREFIX}/lib/libhistory.a
+        - test -f ${PREFIX}/lib/libhistory${SHLIB_EXT}
+about:
+    description: 'The standard Python readline extension statically linked against
+        the GNU
+
+        readline library.
+
+        '
+    dev_url: https://github.com/ludwigschwardt/python-gnureadline
+    doc_source_url: https://github.com/ludwigschwardt/python-gnureadline
+    doc_url: https://pypi.python.org/pypi/readline
+    home: https://cnswww.cns.cwru.edu/php/chet/readline/rltop.html
+    license: GPL-3.0
+    license_file: COPYING
+    summary: library for editing command lines as they are typed in
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - asmeurer
+        - croth1
+        - jakirkham
+        - jjhelmus
+        - mingwandroid
+        - msarahan
+        - msarahan
+        - ocefpaf
+        - pelson

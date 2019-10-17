@@ -1,0 +1,64 @@
+# This file created by conda-build 3.17.1
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/six-1.12.0-python_3.7-on-linux_64, last modified Tue Dec 11 15:39:30 2018
+# ------------------------------------------------
+
+package:
+    name: six
+    version: 1.12.0
+source:
+    sha256: d16a0141ec1a18405cd4ce8b4613101da75da0e9a7aec5bdd4fa804d0e0eba73
+    url: https://pypi.io/packages/source/s/six/six-1.12.0.tar.gz
+build:
+    number: '0'
+    script: /tmp/build/80754af9/six_1544542903878/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_/bin/python
+        -m pip install . --no-deps --ignore-installed --no-cache-dir -vvv
+    string: py37_0
+requirements:
+    host:
+        - ca-certificates 2018.03.07 0
+        - certifi 2018.11.29 py37_0
+        - libedit 3.1.20170329 h6b74fdf_2
+        - libffi 3.2.1 hd88cf55_4
+        - libgcc-ng 8.2.0 hdf63c60_1
+        - libstdcxx-ng 8.2.0 hdf63c60_1
+        - ncurses 6.1 he6710b0_1
+        - openssl 1.1.1a h7b6447c_0
+        - pip 18.1 py37_0
+        - python 3.7.1 h0371630_3
+        - readline 7.0 h7b6447c_5
+        - setuptools 40.6.2 py37_0
+        - sqlite 3.25.3 h7b6447c_0
+        - tk 8.6.8 hbc83047_0
+        - wheel 0.32.3 py37_0
+        - xz 5.2.4 h14c3975_4
+        - zlib 1.2.11 h7b6447c_3
+    run:
+        - python >=3.7,<3.8.0a0
+test:
+    imports:
+        - six
+about:
+    description: 'Six provides simple utilities for wrapping over differences between
+
+        Python 2 and Python 3. It is intended to support codebases that work on
+
+        both Python 2 and 3 without modification. six consists of only one Python
+
+        file, so it is painless to copy into a project.
+
+        '
+    dev_url: https://github.com/benjaminp/six
+    doc_url: http://pythonhosted.org/six/
+    home: http://pypi.python.org/pypi/six/
+    license: MIT
+    license_family: MIT
+    license_file: LICENSE
+    summary: Python 2 and 3 compatibility utilities
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - jakirkham
+        - msarahan
+        - ocefpaf

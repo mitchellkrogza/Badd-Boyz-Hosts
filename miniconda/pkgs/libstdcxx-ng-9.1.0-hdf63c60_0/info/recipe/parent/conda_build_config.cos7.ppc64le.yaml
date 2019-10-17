@@ -1,0 +1,15 @@
+ctng_sample:
+  - powerpc64le-unknown-linux-gnu
+ctng_cpu_arch:
+  - powerpc
+gnu:
+  - 2.17
+ctng_kernel:
+  - 3.10
+# gdb is optional - commenting this will disable gdb from being built.  For gcc 8.2, that's what we need to do.
+# ctng_gdb:
+#   - 7.12.1
+ctng_target_platform:
+  - linux-ppc64le
+ctng_vendor:
+  - conda_cos7

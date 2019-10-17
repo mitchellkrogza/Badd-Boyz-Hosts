@@ -1,0 +1,113 @@
+From a6a1120bddac98f8984a6f45e815c270b99b490e Mon Sep 17 00:00:00 2001
+From: Ray Donnelly <mingw.android@gmail.com>
+Date: Tue, 15 Aug 2017 22:34:16 +0100
+Subject: [PATCH 01/19] Add Anaconda Distribution version logic
+
+---
+ Include/pylifecycle.h |  1 +
+ Lib/platform.py       |  1 +
+ Modules/main.c        |  2 +-
+ Python/getversion.c   | 47 +++++++++++++++++++++++++++++++++++++++++++
+ 4 files changed, 50 insertions(+), 1 deletion(-)
+
+diff --git a/Include/pylifecycle.h b/Include/pylifecycle.h
+index 5d9f049d8a..79cfd6a0a1 100644
+--- a/Include/pylifecycle.h
++++ b/Include/pylifecycle.h
+@@ -154,6 +154,7 @@ int _Py_CheckPython3(void);
+ #endif
+ 
+ /* In their own files */
++PyAPI_FUNC(const char *) Anaconda_GetVersion(void);
+ PyAPI_FUNC(const char *) Py_GetVersion(void);
+ PyAPI_FUNC(const char *) Py_GetPlatform(void);
+ PyAPI_FUNC(const char *) Py_GetCopyright(void);
+diff --git a/Lib/platform.py b/Lib/platform.py
+index 6ab06b5832..10c1a0fa14 100755
+--- a/Lib/platform.py
++++ b/Lib/platform.py
+@@ -1120,6 +1120,7 @@ def processor():
+ 
+ _sys_version_parser = re.compile(
+     r'([\w.+]+)\s*'  # "version<space>"
++    r'(?:\|[^|]*\|)?\s*' # version extra
+     r'\(#?([^,]+)'  # "(#buildno"
+     r'(?:,\s*([\w ]*)'  # ", builddate"
+     r'(?:,\s*([\w :]*))?)?\)\s*'  # ", buildtime)<space>"
+diff --git a/Modules/main.c b/Modules/main.c
+index acc59c6c40..b3fba944bf 100644
+--- a/Modules/main.c
++++ b/Modules/main.c
+@@ -1238,7 +1238,7 @@ pymain_header(_PyMain *pymain)
+         return;
+     }
+ 
+-    fprintf(stderr, "Python %s on %s\n", Py_GetVersion(), Py_GetPlatform());
++    fprintf(stderr, "Python %s :: %s on %s\n", Py_GetVersion(), Anaconda_GetVersion(), Py_GetPlatform());
+     if (!Py_NoSiteFlag) {
+         fprintf(stderr, "%s\n", COPYRIGHT);
+     }
+diff --git a/Python/getversion.c b/Python/getversion.c
+index c32b6f9d60..b5dfffb606 100644
+--- a/Python/getversion.c
++++ b/Python/getversion.c
+@@ -2,9 +2,56 @@
+ /* Return the full version string. */
+ 
+ #include "Python.h"
++#include "osdefs.h"
+ 
+ #include "patchlevel.h"
+ 
++
++const char *
++Anaconda_GetVersion(void)
++{
++#ifdef MS_WIN32
++    #define STDLIB_DIR  L"\\Lib\\"
++    /* We want to allow paths > 260 characters on Windows some day. */
++    #define MPL 2048
++#else
++    #define STR(_s) #_s
++    #define XSTR(_s) STR(_s)
++    #define STDLIB_DIR L"/lib/python" XSTR(PY_MAJOR_VERSION) L"." XSTR(PY_MINOR_VERSION) L"/"
++    #define MPL MAXPATHLEN
++#endif
++
++    static char res[128];
++    FILE *f;
++    wchar_t path[MPL + 1];
++    int c;
++    unsigned int i;
++
++    wcscpy(path, Py_GetPrefix());
++    wcscat(path, STDLIB_DIR L"version.txt");
++
++    f = _Py_wfopen(path, L"rb");
++    if (f == NULL)
++        strcpy(res, "Anaconda, Inc.");
++    else {
++        i = 0;
++        while (i < sizeof(res) - 1) {
++            c = fgetc(f);
++            if (c == EOF || c == '\n' || c == '\r')
++                break;
++            res[i++] = c;
++        }
++        fclose(f);
++        res[i] = '\0';
++    }
++    return res;
++    #undef STR
++    #undef XSTR
++    #undef STDLIB_DIR
++    #undef MPL
++}
++
++
+ const char *
+ Py_GetVersion(void)
+ {
+-- 
+2.20.1
+

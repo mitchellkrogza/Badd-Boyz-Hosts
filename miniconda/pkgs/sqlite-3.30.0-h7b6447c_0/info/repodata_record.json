@@ -1,0 +1,22 @@
+{
+  "build": "h7b6447c_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libedit >=3.1.20181209,<3.2.0a0",
+    "libgcc-ng >=7.3.0"
+  ],
+  "features": "",
+  "fn": "sqlite-3.30.0-h7b6447c_0.tar.bz2",
+  "license": "Public-Domain (http://www.sqlite.org/copyright.html)",
+  "md5": "c6ed845176a88dc2bbe6e77835cb158e",
+  "name": "sqlite",
+  "sha256": "89afb148e38a6e6d8edca08fce35684aa83f541815bbdb0223f1e83b82cd6937",
+  "size": 2025080,
+  "subdir": "linux-64",
+  "timestamp": 1570211057213,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/sqlite-3.30.0-h7b6447c_0.tar.bz2",
+  "version": "3.30.0"
+}

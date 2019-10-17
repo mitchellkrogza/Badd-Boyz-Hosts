@@ -1,0 +1,608 @@
+commit 6a85fa23f6e270ac148e16286cc39ba4be3a29d5
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Fri Sep 15 04:08:03 2017 -0700
+
+     => python
+
+commit e975ed6403e889d21cd812ba38023403437889f0
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Thu Apr 6 17:30:18 2017 +0100
+
+    Add cross-compilation support.
+
+commit be6760a4febca6377dd672a1dc9a012498fd3222
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Fri Sep 15 04:08:03 2017 -0700
+
+     => python
+
+commit 6e1e727f478f613f81058118f29b5fbddca0b36d
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Thu Apr 6 17:30:18 2017 +0100
+
+    Add cross-compilation support.
+
+commit 23de6f81d4df6d0e3d32ec264db97ac73759ec2b
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Fri Sep 15 04:08:03 2017 -0700
+
+     => python
+
+commit 4e6b4019ba7541389258f72c34255f8266daf33b
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Thu Apr 6 17:30:18 2017 +0100
+
+    Add cross-compilation support.
+
+commit 727b9404207fec26c25a86b36b86e421beb083a8
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Fri Sep 15 04:08:03 2017 -0700
+
+     => python
+
+commit 4e979e50dc8c290b815bbc8097f6dedaccb30263
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Thu Apr 6 17:30:18 2017 +0100
+
+    Add cross-compilation support.
+
+commit 43f46dbe8c95af8811eeb63f6f113c0ba255fd7a
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Fri Sep 6 18:41:50 2019 -0500
+
+    [ci skip] ***NO_CI*** Move from appveyor to azure.
+    
+    See https://github.com/conda-forge/conda-forge.github.io/issues/857
+
+commit cada6c39348199ed3bcdb5333c8ce0503e2ff677
+Merge: c0dd47e 8454d12
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Sun Aug 18 12:27:45 2019 -0300
+
+    Merge pull request #29 from regro-cf-autotick-bot/0.33.6
+    
+    wheel v0.33.6
+
+commit 8454d12c197c126d219d866ac36f924da581e4cf
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sun Aug 18 10:28:40 2019 +0000
+
+    updated v0.33.6
+
+commit c0dd47eb010f766c7eb21299966ed7aa57a89d9a
+Merge: a683042 6a20231
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Sat May 11 19:45:06 2019 -0300
+
+    wheel v0.33.4 (#27)
+    
+    wheel v0.33.4
+
+commit 6a2023133985502170a2f159d88a665145f9058a
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sat May 11 22:33:26 2019 +0000
+
+    updated v0.33.4
+
+commit a6830423fcaf90dc0da3c3e2592749b22e60185d
+Merge: 10998a5 6cd77c6
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Fri May 10 21:03:40 2019 -0300
+
+    wheel v0.33.3 (#26)
+    
+    wheel v0.33.3
+
+commit 6cd77c6f31cde1c21c09d4bf33cdb7b4cd640ca4
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Fri May 10 11:28:30 2019 +0000
+
+    updated v0.33.3
+
+commit 10998a531daa180341a94586fda6fb2c04f81143
+Merge: 0ed6dee dfde47a
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Thu May 9 12:42:47 2019 -0300
+
+    wheel v0.33.2 (#25)
+    
+    wheel v0.33.2
+
+commit dfde47a033f8daa28f237746b3627da6b81a5c28
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu May 9 09:33:45 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.17.8, conda-smithy 3.3.4, and conda-forge-pinning 2019.05.06
+
+commit d3da44f85d6f75acd8d0641a6b9aac8c9844df50
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu May 9 09:33:29 2019 +0000
+
+    updated v0.33.2
+
+commit 0ed6deed37c95a52585f9ddb951fc031c63ef2c9
+Merge: f2e5f9e 8e4975c
+Author: Jonathan J. Helmus <jjhelmusgithub@gmail.com>
+Date:   Fri Apr 26 19:46:49 2019 -0400
+
+    Merge pull request #24 from jjhelmus/add_38
+    
+    Add Python 3.8 prerelease builds
+
+commit 8e4975c15aeb320316b4222d5813240bb10d73d8
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Fri Apr 26 18:29:37 2019 -0500
+
+    add py38 to .circleci/config.yml
+
+commit 436ac71c8386c8408bea7eca9edf4ffe483e1c30
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Fri Apr 26 17:55:20 2019 -0500
+
+    Add Python 3.8 prerelease builds
+
+commit 701538e282ff3ff2205eed4666df6bb3815686a8
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Fri Apr 26 17:43:30 2019 -0500
+
+    MNT: Re-rendered with conda-build 3.17.8, conda-smithy 3.3.4, and conda-forge-pinning 2019.04.25
+
+commit f2e5f9e767853182c07296a00d722de147180541
+Merge: e498672 1acbb6a
+Author: Marius van Niekerk <marius.v.niekerk@gmail.com>
+Date:   Wed Feb 20 12:40:49 2019 -0500
+
+    Merge pull request #23 from regro-cf-autotick-bot/rebuildaarch64_and_ppc64le_addition_arch
+    
+    Arch Migrator
+
+commit 1acbb6a34a7e47892239ac5e96edc7812c7fc74c
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Wed Feb 20 15:39:00 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.15.1, conda-smithy 3.2.13, and conda-forge-pinning 2019.02.15
+
+commit f90a32179278c3572b35594753967a74f25bea51
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Wed Feb 20 15:38:43 2019 +0000
+
+    bump build number
+
+commit e4986723fd2c48d236c987731ce97f20508469b4
+Merge: c27d520 fc0af55
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Tue Feb 19 16:15:49 2019 -0300
+
+    Merge pull request #22 from regro-cf-autotick-bot/0.33.1
+    
+    wheel v0.33.1
+
+commit fc0af55e0d075dbcc8dcf537c1bc08827793a10b
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Feb 19 17:15:37 2019 +0000
+
+    updated v0.33.1
+
+commit c27d520c490d5cb0e2d1f7fb68bc8fdb61b3f13f
+Merge: f980ae5 6a2c700
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Tue Feb 12 09:44:34 2019 -0200
+
+    Merge pull request #21 from regro-cf-autotick-bot/0.33.0
+    
+    wheel v0.33.0
+
+commit 6a2c700e81eb9b84066c3a5b2b3c5b2117098d69
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Feb 12 07:13:46 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.15.1, conda-smithy 3.2.13, and conda-forge-pinning 2019.02.11
+
+commit 58b8d29bc12c8c2bf63a6ff4d05bd62c9def0529
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Feb 12 07:13:34 2019 +0000
+
+    updated v0.33.0
+
+commit f980ae511119a4389b03942f7a80aaff00cab4dc
+Merge: 0c15b7e 9ae800a
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Nov 19 10:15:52 2018 -0200
+
+    Merge pull request #20 from regro-cf-autotick-bot/0.32.3
+    
+    wheel v0.32.3
+
+commit 9ae800aec1b2ee1a1a1b68dea3538b9ff88cfb96
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon Nov 19 01:13:43 2018 +0000
+
+    updated v0.32.3
+
+commit 0c15b7e347c6b88bb8afd495ab323983aeec924c
+Merge: 690a749 9972598
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Sat Oct 20 18:39:50 2018 -0300
+
+    Merge pull request #19 from regro-cf-autotick-bot/0.32.2
+    
+    wheel v0.32.2
+
+commit 9972598f7f5f0744a3190ef6d1cde01871188c00
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sat Oct 20 20:28:48 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.12 and pinning 2018.10.16
+
+commit 782c9d9f7aff685198ae56d415b29eedd2f9cde3
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sat Oct 20 20:28:35 2018 +0000
+
+    updated v0.32.2
+
+commit 690a74966c5b72e0438f42eca126faca841704f6
+Merge: f93b4a2 2a0c931
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Thu Oct 4 21:31:06 2018 -0300
+
+    Merge pull request #18 from regro-cf-autotick-bot/0.32.1
+    
+    wheel v0.32.1
+
+commit 2a0c931c32b08b19ce43b6161dd88746de341dd9
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Oct 4 07:15:12 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.12 and pinning 2018.10.01
+
+commit 47731a78d4299707e4d84c7bdd363140b2f5d092
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Oct 4 07:14:47 2018 +0000
+
+    updated v0.32.1
+
+commit f93b4a2a0abd546cbfef745a9958d6e4ec9a0135
+Merge: 38c0437 2149926
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Oct 1 16:35:06 2018 -0300
+
+    Merge pull request #17 from ocefpaf/bump_build_number
+    
+    bump
+
+commit 2149926a648e8fce0d7bc8ede283fb0e3d828d06
+Author: Filipe Fernandes <ocefpaf@gmail.com>
+Date:   Mon Oct 1 16:33:57 2018 -0300
+
+    bump
+
+commit 38c04375eff567d74dff2b8ba1004aa91dadb1da
+Merge: 65b7170 c15384d
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Oct 1 16:32:46 2018 -0300
+
+    Merge pull request #16 from regro-cf-autotick-bot/0.32.0
+    
+    wheel v0.32.0
+
+commit c15384d9f6a7f1b96d4b5215bb76a7a707751f38
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Mon Oct 1 14:42:47 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.12 and pinning 2018.09.27
+
+commit bbd146f8957e7fecad1e7ebda308f54f46a8b4b9
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Oct 1 11:41:22 2018 -0300
+
+    Update conda-forge.yml
+
+commit 684b71495f550c3df9430701abd4762cdcf21e5b
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Sun Sep 30 21:46:39 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.12 and pinning 2018.09.27
+
+commit 670346c8c7328327aa456331353ef140c19a9dc6
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Sun Sep 30 18:45:27 2018 -0300
+
+    Update meta.yaml
+
+commit c877b282a9742baf0019f6fcc3d404f43d717cb0
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Sun Sep 30 17:43:53 2018 -0300
+
+    Update meta.yaml
+
+commit 77f3622de94345c850937edfbd764d5e0ef701e1
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sat Sep 29 16:10:53 2018 +0000
+
+    updated v0.32.0
+
+commit 65b71708594a151da2e110694ef2b356f44b5acf
+Merge: a8481d9 fc10c72
+Author: Marius van Niekerk <marius.v.niekerk@gmail.com>
+Date:   Sun Sep 23 07:02:59 2018 -0400
+
+    Merge pull request #15 from regro-cf-autotick-bot/rebuild
+    
+    Rebuild for Python 3.7, GCC 7, R 3.5.1, openBLAS 0.3.2
+
+commit fc10c72966ba5105ee71f02185a9551fbd112494
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sun Sep 23 05:10:17 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.12 and pinning 2018.09.20
+
+commit 106c36e5d9c84981f074d079754dda46fba107e6
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sun Sep 23 05:09:54 2018 +0000
+
+    bump build number
+
+commit a8481d9130d85290f94dc179288daced6160df4d
+Author: Travis CI User <travis@example.org>
+Date:   Sat Aug 4 17:21:37 2018 +0000
+
+    [ci skip] [skip ci] Update anaconda token
+
+commit aeb1452bd84bc39bdd8e6b5dbd6d2e9630de8b20
+Merge: 0e1b1fd b6db6e7
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Tue Jul 31 14:31:50 2018 -0300
+
+    Merge pull request #14 from ocefpaf/py37
+    
+    testing py37
+
+commit b6db6e70384eba621a14a7392a29c90cd8318a78
+Author: Filipe Fernandes <ocefpaf@gmail.com>
+Date:   Tue Jul 31 12:04:54 2018 -0300
+
+    testing py37
+
+commit 0e1b1fd8a7be247666168dc75b360b5d7271eaba
+Merge: 2263a9f 54af3c7
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Sat Jul 7 10:13:10 2018 -0300
+
+    Merge pull request #11 from regro-cf-autotick-bot/0.31.1
+    
+    wheel v0.31.1
+
+commit 54af3c740b6e315c07d4fcb4131dd4db73259520
+Author: Travis CI User <travis@example.org>
+Date:   Sun May 13 23:09:30 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.2 and pinning 2018.05.07
+
+commit 46d77be56356c4455ac339e9a2ce0adee8a3e48b
+Author: Travis CI User <travis@example.org>
+Date:   Sun May 13 23:09:21 2018 +0000
+
+    updated v0.31.1
+
+commit 2263a9f480efac82de5c605c428a9a3514abca36
+Merge: 32ee8af e779550
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Tue Apr 3 10:59:24 2018 -0300
+
+    Merge pull request #10 from regro-cf-autotick-bot/0.31.0
+    
+    wheel v0.31.0
+
+commit e7795508174517ae06c2930d8f1f408c037814d8
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Tue Apr 3 08:36:14 2018 -0300
+
+    script: python -m pip install --no-deps --ignore-installed . did not work :-/
+
+commit a9c522b640a8efca8d79228e53ed1edab04a747d
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Tue Apr 3 08:27:22 2018 -0300
+
+    Update meta.yaml
+
+commit b04a51b4d483900b16edd2110813c2610bc0e950
+Author: Travis CI User <travis@example.org>
+Date:   Mon Apr 2 23:45:18 2018 +0000
+
+    updated v0.31.0
+
+commit 32ee8afc5dede1c82c61ceccde6e6da647a31bb5
+Merge: 19a93d2 d633208
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Fri Jan 5 11:25:37 2018 -0800
+
+    Merge pull request #9 from jakirkham-feedstocks/revert_noarch
+    
+    Revert noarch
+
+commit d633208e394016c2eebe7f478aa4ae0d807ecc7f
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Wed Jan 3 16:50:53 2018 -0500
+
+    Bump build number to 2
+    
+    Needed to rebuild the package as it is no longer `noarch: python`.
+
+commit 1debd42d7eb95340bad9877d60b493167e82f1c2
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Wed Jan 3 16:49:56 2018 -0500
+
+    MNT: Re-rendered with conda-smithy 2.4.5
+    
+    Now that `noarch: python` has been removed, re-render to get back all of
+    the different OS builds.
+
+commit f81c9cfea94116fe1763094590ccce0c1fb31bed
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Wed Jan 3 16:46:58 2018 -0500
+
+    Drop noarch: python
+    
+    As this is a dependency of `pip` and common to include in
+    `constructor`-based installers (which do not currently support `noarch:
+    python`), this reverts `noarch: python` to create an arch-based `wheel`
+    package again.
+
+commit 19a93d262ed3c41faa0f04ba476d2b65ef1eae3e
+Merge: b27f556 22edfb8
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Thu Sep 21 11:04:36 2017 -0400
+
+    Merge pull request #7 from sannykr/update_0.30.0
+    
+    build number bump
+
+commit 22edfb81ab5956427037a2b4d725a5d9ed4e7cf2
+Author: Sanny Kumar <sanny.iitkgp@gmail.com>
+Date:   Thu Sep 21 09:45:16 2017 -0500
+
+    build number bump
+
+commit b27f5567ab8d6803fbd40c1d355701c7c15fdaea
+Merge: 5d64cb2 a0b9c47
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Thu Sep 21 10:25:07 2017 -0400
+
+    Merge pull request #6 from sannykr/update_0.30.0
+    
+    correcting the norach line
+
+commit a0b9c471e97d199cc191376e4f85b472ea7779ee
+Author: Sanny Kumar <sanny.iitkgp@gmail.com>
+Date:   Thu Sep 21 09:11:23 2017 -0500
+
+    correcting the norach
+
+commit 5d64cb23fe6760330b012488f136420c295f30f3
+Merge: eea5449 2b53d9a
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Wed Sep 20 16:54:55 2017 -0400
+
+    Merge pull request #5 from sannykr/update_0.30.0
+    
+    update_0.30.0
+
+commit 2b53d9accf8a7a94f7056551a4d8476fcff187b4
+Author: Sanny Kumar <sanny.iitkgp@gmail.com>
+Date:   Tue Sep 19 12:38:55 2017 -0500
+
+    removed wheel.test from test/imports section
+
+commit 115aca8493f36b29d720f90d25ef616762c814b1
+Author: Sanny Kumar <sanny.iitkgp@gmail.com>
+Date:   Tue Sep 19 12:19:54 2017 -0500
+
+    added wheel.test to test/imports section
+
+commit a4244a4f8fbafc50438332f4dcbc58b7a25742ac
+Author: sanny kumar <sanny.iitkgp@gmail.com>
+Date:   Tue Sep 19 12:00:33 2017 -0500
+
+    MNT: Re-rendered with conda-smithy 2.4.0
+
+commit b7fd756e374da58de24a9de4f436b8f44f16faf3
+Author: Sanny Kumar <sanny.iitkgp@gmail.com>
+Date:   Thu Sep 14 15:01:13 2017 -0500
+
+    noarch
+
+commit 4d8ca99754bec1ef09e2284c5e97efa8ad2ab169
+Author: Sanny Kumar <sanny.iitkgp@gmail.com>
+Date:   Thu Sep 14 14:56:50 2017 -0500
+
+    MNT: Re-rendered with conda-smithy 2.4.0
+
+commit da28fb9c7ca0229fb37c6918381d90323d1e4b0c
+Author: Sanny Kumar <sanny.iitkgp@gmail.com>
+Date:   Thu Sep 14 11:52:57 2017 -0500
+
+    removed wheel.test from the test imports
+
+commit ea3199f3afc9805a95e2485849bb2fd6177e31dc
+Author: Sanny Kumar <sanny.iitkgp@gmail.com>
+Date:   Wed Sep 13 13:24:57 2017 -0500
+
+    update_0.30.0
+
+commit eea54492e0915049461cf923472f6f514b16d024
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Sat Aug 26 20:03:24 2017 +0000
+
+    [ci skip] [skip ci] Update anaconda token
+
+commit 5138ad7fc9632de3992d48cd5f6b5a14b534c54a
+Merge: 8d2d7e9 993eb13
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Dec 26 16:19:41 2016 -0300
+
+    Merge pull request #4 from ocefpaf/py36
+    
+    rerender with auto
+
+commit 993eb131e23206562f632dd63760d0a87f960e94
+Author: ocefpaf <ocefpaf@gmail.com>
+Date:   Sun Dec 25 22:10:58 2016 -0300
+
+    rerender with auto
+
+commit 8d2d7e9d59c2d5e87a3a40acfda7596a26789a45
+Merge: 1030e87 5879313
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Sun Dec 18 00:47:56 2016 -0500
+
+    Merge pull request #3 from conda-forge-admin/feedstock_rerender_master
+    
+    MNT: Re-render the feedstock [ci skip]
+
+commit 5879313022af7183b5d1b6a2f4f60fd1af2b2f81
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Fri Dec 16 01:45:07 2016 +0000
+
+    MNT: Updated the feedstock for conda-smithy version 1.7.0.
+
+commit 1030e872c52dcbb3e63d10c059fc2d49cdc6c638
+Merge: 1a7c0c4 ec5ca66
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Tue Nov 15 21:39:50 2016 -0500
+
+    Merge pull request #2 from conda-forge-admin/feedstock_rerender_master
+    
+    MNT: Re-render the feedstock [ci skip]
+
+commit ec5ca6618b2c5915d5ed56f47e455ed6c7019f2a
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Tue Nov 15 01:42:23 2016 +0000
+
+    MNT: Updated the feedstock for conda-smithy version 1.5.3.
+
+commit 1a7c0c49a5d3830702cf2087374f3466fe21e088
+Merge: 9f9a2dd 08f4e46
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Thu Jul 21 03:04:25 2016 -0400
+
+    Merge pull request #1 from jakirkham/add_pelson
+    
+    Add @pelson
+
+commit 08f4e46ce4719f17af80c9acd67a448b8b251f29
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Sat Jul 16 19:19:43 2016 -0400
+
+    recipe: Add @pelson as a maintainer.
+
+commit 9f9a2ddf66a4faaea4cd70363e60be0346f2db8b
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Sat Jul 16 23:17:36 2016 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit 4dc1235c248863f2e5208d0136e4a1c288c00d56
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Sat Jul 16 23:16:09 2016 +0000
+
+    Initial commit of the wheel feedstock.

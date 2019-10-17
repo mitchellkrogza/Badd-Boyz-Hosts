@@ -1,0 +1,376 @@
+commit 3ab79f2abb16d1fc70aad6a23cb8d57fa78092b4
+Merge: 4154eaf 03e5b52
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri Sep 20 15:59:27 2019 -0500
+
+    conda-package-handling v1.6.0 (#41)
+    
+    conda-package-handling v1.6.0
+
+commit 03e5b529f969c8b2d47a01aa136b080441174210
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri Sep 20 15:31:10 2019 -0500
+
+    updated v1.6.0
+
+commit a9beffe162a7c553c70976a08cd6af13de5e64c4
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Mon Sep 16 14:47:05 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.18.9, conda-smithy 3.4.6, and conda-forge-pinning 2019.09.08
+
+commit b062096d0994c6a397bd580e656e8ea43ad4d8b1
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Thu Sep 12 14:57:01 2019 -0500
+
+    add static_deps_licenses
+
+commit 8b8ed22f6d5872769dd8bca291fb866d5825868d
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Thu Sep 12 14:55:13 2019 -0500
+
+    update to 1.5.0
+    
+    * Add build/host dependency on cython, _libarchive_static_for_cph and
+      compilers.
+    * Remove run dependency on libarchive and python-libarchive-c.
+    * Add import tests.
+    * Package licenses for software statically linked to Python extension.
+
+commit 4154eaf3788c561838eceec57fcefe763123e958
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Fri Sep 6 20:18:08 2019 -0500
+
+    [ci skip] ***NO_CI*** Move from appveyor to azure.
+    
+    See https://github.com/conda-forge/conda-forge.github.io/issues/857
+
+commit 3b4bafe4b4f0bb4971d820d090756ddf4e099234
+Merge: 7b1ebdc 60b5517
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Sun Aug 4 19:37:32 2019 -0500
+
+    Merge pull request #37 from msarahan/1.4.1
+    
+    conda-package-handling v1.4.1
+
+commit 60b5517b6c339c817e9375a382c69c4fa49e68bf
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Sun Aug 4 18:50:31 2019 -0500
+
+    updated v1.4.1
+
+commit 7b1ebdc69e6ec2e0308c9e3803b3ad904f9629ab
+Merge: 0d77cbc dc34dc4
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri Aug 2 18:08:00 2019 -0500
+
+    Merge pull request #36 from msarahan/1.4.0
+    
+    conda-package-handling v1.4.0
+
+commit dc34dc44de35277c19141bc62a72efca334ea778
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri Aug 2 17:46:45 2019 -0500
+
+    add license_file
+
+commit 6c680ec9948c86696670d5fcb7df7fd66a354bce
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Fri Aug 2 17:44:39 2019 -0500
+
+    MNT: Re-rendered with conda-build 3.18.9, conda-smithy 3.4.1, and conda-forge-pinning 2019.07.26
+
+commit e5102765d4f7276fa39cba32f55c274c00bf5e77
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Fri Aug 2 17:44:23 2019 -0500
+
+    updated v1.4.0
+
+commit 0d77cbcfe5b82625fdc2efbe590f317dd0680f6a
+Merge: 8f09ade 6a202e5
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Thu Jul 11 08:35:50 2019 -0500
+
+    conda-package-handling v1.3.11 (#34)
+    
+    conda-package-handling v1.3.11
+
+commit 6a202e59cbf3094775468c78a808f4a73cc535d2
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Thu Jul 11 07:54:41 2019 -0500
+
+    updated v1.3.11
+
+commit 8f09ade237ed9fdb6471897ed52d5521cd39c17f
+Merge: 06eb87c 6b01e17
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Mon Jun 24 14:31:47 2019 -0500
+
+    conda-package-handling v1.3.10 (#33)
+    
+    conda-package-handling v1.3.10
+
+commit 6b01e17cbcf1547fe3db4a27e589fb9628a66f36
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Mon Jun 24 14:16:36 2019 -0500
+
+    updated v1.3.10
+
+commit 06eb87c2891d9b24d0d720963fefacb357a09f8c
+Merge: 92c85f1 fff2ec5
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri Jun 14 16:42:53 2019 -0500
+
+    conda-package-handling v1.3.9 (#31)
+    
+    conda-package-handling v1.3.9
+
+commit fff2ec5991e129447e330360729555fa63e6d66d
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri Jun 14 16:15:43 2019 -0500
+
+    updated v1.3.9
+
+commit 92c85f14c2d2fce2ed6977de93c92540f8bf1ab9
+Merge: 09fe02a 58c838e
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Thu Jun 13 16:01:43 2019 -0500
+
+    Merge pull request #29 from msarahan/1.3.8
+    
+    conda-package-handling v1.3.8
+
+commit 58c838e9668b8d6c3dd42672549da526f8c9ea68
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Thu Jun 13 13:53:36 2019 -0500
+
+    MNT: Re-rendered with conda-build 3.17.8, conda-smithy 3.3.7, and conda-forge-pinning 2019.06.09
+
+commit 9c96553e926ff8fa8daf6f73987cd973a54a89ef
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Thu Jun 13 13:53:17 2019 -0500
+
+    updated v1.3.8
+
+commit 09fe02ae188fc9ff13d680cfc04b8f26255c8e3a
+Merge: 9062b08 e242eb6
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Wed Jun 12 16:42:24 2019 -0500
+
+    Merge pull request #27 from msarahan/1.3.7
+    
+    conda-package-handling v1.3.7
+
+commit e242eb602dce933a5a2df93411833d9dde132024
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Wed Jun 12 16:16:38 2019 -0500
+
+    updated v1.3.7
+
+commit 9062b08244282acd739f0336a57320c588918019
+Merge: fa51c06 52d20d1
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Wed Jun 12 12:58:33 2019 -0500
+
+    Merge pull request #25 from msarahan/1.3.6
+    
+    conda-package-handling v1.3.6
+
+commit 52d20d1ed25eff697fd75499894673bfa0fa0079
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Wed Jun 12 12:24:22 2019 -0500
+
+    updated v1.3.6
+
+commit fa51c06de7c2a5c3e4479bd972d3de934feb3735
+Merge: 166c691 eb3ae82
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Tue Jun 11 20:56:50 2019 -0500
+
+    Merge pull request #23 from msarahan/1.3.4
+    
+    conda-package-handling v1.3.4
+
+commit eb3ae82b2b20be8d7b004b63dee10c3ac82f9649
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Tue Jun 11 20:45:50 2019 -0500
+
+    updated v1.3.4
+
+commit 166c691faf9fc21c17b91efff2bee77cd8061341
+Merge: d172e23 12f241e
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Tue Jun 11 16:34:41 2019 -0500
+
+    Merge pull request #19 from msarahan/1.3.2
+    
+    conda-package-handling v1.3.2
+
+commit 12f241e323e5792c08d143cd94ab16fb0bb0ac4a
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Tue Jun 11 16:18:15 2019 -0500
+
+    need mock for testing too
+
+commit 58ad8ff2dae2a2f9559d777052e4d5b46b0e3bb6
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Tue Jun 11 16:10:11 2019 -0500
+
+    Forgot new pytest mock test dep
+
+commit 739b8efe6d458992d4cc3d51ce29d10c8163d373
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Tue Jun 11 15:53:58 2019 -0500
+
+    updated v1.3.2
+
+commit d172e234de24ffc026affed3a742347f035871d3
+Merge: b5b0113 949d634
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Tue Jun 11 09:54:58 2019 -0500
+
+    conda-package-handling v1.3.1 (#18)
+    
+    conda-package-handling v1.3.1
+
+commit 949d6344944936bc2b85807fb4a4f0c940f01415
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Jun 11 14:30:31 2019 +0000
+
+    updated v1.3.1
+
+commit b5b0113c83d35b96efcf70f706ff0ee4a4ce9ed2
+Merge: 512353d 016b3da
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Mon Jun 10 15:16:44 2019 -0500
+
+    Merge pull request #15 from msarahan/1.3.0
+    
+    conda-package-handling v1.3.0
+
+commit 016b3dae700d1b5b26e9838fb33e7ffa60ada993
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Mon Jun 10 13:52:12 2019 -0500
+
+    updated v1.3.0
+
+commit 512353d59c5b242d31de08d15491872748bbf4cd
+Merge: 0f677b3 d2d34fb
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Mon Jun 10 08:27:02 2019 -0700
+
+    conda-package-handling v1.2.0 (#13)
+    
+    conda-package-handling v1.2.0
+
+commit d2d34fbf1449e6032ad76c1fab8b0452218518a1
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Sat Jun 8 20:36:16 2019 -0500
+
+    updated v1.2.0
+
+commit 0f677b37039d9159eb45c4910c235349d31d0ab1
+Merge: 9e777c5 46d8767
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Tue May 21 14:30:33 2019 -0500
+
+    conda-package-handling v1.1.5 (#12)
+    
+    conda-package-handling v1.1.5
+
+commit 46d8767d99d60d53180103b192edf4d618db9bf0
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue May 21 09:26:39 2019 -0500
+
+    change tarball filename so that versioneer works
+
+commit 6f884c1869525eff64d8f39c723959e38566a847
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue May 21 14:18:09 2019 -0500
+
+    updated v1.1.5
+
+commit 9e777c5840eb0e7f28176b6952afc8b203a604e9
+Merge: 7640497 f22541f
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Mon May 20 16:09:04 2019 -0500
+
+    Merge pull request #5 from msarahan/1.1.2
+    
+    conda-package-handling v1.1.2
+
+commit f22541fc65d592a015ee92aafaa11f015a24c9de
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Mon May 20 13:53:33 2019 -0500
+
+    add futures dep for py27 parallelism
+
+commit 8fa797a30b51ca265b82bfedcebab3e0a3947ed7
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Mon May 20 13:48:03 2019 -0500
+
+    updated v1.1.2
+
+commit 7640497b24d912cd50a79750b442403a8c466f66
+Merge: 1728bc2 373b63b
+Author: Isuru Fernando <isuruf+cf@gmail.com>
+Date:   Sun May 19 14:58:13 2019 -0500
+
+    Merge pull request #4 from regro-cf-autotick-bot/rebuildaarch64_and_ppc64le_addition1_arch
+    
+    Arch Migrator
+
+commit 373b63bb883bee72a5a4bbb33339fb1c47ab0e34
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sun May 19 19:33:28 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.17.8, conda-smithy 3.3.4, and conda-forge-pinning 2019.05.11
+
+commit 3aa2211746513b6181014afce8339bc7c66e7a8b
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sun May 19 19:33:15 2019 +0000
+
+    bump build number
+
+commit 1728bc2117b8f56f3475ebc5e2fec0dbd9d7185d
+Merge: f8784ec 0e46c45
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Tue May 14 20:06:31 2019 -0500
+
+    conda-package-handling v1.1.1 (#3)
+    
+    conda-package-handling v1.1.1
+
+commit 0e46c45e53f3daaa2b3b41bd91fb5e7fdd49dbd1
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue May 14 19:58:56 2019 -0500
+
+    updated v1.1.1
+
+commit f8784ecbb7c4e26b2446b5d9954bdbe28fd5cbea
+Merge: 199948c a218a17
+Author: Mike Sarahan <msarahan@continuum.io>
+Date:   Fri May 10 14:32:40 2019 -0500
+
+    conda-package-handling v1.1.0 (#1)
+    
+    conda-package-handling v1.1.0
+
+commit a218a17658620d2bb3ae92582bd6cc3e7ce4ac4a
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Fri May 10 13:42:52 2019 -0500
+
+    updated v1.1.0
+
+commit 199948c548533e34d3b5dc9cf587b28efaea14c0
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Fri Apr 12 14:08:23 2019 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit 4ab25be9c575fcb81c7a5c91321863da2955eafe
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Fri Apr 12 14:05:22 2019 +0000
+
+    Initial feedstock commit with conda-smithy 3.3.2.

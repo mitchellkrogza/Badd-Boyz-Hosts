@@ -1,0 +1,70 @@
+# This file created by conda-build 3.11.0
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/ruamel_yaml-0.15.46-python_3.7-on-linux_64, last modified Mon Jul 30 16:30:44 2018
+# ------------------------------------------------
+
+package:
+    name: ruamel_yaml
+    version: 0.15.46
+source:
+    fn: ruamel_yaml-0.15.46.tar.gz
+    patches:
+        - ordereddict_test.patch
+    sha256: 256fe31c23003339f7a056a68ffdd7a55544ae1195a9a1f155effe51e46d175f
+    url: https://bitbucket.org/ruamel/yaml/get/0.15.46.tar.gz
+build:
+    number: '0'
+    string: py37h14c3975_0
+requirements:
+    build:
+        - binutils_impl_linux-64 2.28.1 had2808c_3
+        - binutils_linux-64 7.2.0 had2808c_27
+        - gcc_impl_linux-64 7.2.0 habb00fd_3
+        - gcc_linux-64 7.2.0 h550dcbe_27
+        - libstdcxx-ng 7.2.0 hdf63c60_3
+    host:
+        - ca-certificates 2018.03.07 0
+        - certifi 2018.4.16 py37_0
+        - cython 0.28.4 py37hf484d3e_0
+        - libedit 3.1.20170329 h6b74fdf_2
+        - libffi 3.2.1 hd88cf55_4
+        - libgcc-ng 7.2.0 hdf63c60_3
+        - libstdcxx-ng 7.2.0 hdf63c60_3
+        - ncurses 6.1 hf484d3e_0
+        - openssl 1.0.2o h20670df_0
+        - python 3.7.0 hc3d631a_0
+        - readline 7.0 ha6073c6_4
+        - setuptools 39.2.0 py37_0
+        - sqlite 3.24.0 h84994c4_0
+        - tk 8.6.7 hc745277_3
+        - xz 5.2.4 h14c3975_4
+        - yaml 0.1.7 had09818_2
+        - zlib 1.2.11 ha838bed_2
+    run:
+        - libgcc-ng >=7.2.0
+        - python >=3.7,<3.8.0a0
+        - yaml >=0.1.7,<0.2.0a0
+test:
+    imports:
+        - ruamel_yaml
+        - ruamel_yaml.ext._ruamel_yaml
+    requires:
+        - pytest
+about:
+    description: 'ruamel.yaml is a YAML 1.2 loader/dumper package for Python.
+
+        '
+    dev_url: https://bitbucket.org/ruamel/yaml/src
+    doc_source_url: https://bitbucket.org/ruamel/yaml/src/default/_doc/?at=default
+    doc_url: http://yaml.readthedocs.io/en/latest/overview.html
+    home: https://bitbucket.org/ruamel/yaml
+    license: MIT
+    license_family: MIT
+    license_file: LICENSE
+    summary: A patched copy of ruamel.yaml.
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - jakirkham
+        - mingwandroid

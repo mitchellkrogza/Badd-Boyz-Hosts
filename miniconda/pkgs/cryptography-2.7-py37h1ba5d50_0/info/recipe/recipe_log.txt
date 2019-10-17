@@ -1,0 +1,204 @@
+commit 415c942c73a0f01a3441d9a6b854141ba32ce435
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Mon Mar 11 11:50:02 2019 -0500
+
+    2.6.1
+
+commit 9c19b888fa4c17ed22770471bd1ee404d74ec1f7
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Fri Feb 8 12:12:06 2019 -0600
+
+    2.5
+
+commit 31bd8ea090e7b8c73472c5c97cf6b2ec40c319be
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Fri Dec 21 10:25:29 2018 -0600
+
+    set env var for proper building with openssl 1.0.2 and 1.1.1 (with variant)
+
+commit a926f8a2cc5431caa8c5c0b3c761cf0abdab1ab9
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Mon Dec 17 16:17:54 2018 -0600
+
+    2.4.2
+
+commit d26a6e97862c4fe1083a616710ce5e4333035b2b
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Fri Dec 14 13:47:15 2018 -0600
+
+    bump build number
+
+commit abba54f72d18ccb9228464576caa1caa37a25560
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Thu Nov 15 16:23:17 2018 -0600
+
+    2.4.1
+
+commit aafd35655a0412ab273c63c97c71dca3f3a1127e
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Thu Nov 1 14:42:31 2018 -0500
+
+    build 2, openssl 1.1.1
+
+commit 2940d45d981dee269e7b5b743fda24f7a948cc06
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Wed Aug 29 06:58:33 2018 +0000
+
+    Skip broken macOS test
+
+commit 2df0ca4739b65e652af151712612598b6fe0ee38
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Thu Aug 23 08:48:04 2018 -0500
+
+    2.3.1
+
+commit 69bc72c703255d37a7408f995c7a282266c45b26
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Thu Aug 23 08:41:44 2018 -0500
+
+    cryptography-vectors is a test-time-only dep
+
+commit 7227d83fc72d2f3efb2626d916a5f04c0f9f1e0a
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Tue Aug 14 17:17:04 2018 -0500
+
+    Use legacy openssl only on Python 2.7
+
+commit f2075c481541bf867543817d93a8777fe0f37856
+Author: Maggie-M <maggie.mari@continuum.io>
+Date:   Thu Aug 31 20:47:28 2017 -0500
+
+    Update meta.yaml
+
+commit 0aba74b32df27e72a0c7a5551fe4a391ae1df3ed
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Mon Aug 21 09:42:41 2017 +0100
+
+    Add cross-compilation support and about metadata
+
+commit fc6a3fb1d6173f33c4301cd78b3abc8a9128e792
+Merge: 83399c1 2fa0ac4
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Jul 23 16:22:28 2018 -0300
+
+    Merge pull request #7 from regro-cf-autotick-bot/2.3
+    
+    cryptography v2.3
+
+commit 2fa0ac42aed6dfb65ceac090b0564561dea033e7
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Jul 23 15:43:35 2018 -0300
+
+    Update meta.yaml
+
+commit a1c7b59ca5b9bc741e429a6f8ede58e64648765e
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Wed Jul 18 12:10:21 2018 +0000
+
+    updated v2.3
+
+commit 83399c1617626c5ade62d0fead2bb2949d7a7047
+Merge: f5625f4 e87f612
+Author: Julien Schueller <schueller@phimeca.com>
+Date:   Sun Jul 1 10:27:26 2018 +0200
+
+    Merge pull request #6 from regro-cf-autotick-bot/compiler_migration2
+    
+    Migrate to Jinja2 compiler syntax
+
+commit e87f612348069216c58f967a1be86feb8daf4efd
+Author: Travis CI User <travis@example.org>
+Date:   Sun Jul 1 00:06:05 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.6 and pinning 2018.06.29
+
+commit 6d838fa58add0c0fe3a144ac0457daf2af34c890
+Author: Travis CI User <travis@example.org>
+Date:   Sun Jul 1 00:05:57 2018 +0000
+
+    migrated to Jinja2 compiler syntax build
+
+commit f5625f403b0d618ae0972bb1a43f30e03f939ca1
+Merge: e442b0f 0d51df7
+Author: Julien Schueller <schueller@phimeca.com>
+Date:   Sat Mar 24 10:30:32 2018 +0100
+
+    Merge pull request #4 from AnacondaRecipes/cf_sync
+    
+    Bump version to 2.2.1
+
+commit 0d51df75a23d8f1aca6446eaba4dc40898a10d3c
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Sat Mar 24 03:14:27 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 2.4.5
+
+commit 6910b85f2d77c4281aea6046ea05bff5e2d0324c
+Author: Nehal J Wani <nehaljw.kkd1@gmail.com>
+Date:   Fri Mar 23 14:36:27 2018 -0500
+
+    Bump version to 2.2.1
+
+commit b938295c5d9a415a77bc8fe1b62ce0da39cb574c
+Author: Maggie-M <maggie.mari@continuum.io>
+Date:   Thu Aug 31 20:47:28 2017 -0500
+
+    Update meta.yaml
+
+commit e442b0ff623b2ebebacdfd8e2dec25216551c88a
+Merge: 0e8dc96 466818a
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Sun Dec 3 15:05:48 2017 -0500
+
+    Merge pull request #3 from AnacondaRecipes/cf_sync
+    
+    Bump version to 2.1.4
+
+commit 466818a023da0437f5923ef862337d036c248a2b
+Author: Nehal J Wani <nehaljw.kkd1@gmail.com>
+Date:   Sat Dec 2 03:57:45 2017 -0600
+
+    Bump version to 2.1.4
+
+commit 0e8dc9637db1b752dc4594f0f42af9c73ca1d2a7
+Merge: 756eb7e 5d7131e
+Author: Julien Schueller <schueller@phimeca.com>
+Date:   Tue Sep 5 08:55:57 2017 +0200
+
+    Merge pull request #2 from nehaljwani/bump-version-2.0.3
+    
+    Bump version to 2.0.3
+
+commit 5d7131ec1e70dfcdd88daeef7157a00e5eec718f
+Author: Nehal J Wani <nehaljw.kkd1@gmail.com>
+Date:   Mon Sep 4 19:59:50 2017 +0000
+
+    Bump version to 2.0.3
+    
+    - Update about section
+    - Update test requirements
+    - Add another test import
+
+commit 5e87fac77c3f0702594ee425f1f5574dc65ee0fb
+Author: Nehal J Wani <nehaljw.kkd1@gmail.com>
+Date:   Mon Sep 4 19:33:30 2017 +0000
+
+    MNT: Re-rendered with conda-smithy 2.3.3
+
+commit 756eb7e423237d5bc236fafa8d436ee093f06689
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Sat Aug 26 21:48:45 2017 +0000
+
+    [ci skip] [skip ci] Update anaconda token
+
+commit 3f42b7654b35cb510ed56bb8a6efe23c40c88a05
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Fri Jun 23 21:25:40 2017 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit 506590552a9b71d96c1d135a92e064ca97873c47
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Fri Jun 23 21:23:25 2017 +0000
+
+    Initial feedstock commit with conda-smithy 2.3.2.

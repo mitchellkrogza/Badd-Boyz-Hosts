@@ -1,0 +1,52 @@
+{% set version = "2.22.0" %}
+
+package:
+  name: requests
+  version: {{ version }}
+
+source:
+  url: https://pypi.io/packages/source/r/requests/requests-{{ version }}.tar.gz
+  sha256: 11e007a8a2aa0323f5a921e9e6a2d7e4e67d9877e85773fba9ba6419025cbeb4
+
+build:
+  number: 0
+  script: "{{ PYTHON }} -m pip install . --no-deps --ignore-installed -vv"
+
+requirements:
+  host:
+    - python
+    - pip
+  run:
+    - python
+    - chardet >=3.0.2,<3.1.0
+    - idna >=2.5,<2.9
+    - urllib3 >=1.21.1,<1.25
+    - certifi >=2017.4.17
+
+test:
+  imports:
+    - requests
+
+about:
+  home: http://python-requests.org
+  license: Apache 2.0
+  license_file: LICENSE
+  summary: 'Python HTTP for Humans'
+  description: |
+    Requests is the only Non-GMO HTTP library for Python, safe for human
+    consumption.
+  doc_url: http://docs.python-requests.org/
+  dev_url: https://github.com/kennethreitz/requests
+  doc_source_url: https://github.com/requests/requests/tree/master/docs
+
+extra:
+  recipe-maintainers:
+    - jakirkham
+    - kalefranz
+    - mcg1969
+    - mingwandroid
+    - msarahan
+    - pelson
+    - sigmavirus24
+    - ocefpaf
+    - carlodri

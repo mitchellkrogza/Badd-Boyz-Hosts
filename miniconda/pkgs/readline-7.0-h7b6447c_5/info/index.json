@@ -1,0 +1,15 @@
+{
+  "arch": "x86_64",
+  "build": "h7b6447c_5",
+  "build_number": 5,
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "ncurses >=6.1,<7.0a0"
+  ],
+  "license": "GPL-3.0",
+  "name": "readline",
+  "platform": "linux",
+  "subdir": "linux-64",
+  "timestamp": 1535475436442,
+  "version": "7.0"
+}

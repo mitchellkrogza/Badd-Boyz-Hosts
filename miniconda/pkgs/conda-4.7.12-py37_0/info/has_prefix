@@ -1,0 +1,10 @@
+/opt/anaconda1anaconda2anaconda3 text bin/activate
+/opt/anaconda1anaconda2anaconda3 text bin/conda
+/opt/anaconda1anaconda2anaconda3 text bin/conda-env
+/opt/anaconda1anaconda2anaconda3 text bin/deactivate
+/opt/anaconda1anaconda2anaconda3 text condabin/conda
+/opt/anaconda1anaconda2anaconda3 text etc/fish/conf.d/conda.fish
+/opt/anaconda1anaconda2anaconda3 text etc/profile.d/conda.csh
+/opt/anaconda1anaconda2anaconda3 text etc/profile.d/conda.sh
+/opt/anaconda1anaconda2anaconda3 text lib/python3.7/site-packages/xontrib/conda.xsh
+/opt/anaconda1anaconda2anaconda3 text shell/condabin/conda-hook.ps1

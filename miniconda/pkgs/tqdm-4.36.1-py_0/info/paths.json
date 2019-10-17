@@ -1,0 +1,155 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/tqdm-4.36.1.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/tqdm-4.36.1.dist-info/LICENCE",
+      "path_type": "hardlink",
+      "sha256": "1bbf12d09d437844527b3cdaba01d379dac651b5cbb5ebb0d764274684d2680b",
+      "size_in_bytes": 2003
+    },
+    {
+      "_path": "site-packages/tqdm-4.36.1.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "cd7bee327532bcf17178175b313feacb14feac2e35c1c670f84a59962e32bd29",
+      "size_in_bytes": 45878
+    },
+    {
+      "_path": "site-packages/tqdm-4.36.1.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "585927bd2ce3870cd000d2d92b720f114df10cc3135dad3d35736abed57f7f45",
+      "size_in_bytes": 2283
+    },
+    {
+      "_path": "site-packages/tqdm-4.36.1.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+      "size_in_bytes": 110
+    },
+    {
+      "_path": "site-packages/tqdm-4.36.1.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "c0301a7bac2dd963605dbfd99394cdbbd626aa869f506da957b2b50977f793f5",
+      "size_in_bytes": 40
+    },
+    {
+      "_path": "site-packages/tqdm-4.36.1.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "34b89424d7e673d02dd79b3b254462c2fa8c123522f46e4f30646b98c6333523",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/tqdm/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "5a64fad145f2a8181aee1f301f355adcd007872fa45ca25674460bb7c7928aa3",
+      "size_in_bytes": 1635
+    },
+    {
+      "_path": "site-packages/tqdm/__main__.py",
+      "path_type": "hardlink",
+      "sha256": "cf7390a2508a0fcad4777a4a629fc5212ab655cb45845975995f835676a834e3",
+      "size_in_bytes": 29
+    },
+    {
+      "_path": "site-packages/tqdm/_main.py",
+      "path_type": "hardlink",
+      "sha256": "68c800affe7036eca126cd100bc1fe21c1dfbb0dd9ddd764caf74557912dbab1",
+      "size_in_bytes": 267
+    },
+    {
+      "_path": "site-packages/tqdm/_monitor.py",
+      "path_type": "hardlink",
+      "sha256": "ebe13e0e9c41b37f13c49e03739cc0af7086430897e219ca057c91df411ce0cc",
+      "size_in_bytes": 3676
+    },
+    {
+      "_path": "site-packages/tqdm/_tqdm.py",
+      "path_type": "hardlink",
+      "sha256": "9db8546c274033d235b7df531ce0f4517ccaff924ee2915ca1fdba0901a239dd",
+      "size_in_bytes": 267
+    },
+    {
+      "_path": "site-packages/tqdm/_tqdm_gui.py",
+      "path_type": "hardlink",
+      "sha256": "4ff1e46a1032f1e237df7a153007187a27e4e6779114c486b2f67904dfbc8817",
+      "size_in_bytes": 271
+    },
+    {
+      "_path": "site-packages/tqdm/_tqdm_notebook.py",
+      "path_type": "hardlink",
+      "sha256": "4bac25ee2bbc8d345b1b9e247e824993a083a116a68625cd24298ab8f1f8047c",
+      "size_in_bytes": 291
+    },
+    {
+      "_path": "site-packages/tqdm/_tqdm_pandas.py",
+      "path_type": "hardlink",
+      "sha256": "e118d2a736c72e07ee44b2503db0dff7f2d3f9fff475bda068007a9ce2787580",
+      "size_in_bytes": 1608
+    },
+    {
+      "_path": "site-packages/tqdm/_utils.py",
+      "path_type": "hardlink",
+      "sha256": "0d34b7712c6f098d45fc9ca0e12c7b9c81405ba9b404e98014b056068c6031b5",
+      "size_in_bytes": 530
+    },
+    {
+      "_path": "site-packages/tqdm/_version.py",
+      "path_type": "hardlink",
+      "sha256": "c45400d6de7d1849de0f33ae45e3ddf536831dee3b16523e10f02bda160382ac",
+      "size_in_bytes": 2318
+    },
+    {
+      "_path": "site-packages/tqdm/auto.py",
+      "path_type": "hardlink",
+      "sha256": "ef36591569613a8cda0bdd444ef68f6eb518d2a016ec2e2f9b17797d6854b134",
+      "size_in_bytes": 231
+    },
+    {
+      "_path": "site-packages/tqdm/autonotebook.py",
+      "path_type": "hardlink",
+      "sha256": "bea328ccdf67f8c520435dcdd9569ed4c074e37f901978ca5cbfcba87abc5948",
+      "size_in_bytes": 643
+    },
+    {
+      "_path": "site-packages/tqdm/cli.py",
+      "path_type": "hardlink",
+      "sha256": "49a003c251e562c7b889353c3fcaa95146c10fbd4d82b726546753ad233ca325",
+      "size_in_bytes": 7031
+    },
+    {
+      "_path": "site-packages/tqdm/gui.py",
+      "path_type": "hardlink",
+      "sha256": "d1c1e20744ed984299531a717e79739f2a7653da1edd637fad37d38482a76c0e",
+      "size_in_bytes": 11587
+    },
+    {
+      "_path": "site-packages/tqdm/notebook.py",
+      "path_type": "hardlink",
+      "sha256": "2d1301ae7516c3e6eef2dc846e61c681ff72b66e41653c10c37980980c6e5c45",
+      "size_in_bytes": 9379
+    },
+    {
+      "_path": "site-packages/tqdm/std.py",
+      "path_type": "hardlink",
+      "sha256": "002d839b542de56a3d532d232cdc12efb531bd4f58d3c0d6cfc01aeff72f4096",
+      "size_in_bytes": 53131
+    },
+    {
+      "_path": "site-packages/tqdm/tqdm.1",
+      "path_type": "hardlink",
+      "sha256": "154d38fb71939a77839ce1044ca1b928f1faab1712c65b33c65a53dc0b960df6",
+      "size_in_bytes": 6570
+    },
+    {
+      "_path": "site-packages/tqdm/utils.py",
+      "path_type": "hardlink",
+      "sha256": "209a679def0326672a4f721fc07ce5db22c2fcd1760e5c694cb9e53430a0ba90",
+      "size_in_bytes": 8184
+    }
+  ],
+  "paths_version": 1
+}

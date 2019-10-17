@@ -1,0 +1,13 @@
+prefix=/opt/anaconda1anaconda2anaconda3
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libedit
+Description: command line editor library provides generic line editing, history, and tokenization functions.
+Version: 3.1
+Requires:
+Libs: -L${libdir} -ledit
+Libs.private: -ltinfo 
+Cflags: -I${includedir} -I${includedir}/editline
+

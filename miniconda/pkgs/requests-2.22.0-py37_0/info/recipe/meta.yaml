@@ -1,0 +1,70 @@
+# This file created by conda-build 3.17.8
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/requests-2.22.0-python_3.7-on-linux_64, last modified Mon Jun  3 14:50:21 2019
+# ------------------------------------------------
+
+package:
+    name: requests
+    version: 2.22.0
+source:
+    sha256: 11e007a8a2aa0323f5a921e9e6a2d7e4e67d9877e85773fba9ba6419025cbeb4
+    url: https://pypi.io/packages/source/r/requests/requests-2.22.0.tar.gz
+build:
+    number: '0'
+    script: /tmp/build/80754af9/requests_1559573519193/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place/bin/python
+        -m pip install . --no-deps --ignore-installed -vv
+    string: py37_0
+requirements:
+    host:
+        - ca-certificates 2019.1.23 0
+        - certifi 2019.3.9 py37_0
+        - libedit 3.1.20181209 hc058e9b_0
+        - libffi 3.2.1 hd88cf55_4
+        - libgcc-ng 8.2.0 hdf63c60_1
+        - libstdcxx-ng 8.2.0 hdf63c60_1
+        - ncurses 6.1 he6710b0_1
+        - openssl 1.1.1c h7b6447c_1
+        - pip 19.1.1 py37_0
+        - python 3.7.3 h0371630_0
+        - readline 7.0 h7b6447c_5
+        - setuptools 41.0.1 py37_0
+        - sqlite 3.28.0 h7b6447c_0
+        - tk 8.6.8 hbc83047_0
+        - wheel 0.33.4 py37_0
+        - xz 5.2.4 h14c3975_4
+        - zlib 1.2.11 h7b6447c_3
+    run:
+        - certifi >=2017.4.17
+        - chardet >=3.0.2,<3.1.0
+        - idna >=2.5,<2.9
+        - python >=3.7,<3.8.0a0
+        - urllib3 >=1.21.1,<1.25
+test:
+    imports:
+        - requests
+about:
+    description: 'Requests is the only Non-GMO HTTP library for Python, safe for human
+
+        consumption.
+
+        '
+    dev_url: https://github.com/kennethreitz/requests
+    doc_source_url: https://github.com/requests/requests/tree/master/docs
+    doc_url: http://docs.python-requests.org/
+    home: http://python-requests.org
+    license: Apache 2.0
+    license_file: LICENSE
+    summary: Python HTTP for Humans
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - carlodri
+        - jakirkham
+        - kalefranz
+        - mcg1969
+        - mingwandroid
+        - msarahan
+        - ocefpaf
+        - pelson
+        - sigmavirus24

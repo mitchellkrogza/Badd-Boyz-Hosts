@@ -1,0 +1,276 @@
+commit c5541a193f7ddd5d5d27ec7208417229ac1b8df8
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Tue Jul 16 09:39:43 2019 -0500
+
+    3.29.0
+
+commit 2cb95be8c6f2ecea95505a1cdf4ecda792b2ba5e
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Mon Apr 22 13:42:34 2019 -0500
+
+    3.28.0
+
+commit 568ad0a5fe92856fc12b93766ffb21a6b595dc15
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Tue Mar 12 18:40:21 2019 -0500
+
+    sqlite 3.27.2
+
+commit 15741a79d01b561e0db558cd507a0676e9df839c
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Mon Dec 17 09:07:27 2018 -0600
+
+    3.26.0
+
+commit 7b1624057262b5befbe303444b9fca8292507762
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Thu Nov 15 12:48:20 2018 -0600
+
+    3.25.3
+
+commit c0646f9b4ae429476aa15e1a6b9fc3beac30f233
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Thu Sep 27 16:09:06 2018 -0500
+
+    update to 3.25.2
+
+commit 7b34e6ec7910fe981e38169cfb117ea28cd739cf
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Tue Jun 19 09:57:51 2018 -0500
+
+    update to version 3.24.0
+
+commit 9a659e1b590c911f40b9b7683c48fb0a6dcd3ff7
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Fri Apr 20 07:39:36 2018 -0500
+
+    zlib required on osx
+
+commit 61309289bd8b9b56b81f4818cb94a2a43497bac8
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Fri Apr 20 07:39:25 2018 -0500
+
+    add make as build dependency
+
+commit 531e7febf533aea4039ae50e2ce593a3d0ae2b11
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Fri Apr 20 07:38:28 2018 -0500
+
+    update to version 3.23.1
+
+commit 6e69d5129e289a501455995dba7a6307d2eda2ff
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue Jan 30 09:21:24 2018 -0600
+
+    update to 3.22.0; remove ppc register names patch
+
+commit 25665ff502086038422ee9236dfd8781c0f34fb1
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sun Dec 24 22:37:21 2017 +0000
+
+    Update to 3.21.0 and enable more features
+
+commit ce7cf11199934a222673303fef31ef5ced694a4e
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Fri Dec 1 15:12:58 2017 -0500
+
+    Fix powerpc build (undefine B0..4 as they are register names)
+
+commit ecb41cd742b9a79f17ceef2d8e995d6cd90e17a1
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Wed Nov 8 14:12:39 2017 -0600
+
+    remove vc features (use run_exports vc pkg instead)
+
+commit 00a6999fd60577aced7197a8858589e41d42bd15
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Tue Aug 29 03:12:00 2017 -0700
+
+    Update sqlite to 3.20.1
+
+commit 343f19bed257bb8a80fc243a8c1ca11200ae898b
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sun Aug 27 17:35:08 2017 +0100
+
+    Generalize logging
+
+commit 79e49fb8c116ce272e4b047426e6284ea2d8bfda
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Tue Aug 22 14:38:49 2017 +0100
+
+    Replace readline with libedit, remove unknown configure args
+
+commit 23a57a570ef48a69d778dbece32b4d8da590fcd9
+Merge: 9fcd13b 829433a
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri Aug 18 19:00:55 2017 -0500
+
+    Merge pull request #1 from msarahan/cb3
+    
+    simplify recipe for cb3
+
+commit 829433a903c86fd5898ad6b38812680dcc2d52d2
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Fri Aug 18 15:40:44 2017 -0500
+
+    simplify recipe for cb3
+
+commit 9fcd13be4b891ac263e7528d31736c7777bdf2aa
+Author: Nehal J Wani <nehaljw.kkd1@gmail.com>
+Date:   Tue Aug 15 13:17:00 2017 -0500
+
+    Update about section
+
+commit 2629f119c3c66edd8a98d63fc7cc0748bf3697aa
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sun Apr 9 12:41:00 2017 +0100
+
+    Add readline support
+
+commit 8dd33d68532430effa4902575a614906bb59d2b9
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Mon Apr 3 20:27:47 2017 +0100
+
+    Add cross-compilation support
+
+commit 90630d4ba7984ce546a4dabf502a0e6784834658
+Merge: b5f4429 9f36c71
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Thu Mar 16 14:10:18 2017 -0400
+
+    Merge pull request #16 from jakirkham/drop_license_family
+    
+    Drop license_family
+
+commit 9f36c719e68acb4d1c832e78a705719594d203f6
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Wed Mar 15 14:48:32 2017 -0400
+
+    Drop license_family as it is unneeded
+
+commit b5f44292f4a7ab68bd7c3e1631f324e59792e803
+Merge: 62ea5af 1549bd7
+Author: Jonathan J. Helmus <jjhelmus@gmail.com>
+Date:   Mon Jan 16 16:13:56 2017 -0600
+
+    Merge pull request #14 from lexual/issue013_v3.16.2
+    
+    bump version to v3.16.2
+
+commit 1549bd7be99166693f54620822dea72974c0692a
+Author: lexual <lex@jbadigital.com>
+Date:   Mon Jan 16 12:33:58 2017 +1100
+
+    bump version to v3.16.2
+    
+    ref #conda-forge/sqlite-feedstock#13
+
+commit 62ea5af281f1fb77485b330076b2fc956a34d590
+Merge: f07bc01 5194958
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Tue Nov 29 01:03:39 2016 -0500
+
+    Merge pull request #11 from conda-forge-admin/feedstock_rerender_master
+    
+    MNT: Re-render the feedstock [ci skip]
+
+commit 5194958cc475fb2aceb11ad17b92e811b9b0ac4b
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Tue Nov 29 01:34:56 2016 +0000
+
+    MNT: Updated the feedstock for conda-smithy version 1.6.0.
+
+commit f07bc01dc1655b05049d6b992e065376ee30b38a
+Merge: 3778a05 9a79299
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Wed Oct 26 07:41:48 2016 -0300
+
+    Merge pull request #10 from ocefpaf/update
+    
+    Update to 3.15.0
+
+commit 9a792997fc33fddcadb4eb74573e8151b8c841f5
+Author: ocefpaf <ocefpaf@gmail.com>
+Date:   Tue Oct 25 20:28:16 2016 -0300
+
+    Add myself
+
+commit 4a6809d1102a48fb24b920fa5fb8780e925aaf0a
+Author: ocefpaf <ocefpaf@gmail.com>
+Date:   Tue Oct 25 10:51:07 2016 -0300
+
+    Update to 3.15.0
+
+commit 3778a05299753e5500db62698120baa04c72ea2a
+Merge: b263127 0599974
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Wed Oct 19 08:49:21 2016 -0400
+
+    Merge pull request #9 from jakirkham/re-render_master_1.3.3
+    
+    MNT: Re-rendered with conda-smithy 1.3.3 [ci skip]
+
+commit 0599974360cd9ed1e98ff0b27a8877ba0c8418dd
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue Oct 18 23:26:51 2016 -0400
+
+    MNT: Re-rendered with conda-smithy 1.3.3
+
+commit b263127bfc1519a8eacf76197b2235d14681f7c2
+Merge: 3e6fe4f fab376c
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Wed Jun 8 09:58:26 2016 -0500
+
+    Merge pull request #4 from conda-forge/win_symbol_update
+    
+    revise export of win symbols; update to 3.13
+
+commit fab376ca5a01afee090f485d478669245951b790
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Thu Jun 2 19:18:48 2016 -0500
+
+    revise export of win symbols; update to 3.13
+
+commit 3e6fe4f6cfe09d6693a33b897767d46ad05006cb
+Merge: 0f52cdb 5a076e5
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Thu May 19 13:53:43 2016 -0400
+
+    Merge pull request #2 from jakirkham/tmplt_release_year
+    
+    Fix-up jinja
+
+commit 5a076e5aadb32076c7b8beac937d0f0e8f06f2fc
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue May 17 14:25:20 2016 -0400
+
+    recipe: Use jinja template for the release year too.
+
+commit 0f52cdb0050a51e707632653fd4d87486bc51944
+Merge: 6ef2826 cf65233
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Fri May 13 09:48:29 2016 -0400
+
+    Merge pull request #1 from conda-forge-admin/feedstock_rerender_master
+    
+    MNT: Re-render the feedstock
+
+commit cf65233ffa12cecc453683f7118d4915334c8329
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Fri May 13 07:44:24 2016 +0000
+
+    MNT: Updated the feedstock for conda-smithy version 0.10.3.
+    
+    [ci skip]
+
+commit 6ef2826350129dc014ee9c0b0b3844a38590f736
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Wed May 11 07:55:54 2016 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit 579a7498e8ed504214c6c0826a4a8269a1b5c1d8
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Wed May 11 07:55:11 2016 +0000
+
+    Initial commit of the sqlite feedstock.

@@ -1,0 +1,14 @@
+{
+  "arch": "x86_64",
+  "build": "py37_0",
+  "build_number": 0,
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "license": "MIT",
+  "name": "asn1crypto",
+  "platform": "linux",
+  "subdir": "linux-64",
+  "timestamp": 1570463088980,
+  "version": "1.0.1"
+}

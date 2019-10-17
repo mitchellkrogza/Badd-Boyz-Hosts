@@ -1,0 +1,14 @@
+{
+  "info": {
+    "arch": "x86_64",
+    "platform": "linux",
+    "subdir": "linux-64"
+  },
+  "_mod": "Mon, 07 Jan 2019 15:22:15 GMT",
+  "_etag": "W/\"36a0258cf0cf8e9443ccad1e3b4b1e5c\"",
+  "_cache_control": "public, max-age=30",
+  "_url": "https://repo.anaconda.com/pkgs/pro/linux-64/",
+  "packages.conda": {},
+  "removed": [],
+  "packages": {}
+}

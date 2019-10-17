@@ -1,0 +1,1 @@
+["hypothesis >=1.11.4", "cryptography-vectors 2.7.*", "pytest >=3.2.1,!=3.3.0", "pretend", "iso8601", "pytz"]

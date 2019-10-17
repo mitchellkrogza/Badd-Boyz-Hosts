@@ -1,0 +1,1761 @@
+commit ffa5d1aeadad0c41430a42a51de7c47754162845
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Thu Sep 12 12:41:53 2019 -0500
+
+    4.7.12
+
+commit 57a81ce6c753a146892a9ef5a476f41e96018c14
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Tue Aug 6 14:38:31 2019 -0500
+
+    fix wrong hash
+
+commit 5e5c2f95f701a208ed05ab0311bf57eeb34a7b28
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Tue Aug 6 14:31:43 2019 -0500
+
+    4.7.11
+
+commit 7ae306aae816792a81b29896baf48d2aefa7121c
+Author: Sophia Castellarin <scastellarin@anaconda.com>
+Date:   Fri Jul 19 15:21:07 2019 -0500
+
+    4.7.10
+
+commit e851d5a7a56616df0101c174b47f95f1e85287fd
+Author: Sophia Castellarin <scastellarin@anaconda.com>
+Date:   Thu Jul 18 14:26:52 2019 -0500
+
+    4.7.9 sha update
+
+commit 3860fc985de9eaefd6c1f51f67faae3e1e8987f7
+Author: Sophia Castellarin <scastellarin@anaconda.com>
+Date:   Thu Jul 18 14:22:28 2019 -0500
+
+    4.7.9
+
+commit 2439c3a9c37fea25f12d37388dbd3265a42560b0
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Wed Jul 17 16:18:28 2019 -0500
+
+    4.7.8
+
+commit 1933740fa649b11d2bf8cf6c1c68c29fd6d1c5ae
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri Jul 12 19:12:05 2019 -0500
+
+    4.7.7
+
+commit 55211b1e518a288905be2d1524f9b43e2a497de2
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri Jul 12 10:11:18 2019 -0500
+
+    4.7.6
+
+commit 6a6f1ce550784097966a4dd101524b281ecab2e7
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri Jun 14 10:00:06 2019 -0500
+
+    4.7.3
+
+commit e08a819082a3cf3ad118c2b4f6d24198959f8140
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri Jun 14 09:58:59 2019 -0500
+
+    4.7.2
+
+commit 8c3a6cb067a9e897eccfd5c5beaa7e3ed736e198
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Thu May 30 21:47:45 2019 -0500
+
+    4.7.1
+
+commit 9204f717d790d42d1d329248bc71347860463ade
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Wed Apr 17 15:35:31 2019 -0500
+
+    4.6.14
+
+commit af7caf175a4230d2ba3475923a9ae0cf18d3e86f
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue Apr 16 22:56:04 2019 -0500
+
+    add conda-build as test dep.  Disable test suite in tests for now.
+
+commit 9f9308a0099e144e4e7c58680a1fd2ca5d2a6122
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue Apr 16 21:32:04 2019 -0500
+
+    4.6.13; move test commands to scripts instead of meta.yaml
+
+commit 076c67280d30e17ccb29ddbcebec8a776bd0ceb1
+Merge: e29385b 6ccb2d7
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Sat Apr 13 11:20:46 2019 -0500
+
+    Merge branch 'master' into 4.6.x
+
+commit e29385b255e6b695fa66dee8e0ec635f1e67f74e
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Thu Apr 11 22:48:39 2019 +0200
+
+    Recipe sync up, docs URL fix
+
+commit be961ad6a6714aa6f240a197da07c7b4002dd00c
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Thu Apr 11 21:43:44 2019 +0200
+
+    Stop using call conda
+    
+    .. conda.bat now exits with an appropriate code so call is not
+    needed.
+    
+    Note: Before conda.bat got these additions the errorlevel was 0
+    yet the run_test.bat file would exit after running conda when
+    conda was not call-ed.
+    
+    To test this weird condition we would need some canary or
+    tombstone feature in conda-build where test failure can be
+    signalled by the continued existence of a specifically named
+    file that we delete at the end of the batch file (TEST_FAILED?)
+
+commit 45047527a0ad1ab21b1b60c2a0e6e83bac3e6be6
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Thu Apr 11 14:54:50 2019 -0500
+
+    bump build number
+
+commit 830657c7aedece77f1f10a396f77469af717728d
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Thu Apr 11 19:13:47 2019 +0200
+
+    Use MSYS2 to do the build
+    
+    All because I want to use sed
+
+commit b2bd74c5a4456bd1830e0a0b0ccbe76430a33723
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Thu Apr 11 18:31:12 2019 +0200
+
+    Add a test of using legacy activate on bash
+    
+    Also, we must call conda on cmd.exe on Windows, otherwise the
+    script just exits after conda info.
+
+commit 8c58959c38104bf01cfe9756cd004ebdc1ca6aad
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Wed Apr 10 15:03:20 2019 -0500
+
+    4.6.12
+
+commit 6ccb2d7a068c6fa0080e45e020abcac043d70650
+Merge: 3b2a136 c32b581
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Wed Apr 10 14:40:33 2019 -0500
+
+    Merge pull request #88 from regro-cf-autotick-bot/4.6.12
+    
+    conda v4.6.12
+
+commit c32b5817252cff29f444f6af78a74b14bdc6d507
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Wed Apr 10 19:25:13 2019 +0000
+
+    updated v4.6.12
+
+commit 3b2a136df8d9dd87438a279df2dfddd571f81658
+Merge: 52c0d60 1ab2d3c
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Thu Apr 4 21:00:23 2019 -0500
+
+    Merge pull request #87 from regro-cf-autotick-bot/4.6.11
+    
+    conda v4.6.11
+
+commit 1ab2d3c8997a6ff7ad3dfbc74cee40bf0e5987de
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Apr 4 22:53:53 2019 +0000
+
+    updated v4.6.11
+
+commit 9222100121d773fef7f07d5af1a8c961f28f86e0
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Thu Apr 4 10:59:10 2019 -0500
+
+    4.6.11
+
+commit 52c0d6006c1fdceda763958f530b3c7051c4e825
+Merge: 6d34bfc 2921a33
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Tue Apr 2 18:13:03 2019 -0300
+
+    Merge pull request #86 from regro-cf-autotick-bot/4.6.10
+    
+    conda v4.6.10
+
+commit 2921a33d97b5c0f353cb614d9fd15ff3691be312
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Apr 2 20:29:20 2019 +0000
+
+    updated v4.6.10
+
+commit 5cd33f6e049ff3319ae52903183ac9cfef38ffcb
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Tue Apr 2 15:10:36 2019 -0500
+
+    4.6.10
+
+commit 6d34bfce74b2ef66a31b932f15a4049cfc94b867
+Merge: d848375 53180e9
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Apr 1 08:08:55 2019 -0300
+
+    Merge pull request #85 from regro-cf-autotick-bot/4.6.9
+    
+    conda v4.6.9
+
+commit 53180e961810bb1fd0b1a46130240d798b4a5456
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sat Mar 30 02:26:35 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.17.8, conda-smithy 3.3.2, and conda-forge-pinning 2019.03.17
+
+commit 26f3fa0ddbdbb1f5e46a9f133f00439f23702f6c
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sat Mar 30 02:26:22 2019 +0000
+
+    updated v4.6.9
+
+commit a0c26270b48d093fbf5307743fee667570e85928
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri Mar 29 20:38:08 2019 -0500
+
+    4.6.9
+
+commit 1d6736c872ca749176b8c35a331fb300ad8ded73
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Thu Mar 7 13:51:15 2019 -0600
+
+    4.6.8
+
+commit d848375954d93802cc85647877f0eafe24308783
+Merge: 43297c0 7fde76e
+Author: Isuru Fernando <isuruf@gmail.com>
+Date:   Wed Mar 13 02:37:50 2019 -0500
+
+    Merge pull request #82 from isuruf/arch
+    
+    aarch64 and ppc64le
+
+commit 7fde76ecf860d4d69ee79ea4f6cd26cf1cb748df
+Author: Isuru Fernando <isuruf@gmail.com>
+Date:   Wed Mar 13 00:52:06 2019 -0500
+
+    MNT: Re-rendered with conda-build 3.17.8, conda-smithy 3.2.14, and conda-forge-pinning 2019.03.11
+
+commit 914a1043a13c4d9a72289a905c5c520c68ba0fed
+Author: Isuru Fernando <isuruf@gmail.com>
+Date:   Wed Mar 13 00:50:07 2019 -0500
+
+    Build aarch64 and ppc64le
+
+commit 43297c0afc6590deb11a831d838269861afc07ff
+Merge: aa48909 464e54a
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Thu Mar 7 16:11:03 2019 -0800
+
+    Merge pull request #80 from regro-cf-autotick-bot/4.6.8
+    
+    conda v4.6.8
+
+commit 464e54a33e6e6c7b751898ff51f7a35cb72121dc
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Mar 7 04:27:01 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.17.8, conda-smithy 3.2.14, and conda-forge-pinning 2019.03.04
+
+commit 8063a53f34e5a5ad926b40c718fd201aef0e983e
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Mar 7 04:26:48 2019 +0000
+
+    updated v4.6.8
+
+commit aa489099c595092a81336b928ac7b3d4a3f32699
+Merge: 56ba921 9583d5f
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Fri Feb 22 10:47:22 2019 -0300
+
+    Merge pull request #79 from regro-cf-autotick-bot/4.6.7
+    
+    conda v4.6.7
+
+commit 9583d5fa5fca62d5ea4fcb3487d6e57cf4558878
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Fri Feb 22 02:15:55 2019 +0000
+
+    updated v4.6.7
+
+commit 632cb5331515117705702f1ccb5785a8d7dbe595
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Thu Feb 21 19:47:58 2019 -0600
+
+    4.6.7
+
+commit 56ba921d8e5b1f17b1c3ba09895a92017c093065
+Merge: daaa7da bb52648
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Thu Feb 21 15:26:59 2019 -0500
+
+    Merge pull request #78 from regro-cf-autotick-bot/4.6.6
+    
+    conda v4.6.6
+
+commit bb52648f9dda4ae08e49b093cf5f457d63ba084b
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon Feb 18 15:18:23 2019 +0000
+
+    updated v4.6.6
+
+commit daaa7da015a9c3e1e53db82ff2d942af9e8c1bbc
+Merge: 01d5a8b a00144f
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Wed Feb 13 18:50:38 2019 -0500
+
+    Merge pull request #76 from regro-cf-autotick-bot/4.6.4
+    
+    conda v4.6.4
+
+commit a00144f5e42c5abbebe5b1de80142e57b7eced21
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Wed Feb 13 20:15:43 2019 +0000
+
+    updated v4.6.4
+
+commit 6ea792b91804945b7671479e5b1b007759906e8b
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Wed Feb 13 13:49:04 2019 -0600
+
+    4.6.4
+
+commit 0c6357a62e72df08f2cfa5e8b7ba8a9b31ed8df0
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Thu Feb 7 21:47:22 2019 -0600
+
+    4.6.3
+
+commit 01d5a8b65b6ffb0b0a544616e1ecdfbb46678701
+Merge: 826a183 62b3e8c
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Thu Feb 7 19:29:28 2019 -0500
+
+    Merge pull request #75 from regro-cf-autotick-bot/4.6.3
+    
+    conda v4.6.3
+
+commit 62b3e8c345a6f44cd6ba607386b56e03d509f6c4
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Fri Feb 8 00:14:11 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.15.1, conda-smithy 3.2.13, and conda-forge-pinning 2019.01.29
+
+commit 6f8edfb9824f1a1812cc8f3084eb7a7cf28d4bfa
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Fri Feb 8 00:13:59 2019 +0000
+
+    updated v4.6.3
+
+commit 826a183b8fbd4158cff7ffc10e4be7b3a527926e
+Merge: f22cf72 110ccac
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Wed Jan 30 10:45:17 2019 -0500
+
+    Merge pull request #74 from regro-cf-autotick-bot/4.6.2
+    
+    conda v4.6.2
+
+commit 110ccac969157fb67902949ee64b05da5a9695a4
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Wed Jan 30 09:40:13 2019 -0500
+
+    Fix downstreams tests
+    
+    since conda-smithy doesn't support python 2
+
+commit beadbe24963c52bc5e6b1db5023118a3476788cb
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Wed Jan 30 03:16:24 2019 +0000
+
+    updated v4.6.2
+
+commit f22cf72483b73a51fba5a4435942d5afe430df17
+Merge: a1d2263 a77d311
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Fri Jan 25 22:34:43 2019 -0500
+
+    Merge pull request #73 from soapy1/test-downstream
+    
+    Test downstream conda-smithy & bump 4.6.1
+
+commit a77d31144a55afa76e01eec0b0b298fa81a4cb14
+Author: soapy1 <scastellarin@anaconda.com>
+Date:   Fri Jan 25 15:46:54 2019 -0600
+
+    Bump version 4.6.1
+
+commit 3a26cd857873f84369b7b96ecd617a13030876bc
+Author: soapy1 <scastellarin@anaconda.com>
+Date:   Fri Jan 25 10:06:20 2019 -0600
+
+    Test downstream conda-smithy
+
+commit e4f5c7f65d5f3087fc015976772cd2a0c5e15cfa
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Mon Jan 21 21:44:45 2019 -0600
+
+    4.6.1
+
+commit a1d226352be2d5055c21ca6a83ce8d21aa68ca0d
+Merge: 2bc66e0 ebf6a75
+Author: Marius van Niekerk <marius.v.niekerk@gmail.com>
+Date:   Tue Jan 15 16:56:52 2019 -0500
+
+    Merge pull request #69 from mariusvniekerk/regro-cf-autotick-bot-4.6.0
+    
+    Regro cf autotick bot 4.6.0
+
+commit ebf6a75ae8634dc97aaa77d52ca8ebb6424200fb
+Merge: 2342f4b 3e33d59
+Author: Marius van Niekerk <marius.v.niekerk@gmail.com>
+Date:   Tue Jan 15 15:38:02 2019 -0500
+
+    Merge branch 'regro-cf-autotick-bot-4.6.0' of github.com:mariusvniekerk/conda-feedstock into regro-cf-autotick-bot-4.6.0
+
+commit 2342f4b13b2f3dbbed4ecc2ac096d6e821bcd084
+Author: Marius van Niekerk <marius.v.niekerk@gmail.com>
+Date:   Tue Jan 15 15:37:18 2019 -0500
+
+    Attempt to fix windows tests
+
+commit 3e33d59f2fd27f2f2232dfff39ef3d99c0e45259
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Tue Jan 15 20:22:27 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.17.5, conda-smithy 3.2.6, and conda-forge-pinning 2019.01.15
+
+commit c753921a3ba1aa16cef255c34534be1b0ee384d2
+Author: Marius van Niekerk <marius.v.niekerk@gmail.com>
+Date:   Tue Jan 15 15:12:41 2019 -0500
+
+    Bring recipe in line with upstrean
+
+commit ef49295454d88ba9e3ff0eddbd16796884617780
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Jan 15 19:22:37 2019 +0000
+
+    MNT: Re-rendered with conda-smithy 3.2.2 and pinning 2019.01.09
+
+commit fe7cead91441a540cfba1a11e1329b4a7be4a573
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Jan 15 19:22:30 2019 +0000
+
+    updated v4.6.0
+
+commit 016eedb1cb8eb64a147db2f57716ee170f042009
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Mon Dec 31 13:44:54 2018 -0600
+
+    4.6.0rc1
+
+commit 2bc66e0f79770a0f40b9f6058bd1efca52996862
+Merge: fd107ec efc5488
+Author: Jonathan J. Helmus <jjhelmus@gmail.com>
+Date:   Mon Dec 17 10:39:03 2018 -0600
+
+    Merge pull request #67 from regro-cf-autotick-bot/4.5.12
+    
+    conda v4.5.12
+
+commit efc54880b1fd0479dca6f4485362c257601936a8
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Dec 11 01:13:54 2018 +0000
+
+    updated v4.5.12
+
+commit 0b4ed63e32ca7d32444a2dbc70877d1003c26c05
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Mon Oct 22 22:23:39 2018 -0500
+
+    4.6.0b0 windows
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit c339378adb1419fbc6f414ceaab3f47947929259
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Mon Oct 22 22:00:06 2018 -0500
+
+    4.6.0b1
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 9990a541e9dba1ab094cbc92964c83a94df58558
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Mon Oct 22 21:59:10 2018 -0500
+
+    final 4.6.0b0
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit fd107ec5637c49155abc8827f1f5f1b7532da1ed
+Merge: 25e5a13 edcbaf3
+Author: Jonathan J. Helmus <jjhelmus@gmail.com>
+Date:   Fri Oct 12 08:58:30 2018 -0500
+
+    Merge pull request #66 from regro-cf-autotick-bot/rebuild
+    
+    Rebuild for Python 3.7, GCC 7, R 3.5.1, openBLAS 0.3.2
+
+commit edcbaf3900500bccfa3fc422bfaa2c0e528ad6ce
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Wed Oct 10 01:00:04 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.12 and pinning 2018.10.08
+
+commit 38660ccceea8d26cdd7c02184def9b6dbb9c1254
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Wed Oct 10 01:00:00 2018 +0000
+
+    bump build number
+
+commit 437bbfdb317f943ebec29b59d01e8037bdfb2049
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Sep 7 17:47:01 2018 -0500
+
+    skip win unit tests
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 397faa7f83fa073f11eb4f95b279245778689f57
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Sep 7 17:00:49 2018 -0500
+
+    debug
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 8a49870fd1bea7bc46ffcf8f8f525cc61fcb4862
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Sep 7 16:48:55 2018 -0500
+
+    enum34 and menuinst host
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 1c9ca07960cd181b08205276f453e050be404135
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Sep 7 16:12:22 2018 -0500
+
+    host need ruamel_yaml
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 5eb3029bf0d65b3ae602e639188a53f7ea4336dc
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Sep 7 16:00:54 2018 -0500
+
+    setuptools in host env
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 27faf5a2ad6b6b3a5d98d5453907763847dd8c5a
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Sep 7 15:48:36 2018 -0500
+
+    use host section
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 4dff7d38118cefaef0b2c6c64bbc43b35ac99ae2
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Sep 7 15:14:27 2018 -0500
+
+    try PYTHON env var
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit fba678292052100c88ffc879b4b4b12de476740d
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Sep 7 14:53:18 2018 -0500
+
+    allow failures
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 5d302653d7249650c9a802df5f426e831f39a74e
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Thu Sep 6 12:42:23 2018 -0500
+
+    use build environment for conda
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 94ffe1ac3ab26ac07ae1493d0ec6a3a36c1b2f62
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Thu Sep 6 08:22:07 2018 -0500
+
+    conda 4.6.0b0
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 25e5a13afa4d6eaf029b570f7a52afa08fe7e8ba
+Merge: 18bc9ca 7c6cb01
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Tue Aug 21 14:46:36 2018 -0400
+
+    Merge pull request #65 from regro-cf-autotick-bot/4.5.11
+    
+    conda v4.5.11
+
+commit 7c6cb01fbe005f6e6b601a97d774c34d43ac15dd
+Author: Marcel Bargull <mbargull@users.noreply.github.com>
+Date:   Tue Aug 21 18:58:42 2018 +0200
+
+    remove ruamel_yaml version constraints again
+
+commit 5cc72b581ff1dddf4e849e196cf54034db307a9c
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Aug 21 15:42:20 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.12 and pinning 2018.08.14
+
+commit 7385b1ae0ede34396ac38d728f184e645afd292f
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Aug 21 15:41:59 2018 +0000
+
+    updated v4.5.11
+
+commit 18bc9ca16ccad6bebdf0675520c2a147d79ab22b
+Merge: 18e5a88 5bd1099
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Mon Aug 20 09:52:56 2018 -0400
+
+    Merge pull request #64 from mbargull/ruamel_yaml-lt-0.15.55
+    
+    avoid newer incompatible ruamel_yaml versions
+
+commit 5bd109907913a8ab79551e9cdf8553c05ac53dfa
+Author: Marcel Bargull <marcel.bargull@udo.edu>
+Date:   Mon Aug 20 11:04:46 2018 +0200
+
+    avoid newer incompatible ruamel_yaml versions
+
+commit 18e5a8825ebc45c489baf12b6dad282a8099f870
+Merge: 81538cf c9f644d
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Mon Aug 13 14:38:58 2018 -0400
+
+    Merge pull request #61 from regro-cf-autotick-bot/4.5.10
+    
+    conda v4.5.10
+
+commit c9f644df153ebd0c578184c82b9c4d47bf6198b4
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon Aug 13 18:17:19 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.11 and pinning 2018.08.05
+
+commit 24c8dad4d2f865b0ccb293f9b99c940733d33952
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon Aug 13 18:17:00 2018 +0000
+
+    updated v4.5.10
+
+commit 81538cfec5fa361b5ae3c3a0c41f660a06463c44
+Merge: 0c8248a 42e7a4c
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Mon Jul 30 13:52:09 2018 -0400
+
+    Merge pull request #60 from regro-cf-autotick-bot/4.5.9
+    
+    conda v4.5.9
+
+commit 42e7a4c99e0ed3f7a30ac11a791b01b641d27d7c
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon Jul 30 17:13:19 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.8 and pinning 2018.07.24
+
+commit a7440de1a67edd1449ea5a3d377d06e5ab588fda
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon Jul 30 17:13:12 2018 +0000
+
+    updated v4.5.9
+
+commit 0c8248ab10ed42ff9c3c1a832a63bd2e564f21b4
+Author: Travis CI User <travis@example.org>
+Date:   Sun Jul 29 20:27:07 2018 +0000
+
+    [ci skip] [skip ci] Update anaconda token
+
+commit 3315e31d63ac53f4868fbb79e968d66e39ffe7e2
+Merge: 4d7165a b54c4ca
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Mon Jul 16 08:30:09 2018 -0500
+
+    Merge pull request #58 from mbargull/cf-ruamel-py2-ucs2
+    
+    update constraints on dependencies, add myself as maintainer
+
+commit b54c4caafe5c708d33043b60c5a74aabf1523c2f
+Author: Marcel Bargull <marcel.bargull@udo.edu>
+Date:   Thu Jul 12 15:02:05 2018 -0500
+
+    add mbargull to maintainers
+
+commit 26c37d0f280f0c0f10980e5da36d3d363717e8e3
+Author: Marcel Bargull <marcel.bargull@udo.edu>
+Date:   Thu Jul 12 14:59:16 2018 -0500
+
+    relax setuptools constraint
+
+commit f17cc9ac608571320575a834d80f458635803dbe
+Author: Marcel Bargull <marcel.bargull@udo.edu>
+Date:   Thu Jul 12 14:53:38 2018 -0500
+
+    bump build number
+
+commit af416ddcfde189d9e2757b3aa8e0e9831a56331f
+Author: Marcel Bargull <marcel.bargull@udo.edu>
+Date:   Thu Jul 12 14:38:31 2018 -0500
+
+    avoid ruamel_yaml versions that can't decode Unicode on UCS-2 Pythons
+
+commit 4d7165a5d752f3d5febe3c110430fe8ed6143ff1
+Merge: 3271317 6d2e0ec
+Author: Isuru Fernando <isuruf@gmail.com>
+Date:   Tue Jul 10 20:04:42 2018 -0600
+
+    Merge pull request #56 from kalefranz/conda-4.5.8
+    
+    conda 4.5.8
+
+commit 6d2e0ec1a6aac914f77f8a7b7f8d138c3ed4a965
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Tue Jul 10 10:12:47 2018 -0500
+
+    conda 4.5.8
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 32713177a38eb404c4ee42c07f80d886bc20157d
+Merge: 819d4f9 0beddf8
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Tue Jul 10 07:20:45 2018 -0500
+
+    Merge pull request #55 from regro-cf-autotick-bot/4.5.7
+    
+    conda v4.5.7
+
+commit 0beddf8cccf15065e115c95de2a077d8c2a78833
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Jul 10 04:32:58 2018 +0000
+
+    updated v4.5.7
+
+commit 819d4f9cebd85b0738cd73706310c575995459ea
+Merge: 70818e6 b8413db
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Sat Jul 7 07:36:51 2018 -0400
+
+    Merge pull request #54 from regro-cf-autotick-bot/4.5.6
+    
+    conda v4.5.6
+
+commit b8413db967575e45fa2be4b562cea56735657cb2
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sat Jul 7 04:06:56 2018 +0000
+
+    updated v4.5.6
+
+commit 70818e6d8ff878f14d8793295b4727a18a447398
+Merge: c999046 5cc62ce
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Mon Jul 2 07:37:12 2018 -0400
+
+    Merge pull request #53 from regro-cf-autotick-bot/4.5.5
+    
+    conda v4.5.5
+
+commit 5cc62cefad1dbd98d75826770ecc659ec8749af0
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sun Jul 1 08:01:05 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.6 and pinning 2018.06.29
+
+commit ba6f45d6e1366c34c8625f633a54aa8b282ee375
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sun Jul 1 08:00:45 2018 +0000
+
+    updated v4.5.5
+
+commit c999046e2a45e1539b507bc1a3a1a0c3b8815d6d
+Merge: 6149370 8166d72
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Sun May 20 15:28:05 2018 -0700
+
+    Merge pull request #50 from regro-cf-autotick-bot/4.5.4
+    
+    conda v4.5.4
+
+commit 8166d72f8de9ef49d63bc0ace4adc206a7852887
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Mon May 14 14:12:26 2018 -0400
+
+    Add `run_constrained` dependencies
+    
+    Include `run_constrained` dependencies for optional and downstream
+    dependencies reliant on this version of `conda`.
+
+commit 500b6e1562672fca73863867f0ca2d681ef62265
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Mon May 14 14:12:10 2018 -0400
+
+    Add version constraints to run requirements
+    
+    Some run requirements were missing version constraints. This adds them.
+
+commit 40389c32afba1c9a070a6ebf9eaab6c986c1aa6c
+Author: Travis CI User <travis@example.org>
+Date:   Mon May 14 17:29:28 2018 +0000
+
+    updated v4.5.4
+
+commit 614937031853d49aa07d2cacbe1f3f2ed2e6372d
+Merge: 38e4ba2 c727ad0
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Mon May 7 20:24:14 2018 -0400
+
+    Merge pull request #47 from regro-cf-autotick-bot/4.5.3
+    
+    conda v4.5.3
+
+commit c727ad0a979de41a21bcfce5e7ebab51a407a204
+Author: Travis CI User <travis@example.org>
+Date:   Mon May 7 23:00:30 2018 +0000
+
+    updated v4.5.3
+
+commit 0e45d401bdf4425c95bd5e6c2ad43319cf4dd5f6
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Mon May 7 13:51:45 2018 -0500
+
+    allow test failures
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit ed718466f3f6fa818a3191d4d409709ce114fe90
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Apr 27 00:18:33 2018 -0500
+
+    conda 4.6.0a2
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 38e4ba2898ab6c782283a0dff6f5e1819deef9b3
+Merge: 64b353e eb32e6a
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Mon Apr 30 18:12:37 2018 -0400
+
+    Merge pull request #46 from regro-cf-autotick-bot/4.5.2
+    
+    conda v4.5.2
+
+commit eb32e6abf690eaa0576997006cafd500bf923bb0
+Author: Travis CI User <travis@example.org>
+Date:   Fri Apr 27 17:23:46 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.2 and pinning 2018.04.26
+
+commit b42926a0fd2de8ec78237b1fe29938d52b674241
+Author: Travis CI User <travis@example.org>
+Date:   Fri Apr 27 17:23:00 2018 +0000
+
+    updated v4.5.2
+
+commit a19aeb43ca205f66d0385749c7154af5e43548f9
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Thu Apr 19 16:40:46 2018 -0500
+
+    conda 4.6.0a1
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 64b353e61225526037f456a047dcc852b017a67c
+Merge: 16ec47b 2a969c8
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Fri Apr 13 07:47:26 2018 -0500
+
+    Merge pull request #45 from regro-cf-autotick-bot/4.5.1
+    
+    conda v4.5.1
+
+commit 2a969c803f1f6af8d36cbfd90cefb7c66f45251c
+Author: Travis CI User <travis@example.org>
+Date:   Fri Apr 13 10:48:32 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 2.4.5
+
+commit 27fae11773b90b58c3e16c63e9eebe7246ad0973
+Author: Travis CI User <travis@example.org>
+Date:   Fri Apr 13 10:47:55 2018 +0000
+
+    updated v4.5.1
+
+commit a75f73f64da93db8df9e983dea48263e9cca1deb
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Apr 13 01:32:34 2018 -0500
+
+    conda 4.5.1
+    
+    Signed-off-by: Kale Franz <kfranz@continuum.io>
+
+commit 16ec47be6fbf3c9201ab54ea9549b57945e5cedc
+Merge: 451578e e0dbc9d
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Tue Apr 10 09:32:19 2018 -0400
+
+    Merge pull request #44 from jakirkham-feedstocks/release_4.5.0
+    
+    Release 4.5.0
+
+commit e0dbc9d950c6be310dbfb14db25843b6fffe2894
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue Apr 10 03:49:34 2018 -0500
+
+    Refresh our conda tests
+    
+    Basically just some tweaks to environment activation for newer versions
+    of `conda`.
+
+commit 81ba0ad2124a35bbe26b933a8ee1378eeb038d6e
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue Apr 10 03:49:32 2018 -0500
+
+    Use new conda install strategy
+    
+    Instead of trying to manage our own build procedure, simply use the nice
+    shell function that `conda` exposes.
+
+commit 572263b10df8ab87dc06aad2e6f0b5c11b02b122
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue Apr 10 03:49:28 2018 -0500
+
+    Refresh dependencies for 4.5.0
+
+commit 6ef7f1714ffb3e997c267ea49d39220bf031c96a
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue Apr 10 03:49:24 2018 -0500
+
+    Bump conda version to 4.5.0
+
+commit 1f4d272ca2bcb04811796721838b1e1e963da526
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue Apr 10 03:49:22 2018 -0500
+
+    Update conda URLs
+
+commit a7084d3e347141439dad4be344e48e231f7d9133
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue Apr 10 03:49:21 2018 -0500
+
+    Drop `name` templating and `fn`
+    
+    As `conda-build` and GitHub collectively do a good job at resolving past
+    issues with downloaded files, we don't need to bother with templating
+    the `name` here. So just drop it.
+
+commit db17eeec00302e7bea67ad9329e676d6652ba5a4
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Tue Mar 20 07:48:22 2018 -0500
+
+    conda 4.5.0
+
+commit ddcb7b41144d3ea290a3e7fb2126a173b9429bbe
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Wed Feb 28 20:31:13 2018 -0600
+
+    conda 4.5.0rc0
+
+commit b3a71770612b547ca6ff9ef331d4e11cbebd7498
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Feb 23 12:09:49 2018 -0600
+
+    write version in bld.bat
+
+commit 44fd724065405da2bd6586fb022b4d16036f152a
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Feb 23 11:28:39 2018 -0600
+
+    conda 4.4.11 with tarball
+
+commit 65a94d23bafdbc06d65560aa32c6f742c2e6d128
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Feb 23 07:24:03 2018 -0600
+
+    conda 4.4.11
+
+commit 451578e42ef14e3a1979352409b910e57d46cbf8
+Merge: fb9f0a9 d468dd5
+Author: Isuru Fernando <isuruf@gmail.com>
+Date:   Sat Feb 10 13:11:58 2018 -0600
+
+    Merge pull request #38 from mbargull/conda-4.3.34
+    
+    update to 4.3.34
+
+commit d468dd5b824287c59456f009041d2a5dfbdeaae3
+Author: Marcel Bargull <marcel.bargull@udo.edu>
+Date:   Fri Feb 9 23:51:01 2018 +0100
+
+    update to 4.3.34
+
+commit d201b24a0093cf89d97425bf2d86fad064d6636c
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Feb 9 15:46:48 2018 -0600
+
+    conda 4.4.10
+
+commit 98d51806689e87ec9ce0267a4118bf6d6cedddb6
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Tue Feb 6 14:38:24 2018 -0600
+
+    conda 4.4.9
+
+commit d7d7cfa29f2548d2582f83c81b76365707841e0a
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Jan 26 08:25:54 2018 -0600
+
+    conda 4.4.8
+
+commit fb9f0a94cd3e7bfb86fb6562f06f78eb59e183f5
+Merge: c9a369f 42bc85b
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Wed Jan 24 18:29:10 2018 -0200
+
+    Merge pull request #37 from mbargull/master
+    
+    update to 4.3.33
+
+commit 42bc85beecdfbdbf92f18f0601fcdbf2dd22cce8
+Author: Marcel Bargull <marcel.bargull@udo.edu>
+Date:   Wed Jan 24 19:57:32 2018 +0100
+
+    update to 4.3.33
+
+commit c9a369fa4ab493b64c10d6c5e6b3f67e9dcccf8e
+Merge: cac22f4 0d05b8a
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Thu Jan 18 16:26:22 2018 -0500
+
+    Merge pull request #36 from jakirkham-feedstocks/rel_4.3.32
+    
+    Release 4.3.32
+
+commit 0d05b8af342d772da09e6b68aff7ec99593b291d
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Wed Jan 17 00:47:58 2018 -0500
+
+    Release conda 4.3.32
+
+commit cac22f41dd2351d2c94b2c941eaa5e2a7adf4031
+Merge: afc5a09 4717c26
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Tue Jan 16 10:43:36 2018 -0500
+
+    Merge pull request #35 from minrk/patch-1
+    
+    4.3.31
+
+commit 4717c263144d5fd43785bb846ad6e0fc497b18ae
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Fri Jan 12 01:18:26 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 2.4.5
+
+commit f3ad8ad7dab840f3d683940d842a351fad5144e4
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Mon Jan 8 12:16:40 2018 -0600
+
+    4.4.7
+
+commit ce619261ed529832ea5e2eec35bb540ca32d28c2
+Author: Min RK <benjaminrk@gmail.com>
+Date:   Mon Jan 8 15:30:44 2018 +0100
+
+    4.3.31
+    
+    latest 4.3.x bugfix release
+
+commit 65dac8c626fd24be30a8361f342bad65db14c17b
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Sun Dec 31 13:23:59 2017 -0600
+
+    4.4.6
+
+commit d6153f5053903012ff8df2fa355ecabb6e9862ed
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Dec 29 13:48:27 2017 -0600
+
+    4.4.5
+
+commit 26f4ba98e3eb19a4b3d7cadf793a43954f5852f1
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Sun Dec 24 16:40:54 2017 -0600
+
+    4.4.4
+
+commit 1963042f429c105179803951b27543904cff0bb8
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Dec 22 16:17:06 2017 -0600
+
+    4.4.3
+
+commit 32fbf5b68b8e5473fd7a99859be62163ce38b2f4
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Dec 22 01:18:03 2017 -0600
+
+    4.4.2
+
+commit 3b88642564cc3439c849436ab38fc95ddd27bc33
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Thu Dec 21 16:17:58 2017 -0600
+
+    4.4.1
+
+commit 634ae8c58f692cc99391f7f3d6ad8e22110562cf
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Wed Dec 20 15:28:52 2017 -0600
+
+    4.4.0
+
+commit 337a417f54ddbcab43e5870671eeea9b64d32c2f
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Thu Dec 14 10:27:01 2017 -0600
+
+    4.4.0rc3
+
+commit db5cce0967e372147fad083b30d3864f80e06268
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Dec 1 11:27:25 2017 -0600
+
+    4.4.0rc2
+
+commit 9366e96e5a86fd0804af19b5405460fefc93173c
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Tue Oct 17 15:12:15 2017 -0500
+
+    Update to 4.3.30
+
+commit afc5a090af6e6e78693b55983a466271b60b8566
+Merge: 420cca8 20f71fb
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Tue Oct 10 17:55:22 2017 -0300
+
+    Merge pull request #34 from kalefranz/conda-4.3.29
+    
+    update to 4.3.29
+
+commit 20f71fb23c42a85c5bbb27935f741e6d5ed05766
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Tue Oct 10 15:06:24 2017 -0500
+
+    update to 4.3.29
+
+commit 1e27bdf420ee76499897495c394227ef411617df
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Mon Oct 9 15:16:53 2017 -0500
+
+    Update to 4.3.29
+
+commit f8572d73118c01f95dc45b9669122d2666260214
+Author: Nehal J Wani <nehaljw.kkd1@gmail.com>
+Date:   Fri Oct 6 16:49:03 2017 -0500
+
+    Bump version to 4.3.28
+
+commit 420cca8593e7ba144c58c7af12f8bfeaea85c505
+Merge: 655a1b6 a1f637d
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Mon Oct 2 22:33:15 2017 -0400
+
+    Merge pull request #31 from dougalsutherland/4.3.27
+    
+    bump version to 4.3.27
+
+commit a1f637d080f57fb68d4c5c6034f5067812bfe90a
+Author: Dougal J. Sutherland <dougal@gmail.com>
+Date:   Fri Sep 29 22:40:05 2017 +0100
+
+    bump version to 4.3.27
+
+commit 655a1b6247d00cbe75ae2a38801226005dbcfedc
+Merge: f82f722 fd4836c
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Mon Sep 25 23:17:32 2017 -0400
+
+    Merge pull request #30 from jakirkham-feedstocks/release_4.3.24
+    
+    Release 4.3.24
+
+commit fd4836ce852e5e1b85ae07cab0e9a861fe2897ac
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Mon Sep 25 22:54:47 2017 -0400
+
+    Release 4.3.24
+
+commit c77f2f3fdfd4869c6ec1d65e836f84425698cae4
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Mon Sep 25 22:52:16 2017 -0400
+
+    MNT: Re-rendered with conda-smithy 2.4.2
+
+commit a25c27db34060ae300f5e6c5a6c5a2b2d0521a99
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Tue Sep 19 04:57:23 2017 -0700
+
+    Update to 4.3.27
+
+commit 4de81ebc89a1e206973e2aa8db2c6e00a116b067
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Fri Sep 15 14:18:10 2017 -0500
+
+    4.3.26
+
+commit 32ae78414435b25629805d858f4577e9c19322ab
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sat Sep 9 14:56:16 2017 +0000
+
+    Update to 4.3.26
+
+commit c32ef3f974d7f7edcf7d7d23aa842bb000d5de74
+Author: Nehal J Wani <nehaljw.kkd1@gmail.com>
+Date:   Thu Aug 24 22:15:13 2017 +0000
+
+    Bump version to 4.3.25
+
+commit c71994fed4f7853b41a165064a8fac9345e932ae
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Mon Aug 21 09:38:59 2017 +0100
+
+    Update to version 4.3.24
+
+commit f82f722a49dfb2950f92636d84ece4afb510c116
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Tue Aug 15 02:50:33 2017 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit 2a897334b686aa00ff9992b6341cea6256b6442c
+Merge: 38dfd90 ff2bd64
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Mon Aug 14 21:24:12 2017 -0400
+
+    Merge pull request #26 from jakirkham/adv_conda_tst
+    
+    Advanced conda testing
+
+commit 38dfd9042f688c7d186df068199d34e214f4d51b
+Merge: 2753a05 7571beb
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Wed Aug 9 15:37:36 2017 -0400
+
+    Merge pull request #28 from jakirkham/release_4.3.23
+    
+    Release 4.3.23
+
+commit 7571beb0224bcc3df106b6ebba5d68eb27256654
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue Aug 8 17:40:37 2017 -0400
+
+    Release 4.3.23
+
+commit 756df0b2b8e5b379c75abcdbb53e0d664a900205
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sun Apr 9 13:25:35 2017 +0100
+
+    Add cross-compilation support.
+
+commit 2753a05c9527ab74e4835bc868ff59636bc91eb4
+Merge: 2a4314b 4f01831
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Thu Jun 22 00:16:50 2017 -0400
+
+    Merge pull request #27 from jakirkham/release_4.3.22
+    
+    Release 4.3.22
+
+commit 4f018317d72c9ff14033c43cccaaa87aa278164b
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Wed Jun 21 23:44:32 2017 -0400
+
+    Release 4.3.22
+
+commit 4648194ca029603b90de22e16b59949b5f68d2d5
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Wed Jun 21 23:40:40 2017 -0400
+
+    MNT: Re-rendered with conda-smithy 2.3.2
+    
+    Re-render to get of now unnecessary hacks to protect against unnecessary
+    `conda` upgrades.
+
+commit ff2bd64245d44a657a4b974e098fbfe61d0500e4
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Thu Jun 15 20:19:59 2017 -0400
+
+    Move conda test commands to activated environment
+    
+    Takes all of the `conda` test commands and moves them into the activated
+    environment. This should allow them to behave more naturally. Also it
+    should allow for expanded testing in the future like working with other
+    environments and packages.
+
+commit b7868a471d1e9c2114073c43c71161e257fedf47
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Thu Jun 15 20:19:23 2017 -0400
+
+    Construct a more natural environment to test conda
+    
+    Attempts to sort of emulate a `root`-like environment for `conda` to be
+    in for testing. It is not truly the `root` environment though as it is
+    still managed by `conda` from the actual `root` environment and this
+    does show up in a couple of spots.
+    
+    Some of the things done include specifying a separate package cache,
+    environment directory, and `.condarc` within the test environment.
+    Further the actual `root` environment is scrubbed from the path. This is
+    all done with a careful eye towards protecting a user that tries running
+    these tests on their own machine so as to avoid messing up their `conda`
+    install. Still users should approach this cautiously as this is very
+    experimental at this point. In short this tries as much as possible to
+    mimic a normal `root`-installed `conda` in as clean a way as possible.
+    
+    Adding this framework should make it easier to test things like
+    activating and deactivating environments, create and removing
+    environments, installing and uninstalling packages, etc. All in all this
+    should allow us to have more confidence in `conda` packages before
+    releasing them to `conda-forge`.
+
+commit 2a4314bcd7c1d5b7563ad818e2718f007e684e82
+Merge: 63f5f96 761e78e
+Author: Jonathan J. Helmus <jjhelmus@gmail.com>
+Date:   Thu Jun 15 14:55:24 2017 -0500
+
+    Merge pull request #25 from jakirkham/fix_up_conda_4.3_recipe
+    
+    Update recipe based on conda 4.3.21
+
+commit 761e78ecfd6e4b1f292ae26f55332b26cd404b98
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Mon Jun 12 14:30:44 2017 -0400
+
+    Skip updating `conda` (on AppVeyor)
+    
+    For some strange reason `conda` 4.2.13 seems willing to do **anything**
+    to upgrade itself. This includes downgrading from Python 3 to Python 2
+    in order to get the latest `conda`. The result is we actually can't
+    build and release `conda` for Python 3.5 and 3.6 currently.
+    
+    To fix this, we hack the AppVeyor script to disable the `conda` update
+    step. Also configure `conda` to disable its auto-updating feature. So it
+    won't try to update itself while doing something else. Hopefully this is
+    sufficient to workaround the problem. A re-rendering will clear out this
+    hack once we have completed the release.
+
+commit 1758e03162aa92d7470482d95cb2eaf67ed5a2c1
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Wed Jun 14 14:03:38 2017 -0400
+
+    MNT: Re-rendered with conda-smithy 2.3.2
+    
+    Re-render to update the README.
+
+commit 500ab4a2e2f62330bd19c2fa3bd2c736327c0bbc
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Wed Jun 14 11:58:11 2017 -0400
+
+    Update recipe based on conda 4.3.21
+    
+    Total revamp based on the copy in `conda`'s source.
+
+commit 63f5f966419522d74403e8ad3b1287022b15775f
+Merge: 9f7f612 25ac05e
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Mon Jun 12 16:12:22 2017 -0400
+
+    Merge pull request #23 from jakirkham/fix_win_rel_hack
+    
+    Skip updating `conda` (on AppVeyor)
+
+commit 25ac05efbd42f9817b83d994c7092c9823112180
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Mon Jun 12 14:30:44 2017 -0400
+
+    Skip updating `conda` (on AppVeyor)
+    
+    For some strange reason `conda` 4.2.13 seems willing to do **anything**
+    to upgrade itself. This includes downgrading from Python 3 to Python 2
+    in order to get the latest `conda`. The result is we actually can't
+    build and release `conda` for Python 3.5 and 3.6 currently.
+    
+    To fix this, we hack the AppVeyor script to disable the `conda` update
+    step. Also configure `conda` to disable its auto-updating feature. So it
+    won't try to update itself while doing something else. Hopefully this is
+    sufficient to workaround the problem. A re-rendering will clear out this
+    hack once we have completed the release.
+
+commit 0732751c7696ab747471ba67dc5dd97d4d4fe1a3
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Mon Jun 12 14:30:16 2017 -0400
+
+    MNT: Re-rendered with conda-smithy 2.3.1
+
+commit 9f7f6122d85c09e41afe45f1c6f700c4d09bc1c4
+Merge: 0ce4aed f0bee93
+Author: Anthony Scopatz <scopatz@gmail.com>
+Date:   Mon Jun 12 07:30:43 2017 -0700
+
+    Merge pull request #22 from slavoutich/43
+    
+    update conda to version 4.3.21
+
+commit f0bee93fc991074325253c4b69870fa1fc6a666d
+Author: Viacheslav Ostroukh <v.dev@ostroukh.me>
+Date:   Mon Jun 12 11:09:20 2017 +0200
+
+    change version to 4.3.21
+
+commit 8277bed8eabc08cd0b4dcec495bda78b1c955d52
+Author: Viacheslav Ostroukh <v.dev@ostroukh.me>
+Date:   Mon Jun 12 11:02:03 2017 +0200
+
+    replace curl with powershell
+    
+        Copypasted from pydotplus-feedstock.
+
+commit 9790c855a3c5e4b37b9dccb29f4543f11b9cb82f
+Author: Martin K. Scherer <m.scherer@fu-berlin.de>
+Date:   Thu Mar 23 16:54:04 2017 +0100
+
+    print library version in test phase
+
+commit 73af64b13edbccc53228b1967983243372cff8aa
+Author: Martin K. Scherer <m.scherer@fu-berlin.de>
+Date:   Thu Mar 23 15:10:49 2017 +0100
+
+    use conda.recipe setup.py
+
+commit 012cb2cda430f48e397522fabbb0bbe727fc9ae1
+Author: Bas Nijholt <basnijholt@gmail.com>
+Date:   Wed Mar 8 09:40:23 2017 +0100
+
+    MNT: Re-rendered with conda-smithy 2.1.1
+
+commit 2794bf18bbfaed13b478d3e4c973e8b1aba45fe1
+Author: Bas Nijholt <basnijholt@gmail.com>
+Date:   Wed Mar 8 09:30:48 2017 +0100
+
+    Bump to v4.3.14
+
+commit 0ce4aed0b050bb3c2c810f6c122a171116eff557
+Merge: f5aea8c ddab862
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Sat Feb 18 00:34:53 2017 -0500
+
+    Merge pull request #20 from jakirkham/re-render__master__2.0.1
+    
+    MNT: Re-rendered with conda-smithy 2.0.1 [ci skip]
+
+commit ddab8629841a6c54823629892bfe53f250ba0e3a
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Fri Feb 17 23:42:05 2017 -0500
+
+    MNT: Re-rendered with conda-smithy 2.0.1
+
+commit f5aea8c03d3071e5321412f98e6358c6b53150b2
+Merge: 2f054bf 5c29bf6
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Fri Feb 17 23:29:36 2017 -0500
+
+    Merge pull request #19 from jakirkham/release_4.2.16
+    
+    Release 4.2.16
+
+commit 5c29bf610f67d8b7e02e54b123d06c5e267e7f3d
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Wed Feb 15 12:53:54 2017 -0500
+
+    Release 4.2.16.
+
+commit 2f054bfb4cc8ed0dcffd40a63a445a9a70bcd28f
+Merge: d62bad3 de2782f
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Sat Feb 11 16:47:54 2017 -0500
+
+    Merge pull request #15 from jakirkham/re-render__master__1.7.0
+    
+    Re-render with 1.7.0 and add Python 3.6 support
+
+commit d62bad3bc0ed281fa18f56bbb50e562f21acface
+Merge: 7bc437d d2d1096
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri Feb 10 09:16:53 2017 -0600
+
+    Merge pull request #17 from jakirkham/add_core
+    
+    Add core
+
+commit d2d1096ebde121d711d1fcb78151742b825de8f1
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Fri Feb 10 09:45:12 2017 -0500
+
+    Sort the maintainer list.
+    
+    [ci skip]
+
+commit 262aac73fe52c58df0f8235fc4ce2aca7e695525
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Fri Feb 10 09:42:36 2017 -0500
+
+    Add all of core as maintainers.
+    
+    [ci skip]
+
+commit de2782fb9142a06690c7e37501b5aea611233b56
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Sun Jan 8 17:25:07 2017 -0500
+
+    MNT: Re-rendered with conda-smithy 1.7.0
+    
+    Re-render for Python 3.6 support.
+
+commit ec8a90d33fc4f0dbb79c7cbe153a152bcad94796
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Sun Jan 8 17:24:29 2017 -0500
+
+    MNT: Re-rendered with conda-smithy 1.7.0
+
+commit 7bc437d73e7cb5ab2f13f0889732edef173f8e8b
+Merge: 7793c86 d65f804
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Nov 28 17:33:00 2016 -0200
+
+    Merge pull request #14 from jakirkham/release_4.2.13
+    
+    Release 4.2.13
+
+commit d65f804147c2571e11363af2a491aa9a29a41529
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Wed Nov 23 12:22:38 2016 -0500
+
+    recipe: Bump to 4.2.13.
+
+commit 128754fc3b64cd8a8636abd3865b267b393f9305
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Fri Nov 11 13:58:09 2016 -0500
+
+    recipe: Add some tests for `conda-env`.
+
+commit 229fe84ae9efe952974d1f49e7761e4fff2c3b4a
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Fri Nov 11 13:57:51 2016 -0500
+
+    recipe: Add the `conda-env` entry point.
+
+commit 8b829195bcde721d474d9d1dfd91b94b6d164fe5
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Fri Nov 11 13:54:20 2016 -0500
+
+    MNT: Re-rendered with conda-smithy 1.5.1
+
+commit 7793c86ed0ab78b1d8382e440e1a54409294235b
+Merge: 5e2eecf 77c1e5d
+Author: Kale Franz <kalefranz@users.noreply.github.com>
+Date:   Wed Oct 26 23:54:32 2016 -0500
+
+    Merge pull request #6 from kalefranz/update-conda
+    
+    update conda to 4.2
+
+commit 77c1e5da23bdc26763bf22278ce03c437ee3d09f
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Sun Oct 23 20:54:10 2016 -0500
+
+    update to conda 4.2.11
+
+commit 96e1020bdf507f5fc03e4f01b5b3d539d3f333bb
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Sep 16 09:53:12 2016 -0500
+
+    conda 4.2.7
+
+commit 41a0c712811e4dfb778f9cd49b0536293c223f31
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Wed Sep 14 16:50:53 2016 -0500
+
+    somehow took version writing out
+
+commit 17e392ccaa56552bf3c303f3be58b88f2c5a3fcf
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Wed Sep 14 13:57:17 2016 -0500
+
+    conda 4.2.6 update
+
+commit ca26a03cddacc1ff3b7e9e4f4bd4207c1b97571e
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Thu Sep 8 00:14:26 2016 -0500
+
+    prepare recipe for 4.2.5; not yet tagged
+
+commit e688946ce5340e6ca50b22e985e34635b8b1cc09
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Wed Sep 7 23:57:47 2016 -0500
+
+    conda doesn't use setuptools
+
+commit 7dc8296949cd59c73b35e81d08a7504264ed14f8
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Wed Sep 7 23:38:38 2016 -0500
+
+    try conda 4.2.x branch with conda-forge build tools
+
+commit 5e2eecfdfb9b18b38d47e974b6ddcf7ecd9aaab3
+Merge: 09f8e66 8f842c8
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Sat Oct 15 16:19:29 2016 -0400
+
+    Merge pull request #10 from jakirkham/revert_appveyor_hack
+    
+    Revert AppVeyor hack
+
+commit 8f842c8fabda5989456c56d130b109947dc60b06
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Sat Oct 15 15:17:00 2016 -0400
+
+    MNT: Re-rendered with conda-smithy 1.3.3
+
+commit c961411f4c95fab05564c85cf43099533f074dc9
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Sat Oct 15 15:16:33 2016 -0400
+
+    Revert "appveyor: Re-render with a development copy of `conda-smithy`."
+    
+    This reverts commit f139f041d3aa40d2766b4ddbe315be3097ce1790.
+
+commit ed61adb30d562bafa74c3657528d9318bf16379c
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Fri Oct 14 16:16:00 2016 -0400
+
+    Revert "appveyor: Hack to switch to stay on `conda` version `4.1.12` for now."
+    
+    This reverts commit 57a940f2aff827e9341ada8fb2a8f98719f62f3f.
+
+commit 09f8e6643e5bf9db8acbb223b66ec6eb4e274180
+Merge: 2f53cf9 57a940f
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Sat Oct 15 15:08:28 2016 -0400
+
+    Merge pull request #9 from jakirkham/release_4.1.12
+    
+    Release 4.1.12
+
+commit 57a940f2aff827e9341ada8fb2a8f98719f62f3f
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Fri Oct 14 16:04:49 2016 -0400
+
+    appveyor: Hack to switch to stay on `conda` version `4.1.12` for now.
+
+commit f139f041d3aa40d2766b4ddbe315be3097ce1790
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Fri Oct 14 15:42:41 2016 -0400
+
+    appveyor: Re-render with a development copy of `conda-smithy`.
+
+commit 567ce1567ef7acb88c3e1938b1143b34fce28e76
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Fri Oct 14 15:26:05 2016 -0400
+
+    recipe: Bump to 4.1.12.
+
+commit 4d4f9a219fcac0de53fde25b9bb8ad25b3835e91
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Fri Oct 14 15:25:41 2016 -0400
+
+    MNT: Re-rendered with conda-smithy 1.3.2
+
+commit 2f53cf980b78c6917b76cec087a97a36097bb19e
+Merge: 173ac2f edde532
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Fri Sep 16 23:58:08 2016 -0400
+
+    Merge pull request #7 from kalefranz/add-mingwandroid
+    
+    add mingwandroid as a conda maintainer
+
+commit edde5321efa678480bdc848f1c4ca4d7b774d252
+Author: Kale Franz <kfranz@continuum.io>
+Date:   Fri Sep 16 09:53:50 2016 -0500
+
+    add mingwandroid as a conda maintainer
+
+commit 173ac2fe7f5fc9bad250cfb0e5660e796fffa8f2
+Merge: 542494e 83ba075
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Tue Aug 9 10:03:28 2016 -0500
+
+    Merge pull request #3 from jakirkham/fix_activate_scripts
+    
+    Fix activate scripts
+
+commit 83ba075955e117d4f5f61f25b5c1457c58e4066e
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue Aug 9 10:19:48 2016 -0400
+
+    Revert "appveyor: Upload artifacts from build."
+    
+    This reverts commit c1ed5133247e315154bfee096aa29b11a5d2381e.
+
+commit c1ed5133247e315154bfee096aa29b11a5d2381e
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Tue Aug 9 09:49:24 2016 -0400
+
+    appveyor: Upload artifacts from build.
+
+commit 4f41b637e839e6b6558df0cce38241a9bbe713ff
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Mon Aug 8 23:01:46 2016 -0400
+
+    recipe: Bump build number to 1.
+
+commit 7df35434487548d4083145fff38ce84d97656703
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Mon Aug 8 23:01:18 2016 -0400
+
+    recipe: Fix up `bld.bat`.
+
+commit 6757eb5bded964f4e96acb62a2e1b1d3873bb8a6
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Mon Aug 8 22:43:52 2016 -0400
+
+    recipe: Fix up `build.sh`.
+
+commit 542494e3155e0dcead566564d192ac483fc670a8
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Mon Aug 8 14:43:14 2016 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit 2d7c313d1bd7a63c5c86b67d82329b9c4c805872
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Mon Aug 8 14:41:48 2016 +0000
+
+    Initial commit of the conda feedstock.
