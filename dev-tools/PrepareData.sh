@@ -35,6 +35,7 @@ if conda 2>&1 | grep -i 'command not found'; then
    echo "${bold}${red}CONDA NOT FOUND - ${bold}${green}Installing Mini(Conda)"
    export PATH="${TRAVIS_BUILD_DIR}/miniconda/bin:${PATH}"
    CONDA_ENVS_PATH="${TRAVIS_BUILD_DIR}/opt/anaconda/envs"
+   CONDA_PKGS_DIRS="${TRAVIS_BUILD_DIR}/opt/anaconda/pkgs"
    sudo wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
    sudo bash miniconda.sh -b -p ${TRAVIS_BUILD_DIR}/miniconda
    hash -r
