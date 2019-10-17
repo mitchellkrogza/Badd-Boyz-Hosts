@@ -10,6 +10,82 @@
 # **********************************
 
 input1=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
+pythonversion="3.7.4"
+environmentname="pyconda"
+
+# ------------------------
+# Set Terminal Font Colors
+# ------------------------
+
+bold=$(tput bold)
+red=$(tput setaf 1)
+green=$(tput setaf 2)
+yellow=$(tput setaf 3)
+blue=$(tput setaf 4)
+magenta=$(tput setaf 5)
+cyan=$(tput setaf 6)
+white=$(tput setaf 7)
+defaultcolor=$(tput setaf default)
+
+# ---------------------------------------------------
+# Check Mini(Conda) is Installed Otherwise Install It
+# ---------------------------------------------------
+checkforconda () {
+if conda 2>&1 | grep -i 'command not found'; then
+   echo "${bold}${red}CONDA NOT FOUND - ${bold}${green}Installing Mini(Conda)"
+   export PATH="${HOME}/miniconda/bin:${PATH}"
+   wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
+   bash miniconda.sh -b -p ${HOME}/miniconda
+   hash -r
+   conda config --set always_yes yes --set changeps1 no
+   conda update -q conda
+   sudo rm miniconda.sh
+   echo "${bold}${green}CONDA INSTALLED - Continuing"
+else
+   echo "${bold}${green}CONDA FOUND - Continuing"
+fi
+}
+checkforconda
+
+# -------------------------------
+# Set Conda Path and Update Conda
+# -------------------------------
+
+printf '\n\n%s\n\n' "${bold}${magenta}Updating Conda"
+conda update -q conda
+
+# -------------------------------------------------
+# Make sure we always run the latest Python version
+# -------------------------------------------------
+
+conda update python
+
+# -----------------------------------------------------------
+# Check for Existing Environment otherwise Create Environment
+# -----------------------------------------------------------
+
+DIR="${HOME}/miniconda/envs/${environmentname}"
+if [ -d "${DIR}" ]; then
+	printf '\n%s\n%s\n\n' "${bold}${cyan}Environment ${DIR} Found" "Continuing with Renewals"
+else
+	printf '\n%s\n%s\n\n' "${bold}${red}Environment ${DIR} Not Found" "${bold}${yellow}Creating Environment"
+    conda create -q -n ${environmentname} python="${pythonversion}"
+fi
+
+# --------------------
+# Activate Environment
+# --------------------
+
+printf '\n%s\n\n' "${bold}${magenta}Activating Environment"
+source activate ${environmentname}
+
+# ---------------------
+# Upgrade / Install Pip
+# ---------------------
+
+printf '\n%s\n\n' "${bold}${magenta}Upgrading PIP"
+pip install --upgrade pip
+
 
 # *********************************************
 # Get Travis CI Prepared for Committing to Repo
@@ -47,6 +123,12 @@ WhiteListing () {
     fi
 }
 WhiteListing
+
+# ----------------------
+# Deactivate Environment
+# ----------------------
+
+conda deactivate
 
 exit ${?}
 
