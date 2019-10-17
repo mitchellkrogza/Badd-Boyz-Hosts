@@ -86,6 +86,11 @@ source activate ${environmentname}
 printf '\n%s\n\n' "${bold}${magenta}Upgrading PIP"
 pip install --upgrade pip
 
+# ------------------------------------
+# Show Python and Certbot Version Info
+# ------------------------------------
+
+python -VV
 
 # *********************************************
 # Get Travis CI Prepared for Committing to Repo
@@ -124,11 +129,6 @@ WhiteListing () {
 }
 WhiteListing
 
-# ----------------------
-# Deactivate Environment
-# ----------------------
-
-conda deactivate
 
 exit ${?}
 

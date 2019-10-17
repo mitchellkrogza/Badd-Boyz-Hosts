@@ -50,5 +50,11 @@ RunFunceble () {
 
 RunFunceble
 
+# ----------------------
+# Deactivate Environment
+# ----------------------
+
+conda deactivate
+
 
 exit ${?}
