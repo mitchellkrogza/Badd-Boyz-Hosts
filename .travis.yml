@@ -39,7 +39,8 @@ install:
   - pip install ultimate-hosts-blacklist-whitelist
 
 script:
-  - bash dev-tools/PrepareData.sh && bash dev-tools/DataTesting.sh
+  - bash dev-tools/PrepareData.sh
+  - bash dev-tools/DataTesting.sh
 
 notifications:
 on_success: never
