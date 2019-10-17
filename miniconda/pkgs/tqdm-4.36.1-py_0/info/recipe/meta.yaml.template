@@ -1,0 +1,46 @@
+{% set version = "4.36.1" %}
+
+package:
+  name: tqdm
+  version: {{ version }}
+
+source:
+  url: https://pypi.io/packages/source/t/tqdm/tqdm-{{ version }}.tar.gz
+  sha256: abc25d0ce2397d070ef07d8c7e706aede7920da163c64997585d42d3537ece3d
+
+build:
+  noarch: python
+  entry_points:
+    - tqdm = tqdm._main:main
+  number: 0
+  script: python -m pip install --no-deps --ignore-installed .
+
+requirements:
+  host:
+    - python
+    - pip
+  run:
+    - python
+
+test:
+  imports:
+    - tqdm
+
+  commands:
+    - tqdm --help
+    - tqdm -v
+
+about:
+  home: https://pypi.python.org/pypi/tqdm
+  license: MPLv2.0, MIT
+  license_family: MIT
+  license_file: LICENCE
+  summary: 'A Fast, Extensible Progress Meter'
+  dev_url: https://github.com/tqdm/tqdm
+  doc_url: https://github.com/tqdm/tqdm
+
+extra:
+  recipe-maintainers:
+    - casperdcl
+    - pmlandwehr
+    - ericdill

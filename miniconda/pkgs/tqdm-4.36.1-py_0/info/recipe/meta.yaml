@@ -1,0 +1,60 @@
+# This file created by conda-build 3.18.9
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/tqdm-4.36.1-on-linux_canary, last modified Tue Sep 24 18:30:32 2019
+# ------------------------------------------------
+
+package:
+    name: tqdm
+    version: 4.36.1
+source:
+    sha256: abc25d0ce2397d070ef07d8c7e706aede7920da163c64997585d42d3537ece3d
+    url: https://pypi.io/packages/source/t/tqdm/tqdm-4.36.1.tar.gz
+build:
+    entry_points:
+        - tqdm = tqdm._main:main
+    noarch: python
+    number: '0'
+    script: python -m pip install --no-deps --ignore-installed .
+    string: py_0
+requirements:
+    host:
+        - _libgcc_mutex 0.1 main
+        - ca-certificates 2019.8.28 0
+        - certifi 2019.9.11 py27_0
+        - libedit 3.1.20181209 hc058e9b_0
+        - libffi 3.2.1 hd88cf55_4
+        - libgcc-ng 9.1.0 hdf63c60_0
+        - libstdcxx-ng 9.1.0 hdf63c60_0
+        - ncurses 6.1 he6710b0_1
+        - openssl 1.1.1d h7b6447c_1
+        - pip 19.2.3 py27_0
+        - python 2.7.16 h9bab390_6
+        - readline 7.0 h7b6447c_5
+        - setuptools 41.2.0 py27_0
+        - sqlite 3.29.0 h7b6447c_0
+        - tk 8.6.8 hbc83047_0
+        - wheel 0.33.6 py27_0
+        - zlib 1.2.11 h7b6447c_3
+    run:
+        - python
+test:
+    commands:
+        - tqdm --help
+        - tqdm -v
+    imports:
+        - tqdm
+about:
+    dev_url: https://github.com/tqdm/tqdm
+    doc_url: https://github.com/tqdm/tqdm
+    home: https://pypi.python.org/pypi/tqdm
+    license: MPLv2.0, MIT
+    license_family: MIT
+    license_file: LICENCE
+    summary: A Fast, Extensible Progress Meter
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - casperdcl
+        - ericdill
+        - pmlandwehr

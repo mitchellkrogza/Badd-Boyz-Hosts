@@ -1,0 +1,6 @@
+{
+  "c_compiler": "gcc",
+  "libffi": "3.2",
+  "openssl": "1.1.1",
+  "c_compiler_version": "7.3.0"
+}

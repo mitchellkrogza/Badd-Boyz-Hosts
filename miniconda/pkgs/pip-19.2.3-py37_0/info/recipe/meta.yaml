@@ -1,0 +1,63 @@
+# This file created by conda-build 3.18.9
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/pip-19.2.3-python_3.7-on-linux_64, last modified Mon Sep 23 17:20:27 2019
+# ------------------------------------------------
+
+package:
+    name: pip
+    version: 19.2.3
+source:
+    sha256: e7a31f147974362e6c82d84b91c7f2bdf57e4d3163d3d454e6c3e71944d67135
+    url: https://pypi.io/packages/source/p/pip/pip-19.2.3.tar.gz
+build:
+    disable_pip: true
+    entry_points:
+        - pip = pip._internal:main
+    number: '0'
+    string: py37_0
+requirements:
+    host:
+        - _libgcc_mutex 0.1 main
+        - ca-certificates 2019.8.28 0
+        - certifi 2019.9.11 py37_0
+        - libedit 3.1.20181209 hc058e9b_0
+        - libffi 3.2.1 hd88cf55_4
+        - libgcc-ng 9.1.0 hdf63c60_0
+        - libstdcxx-ng 9.1.0 hdf63c60_0
+        - ncurses 6.1 he6710b0_1
+        - openssl 1.1.1d h7b6447c_1
+        - python 3.7.4 h265db76_1
+        - readline 7.0 h7b6447c_5
+        - setuptools 41.2.0 py37_0
+        - sqlite 3.29.0 h7b6447c_0
+        - tk 8.6.8 hbc83047_0
+        - xz 5.2.4 h14c3975_4
+        - zlib 1.2.11 h7b6447c_3
+    run:
+        - python >=3.7,<3.8.0a0
+        - setuptools
+        - wheel
+test:
+    commands:
+        - pip -h
+        - pip list
+    imports:
+        - pip
+about:
+    dev_url: https://github.com/pypa/pip
+    doc_url: https://pip.pypa.io/en/stable/
+    home: https://pip.pypa.io/en/stable/
+    license: MIT
+    license_family: MIT
+    license_file: LICENSE.txt
+    summary: PyPA recommended tool for installing Python packages
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - jakirkham
+        - jjhelmus
+        - mingwandroid
+        - msarahan
+        - ocefpaf
+        - pelson

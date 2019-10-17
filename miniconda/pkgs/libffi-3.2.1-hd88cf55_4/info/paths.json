@@ -1,0 +1,87 @@
+{
+  "paths": [
+    {
+      "_path": "include/ffi.h",
+      "path_type": "hardlink",
+      "sha256": "eedc07a185891caf64fbacb216e4d07fe5f13b5a4ab37105371a51ecc991892b",
+      "size_in_bytes": 13338
+    },
+    {
+      "_path": "include/ffitarget.h",
+      "path_type": "hardlink",
+      "sha256": "0f311400fbb659ad7d6c30585e6b750f298930eb85ddcbce59a8ac401cfe41a1",
+      "size_in_bytes": 4193
+    },
+    {
+      "_path": "lib/libffi.a",
+      "path_type": "hardlink",
+      "sha256": "610a2ab56aa9f8590ab6a9d7b61f0b6e5c3134d1455cf07924ff0de9b1e12d86",
+      "size_in_bytes": 50024
+    },
+    {
+      "_path": "lib/libffi.la",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "e0b49d8ab0daa7131a531cde0fb0fc026e7ac33c7d18e844cb0020253f708ea6",
+      "size_in_bytes": 932
+    },
+    {
+      "_path": "lib/libffi.so",
+      "path_type": "softlink",
+      "sha256": "5a5a6751527fa633813fb7007ed0cd45a557a6db9bb51e9a5d5117023f26883a",
+      "size_in_bytes": 40864
+    },
+    {
+      "_path": "lib/libffi.so.6",
+      "path_type": "softlink",
+      "sha256": "5a5a6751527fa633813fb7007ed0cd45a557a6db9bb51e9a5d5117023f26883a",
+      "size_in_bytes": 40864
+    },
+    {
+      "_path": "lib/libffi.so.6.0.4",
+      "path_type": "hardlink",
+      "sha256": "5a5a6751527fa633813fb7007ed0cd45a557a6db9bb51e9a5d5117023f26883a",
+      "size_in_bytes": 40864
+    },
+    {
+      "_path": "lib/pkgconfig/libffi.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "80bde527aa4782db4c6624eb12ffb2590abf1e192fdcba93b69f45240d94910e",
+      "size_in_bytes": 287
+    },
+    {
+      "_path": "share/info/libffi.info",
+      "path_type": "hardlink",
+      "sha256": "f4ebd2867714eea2874ff6f7de9a0278f1d86b9675ab8f69badf5f3724295eeb",
+      "size_in_bytes": 26833
+    },
+    {
+      "_path": "share/man/man3/ffi.3",
+      "path_type": "hardlink",
+      "sha256": "aa4730e114c305943a2226a524ed8447dc6b66a184523999868e5433c2c9de74",
+      "size_in_bytes": 850
+    },
+    {
+      "_path": "share/man/man3/ffi_call.3",
+      "path_type": "hardlink",
+      "sha256": "2817ce7b78cb737d7b85b18b45899470f5f565f990d056d3d8cfabf6d779477f",
+      "size_in_bytes": 2333
+    },
+    {
+      "_path": "share/man/man3/ffi_prep_cif.3",
+      "path_type": "hardlink",
+      "sha256": "f60c5bb9d04b55988da13511a2c3edfa0f39fb6f51abfb8ac24d0b161c4169c0",
+      "size_in_bytes": 1158
+    },
+    {
+      "_path": "share/man/man3/ffi_prep_cif_var.3",
+      "path_type": "hardlink",
+      "sha256": "9365685252f33f13627c9303bc01883b764227132069260c19e94100ff442a51",
+      "size_in_bytes": 1321
+    }
+  ],
+  "paths_version": 1
+}

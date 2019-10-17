@@ -1,0 +1,68 @@
+# This file created by conda-build 3.18.9
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/certifi-2019.9.11-python_3.7-on-linux_canary, last modified Mon Sep 23 15:41:40 2019
+# ------------------------------------------------
+
+package:
+    name: certifi
+    version: 2019.9.11
+source:
+    -   folder: certifi
+        sha256: e4f3620cfea4f83eedc95b24abd9cd56f3c4b146dd0177e83a21b4eb49e21e50
+        url: https://pypi.io/packages/source/c/certifi/certifi-2019.9.11.tar.gz
+    -   folder: pip_wheel
+        sha256: 993134f0475471b91452ca029d4390dc8f298ac63a712814f101cd1b6db46676
+        url: https://pypi.io/packages/py2.py3/p/pip/pip-19.1.1-py2.py3-none-any.whl
+    -   folder: setuptools_wheel
+        sha256: c7769ce668c7a333d84e17fe8b524b1c45e7ee9f7908ad0a73e1eda7e6a5aebf
+        url: https://pypi.io/packages/py2.py3/s/setuptools/setuptools-41.0.1-py2.py3-none-any.whl
+build:
+    number: '0'
+    string: py37_0
+requirements:
+    host:
+        - _libgcc_mutex 0.1 main
+        - ca-certificates 2019.5.15 1
+        - libedit 3.1.20181209 hc058e9b_0
+        - libffi 3.2.1 hd88cf55_4
+        - libgcc-ng 9.1.0 hdf63c60_0
+        - libstdcxx-ng 9.1.0 hdf63c60_0
+        - ncurses 6.1 he6710b0_1
+        - openssl 1.1.1d h7b6447c_1
+        - python 3.7.4 h265db76_1
+        - readline 7.0 h7b6447c_5
+        - sqlite 3.29.0 h7b6447c_0
+        - tk 8.6.8 hbc83047_0
+        - xz 5.2.4 h14c3975_4
+        - zlib 1.2.11 h7b6447c_3
+    run:
+        - python >=3.7,<3.8.0a0
+test:
+    imports:
+        - certifi
+about:
+    description: 'Certifi is a curated collection of Root Certificates for validating
+        the
+
+        trustworthiness of SSL certificates while verifying the identity of TLS
+
+        hosts.
+
+        '
+    dev_url: https://github.com/certifi/python-certifi
+    doc_source_url: https://github.com/certifi/certifi.io/blob/master/README.rst
+    doc_url: https://pypi.python.org/pypi/certifi
+    home: http://certifi.io/
+    license: ISC
+    license_file: certifi/LICENSE
+    summary: Python package for providing Mozilla's CA Bundle.
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - jakirkham
+        - jjhelmus
+        - mingwandroid
+        - ocefpaf
+        - pelson
+        - sigmavirus24

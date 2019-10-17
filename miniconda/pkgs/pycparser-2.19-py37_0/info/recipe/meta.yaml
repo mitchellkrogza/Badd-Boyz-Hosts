@@ -1,0 +1,65 @@
+# This file created by conda-build 3.15.1
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/pycparser-2.19-python_3.7-on-linux_64, last modified Fri Sep 28 21:52:42 2018
+# ------------------------------------------------
+
+package:
+    name: pycparser
+    version: '2.19'
+source:
+    fn: pycparser-2.19.tar.gz
+    sha256: a988718abfad80b6b157acce7bf130a30876d27603738ac39f140993246b25b3
+    url: https://pypi.io/packages/source/p/pycparser/pycparser-2.19.tar.gz
+build:
+    noarch: false
+    number: '0'
+    script: /tmp/build/80754af9/pycparser_1538230988341/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac/bin/python
+        -m pip install . --no-deps --ignore-installed --no-cache-dir -vvv
+    string: py37_0
+requirements:
+    host:
+        - ca-certificates 2018.03.07 0
+        - certifi 2018.8.24 py37_1
+        - libedit 3.1.20170329 h6b74fdf_2
+        - libffi 3.2.1 hd88cf55_4
+        - libgcc-ng 8.2.0 hdf63c60_1
+        - libstdcxx-ng 8.2.0 hdf63c60_1
+        - ncurses 6.1 hf484d3e_0
+        - openssl 1.0.2p h14c3975_0
+        - pip 10.0.1 py37_0
+        - python 3.7.0 hc3d631a_0
+        - readline 7.0 h7b6447c_5
+        - setuptools 40.2.0 py37_0
+        - sqlite 3.25.2 h7b6447c_0
+        - tk 8.6.8 hbc83047_0
+        - wheel 0.31.1 py37_0
+        - xz 5.2.4 h14c3975_4
+        - zlib 1.2.11 ha838bed_2
+    run:
+        - python >=3.7,<3.8.0a0
+test:
+    imports:
+        - pycparser
+        - pycparser.ply
+about:
+    description: 'pycparser is a complete parser of the C language, written in pure
+        Python
+
+        using the PLY parsing library.  It parses C code into an AST and can serve
+
+        as a front-end for C compilers or analysis tools.
+
+        '
+    dev_url: https://github.com/eliben/pycparser
+    doc_source_url: https://github.com/eliben/pycparser
+    doc_url: https://pypi.python.org/pypi/pycparser
+    home: https://github.com/eliben/pycparser
+    license: BSD 3-clause
+    license_family: BSD
+    license_file: LICENSE
+    summary: Complete C99 parser in pure Python
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - synapticarbors

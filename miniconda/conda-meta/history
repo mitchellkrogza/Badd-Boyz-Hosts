@@ -1,0 +1,45 @@
+==> 2019-10-16 15:36:34 <==
+# cmd: build.py --build_number 1 --product miniconda --python 3.7 --installer-type sh --output-dir /tmp/build/f11ea09a/output-installer/191016/
++defaults::python-3.7.4-h265db76_1
++defaults::_libgcc_mutex-0.1-main
++defaults::ca-certificates-2019.8.28-0
++defaults::libstdcxx-ng-9.1.0-hdf63c60_0
++defaults::libgcc-ng-9.1.0-hdf63c60_0
++defaults::libffi-3.2.1-hd88cf55_4
++defaults::ncurses-6.1-he6710b0_1
++defaults::openssl-1.1.1d-h7b6447c_2
++defaults::xz-5.2.4-h14c3975_4
++defaults::yaml-0.1.7-had09818_2
++defaults::zlib-1.2.11-h7b6447c_3
++defaults::libedit-3.1.20181209-hc058e9b_0
++defaults::readline-7.0-h7b6447c_5
++defaults::tk-8.6.8-hbc83047_0
++defaults::sqlite-3.30.0-h7b6447c_0
++defaults::asn1crypto-1.0.1-py37_0
++defaults::certifi-2019.9.11-py37_0
++defaults::chardet-3.0.4-py37_1003
++defaults::idna-2.8-py37_0
++defaults::pycosat-0.6.3-py37h14c3975_0
++defaults::pycparser-2.19-py37_0
++defaults::pysocks-1.7.1-py37_0
++defaults::ruamel_yaml-0.15.46-py37h14c3975_0
++defaults::six-1.12.0-py37_0
++defaults::tqdm-4.36.1-py_0
++defaults::cffi-1.12.3-py37h2e261b9_0
++defaults::conda-package-handling-1.6.0-py37h7b6447c_0
++defaults::setuptools-41.4.0-py37_0
++defaults::cryptography-2.7-py37h1ba5d50_0
++defaults::wheel-0.33.6-py37_0
++defaults::pip-19.2.3-py37_0
++defaults::pyopenssl-19.0.0-py37_0
++defaults::urllib3-1.24.2-py37_0
++defaults::requests-2.22.0-py37_0
++defaults::conda-4.7.12-py37_0
+# update specs: ['conda', 'python=3.7']
+
+==> 2019-10-17 13:12:30 <==
+# cmd: /home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/miniconda/bin/conda update -q conda
+# conda version: 4.7.12
+-defaults::openssl-1.1.1d-h7b6447c_2
++defaults::openssl-1.1.1d-h7b6447c_3
+# update specs: ['conda']

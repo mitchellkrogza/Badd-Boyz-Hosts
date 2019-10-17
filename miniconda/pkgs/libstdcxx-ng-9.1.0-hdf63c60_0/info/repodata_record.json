@@ -1,0 +1,21 @@
+{
+  "build": "hdf63c60_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [],
+  "features": "",
+  "fn": "libstdcxx-ng-9.1.0-hdf63c60_0.conda",
+  "legacy_bz2_md5": "53fa39fdae936e9d07c4b2f5ef361993",
+  "legacy_bz2_size": 4246257,
+  "license": "GPL3 with runtime exception",
+  "md5": "c3efd14430bedbe0a036a899f50cec7f",
+  "name": "libstdcxx-ng",
+  "sha256": "4cd5e8e3ad70b0a611fd94931fd82d845ba602789fa9bbd9f202b9d0da434277",
+  "size": 3258838,
+  "subdir": "linux-64",
+  "timestamp": 1560112223556,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/libstdcxx-ng-9.1.0-hdf63c60_0.conda",
+  "version": "9.1.0"
+}

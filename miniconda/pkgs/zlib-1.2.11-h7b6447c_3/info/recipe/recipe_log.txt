@@ -1,0 +1,201 @@
+commit f85562685ea371b9c82ec2745ec92096d82dd2cb
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Wed Nov 21 15:32:37 2018 +0000
+
+    Fix https://github.com/ContinuumIO/anaconda-issues/issues/10349 with -DUNALIGNED_OK
+    
+    Without this flag, zlib is roughly 2/3 as fast
+
+commit 0c2a504b378d1cee1c187f843bb1271ce3c94c65
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Tue Nov 7 18:21:35 2017 -0600
+
+    remove vc features (use run_exports vc pkg instead)
+
+commit 65667f3ce163549a32feab27f5698c7b1ba942ed
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sun Sep 17 16:27:53 2017 +0100
+
+    Version bump to stay ahead of the old repo
+
+commit f682df52307c42b5b4c522496238711c97372a75
+Merge: 70580ec 903f42b
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Thu Aug 31 01:29:20 2017 +0100
+
+    Merge pull request #3 from Maggie-M/patch-1
+    
+    Update meta.yaml
+
+commit 903f42b17cec0c80da5c68d3fddc1e10230c85f5
+Author: Maggie-M <maggie.mari@continuum.io>
+Date:   Wed Aug 30 15:54:38 2017 -0500
+
+    Update meta.yaml
+
+commit 70580ec8a23100517cdcf2e480b357fccca03d6b
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sun Aug 27 17:36:30 2017 +0100
+
+    Generalize logging
+
+commit 960d75324648387367f23bf6c1bbd340b8032f9e
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sun Aug 27 02:03:33 2017 +0100
+
+    Argh, careless
+
+commit 924ce60809f3d5dd1b6fca0266b26eda4f95a1fe
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sun Aug 27 01:21:54 2017 +0100
+
+    Fix broken formatting
+
+commit b08201a4c0b6633d439a5cad6a0df8158ebf2269
+Merge: 1b2d2da 2312c98
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Fri Aug 25 18:28:40 2017 +0100
+
+    Merge pull request #2 from msarahan/cb3-ize
+    
+    use conda-build 3 to simplify recipe
+
+commit 2312c98e77ff1d66e41c7721947aa5a25c8a7802
+Author: Michael Sarahan <msarahan@gmail.com>
+Date:   Mon Aug 7 15:09:35 2017 -0400
+
+    use conda-build 3 to simplify recipe
+
+commit 1b2d2da20ff50bbe9ee7a3d7c0781acee16abfe3
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sun Apr 9 12:35:00 2017 +0100
+
+    Add cross-compilation support.
+
+commit f531a598af6e36a29386d21199cd60d297e8649e
+Merge: 725f216 e2fc303
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Jan 23 08:25:47 2017 -0300
+
+    Merge pull request #12 from xantares/v129
+    
+    Update to 1.2.11
+
+commit e2fc303f4ff3e7abfa007ad0ae20c9c2d2347cb8
+Author: Michel Zou <xantares09@hotmail.com>
+Date:   Tue Jan 10 09:09:05 2017 +0100
+
+    MNT: Re-rendered with conda-smithy 2.0.0
+
+commit ae064d611bb917c2fb2968dbdea42ae195c61d96
+Author: Michel Zou <xantares09@hotmail.com>
+Date:   Mon Jan 9 15:25:53 2017 +0100
+
+    make linter happy
+
+commit 0052c2a3c7107fdc14d89968368c2c93159f0734
+Author: Michel Zou <xantares09@hotmail.com>
+Date:   Mon Jan 9 15:16:54 2017 +0100
+
+    Update to 1.2.11
+
+commit 725f216fdee22cd967ba925c4926a62a705a57c5
+Merge: eee374c 2bb7d0a
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon May 23 16:49:13 2016 -0300
+
+    Merge pull request #6 from ocefpaf/clobber_defaults
+    
+    Clobber defauts build number
+
+commit 2bb7d0a03612958ac44536a11bd54a367f01ef72
+Author: ocefpaf <ocefpaf@gmail.com>
+Date:   Mon May 23 11:14:58 2016 -0300
+
+    Clobber defaults build number
+
+commit eee374ca03e21f9dfd1ffc32d9b0ad56343c37a8
+Merge: 37e72fd c9dc482
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Mon May 16 21:43:01 2016 -0400
+
+    Merge pull request #4 from wesm/compile-with-fpic
+    
+    Compile zlib static library with -fPIC
+
+commit c9dc4823fd505169e601eee672041ee649a4a805
+Author: Wes McKinney <wesm@apache.org>
+Date:   Mon May 16 17:08:05 2016 -0700
+
+    Remove -O3 for now
+
+commit 37e72fdfa6eea6fb739215927996c1f9c1c31141
+Merge: 1006472 86fa6d4
+Author: Mike Sarahan <msarahan@gmail.com>
+Date:   Fri May 13 10:51:13 2016 -0500
+
+    Merge pull request #5 from conda-forge-admin/feedstock_rerender_master
+    
+    MNT: Re-render the feedstock
+
+commit 86fa6d49cde5cbff26eb4a47864297defa18955a
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Fri May 13 15:43:29 2016 +0000
+
+    MNT: Updated the feedstock for conda-smithy version 0.10.3.
+    
+    [ci skip]
+
+commit fb9f4a2a018473dfaaffc2a689741cbd84949480
+Author: Wes McKinney <wesm@apache.org>
+Date:   Thu May 12 21:29:39 2016 -0700
+
+    Compile zlib static library with -fPIC
+
+commit 10064726a39582c1cfd5bc8e48f44018244f60eb
+Merge: 3338e4a aa45b5d
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Thu Apr 28 13:48:54 2016 -0300
+
+    Merge pull request #3 from ocefpaf/fix_lint
+    
+    Fix lint
+
+commit aa45b5ddab62416d219c2b447eae6582ec12a6c3
+Author: ocefpaf <ocefpaf@gmail.com>
+Date:   Thu Apr 28 12:21:37 2016 -0300
+
+    Fix test
+
+commit f56cee45b9cda2804db791bc604163fdc8a894cd
+Author: ocefpaf <ocefpaf@gmail.com>
+Date:   Thu Apr 28 12:20:38 2016 -0300
+
+    rerender
+
+commit 3338e4ab9d975b1b0243fbb3baf554776e39d8ba
+Merge: 57de7cc 8f6237a
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Fri Apr 15 13:06:40 2016 -0300
+
+    Merge pull request #1 from ocefpaf/add_msinttypes
+    
+    Add msinttypes
+
+commit 8f6237a33b1e6c55ec716e22dfe2ff6f39d6e048
+Author: ocefpaf <ocefpaf@gmail.com>
+Date:   Fri Apr 15 11:04:27 2016 -0300
+
+    Add msinttypes
+
+commit 57de7cc2f0817853326bc60e6fa11ca0a006e01c
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Fri Apr 15 12:57:49 2016 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit cbeb75434412b16d9da78e61b16b0121b8edf5d5
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Fri Apr 15 12:56:56 2016 +0000
+
+    Initial commit of the zlib feedstock.

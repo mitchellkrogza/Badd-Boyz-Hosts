@@ -1,0 +1,48 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/miniconda/pkgs/ca-certificates-2019.8.28-0",
+  "features": "",
+  "files": [
+    "ssl/cacert.pem",
+    "ssl/cert.pem"
+  ],
+  "fn": "ca-certificates-2019.8.28-0.tar.bz2",
+  "license": "MPL 2.0",
+  "link": {
+    "source": "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/miniconda/pkgs/ca-certificates-2019.8.28-0",
+    "type": 1
+  },
+  "md5": "d7ad435ac1a0ed809868d41a90f50321",
+  "name": "ca-certificates",
+  "package_tarball_full_path": "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/miniconda/pkgs/ca-certificates-2019.8.28-0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "ssl/cacert.pem",
+        "path_type": "hardlink",
+        "sha256": "38b6230aa4bee062cd34ee0ff6da173250899642b1937fc130896290b6bd91e3",
+        "sha256_in_prefix": "38b6230aa4bee062cd34ee0ff6da173250899642b1937fc130896290b6bd91e3",
+        "size_in_bytes": 224085
+      },
+      {
+        "_path": "ssl/cert.pem",
+        "path_type": "softlink",
+        "sha256": "38b6230aa4bee062cd34ee0ff6da173250899642b1937fc130896290b6bd91e3",
+        "size_in_bytes": 224085
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "cacba2c9d46603f63b6e72f170010e3f8d947670f84f51ee1f8bb3613d290e54",
+  "size": 135632,
+  "subdir": "linux-64",
+  "timestamp": 1569263563402,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/ca-certificates-2019.8.28-0.tar.bz2",
+  "version": "2019.8.28"
+}

@@ -1,0 +1,56 @@
+# This file created by conda-build 3.18.9
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/pysocks-1.7.1-python_3.7-on-linux_64, last modified Mon Sep 23 18:35:58 2019
+# ------------------------------------------------
+
+package:
+    name: pysocks
+    version: 1.7.1
+source:
+    sha256: 3f8804571ebe159c380ac6de37643bb4685970655d3bba243530d6558b799aa0
+    url: https://pypi.io/packages/source/P/PySocks/PySocks-1.7.1.tar.gz
+build:
+    number: '0'
+    script: /tmp/build/80754af9/pysocks_1569264556783/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh/bin/python
+        -m pip install . --no-deps -vv
+    string: py37_0
+requirements:
+    host:
+        - _libgcc_mutex 0.1 main
+        - ca-certificates 2019.5.15 1
+        - certifi 2019.9.11 py37_0
+        - libedit 3.1.20181209 hc058e9b_0
+        - libffi 3.2.1 hd88cf55_4
+        - libgcc-ng 9.1.0 hdf63c60_0
+        - libstdcxx-ng 9.1.0 hdf63c60_0
+        - ncurses 6.1 he6710b0_1
+        - openssl 1.1.1d h7b6447c_1
+        - pip 19.2.2 py37_0
+        - python 3.7.4 h265db76_1
+        - readline 7.0 h7b6447c_5
+        - setuptools 41.2.0 py37_0
+        - sqlite 3.29.0 h7b6447c_0
+        - tk 8.6.8 hbc83047_0
+        - wheel 0.33.4 py37_0
+        - xz 5.2.4 h14c3975_4
+        - zlib 1.2.11 h7b6447c_3
+    run:
+        - python >=3.7,<3.8.0a0
+test:
+    imports:
+        - socks
+about:
+    dev_url: https://github.com/Anorov/PySocks
+    doc_url: https://github.com/Anorov/PySocks/blob/master/README.md
+    home: https://github.com/Anorov/PySocks
+    license: BSD 3-Clause
+    license_family: BSD
+    license_file: LICENSE
+    summary: A Python SOCKS client module. See https://github.com/Anorov/PySocks for
+        more information.
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - ocefpaf
+        - pmlandwehr

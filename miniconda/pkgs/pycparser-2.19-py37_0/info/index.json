@@ -1,0 +1,15 @@
+{
+  "arch": "x86_64",
+  "build": "py37_0",
+  "build_number": 0,
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "license": "BSD 3-clause",
+  "license_family": "BSD",
+  "name": "pycparser",
+  "platform": "linux",
+  "subdir": "linux-64",
+  "timestamp": 1538231005324,
+  "version": "2.19"
+}

@@ -1,0 +1,24 @@
+{
+  "build": "he6710b0_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "libstdcxx-ng >=7.3.0"
+  ],
+  "features": "",
+  "fn": "ncurses-6.1-he6710b0_1.conda",
+  "legacy_bz2_md5": "f8a5abbf28b624eb2c8bbc9f70a6ff70",
+  "legacy_bz2_size": 980597,
+  "license": "Free software (MIT-like)",
+  "md5": "2ddad69032f38ace29c50b2ee7c5e080",
+  "name": "ncurses",
+  "sha256": "140b1638f1fd5fb9d133b36d061a8f2444c8f3186ac89b625f3ebe2dd4e268ad",
+  "size": 795822,
+  "subdir": "linux-64",
+  "timestamp": 1543442069203,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/ncurses-6.1-he6710b0_1.conda",
+  "version": "6.1"
+}

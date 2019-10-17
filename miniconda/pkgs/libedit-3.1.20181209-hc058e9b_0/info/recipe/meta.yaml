@@ -1,0 +1,67 @@
+# This file created by conda-build 3.17.7
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/libedit-3.1.20181209-on-linux_64, last modified Sat Jan 19 19:44:06 2019
+# ------------------------------------------------
+
+package:
+    name: libedit
+    version: 3.1.20181209
+source:
+    fn: libedit-20181209-3.1.tar.gz
+    patches:
+        - 0001-Also-look-in-libtinfo-for-tgetent.patch
+    sha256: 2811d70c0b000f2ca91b7cb1a37203134441743c4fcc9c37b0b687f328611064
+    url: http://thrysoee.dk/editline/libedit-20181209-3.1.tar.gz
+build:
+    number: '0'
+    run_exports:
+        - libedit >=3.1.20181209,<3.2.0a0
+    string: hc058e9b_0
+requirements:
+    build:
+        - autoconf 2.69 pl526hebd4dad_5
+        - automake 1.16.1 pl526_0
+        - binutils_impl_linux-64 2.31.1 h6176602_1
+        - binutils_linux-64 2.31.1 h6176602_6
+        - gcc_impl_linux-64 7.3.0 habb00fd_1
+        - gcc_linux-64 7.3.0 h553295d_6
+        - libgcc-ng 8.2.0 hdf63c60_1
+        - libstdcxx-ng 8.2.0 hdf63c60_1
+        - m4 1.4.18 h4e445db_0
+        - make 4.2.1 h1bed415_1
+        - perl 5.26.2 h14c3975_0
+    host:
+        - libgcc-ng 8.2.0 hdf63c60_1
+        - libstdcxx-ng 8.2.0 hdf63c60_1
+        - ncurses 6.1 he6710b0_1
+    run:
+        - libgcc-ng >=7.3.0
+        - ncurses >=6.1,<7.0a0
+test:
+    commands:
+        - test -f $PREFIX/lib/libedit.so
+    downstreams:
+        - sqlite
+about:
+    description: 'This is an autotool- and libtoolized port of the NetBSD Editline
+        library
+
+        (libedit). This Berkeley-style licensed command line editor library provides
+
+        generic line editing, history, and tokenization functions, similar to those
+
+        found in GNU Readline
+
+        '
+    home: http://thrysoee.dk/editline/
+    license: NetBSD
+    license_family: BSD
+    license_file: COPYING
+    summary: Editline Library (libedit)
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - dougalsutherland
+        - mingwandroid
+        - scopatz

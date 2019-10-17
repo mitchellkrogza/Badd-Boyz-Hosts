@@ -1,0 +1,85 @@
+{% set version = "2.7" %}
+
+package:
+  name: cryptography
+  version: {{ version }}
+
+source:
+  url: https://pypi.io/packages/source/c/cryptography/cryptography-{{ version }}.tar.gz
+  sha256: e6347742ac8f35ded4a46ff835c60e68c22a536a8ae5c4422966d06946b6d4c6
+
+build:
+  number: 0
+  script:
+    - if "%openssl%" == "1.0.2" set CRYPTOGRAPHY_WINDOWS_LINK_LEGACY_OPENSSL=1   # [win]
+    - python -m pip install --no-deps --ignore-installed . -vv
+
+requirements:
+  build:
+    - {{ compiler('c') }}
+  host:
+    - python
+    - pip
+    - openssl
+    - cffi >=1.7
+  run:
+    - python
+    - openssl
+    - cffi >=1.7
+    - enum34  # [py2k]
+    - ipaddress  # [py2k]
+    - asn1crypto >=0.21.0
+    - six >=1.4.1
+    - idna >=2.1
+
+test:
+  imports:
+    - cryptography
+    - cryptography.fernet
+    - cryptography.hazmat
+    - cryptography.hazmat.backends
+    - cryptography.hazmat.backends.openssl
+    - cryptography.hazmat.bindings
+    - cryptography.hazmat.bindings.openssl
+    - cryptography.hazmat.primitives
+    - cryptography.hazmat.primitives.asymmetric
+    - cryptography.hazmat.primitives.ciphers
+    - cryptography.hazmat.primitives.kdf
+    - cryptography.hazmat.primitives.twofactor
+    - cryptography.x509
+    - cryptography.x509.certificate_transparency
+  requires:
+    - cryptography-vectors {{ version }}.*
+    - hypothesis >=1.11.4
+    - iso8601
+    - pretend
+    - pytest >=3.2.1,!=3.3.0
+    - pytz
+  source_files:
+    - tests
+  commands:
+    - pytest
+
+about:
+  home: https://github.com/pyca/cryptography
+  license: Apache 2.0 or BSD 3-Clause, PSF 2
+  license_family: BSD
+  license_file: LICENSE
+  summary: Provides cryptographic recipes and primitives to Python developers
+  description: |
+    Cryptography is a package which provides cryptographic recipes and
+    primitives to Python developers. Our goal is for it to be your
+    "cryptographic standard library". It supports Python 2.6-2.7, Python 3.3+,
+    and PyPy 2.6+. Cryptography includes both high level recipes, and low level
+    interfaces to common cryptographic algorithms such as symmetric ciphers,
+    message digests and key derivation functions.
+  doc_url: http://cryptography.readthedocs.io/
+  doc_source_url: https://github.com/pyca/cryptography/blob/master/docs/index.rst
+  dev_url: https://github.com/pyca/cryptography
+  doc_source_url: https://github.com/pyca/cryptography/tree/master/docs
+
+extra:
+  recipe-maintainers:
+    - jakirkham
+    - jschueller
+    - ocefpaf

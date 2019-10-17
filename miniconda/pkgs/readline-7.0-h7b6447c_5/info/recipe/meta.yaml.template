@@ -1,0 +1,67 @@
+{% set version = "7.0" %}
+
+package:
+  name: readline
+  version: {{ version }}
+
+source:
+  url: ftp://ftp.gnu.org/gnu/readline/readline-{{ version }}.tar.gz
+  sha256: 750d437185286f40a369e1e4f4764eda932b9459b5ec9a731628393dd3d32334
+  patches:
+    - patches/readline70-001
+    - patches/readline70-002
+    - patches/readline70-003
+    - patches/readline70-004
+    - patches/readline70-005
+
+build:
+  skip: true  # [win]
+  number: 5
+  run_exports:
+    # change soname at major ver: https://abi-laboratory.pro/tracker/timeline/readline/
+    - {{ pin_subpackage('readline') }}
+
+requirements:
+  build:
+    - pkg-config
+    - {{ compiler('c') }}
+    - make
+  host:
+    - ncurses
+  run:
+    - ncurses
+
+test:
+  commands:
+  {% set readline_libs = [
+    'libreadline',
+    'libhistory'
+  ] %}
+  {% for lib in readline_libs %}
+    - test -f ${PREFIX}/lib/{{ lib }}.a
+    - test -f ${PREFIX}/lib/{{ lib }}${SHLIB_EXT}  # [not win]
+  {% endfor %}
+
+about:
+  home: https://cnswww.cns.cwru.edu/php/chet/readline/rltop.html
+  license: GPL-3.0
+  license_file: COPYING
+  summary: library for editing command lines as they are typed in
+  description: |
+    The standard Python readline extension statically linked against the GNU
+    readline library.
+  doc_url: https://pypi.python.org/pypi/readline
+  dev_url: https://github.com/ludwigschwardt/python-gnureadline
+  doc_source_url: https://github.com/ludwigschwardt/python-gnureadline
+
+extra:
+  recipe-maintainers:
+    - croth1
+    - jakirkham
+    - jjhelmus
+    - pelson
+    - msarahan
+    - asmeurer
+    - msarahan
+    - mingwandroid
+    - ocefpaf

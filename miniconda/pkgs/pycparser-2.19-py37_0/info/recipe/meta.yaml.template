@@ -1,0 +1,48 @@
+{% set name = "pycparser" %}
+{% set version = "2.19" %}
+{% set sha256 = "a988718abfad80b6b157acce7bf130a30876d27603738ac39f140993246b25b3" %}
+
+package:
+  name: {{ name|lower }}
+  version: {{ version }}
+
+source:
+  fn: {{ name }}-{{ version }}.tar.gz
+  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
+  sha256: {{ sha256 }}
+
+build:
+  noarch: python
+  number: 0
+  script: "{{ PYTHON }} -m pip install . --no-deps --ignore-installed --no-cache-dir -vvv"
+
+requirements:
+  host:
+    - pip
+    - python
+    - setuptools
+  run:
+    - python
+
+test:
+  imports:
+    - pycparser
+    - pycparser.ply
+
+about:
+  home: https://github.com/eliben/pycparser
+  license: BSD 3-clause
+  license_file: LICENSE
+  license_family: BSD
+  summary: 'Complete C99 parser in pure Python'
+  description: |
+    pycparser is a complete parser of the C language, written in pure Python
+    using the PLY parsing library.  It parses C code into an AST and can serve
+    as a front-end for C compilers or analysis tools.
+  dev_url: https://github.com/eliben/pycparser
+  doc_url: https://pypi.python.org/pypi/pycparser
+  doc_source_url: https://github.com/eliben/pycparser
+
+extra:
+  recipe-maintainers:
+    - synapticarbors

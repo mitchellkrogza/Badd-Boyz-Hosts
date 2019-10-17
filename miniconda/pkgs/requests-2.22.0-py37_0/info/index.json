@@ -1,0 +1,18 @@
+{
+  "arch": "x86_64",
+  "build": "py37_0",
+  "build_number": 0,
+  "depends": [
+    "certifi >=2017.4.17",
+    "chardet >=3.0.2,<3.1.0",
+    "idna >=2.5,<2.9",
+    "python >=3.7,<3.8.0a0",
+    "urllib3 >=1.21.1,<1.25"
+  ],
+  "license": "Apache 2.0",
+  "name": "requests",
+  "platform": "linux",
+  "subdir": "linux-64",
+  "timestamp": 1559573536076,
+  "version": "2.22.0"
+}

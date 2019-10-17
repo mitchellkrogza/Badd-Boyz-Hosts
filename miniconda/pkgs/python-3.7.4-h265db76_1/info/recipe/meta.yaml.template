@@ -1,0 +1,151 @@
+{% set base_version = "3.7.4" %}
+{% set version = "3.7.4" %}
+{% set linkage_nature = os.environ.get('PY_INTERP_LINKAGE_NATURE', '') %}
+{% if linkage_nature != '' %}
+  {% set linkage_nature = "_" ~ linkage_nature %}
+{% endif %}
+
+package:
+  name: python
+  version: {{ base_version }}
+
+source:
+  - url: https://www.python.org/ftp/python/{{ base_version }}/Python-{{ version }}.tar.xz
+    sha256: fb799134b868199930b75f26678f18932214042639cd52b16da7fd134cd9b13f
+    patches:
+      - 0001-Add-Anaconda-Distribution-version-logic.patch
+      - 0002-Darwin-Add-arch-x86_64-to-UnicCCompiler-ld_args.patch
+      - 0003-Win32-Change-FD_SETSIZE-from-512-to-2048.patch
+      - 0004-Win32-distutils-Add-support-to-cygwinccompiler-for-V.patch
+      - 0005-Do-not-pass-g-to-GCC-when-not-Py_DEBUG.patch
+      - 0006-Support-cross-compiling-byte-code.patch
+      - 0007-Win32-Fixes-for-Windows-GCC-interop-needed-by-RPy2-a.patch
+      - 0008-Darwin-Look-in-sysroot-usr-lib-include-if-sysroot-is.patch
+      - 0009-runtime_library_dir_option-Use-1st-word-of-CC-as-com.patch
+      - 0010-Win32-Do-not-download-externals.patch
+      - 0011-Add-support-for-_CONDA_PYTHON_SYSCONFIGDATA_NAME-if-.patch
+      - 0012-Fix-find_library-so-that-it-looks-in-sys.prefix-lib-.patch
+      - 0013-Disable-new-dtags-in-unixccompiler.py.patch
+      - 0014-Fix-cross-compilation-on-Debian-based-distros.patch
+      - 0015-Disable-registry-lookup-unless-CONDA_PY_ALLOW_REG_PA.patch
+      - 0016-Unvendor-openssl.patch
+      - 0017-Unvendor-sqlite3.patch
+      - 0018-venv-Revert-a-change-from-https-github.com-python-cp.patch
+      - 0019-Add-CondaEcosystemModifyDllSearchPath.patch
+  # TODO :: Depend on our own packages for these:
+  - url: https://github.com/python/cpython-source-deps/archive/xz-5.2.2.zip          # [win]
+    folder: externals/xz-5.2.2                                                       # [win]
+    sha256: 02b6d6f1e0369940e7e1f0d324992e069d09f5f3d32d86e2d22cd8b82ac3fb3f         # [win]
+  # Not used as of 3.7b3 (tcltk from cpython-bin- is), but kept for archival and license reasons.
+  - url: https://github.com/python/cpython-source-deps/archive/tcl-core-8.6.9.0.zip  # [win]
+    folder: externals/tcl-core-8.6.9.0                                               # [win]
+    sha256: ea9e724536ec13b476ebbd47948303b92fdd90a33aa94f30fcc2f5c3a899f69e         # [win]
+  # Not used as of 3.7b3 (tcltk from cpython-bin- is), but kept for archival and license reasons.
+  - url: https://github.com/python/cpython-source-deps/archive/tk-8.6.9.0.zip        # [win]
+    folder: externals/tk-8.6.9.0                                                     # [win]
+    sha256: f3112b6bbc3bd163c877030187e73ce9a113ce03eff559ec5b9df697e3a08fad         # [win]
+  - url: https://github.com/python/cpython-bin-deps/archive/tcltk-8.6.9.0.zip        # [win]
+    folder: externals/tcltk-8.6.9.0                                                  # [win]
+    sha256: 37cd629a75d2a34974a3d771ccab5c9e3caf3d138cea81040f9cdba1aded1cf2         # [win]
+  - url: https://github.com/python/cpython-source-deps/archive/tix-8.4.3.6.zip       # [win]
+    folder: externals/tix-8.4.3.6                                                    # [win]
+    sha256: e558e3dc5e67ac0942f8fceafce00ca46b177da9ebeaf38ec7fafd9b9913ac56         # [win]
+  - url: https://github.com/python/cpython-source-deps/archive/bzip2-1.0.6.zip       # [win]
+    folder: externals/bzip2-1.0.6                                                    # [win]
+    sha256: c42fd1432a2667b964a74bc423bb7485059c4a6d5dc92946d59dbf9a6bdb988d         # [win]
+  - url: https://github.com/python/cpython-source-deps/archive/zlib-1.2.11.zip       # [win]
+    folder: externals/zlib-1.2.11                                                    # [win]
+    sha256: debb1952945fa6c25817a40abe90641b572c83171f244937b70b9fe156f5a63a         # [win]
+  - url: https://github.com/python/cpython-bin-deps/archive/nasm-2.11.06.zip         # [win]
+    folder: externals/nasm-2.11.06                                                   # [win]
+    sha256: de3c87b26a80e789986d8e6950c6304175d3829afe9c6c7211eb7257266ab0ac         # [win]
+
+
+build:
+  number: 1
+  # Windows has issues updating python if conda is using files itself.
+  # Copy rather than link.
+  no_link:
+    - DLLs/_ctypes.pyd  # [win]
+  # We delete the shared libraries.
+  ignore_run_exports:   # [unix]
+    - bzip2             # [unix]
+  detect_binary_files_with_prefix: False
+  # match python.org compiler standard
+  skip: True            # [win and vc != 14]
+# Would like to be able to append to the calculated build string here, ping @msarahan, is this possible?
+# Also this messes up hash generation so package ends up without any :-(
+# {% if linkage_nature != '' %}
+#   string: {{ version }}{{ linkage_nature }}
+# {% endif %}
+#  script_env:
+#    - PY_INTERP_LINKAGE_NATURE
+#    - python_branding
+
+requirements:
+  build:
+    - {{ compiler('c') }}
+    - {{ compiler('cxx') }}
+    - {{ cdt('xorg-x11-proto-devel') }}  # [linux]
+    - {{ cdt('libx11-devel') }}          # [linux]
+    - make                               # [unix]
+    - pkg-config                         # [unix]
+    - patch                              # [not win]
+    - m2-patch                           # [win]
+  host:
+    - bzip2                              # [unix]
+    - sqlite
+    - xz                                 # [unix]
+    - zlib                               # [unix]
+    - openssl
+    - readline                           # [unix]
+    - tk                                 # [unix]
+    - ncurses                            # [unix]
+    - libffi                             # [unix]
+   # run:
+   # # conda-build bug?
+   #  - ncurses >=6.1,<7.0a0               # [unix]
+
+test:
+  # files:
+  #   - tests/cext1
+  commands:
+    - python -V
+    - python3 -V            # [unix]
+    - 2to3 -h
+    - pydoc -h
+    - python3-config --help  # [unix]
+    - python -c "import sysconfig; print(sysconfig.get_config_var('CC'))"
+    - python -m venv %%TEMP%%\venv  # [win]
+    -  _CONDA_PYTHON_SYSCONFIGDATA_NAME=_sysconfigdata_x86_64_conda_cos6_linux_gnu python -c "import sysconfig; print(sysconfig.get_config_var('CC'))"  # [linux64]
+    # check for unreplaced @ symbols in sysconfig files
+    - for f in ${PREFIX}/lib/python3.7/_sysconfig*.py; do echo "Checking $f:"; if [[ `rg @ $f` ]]; then exit 1; fi; done  # [linux64 or osx]
+    # WIP.
+    # - pushd tests/cext1
+    # -   python setup.py install
+    # - popd
+
+about:
+  home: http://www.python.org/
+  license: PSF
+  license_file: LICENSE
+  summary: General purpose programming language
+  description: |
+    Python is a widely used high-level, general-purpose, interpreted, dynamic
+    programming language. Its design philosophy emphasizes code
+    readability, and its syntax allows programmers to express concepts in
+    fewer lines of code than would be possible in languages such as C++ or
+    Java. The language provides constructs intended to enable clear programs
+    on both a small and large scale.
+  doc_url: https://www.python.org/doc/versions/
+  doc_source_url: https://github.com/python/pythondotorg/blob/master/docs/source/index.rst
+  dev_url: https://docs.python.org/devguide/
+
+extra:
+  recipe-maintainers:
+    - jakirkham
+    - jjhelmus
+    - mingwandroid
+    - msarahan
+    - pelson
+    - ocefpaf

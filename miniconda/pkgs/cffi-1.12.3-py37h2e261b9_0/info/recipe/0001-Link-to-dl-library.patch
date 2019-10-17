@@ -1,0 +1,21 @@
+--- setup.py	2017-04-06 11:19:47.311893148 +0100
++++ setup.py	2017-04-06 11:20:07.639160636 +0100
+@@ -1,6 +1,7 @@
+ import sys, os
+ import subprocess
+ import errno
++import sysconfig
+ 
+ 
+ sources = ['c/_cffi_backend.c']
+@@ -74,6 +75,10 @@
+     _ask_pkg_config(library_dirs,       '--libs-only-L', '-L', sysroot=True)
+     _ask_pkg_config(extra_link_args,    '--libs-only-other')
+     _ask_pkg_config(libraries,          '--libs-only-l', '-l')
++    # This is needed for linking to 'dlopen', 'dlclose', 'dlsym' and 'dlerror'
++    # from _cffi_backend.c for uClibc.
++    if '-ldl' in ''.join(sysconfig.get_config_vars('LIBS')).split(' '):
++        libraries.append('dl')
+ 
+ def use_homebrew_for_libffi():
+     # We can build by setting:

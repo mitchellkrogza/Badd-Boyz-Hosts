@@ -1,0 +1,23 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "features": "",
+  "fn": "idna-2.8-py37_0.conda",
+  "legacy_bz2_md5": "96d99d20df365f24497d35850ec0f808",
+  "legacy_bz2_size": 102943,
+  "license": "BSD Like",
+  "md5": "fd11c9476dfda060e4f3df6e023f76fe",
+  "name": "idna",
+  "sha256": "27237ef41103a7492b9baee5f33e0445a7ebc77865294396cbfe5b7c57bc6b8f",
+  "size": 87397,
+  "subdir": "linux-64",
+  "timestamp": 1545082953868,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/idna-2.8-py37_0.conda",
+  "version": "2.8"
+}

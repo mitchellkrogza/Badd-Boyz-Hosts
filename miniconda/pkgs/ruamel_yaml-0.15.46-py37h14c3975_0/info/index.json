@@ -1,0 +1,17 @@
+{
+  "arch": "x86_64",
+  "build": "py37h14c3975_0",
+  "build_number": 0,
+  "depends": [
+    "libgcc-ng >=7.2.0",
+    "python >=3.7,<3.8.0a0",
+    "yaml >=0.1.7,<0.2.0a0"
+  ],
+  "license": "MIT",
+  "license_family": "MIT",
+  "name": "ruamel_yaml",
+  "platform": "linux",
+  "subdir": "linux-64",
+  "timestamp": 1532968916601,
+  "version": "0.15.46"
+}

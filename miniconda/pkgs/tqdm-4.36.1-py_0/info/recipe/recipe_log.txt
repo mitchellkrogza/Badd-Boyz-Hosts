@@ -1,0 +1,926 @@
+commit 64c8a3ce947da0052107d7dac46e129507b67c85
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Thu Sep 19 09:23:41 2019 +0000
+
+    remove @lrq3000 for now due to conda-forge spam emails about lack of acceptance
+
+commit 0e275884589cf881ce86bf6f5adf9ac83bbad6fa
+Merge: a9a3ed0 06c6d88
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Thu Sep 19 09:19:50 2019 +0000
+
+    Merge remote-tracking branch 'autotick-bot/4.36.1'
+
+commit 06c6d88d06c1d56f2ecc2d6ceec9f9b467802bfa
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Sep 19 03:16:11 2019 +0000
+
+    updated v4.36.1
+
+commit a9a3ed025d029195539c77cedfc0e6d8eb4a8af4
+Merge: 2d999ef 7756483
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Thu Sep 19 01:11:04 2019 +0000
+
+    Merge remote-tracking branch 'autotick-bot/4.36.0'
+
+commit 77564832413ff8f07818bba40c8120deeffb5964
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Sep 17 18:17:24 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.18.9, conda-smithy 3.4.7, and conda-forge-pinning 2019.09.08
+
+commit 7ba57732e39a19509920d1aaf794ee78c0551562
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Sep 17 18:17:10 2019 +0000
+
+    updated v4.36.0
+
+commit 2d999ef97e8b206b39431d554e4a04df688674fe
+Merge: 9d342b2 e752f24
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Sun Aug 25 01:33:24 2019 +0100
+
+    Merge remote-tracking branch 'autotick-bot/4.35.0'
+
+commit e752f2481856dc84ca00deb7b45d95f52c96370c
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sat Aug 24 23:22:48 2019 +0000
+
+    updated v4.35.0
+
+commit 9d342b25e4c2659bc3832648dad39df3527e2dd7
+Merge: f015b5f 82ce6db
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Sun Aug 18 23:30:25 2019 +0100
+
+    Merge remote-tracking branch 'autotick-bot/4.34.0'
+
+commit 82ce6db8ce27880883425d8e5bdba995c19bc7b0
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sun Aug 18 22:27:42 2019 +0000
+
+    updated v4.34.0
+
+commit f015b5fd7d85f0892fc332159aebd8ae7e3f316a
+Merge: d1de530 e7ec169
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Thu Aug 8 21:54:00 2019 +0100
+
+    Merge remote-tracking branch 'autotick-bot/4.33.0'
+
+commit e7ec169392c4840b5a73841ec13d1c8250be3b19
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Aug 8 18:24:35 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.18.9, conda-smithy 3.4.1, and conda-forge-pinning 2019.08.08
+
+commit 6512ebc3f5bace5ddbb0972476eeab6a9fb52bd9
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Aug 8 18:24:10 2019 +0000
+
+    updated v4.33.0
+
+commit d1de530a4d376426556e26919ad19e34e0dde468
+Merge: 3b92e41 dc54361
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Wed Jun 19 10:25:27 2019 +0000
+
+    Merge remote-tracking branch 'autotick-bot/4.32.2'
+
+commit dc543611fa7715734b19280ceddc31143a80f4c1
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Jun 18 19:41:30 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.18.2, conda-smithy 3.3.7, and conda-forge-pinning 2019.06.18
+
+commit d102c0c6da4070ce6b804bbfa3a6790c5d2be26c
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Jun 18 19:41:18 2019 +0000
+
+    updated v4.32.2
+
+commit 3b92e41457e43cb3d1dab66b2ecead0bac7166d5
+Merge: 50aa87a d3429d4
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Tue May 14 08:23:51 2019 +0000
+
+    Merge remote-tracking branch 'autotick-bot/4.32.1'
+
+commit d3429d4e3c0b9f200cdab37e1a5395a8fe84ae60
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon May 13 23:30:50 2019 +0000
+
+    updated v4.32.1
+
+commit 50aa87af9e69ad0c24273b0a11068936b0a1b15e
+Merge: 8cfaf55 cbed8db
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Mon May 13 18:34:44 2019 +0100
+
+    Merge remote-tracking branch 'autotick-bot/4.32.0'
+
+commit cbed8db4338044c034237b5ce68e2823866670ef
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon May 13 17:32:01 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.17.8, conda-smithy 3.3.4, and conda-forge-pinning 2019.05.11
+
+commit 145dab6a2ea6458994fcf8bd96f84e9b5bbcd036
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon May 13 17:31:49 2019 +0000
+
+    updated v4.32.0
+
+commit 8cfaf5573b7d56ae8ba65bc0927810a52911646c
+Merge: db6d4d5 0f1264e
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Sun Feb 10 22:58:45 2019 +0000
+
+    Merge remote-tracking branch 'autotick-bot/4.31.1'
+
+commit 0f1264edd7c12a4a1da822d8037ae22f76b8a23b
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sun Feb 10 19:14:23 2019 +0000
+
+    updated v4.31.1
+
+commit db6d4d59a74584fa69e74689c1b8d43219b96f34
+Merge: 81637c1 52bed02
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Sat Feb 9 12:47:29 2019 +0000
+
+    Merge remote-tracking branch 'autotick-bot/4.31.0'
+
+commit 52bed029fee1d1ed5a6d583ef240dd60b17ebf27
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sat Feb 9 04:14:19 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.15.1, conda-smithy 3.2.13, and conda-forge-pinning 2019.01.29
+
+commit 935a156634a907c45e7b0fd333196629133898c7
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sat Feb 9 04:14:08 2019 +0000
+
+    updated v4.31.0
+
+commit 81637c114d8bc2e2264114738534a20d627217c7
+Merge: 9a0a4c2 3bb806a
+Author: Marius van Niekerk <marius.v.niekerk@gmail.com>
+Date:   Sat Feb 2 12:52:11 2019 -0500
+
+    Merge pull request #41 from regro-cf-autotick-bot/4.30.0
+    
+    tqdm v4.30.0
+
+commit 3bb806a88ece1380042a65dbd19ad0c7caeca035
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Jan 29 08:58:41 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.17.8, conda-smithy 3.2.10, and conda-forge-pinning 2019.01.21
+
+commit 99d59bd6b1cd7333ff981dfae274f21e8dcb32e8
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Jan 29 08:58:30 2019 +0000
+
+    updated v4.30.0
+
+commit 9a0a4c2f5c84b7d7aa79de0d5b89305a3df5e9f1
+Merge: 3f08092 f07d486
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Fri Jan 11 22:39:08 2019 +0000
+
+    Merge remote-tracking branch 'autotick-bot/4.29.1'
+
+commit f07d48686f11cb99bfb78a421ea3022caff702b4
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Fri Jan 11 22:19:22 2019 +0000
+
+    updated v4.29.1
+
+commit 3f0809289ace286ce963549bd54bf4653dcf7214
+Merge: 8b7d6ae 7fecbe5
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Mon Jan 7 19:26:35 2019 +0000
+
+    Merge remote-tracking branch 'autotick-bot/4.29.0'
+
+commit 7fecbe5507230674e199f45a47a654e666517689
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sun Jan 6 22:20:30 2019 +0000
+
+    MNT: Re-rendered with conda-smithy 3.2.2 and pinning 2019.01.05
+
+commit 21be9f2a33c1fdeb70cc28e468c5ea3226c6d683
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sun Jan 6 22:20:26 2019 +0000
+
+    updated v4.29.0
+
+commit 8b7d6ae4a524a074ca1cce209f053f90eb052d4c
+Merge: 7383386 95aebaa
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Mon Oct 22 18:48:25 2018 +0100
+
+    Merge remote-tracking branch 'autotick-bot/4.28.1'
+
+commit 95aebaa040a684aadad3cfed381ca8f4d66c7d83
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sun Oct 21 19:54:20 2018 +0000
+
+    updated v4.28.1
+
+commit 7383386f28f8552f9e344e61db843b7bf81b1fd6
+Merge: 47003b8 077b294
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Sun Oct 21 18:30:31 2018 +0100
+
+    Merge remote-tracking branch 'regro-cf-autotick-bot/4.28.0'
+
+commit 077b294505274e9707c2a3517459b384dd91963c
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sat Oct 20 22:27:45 2018 +0000
+
+    updated v4.28.0
+
+commit 47003b80d5b3aff438c2c495e30f2afc495e66d9
+Merge: d20ff69 daf9665
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Sat Oct 20 22:55:57 2018 +0100
+
+    Merge remote-tracking branch 'regro-cf-autotick-bot/4.27.0'
+
+commit daf9665fd75d7128fbbea8ccc501562bf3455119
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon Oct 15 18:32:48 2018 +0000
+
+    updated v4.27.0
+
+commit d20ff69b501e6f5d40d7954f793851e44f19d80e
+Merge: 8fcf3ef b86a8f5
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Thu Sep 13 12:33:35 2018 +0100
+
+    Merge remote-tracking branch 'autotick-bot/4.26.0'
+
+commit b86a8f51b8b3f0ad023b475277a1a23289231579
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Sep 11 23:46:47 2018 +0000
+
+    updated v4.26.0
+
+commit 8fcf3efafc3ecf4fb0a508c230871e1d8ba25eb0
+Merge: 0e73430 d837eca
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Tue Sep 11 21:25:17 2018 +0100
+
+    Merge remote-tracking branch 'regro-cf-autotick-bot/4.25.0'
+
+commit d837eca89defa3963560f02ba012abbe04f14b83
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon Aug 20 13:19:40 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.12 and pinning 2018.08.14
+
+commit ac81ff5227c3b5df0305635059ee9c4a0dafed1e
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon Aug 20 13:19:34 2018 +0000
+
+    updated v4.25.0
+
+commit 0e73430dfd430354eb1ab4a0b1cecdc40d45edd2
+Merge: 72db91d c87e461
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Mon Aug 20 14:03:44 2018 +0100
+
+    Merge pull request #33 from jjhelmus/ar_sync
+    
+    switch to conda build 3 requirements syntax
+
+commit 72db91d5b87c233e98b80a908009f025982685ff
+Author: Travis CI User <travis@example.org>
+Date:   Sat Aug 4 17:22:41 2018 +0000
+
+    [ci skip] [skip ci] Update anaconda token
+
+commit c87e461201e8f6effe3ea6a94e496babbf124819
+Author: Jonathan Helmus <jjhelmus@gmail.com>
+Date:   Tue Jul 31 09:46:40 2018 -0500
+
+    bump build number
+
+commit db1c4956b3b83f0a8eb92ae11fd857948fa654da
+Author: Nehal J Wani <nehaljw.kkd1@gmail.com>
+Date:   Thu Oct 12 13:34:10 2017 -0500
+
+    Make recipe cross-compile capable
+
+commit 5d2ad2d36b49fccd9b163071be5d235e12ad2e9f
+Merge: 083810f 704b745
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Fri Jul 27 00:13:32 2018 +0100
+
+    Merge remote-tracking branch 'regro-cf-autotick-bot/4.24.0'
+
+commit 704b745fa0bdbdc440d7f79bbd3aa8c51aefc6a2
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Jul 26 17:12:50 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.8 and pinning 2018.07.24
+
+commit 8ddb934b7b59f64866fe66b4f3806c20fe1a3809
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Jul 26 17:12:45 2018 +0000
+
+    updated v4.24.0
+
+commit 083810f1786cf7b43a71f43dc024fb0b68003e26
+Merge: 683e07e 002262a
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Sat May 26 18:41:40 2018 +0100
+
+    merge regro-cf-autotick-bot/4.23.4
+
+commit 002262a7f50d038771ff4deebeb9d26e1b12ec77
+Author: Travis CI User <travis@example.org>
+Date:   Wed May 23 11:12:52 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.4 and pinning 2018.05.07
+
+commit 79509f0775d8159f2ee9313249b1d9e1a70af1a4
+Author: Travis CI User <travis@example.org>
+Date:   Wed May 23 11:12:41 2018 +0000
+
+    updated v4.23.4
+
+commit 683e07e19a8fffe018da2c7e5c0848582b6f7f62
+Merge: 4a658c8 d63e99d
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Tue May 8 18:31:28 2018 +0100
+
+    Merge remote-tracking branch 'regro-cf-autotick-bot/4.23.3'
+
+commit d63e99d52f0d871babc4836e87b04b9aae07258b
+Author: Travis CI User <travis@example.org>
+Date:   Tue May 8 17:29:52 2018 +0000
+
+    updated v4.23.3
+
+commit 4a658c829cffadc15112179e4c956c7414af0c86
+Merge: 8fa67da e77d98a
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Wed May 2 19:51:29 2018 +0100
+
+    Merge remote-tracking branch 'regro-cf-autotick-bot/4.23.2'
+
+commit e77d98ae4864c08e28f42f4b701374caf2cebe3e
+Author: Travis CI User <travis@example.org>
+Date:   Wed May 2 17:28:31 2018 +0000
+
+    updated v4.23.2
+
+commit 8fa67da8baf49fb4e7fc029b14b902dc7863e374
+Merge: 5353c15 40e0f4e
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Thu Apr 26 00:42:21 2018 +0100
+
+    Merge remote-tracking branch 'regro-cf-autotick-bot/4.23.1'
+
+commit 40e0f4e3f1dc2280edfd76758a2fb8276b81d89b
+Author: Travis CI User <travis@example.org>
+Date:   Wed Apr 25 22:58:14 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.2 and pinning 2018.04.19
+
+commit 3c2e7b444fbf2b4694b29f0f88bbe9d810471de7
+Author: Travis CI User <travis@example.org>
+Date:   Wed Apr 25 22:57:52 2018 +0000
+
+    updated v4.23.1
+
+commit 5353c153d3386015606176336960e38aca57377a
+Author: Travis CI User <travis@example.org>
+Date:   Mon Apr 16 17:21:24 2018 +0000
+
+    updated v4.23.0
+
+commit 922479fc14476bc96589064d8610661338700060
+Merge: f6c2a94 fadc157
+Author: Eric Dill <ericdill@users.noreply.github.com>
+Date:   Fri Apr 13 08:02:18 2018 -0500
+
+    Merge pull request #26 from regro-cf-autotick-bot/4.22.0
+    
+    tqdm v4.22.0
+
+commit fadc157aa87c3f5def45b85be895da653faf3110
+Author: Travis CI User <travis@example.org>
+Date:   Thu Apr 12 04:04:47 2018 +0000
+
+    updated v4.22.0
+
+commit f6c2a9427b00fcc5115ee8b3d621b1f1781b027d
+Merge: cb4aa16 ca69f0d
+Author: Eric Dill <ericdill@users.noreply.github.com>
+Date:   Sun Apr 8 07:32:30 2018 -0400
+
+    Merge pull request #25 from regro-cf-autotick-bot/4.21.0
+    
+    tqdm v4.21.0
+
+commit ca69f0d73ac8959fe962526da064273018cf74f1
+Author: Travis CI User <travis@example.org>
+Date:   Sun Apr 8 04:02:36 2018 +0000
+
+    updated v4.21.0
+
+commit cb4aa167ec023f243c463a36ab69bbacc569d25a
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Wed Apr 4 00:48:04 2018 +0100
+
+    .mailmap update
+
+commit e6e826ba2c4bbc29f9d6559d00b6177fdf0469cf
+Merge: 2c855de b5d103d
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Wed Apr 4 00:41:13 2018 +0100
+
+    Merge remote-tracking branch 'regro-cf-autotick-bot/4.20.0'
+    
+    closes #24
+
+commit b5d103dc4e083e5af1975858dd0951cb988c08f6
+Author: Travis CI User <travis@example.org>
+Date:   Tue Apr 3 22:55:31 2018 +0000
+
+    updated v4.20.0
+
+commit 2c855de2bee7727d278320f46ae5005878152f3f
+Merge: 2e2d2ef 865c917
+Author: Peter M. Landwehr <plandweh@andrew.cmu.edu>
+Date:   Sat Mar 31 14:16:51 2018 -0700
+
+    Merge pull request #23 from regro-cf-autotick-bot/4.19.9
+    
+    tqdm v4.19.9
+
+commit 865c917764de49fef840a3229b14339d45281f5b
+Author: Travis CI User <travis@example.org>
+Date:   Tue Mar 27 22:51:36 2018 +0000
+
+    updated v4.19.9
+
+commit 2e2d2efa123cdf8c525cd8b9b0ff748d7f0506d6
+Merge: 7b2b55c 13539d1
+Author: jakirkham <jakirkham@gmail.com>
+Date:   Sun Mar 18 19:26:10 2018 -0400
+
+    Merge pull request #21 from regro-cf-autotick-bot/4.19.8
+    
+    tqdm v4.19.8
+
+commit 13539d1054451836994a8ba025f948c6fd167ae9
+Author: Travis CI User <travis@example.org>
+Date:   Sun Mar 18 03:46:13 2018 +0000
+
+    updated v4.19.8
+
+commit 7b2b55c2b2ac491514a9ed09193050170439db4d
+Merge: 8d6f0f7 84520c2
+Author: Eric Dill <ericdill@users.noreply.github.com>
+Date:   Tue Mar 13 21:48:26 2018 -0400
+
+    Merge pull request #20 from regro-cf-autotick-bot/4.19.7
+    
+    tqdm v4.19.7
+
+commit 84520c253cd3689d0476e661aabd4fd69077c527
+Author: Travis CI User <travis@example.org>
+Date:   Wed Mar 14 00:24:18 2018 +0000
+
+    updated v4.19.7
+
+commit 8d6f0f7cdc492a9d8aaa6fafb2eee7e1418c00ed
+Merge: 30ccd5e 92bf065
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Wed Feb 28 18:29:50 2018 -0300
+
+    Merge pull request #19 from ocefpaf/update_to_4.19.6
+    
+    update_to_4.19.6
+
+commit 92bf065ef81514b86b2e624939cd5a6d377ac671
+Author: Filipe Fernandes <ocefpaf@gmail.com>
+Date:   Wed Feb 28 17:23:53 2018 -0300
+
+    update_to_4.19.6
+
+commit 30ccd5ebaf82bc4448c734342f646db7491fc55d
+Merge: 66fc783 77bd40b
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Thu Dec 21 09:38:03 2017 -0800
+
+    Merge pull request #18 from pmlandwehr/master
+    
+    Tick version to 4.19.5
+
+commit 77bd40be8700ad6c6b65d41ba6bbbc0486620f04
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Thu Dec 21 09:32:20 2017 -0800
+
+    Tick version to 4.19.5
+
+commit 66fc7832c8ccd2d2e56ed5cca34ffa0fa7078c15
+Merge: 509429b db8fbbb
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Sun Oct 22 00:02:37 2017 -0700
+
+    Merge pull request #17 from pmlandwehr/master
+    
+    Ticked version, regenerated if needed. (Double-check reqs!)
+
+commit db8fbbbfeca812ba2ccf2a2fc51e6b35e441c56a
+Author: Peter <pmlandwehr@gmail.com>
+Date:   Sat Oct 21 22:51:03 2017 -0700
+
+    MNT: Re-rendered with conda-smithy 2.4.2
+
+commit f34e2ca928fb0f1cbacea43a000be5ed79a0f8e9
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Sat Oct 21 22:43:46 2017 -0700
+
+    Tick version to 4.19.4
+
+commit 509429b6ea832f990aed557f49324b500cde3e9c
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Mon Oct 9 00:38:09 2017 +0100
+
+    4.19.1 -> 4.19.2
+
+commit cfd4180ff0838ffc8de6b0a4a2d5fa7e788f08ff
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Mon Oct 9 00:37:15 2017 +0100
+
+    4.18.0 -> 4.19.1
+
+commit e50a0d4bcd85fbb7259833839b87163d6e8febb4
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Sat Sep 30 23:36:00 2017 +0100
+
+    4.17.1 -> 4.18.0
+
+commit 5227ee86e6179ac9310a6f30e2ffb173f9b9896d
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Sat Sep 30 23:34:46 2017 +0100
+
+    4.16.0 -> 4.17.1
+
+commit a6b9d2cac94212b8d262098cc8d04e2a777f60b1
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Sat Sep 30 23:33:19 2017 +0100
+
+    4.15.0 -> 4.16.0
+
+commit 04a199aeaca2413cb9c1c2f0601bdced81e35e77
+Merge: 4256c9b 721ca58
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Wed Sep 20 21:44:39 2017 +0100
+
+    Merge pull request #16 from dougalsutherland/patch-1
+    
+    bump build number
+
+commit 721ca5877be70cfc2c12e211ed3feb0d554b11e7
+Author: Dougal J. Sutherland <dougal@gmail.com>
+Date:   Wed Sep 20 21:08:09 2017 +0100
+
+    bump build number
+
+commit 4256c9b05a71b9e0b6cc74b8e94b16ecd49a6562
+Merge: 786dc9c 0487534
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Fri Sep 15 09:33:18 2017 -0700
+
+    Merge pull request #15 from pmlandwehr/master
+    
+    Add noarch: python, regenerate
+
+commit 0487534d243cc0c5f0972d6bf5c523a83c461bbd
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Fri Sep 15 09:29:43 2017 -0700
+
+    Add spaces around = in entry_points
+
+commit a55b9e4774dbe4ca0ad7e25fc81b4439589cd7f9
+Author: Peter <pmlandwehr@gmail.com>
+Date:   Thu Sep 14 00:29:11 2017 -0700
+
+    MNT: Re-rendered with conda-smithy 2.4.0
+
+commit 4a736acfeafe2326751ba2ae5e7be014a5d73888
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Thu Sep 14 00:28:38 2017 -0700
+
+    Add noarch: python
+
+commit 786dc9cfce8aa81184df78869a716254d3871103
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Sat Aug 26 19:44:52 2017 +0000
+
+    [ci skip] [skip ci] Update anaconda token
+
+commit cb8f469be5577d1e26545ed2ace2863cf7edb579
+Merge: 275a3eb aa95588
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Sun Jul 23 19:15:23 2017 -0700
+
+    Merge pull request #14 from pmlandwehr/master
+    
+    Ticked version, regenerated if needed. (Double-check reqs!)
+
+commit aa95588347fd8b0bf9d86a1c75f5015c2ffffc16
+Author: Peter <pmlandwehr@gmail.com>
+Date:   Sat Jul 22 23:53:09 2017 -0700
+
+    MNT: Re-rendered with conda-smithy 2.3.2
+
+commit a6f2ef86b3773a945fd4a1b8bd0f6ed02b584814
+Author: Peter <pmlandwehr@gmail.com>
+Date:   Sat Jul 22 23:51:32 2017 -0700
+
+    Fix jinja
+
+commit 0bcbd9ecafc30c3acd30ae830a8b1587e02ab115
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Sat Jul 22 23:50:19 2017 -0700
+
+    Update template
+
+commit 05a0d6db5dcb852f7a2dd3d1c01c0c3790ceee94
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Sat Jul 22 22:59:33 2017 -0700
+
+    Tick version to 4.15.0
+
+commit 275a3eb852693307ec597b50aece773b4933e924
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Mon May 29 18:15:05 2017 +0100
+
+    4.13.0 -> 4.14.0
+
+commit be2b8e5594345b37695282f68250922b300b502a
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Mon May 29 18:05:20 2017 +0100
+
+    4.12.0 -> 4.13.0
+
+commit 97dd1b8073e60c7c06af368dd6bcac75057f3ee3
+Merge: a5bfe88 4567386
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Mon May 29 18:03:59 2017 +0100
+
+    Merge pull request #13 from tqdm/master
+    
+    4.11.2 -> 4.12.0
+
+commit 4567386458d2c843aa3eb18d8cbf258d36fdd7d6
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Mon May 29 17:47:40 2017 +0100
+
+    4.11.2 -> 4.12.0
+
+commit a5bfe88d31efc2191ffe4cb21eb394a0001dffd9
+Merge: 122c364 ea0c8ae
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Mon Feb 20 22:32:33 2017 -0800
+
+    Merge pull request #12 from pmlandwehr/master
+    
+    Tick version to 4.11.2, rerender
+
+commit ea0c8aebb7c5fc4ab1172643702ce7c2b0e0e129
+Author: Peter Landwehr <pmlandwehr@gmail.com>
+Date:   Mon Feb 20 18:33:17 2017 -0800
+
+    MNT: Re-rendered with conda-smithy 2.1.0
+
+commit 3a1578165386ca56581156caa8bf59b5466e890d
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Mon Feb 20 18:32:21 2017 -0800
+
+    Update template
+
+commit 2bf30201bc29fc0be252e143ba6988c1986f1884
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Mon Feb 20 18:29:53 2017 -0800
+
+    tick version: 4.11.1 -> 4.11.2
+
+commit 122c36408511e7e8a31a98497db32ded76d8346e
+Merge: 2d41695 faee428
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Sat Jan 21 13:18:41 2017 +0000
+
+    Merge pull request #11 from pmlandwehr/master
+    
+    re-render with conda-smithy 2.0
+
+commit faee4287bc1593fa50f23798f9b7f85da8af9b72
+Author: Pete[r] M. Landwehr <pmlandwehr@gmail.com>
+Date:   Fri Jan 20 13:58:17 2017 -0800
+
+    MNT: Re-rendered with conda-smithy 2.0.0
+
+commit ddc4cd3524a50d40318f3edc098e0611ac995c5e
+Author: Pete[r] M. Landwehr <pmlandwehr@gmail.com>
+Date:   Fri Jan 20 13:56:41 2017 -0800
+
+    Tick build num
+
+commit 2d416957b2d0e9b64fdeb8715e4e84fe2f30cae5
+Merge: 9ae9f9a b6fd88f
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Fri Jan 20 08:36:26 2017 +0000
+
+    Merge pull request #10 from tqdm/master
+    
+    4.11.0 -> 4.11.1
+
+commit b6fd88f7cb2ff058ebcafa27d421b25c50ba9236
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Fri Jan 20 01:24:05 2017 +0000
+
+    4.11.0 -> 4.11.1
+
+commit 9ae9f9ab25e8c6e5bd97892f7bd89d7f6ad11fb9
+Merge: 01863a5 854eda7
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Sun Jan 15 16:23:12 2017 +0000
+
+    Merge branch tqdm:master into conda-forge:master
+
+commit 854eda792038977eecd000db66d185e37d37fd8c
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Sun Jan 15 16:15:41 2017 +0000
+
+    4.10.0 -> 4.11.0
+
+commit 01863a5f838ac28d74ef6e51506e689123080868
+Merge: 2387351 8f86cff
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Thu Nov 17 16:55:34 2016 +0000
+
+    Merge tqdm:master into conda-forge:master
+
+commit 8f86cff206ce71354034beab015415779505c0e4
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Wed Nov 16 09:12:18 2016 +0000
+
+    minor tidy
+
+commit 4069ffe787a95f52659c4b2ab5abb4ba66dd594d
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Sun Nov 13 11:17:32 2016 +0000
+
+    4.9.0 -> 4.10.0
+
+commit 23873516ec992b9da4ab94efc4aa1b492c44590e
+Merge: 5f1ff5b f590c5d
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Tue Nov 15 10:19:32 2016 -0800
+
+    Merge pull request #6 from tqdm/master
+    
+    bump version
+
+commit f590c5d803ff1a5b250834f4fa414b3e10caa00d
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Mon Nov 14 08:24:57 2016 +0000
+
+    add licence file
+
+commit 2a752b0225d2e9dd15d5378830225e841b6e0e5c
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Mon Nov 14 01:37:21 2016 +0000
+
+    MNT: Updated the feedstock for conda-smithy version 1.5.2.
+    
+    fixes #7
+    fixes #8
+
+commit a892402981e9c5bd62bbad3b9b28dbcf593240f5
+Author: Casper da Costa-Luis <tqdm@caspersci.uk.to>
+Date:   Sun Nov 13 11:46:58 2016 +0000
+
+    fix conda-forge-linter
+
+commit 9116ca0966744e7b6d773d0381558b4915d5de62
+Author: Casper da Costa-Luis <casper.dcl@physics.org>
+Date:   Sun Nov 13 11:11:15 2016 +0000
+
+    4.8.2 -> 4.9.0
+
+commit 5f1ff5b9d6b4aa084cb9e1a2c99a2f079f6325a6
+Merge: 0605af5 ca76d28
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Thu Sep 8 00:23:40 2016 -0700
+
+    Merge pull request #5 from pmlandwehr/master
+    
+    Tick version to 4.8.4, update template
+
+commit ca76d281d0b258f6258c2c6b03ba67455b8abffd
+Author: Pete[r] M. Landwehr <pmlandwehr@gmail.com>
+Date:   Wed Sep 7 14:26:15 2016 -0700
+
+    Rerendered feedstock
+
+commit 6cb00c4c6279c85ff7871c3843fd9e0a1046a0da
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Wed Sep 7 12:14:26 2016 -0700
+
+    Tick version to 4.8.4, update template
+
+commit 0605af513288e6b363a03bdbda26ec4f034625bc
+Merge: f8b7d96 75d657d
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Sat Jul 30 19:23:05 2016 -0400
+
+    Merge pull request #4 from pmlandwehr/master
+    
+    4.8.1 -> 4.8.2
+
+commit 75d657d364f386322474cee603324845929029d8
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Sat Jul 30 14:57:01 2016 -0400
+
+    4.8.1 -> 4.8.2
+
+commit f8b7d96266f749bca822b9677f62b3c5f9145f25
+Merge: ab43278 438d168
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Fri Jul 29 03:03:27 2016 -0400
+
+    Merge pull request #3 from pmlandwehr/master
+    
+    4.7.6 -> 4.8.1
+
+commit 438d168aa4cdd1e371d1b72226f02d2805b57d21
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Thu Jul 28 21:01:54 2016 -0400
+
+    4.7.6 -> 4.8.1
+
+commit ab4327817f2290c8f8db341e508b3b9d6d16eac9
+Merge: ff6a47b b146449
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Thu Jun 30 19:58:22 2016 -0700
+
+    Merge pull request #2 from pmlandwehr/master
+    
+    4.7.4 -> 4.7.6
+
+commit b1464490e28ce875ea1f5055e34ae6a943df61ea
+Author: pmlandwehr <pmlandwehr@gmail.com>
+Date:   Thu Jun 30 12:24:45 2016 -0700
+
+    4.7.4 -> 4.7.6
+
+commit ff6a47b05feb5e83295160ace68825d649297105
+Merge: 5145a79 2bfff4e
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Sat Jun 25 00:04:13 2016 -0700
+
+    Merge pull request #1 from conda-forge/pmlandwehr-patch-1
+    
+    md5 -> sha256
+
+commit 2bfff4e04cbd6242d1547c597951f1834567ca31
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Fri Jun 24 15:44:33 2016 -0700
+
+    md5 -> sha256
+
+commit 5145a790967b14c8a91bdebab6e2a518795cdea5
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Tue Jun 7 06:54:23 2016 -0400
+
+    ticked version: fixed md5
+
+commit 026b71c777cce0c5d7991a38e3df6b905a08ba96
+Author: Peter M. Landwehr <plandweh@cs.cmu.edu>
+Date:   Mon Jun 6 22:28:21 2016 -0400
+
+    tick version: 4.7.2 -> 4.7.4
+
+commit f735d379a09b0bfdf9854de804935af98dd1ba03
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Mon Jun 6 20:06:27 2016 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit 2e9a7125be35cac47e27d0bcefda35e8751e925c
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Mon Jun 6 20:04:04 2016 +0000
+
+    Initial commit of the tqdm feedstock.

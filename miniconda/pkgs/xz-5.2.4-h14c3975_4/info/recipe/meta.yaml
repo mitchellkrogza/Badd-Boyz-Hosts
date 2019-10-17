@@ -1,0 +1,69 @@
+# This file created by conda-build 3.10.2
+# meta.yaml template originally from:
+# /tmp/build/80754af9/rsync-recipes/xz-5.2.4-on-linux_64, last modified Tue May 15 18:19:49 2018
+# ------------------------------------------------
+
+package:
+    name: xz
+    version: 5.2.4
+source:
+    patches:
+        - 0001-Add-vs2008-support-via-cmake.patch
+        - 0002-Add-gettimeofday-for-VS2008.patch
+    sha256: 3313fd2a95f43d88e44264e6b015e7d03053e681860b0d5d3f9baca79c57b7bf
+    url: http://downloads.sourceforge.net/project/lzmautils/xz-5.2.4.tar.bz2
+build:
+    number: '4'
+    run_exports:
+        - xz >=5.2.4,<6.0a0
+    string: h14c3975_4
+requirements:
+    build:
+        - autoconf 2.69 pl526hebd4dad_5
+        - automake 1.15.1 pl526h7747ae0_0
+        - binutils_impl_linux-64 2.28.1 had2808c_3
+        - binutils_linux-64 7.2.0 had2808c_27
+        - gcc_impl_linux-64 7.2.0 habb00fd_3
+        - gcc_linux-64 7.2.0 h550dcbe_27
+        - libgcc-ng 7.2.0 hdf63c60_3
+        - libstdcxx-ng 7.2.0 hdf63c60_3
+        - m4 1.4.18 h4e445db_0
+        - make 4.2.1 h1bed415_1
+        - perl 5.26.0 hae598fd_0
+    host:
+        - libgcc-ng 7.2.0 hdf63c60_3
+    run:
+        - libgcc-ng >=7.2.0
+test:
+    commands:
+        - xz --help
+        - unxz --help
+        - echo greetings > hello.txt
+        - xz -z hello.txt
+        - xz -d hello.txt.xz
+        - cat hello.txt | grep greetings
+        - lzma --help
+about:
+    description: 'XZ Utils is free general-purpose data compression software with
+        a high
+
+        compression ratio. XZ Utils were written for POSIX-like systems, but also
+
+        work on some not-so-POSIX systems.
+
+        '
+    dev_url: http://git.tukaani.org/
+    doc_source_url: https://github.com/xz-mirror/xz/blob/master/README
+    doc_url: http://tukaani.org/xz/
+    home: http://tukaani.org/xz/
+    license: LGPL-2.1 and GPL-2.0
+    license_file: COPYING
+    summary: Data compression software with high compression ratio
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - mingwandroid
+        - msarahan
+        - nehaljwani
+        - ocefpaf

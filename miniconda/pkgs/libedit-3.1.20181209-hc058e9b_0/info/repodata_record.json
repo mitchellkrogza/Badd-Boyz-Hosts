@@ -1,0 +1,25 @@
+{
+  "build": "hc058e9b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "ncurses >=6.1,<7.0a0"
+  ],
+  "features": "",
+  "fn": "libedit-3.1.20181209-hc058e9b_0.conda",
+  "legacy_bz2_md5": "bd18612aa844e6c52e3b659cbaa706ea",
+  "legacy_bz2_size": 192019,
+  "license": "NetBSD",
+  "license_family": "BSD",
+  "md5": "594c05f769516b55c004eada4fc9ea74",
+  "name": "libedit",
+  "sha256": "47fded4c565175b5732320048bd5cdd0e8638523fe21207090665b8e6d0d753e",
+  "size": 166984,
+  "subdir": "linux-64",
+  "timestamp": 1547971047214,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/libedit-3.1.20181209-hc058e9b_0.conda",
+  "version": "3.1.20181209"
+}

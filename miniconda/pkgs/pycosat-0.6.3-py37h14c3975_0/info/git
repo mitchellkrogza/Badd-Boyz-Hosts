@@ -1,0 +1,15 @@
+==> git log -n1 <==
+commit c110c547464fce2474673e2497b0ca7af42a823c
+Author: Ray Donnelly <mingw.android@gmail.com>
+Date:   Sun Oct 29 22:04:42 2017 +0000
+
+    update changelog
+==> git describe --tags --dirty <==
+0.6.3
+==> git status <==
+# Not currently on any branch.
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	conda_build.sh
+nothing added to commit but untracked files present (use "git add" to track)

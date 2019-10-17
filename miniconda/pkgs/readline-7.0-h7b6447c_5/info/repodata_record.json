@@ -1,0 +1,24 @@
+{
+  "build": "h7b6447c_5",
+  "build_number": 5,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "ncurses >=6.1,<7.0a0"
+  ],
+  "features": "",
+  "fn": "readline-7.0-h7b6447c_5.conda",
+  "legacy_bz2_md5": "44547de0c0be291132a3fdd18829f5ff",
+  "legacy_bz2_size": 401325,
+  "license": "GPL-3.0",
+  "md5": "a710317bab8ee910a028ddf6da64158b",
+  "name": "readline",
+  "sha256": "76c957b9bcb9ab5aa2bd999ff66eaa35981386cf9a5c409fffd545d18c76b440",
+  "size": 331873,
+  "subdir": "linux-64",
+  "timestamp": 1535475436442,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/readline-7.0-h7b6447c_5.conda",
+  "version": "7.0"
+}

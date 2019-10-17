@@ -1,0 +1,251 @@
+commit 590c8dabcbcc306a1f907fa4fd062e9f48322d7d
+Merge: 1321982 e7f031c
+Author: Julien Schueller <schueller@phimeca.com>
+Date:   Sat Oct 5 07:20:38 2019 +0200
+
+    Merge pull request #10 from regro-cf-autotick-bot/1.0.1
+    
+    asn1crypto v1.0.1
+
+commit e7f031cf69956a107c26ab39915dff122fa80176
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Sat Oct 5 00:14:18 2019 +0000
+
+    updated v1.0.1
+
+commit 1321982f508ed184145cccaa5258fcd9c0d795d7
+Merge: b3c3790 12e0d57
+Author: Julien Schueller <schueller@phimeca.com>
+Date:   Thu Oct 3 07:10:13 2019 +0200
+
+    Merge pull request #9 from regro-cf-autotick-bot/1.0.0
+    
+    asn1crypto v1.0.0
+
+commit 12e0d5722970e59824deb3fc5ba31cf416784e7b
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Oct 3 02:13:41 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.18.9, conda-smithy 3.5.0, and conda-forge-pinning 2019.10.01
+
+commit 7450ca513c7952625304ae24b80eabca846b939b
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Oct 3 02:13:14 2019 +0000
+
+    updated v1.0.0
+
+commit b3c3790ee23e99373ee864895fa98f40624b41c9
+Author: conda-forge-admin <pelson.pub+conda-forge@gmail.com>
+Date:   Fri Sep 6 19:15:50 2019 -0500
+
+    [ci skip] ***NO_CI*** Move from appveyor to azure.
+    
+    See https://github.com/conda-forge/conda-forge.github.io/issues/857
+
+commit b9cf66433ba4e6e7eaf9985752e921088723572c
+Merge: bb03b20 b56afce
+Author: Marius van Niekerk <marius.v.niekerk@gmail.com>
+Date:   Wed Feb 20 23:50:32 2019 -0500
+
+    Merge pull request #8 from regro-cf-autotick-bot/rebuildaarch64_and_ppc64le_addition_arch
+    
+    Arch Migrator
+
+commit b56afcec1b94e78943930f4909ddc951acf3f4e2
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Feb 21 04:19:36 2019 +0000
+
+    MNT: Re-rendered with conda-build 3.15.1, conda-smithy 3.2.13, and conda-forge-pinning 2019.02.15
+
+commit a1db187a6135ef8c61a6a96f507961ba1b1b72d5
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Thu Feb 21 04:19:24 2019 +0000
+
+    bump build number
+
+commit bb03b202afc83519e2ad5805cf50252dcd2fd5d2
+Merge: 1f74ef9 197e437
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Sat Jan 19 09:30:51 2019 -0200
+
+    Merge pull request #6 from sodre/0.22.0-py37
+    
+    [WIP] Please build 0.22.0 for python 3.7
+
+commit 197e43740b2c80ce18022f47ad83518f84c22a3f
+Author: Patrick Sodré <psodre@gmail.com>
+Date:   Sat Jan 19 03:51:24 2019 -0500
+
+    Add license to 0.22.0
+
+commit adc6fd3b6ba4aa916419c8be0d1ba59d2c7c6ac0
+Author: Patrick Sodré <psodre@gmail.com>
+Date:   Sat Jan 19 03:13:26 2019 -0500
+
+    MNT: Re-rendered with conda-build 3.17.6, conda-smithy 3.2.9, and conda-forge-pinning 2019.01.18
+
+commit 87227dd648dca3236702e137ecd28d55b738a97a
+Author: Patrick Sodré <psodre@gmail.com>
+Date:   Sat Jan 19 03:08:38 2019 -0500
+
+    build 0.22.0 for python 3.7
+
+commit 1f74ef91ab3d33f39bfe392cd5469e3f88623818
+Merge: 40bcc74 73b30a4
+Author: Marius van Niekerk <marius.v.niekerk@gmail.com>
+Date:   Wed Oct 3 07:27:22 2018 -0400
+
+    Merge pull request #5 from regro-cf-autotick-bot/rebuild
+    
+    Rebuild for Python 3.7, GCC 7, R 3.5.1, openBLAS 0.3.2
+
+commit 73b30a42bf1aed63eef66fa133ec843d60f495a3
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Oct 2 18:19:06 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.12 and pinning 2018.10.01
+
+commit 71984a4415ff8bc2594b425db593e42a5c59832b
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Tue Oct 2 18:18:37 2018 +0000
+
+    bump build number
+
+commit 40bcc74ba6eeb7ce564a86ad407d74f1de6d2bfa
+Merge: 49fd842 3533b1a
+Author: Filipe <ocefpaf@gmail.com>
+Date:   Mon Aug 27 12:15:38 2018 -0500
+
+    Merge pull request #4 from ocefpaf/py37
+    
+    Py37
+
+commit 3533b1a6b4fe57ec791306c92fe0d7a45bec890c
+Author: Filipe Fernandes <ocefpaf@gmail.com>
+Date:   Mon Aug 27 13:11:46 2018 -0300
+
+    MNT: Re-rendered with conda-smithy 3.1.12 and pinning 2018.08.21
+
+commit 6514178b176a76d5d9494746f7c91c5a65500b51
+Author: Filipe Fernandes <ocefpaf@gmail.com>
+Date:   Mon Aug 27 13:11:43 2018 -0300
+
+    bump
+
+commit 49fd842f80f870c17270653cf8287979a8fa131d
+Merge: 1e09aca b15bf11
+Author: Julien Schueller <schueller@phimeca.com>
+Date:   Fri Aug 10 09:51:15 2018 +0200
+
+    Merge pull request #3 from jakirkham-feedstocks/use_arch
+    
+    Use arch
+
+commit b15bf118dfdb7d2c7367417648742862f51a3a8c
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Thu Aug 9 19:05:25 2018 -0400
+
+    Bump build number to 2
+    
+    Rebuild now that this is an architecture dependent package.
+
+commit b2db6957f05d9322de3d67f137e9dabc80b34869
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Thu Aug 9 19:04:32 2018 -0400
+
+    Package the license file
+    
+    As the license file is included in the `sdist`, start packaging it in
+    the `conda` package so that end users have the license and can inspect
+    its terms.
+
+commit d4d7baea4fee69fcf01ddf7fded89cb75e60b24f
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Thu Aug 9 19:00:58 2018 -0400
+
+    MNT: Re-rendered with conda-smithy 3.1.10 and pinning 2018.08.05
+    
+    As this package is now an architecture dependent package, re-render to
+    update the CI configurations and README accordingly.
+
+commit 3f012cd515a1a1910c1dc061a97ccb70ebadb50f
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Thu Aug 9 19:00:49 2018 -0400
+
+    Drop noarch
+    
+    As this is a dependency of `conda`, revert `noarch`.
+    
+    xref: https://github.com/conda-forge/asn1crypto-feedstock/pull/2#issuecomment-404244995
+
+commit d26e574aa3eb640acee66781eb0895a2f108023a
+Author: John Kirkham <kirkhamj@janelia.hhmi.org>
+Date:   Thu Aug 9 19:00:38 2018 -0400
+
+    MNT: Re-rendered with conda-smithy 3.1.10 and pinning 2018.08.05
+
+commit 1e09aca534e9cc66fc12c8664769478d32e99509
+Author: Travis CI User <travis@example.org>
+Date:   Sat Aug 4 18:49:00 2018 +0000
+
+    [ci skip] [skip ci] Update anaconda token
+
+commit 240c79964b254cf300ea0df3cdc66418f185c25c
+Merge: e6a70da b818131
+Author: Julien Schueller <schueller@phimeca.com>
+Date:   Mon Jul 9 11:37:04 2018 +0200
+
+    Merge pull request #2 from regro-cf-autotick-bot/noarch_migration
+    
+    Suggestion: add noarch
+
+commit b81813140de82352a090eefd0d2a0bfb4ded5708
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon Jul 9 08:57:33 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 3.1.6 and pinning 2018.07.01
+
+commit fe59c0253fceefbb01324a010f9b97a9f0ddce9c
+Author: regro-cf-autotick-bot <circleci@cf-graph.regro.github.com>
+Date:   Mon Jul 9 08:57:28 2018 +0000
+
+    add noarch
+
+commit e6a70daaf5d8e7c5c78091bd5a41e35a5542e6b2
+Merge: df64e27 af09a76
+Author: Julien Schueller <schueller@phimeca.com>
+Date:   Sat Feb 24 09:35:55 2018 +0100
+
+    Merge pull request #1 from regro-cf-autotick-bot/0.24.0
+    
+    asn1crypto v0.24.0
+
+commit af09a765f7aa9f563d2f06e178cb68d0e4f23845
+Author: Travis CI User <travis@example.org>
+Date:   Sat Feb 24 00:36:47 2018 +0000
+
+    MNT: Re-rendered with conda-smithy 2.4.5
+
+commit 92086eee3d2c04be89ea4e365bb8b6cc12398362
+Author: Travis CI User <travis@example.org>
+Date:   Sat Feb 24 00:35:07 2018 +0000
+
+    updated v0.24.0
+
+commit df64e27a48c30b5574eb73c606ee5843cb016eb7
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Sat Aug 26 21:48:30 2017 +0000
+
+    [ci skip] [skip ci] Update anaconda token
+
+commit f6bc5b299ebbfee1edefc30d7243634fab44194b
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Tue Jun 20 16:48:38 2017 +0000
+
+    Re-render the feedstock after CI registration.
+
+commit a775b341c91d4e81e77bc42e8f212512b6f90bb8
+Author: Travis-CI on github.com/conda-forge/staged-recipes <conda-forge@googlegroups.com>
+Date:   Tue Jun 20 16:39:38 2017 +0000
+
+    Initial feedstock commit with conda-smithy 2.3.2.

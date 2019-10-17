@@ -1,0 +1,14 @@
+{
+  "arch": "x86_64",
+  "build": "h14c3975_4",
+  "build_number": 4,
+  "depends": [
+    "libgcc-ng >=7.2.0"
+  ],
+  "license": "LGPL-2.1 and GPL-2.0",
+  "name": "xz",
+  "platform": "linux",
+  "subdir": "linux-64",
+  "timestamp": 1526499283093,
+  "version": "5.2.4"
+}
