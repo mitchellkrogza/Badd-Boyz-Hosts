@@ -106,7 +106,7 @@ PrepareTravis () {
     git config --global push.default simple
     git checkout "${GIT_BRANCH}"
 }
-#PrepareTravis
+PrepareTravis
 
 # **************************************************************************
 # Sort lists alphabetically and remove duplicates before cleaning Dead Hosts
