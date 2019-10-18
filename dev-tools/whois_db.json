@@ -3649,6 +3649,11 @@
         "expiration_date": "30-nov-2019",
         "state": "future"
     },
+    "intermare.it": {
+        "epoch": 1587679200,
+        "expiration_date": "24-apr-2020",
+        "state": "future"
+    },
     "intermesh.net": {
         "epoch": 1862690400,
         "expiration_date": "10-jan-2029",
