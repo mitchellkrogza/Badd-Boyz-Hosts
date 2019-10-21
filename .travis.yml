@@ -35,8 +35,9 @@ install:
   #- rm miniconda.sh
   #- source activate test-environment
   #- python -VV
-  - pip install PyFunceble-dev
-  - pip install ultimate-hosts-blacklist-whitelist
+  - pip3 install --upgrade pip
+  - pip3 install PyFunceble-dev
+  - pip3 install ultimate-hosts-blacklist-whitelist
 
 script:
   - bash dev-tools/PrepareData.sh

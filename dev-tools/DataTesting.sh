@@ -36,13 +36,13 @@ RunFunceble () {
     monthtag=$(date +%m)
     cd ${TRAVIS_BUILD_DIR}/dev-tools
 
-    #hash PyFunceble
+    hash PyFunceble
 
-    #if [[ -f "${pyfuncebleConfigurationFileLocation}" ]]
-    #then
-    #    rm "${pyfuncebleConfigurationFileLocation}"
-    #    rm "${pyfuncebleProductionConfigurationFileLocation}"
-    #fi
+    if [[ -f "${pyfuncebleConfigurationFileLocation}" ]]
+    then
+        rm "${pyfuncebleConfigurationFileLocation}"
+        rm "${pyfuncebleProductionConfigurationFileLocation}"
+    fi
     PyFunceble -v
     python -VV
     PyFunceble --travis -ex --dns 8.8.8.8 8.8.4.4 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh" --plain --autosave-minutes 10 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
