@@ -597,7 +597,7 @@
     "2lesbians.net": {
         "epoch": 1571608800,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "2manshow.com": {
         "epoch": 1587333600,
@@ -2257,7 +2257,7 @@
     "animadulte.com": {
         "epoch": 1571608800,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "animal-drawings.com": {
         "epoch": 1578261600,
@@ -2472,6 +2472,11 @@
     "cif.su": {
         "epoch": 1578607200,
         "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
+    "cigar.pt": {
+        "epoch": 1596232800,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "cigarette-online.com": {
@@ -3045,8 +3050,8 @@
         "state": "future"
     },
     "graffcolor.net": {
-        "epoch": 1571522400,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603144800,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "grafit.pl": {
@@ -3225,9 +3230,9 @@
         "state": "future"
     },
     "hy-tec.com": {
-        "epoch": 1571436000,
-        "expiration_date": "19-oct-2019",
-        "state": "past"
+        "epoch": 1603058400,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
     },
     "hybrid.ru": {
         "epoch": 1590444000,
