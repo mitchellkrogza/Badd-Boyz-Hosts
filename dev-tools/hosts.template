@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2019.10.8153
+### Version: V1.2019.10.8155
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -314,7 +314,6 @@
 0.0.0.0 6ftlady.com
 0.0.0.0 6ox.de
 0.0.0.0 6server.com
-0.0.0.0 6.spacepur.de
 0.0.0.0 6stuff.com
 0.0.0.0 72impala.com
 0.0.0.0 72-news.com
