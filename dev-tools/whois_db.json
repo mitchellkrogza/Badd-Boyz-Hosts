@@ -400,8 +400,8 @@
         "state": "future"
     },
     "1hour.info": {
-        "epoch": 1572040800,
-        "expiration_date": "26-oct-2019",
+        "epoch": 1603663200,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "1hwy.com": {
@@ -625,8 +625,8 @@
         "state": "future"
     },
     "2n2qlh5hqcwrvo.net": {
-        "epoch": 1572040800,
-        "expiration_date": "26-oct-2019",
+        "epoch": 1603663200,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "2o34.com": {
@@ -695,8 +695,8 @@
         "state": "future"
     },
     "34.gs": {
-        "epoch": 1572127200,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603749600,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "365locksmithsminneapolis.com": {
@@ -795,8 +795,8 @@
         "state": "future"
     },
     "3xit.net": {
-        "epoch": 1572127200,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603749600,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "40cg.com": {
@@ -3002,12 +3002,12 @@
     "gocitytext.com": {
         "epoch": 1572040800,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "goddessvip.com": {
         "epoch": 1572127200,
         "expiration_date": "27-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "godrix.com": {
         "epoch": 1572732000,
@@ -3597,7 +3597,7 @@
     "insurple.com": {
         "epoch": 1572127200,
         "expiration_date": "27-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "insytagram.com": {
         "epoch": 1589061600,
