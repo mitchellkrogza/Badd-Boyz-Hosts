@@ -2920,9 +2920,9 @@
         "state": "future"
     },
     "freegayporn.biz": {
-        "epoch": 1568325600,
-        "expiration_date": "13-sep-2019",
-        "state": "past"
+        "epoch": 1599948000,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
     },
     "freehanbam.net": {
         "epoch": 1587938400,
@@ -2997,7 +2997,7 @@
     "gobusinessloan.com": {
         "epoch": 1572300000,
         "expiration_date": "29-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "gocitytext.com": {
         "epoch": 1572040800,
@@ -3005,9 +3005,9 @@
         "state": "past"
     },
     "goddessvip.com": {
-        "epoch": 1572127200,
-        "expiration_date": "27-oct-2019",
-        "state": "past"
+        "epoch": 1603749600,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
     },
     "godrix.com": {
         "epoch": 1572732000,
