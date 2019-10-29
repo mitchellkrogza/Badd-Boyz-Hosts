@@ -4474,6 +4474,11 @@
         "expiration_date": "26-nov-2019",
         "state": "future"
     },
+    "nokia-n8.com": {
+        "epoch": 1586728800,
+        "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
     "notfastfood.ru": {
         "epoch": 1587679200,
         "expiration_date": "24-apr-2020",
@@ -4707,6 +4712,11 @@
     "shoesonlinebuy.cn": {
         "epoch": 1579816800,
         "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "shoesonlinebuy.xyz": {
+        "epoch": 1586642400,
+        "expiration_date": "12-apr-2020",
         "state": "future"
     },
     "shohanb.com": {
