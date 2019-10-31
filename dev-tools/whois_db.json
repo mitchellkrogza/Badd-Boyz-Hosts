@@ -920,8 +920,8 @@
         "state": "future"
     },
     "4xporn.com": {
-        "epoch": 1572386400,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604008800,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "4youcom.com": {
@@ -1910,8 +1910,8 @@
         "state": "future"
     },
     "aliecspres.com": {
-        "epoch": 1572386400,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604008800,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "alif-ba-ta.com": {
@@ -2427,6 +2427,11 @@
     "backvids.com": {
         "epoch": 1578002400,
         "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
+    "bagsonsale.online": {
+        "epoch": 1580162400,
+        "expiration_date": "28-jan-2020",
         "state": "future"
     },
     "beamfall.info": {
@@ -2995,9 +3000,9 @@
         "state": "future"
     },
     "gobusinessloan.com": {
-        "epoch": 1572300000,
-        "expiration_date": "29-oct-2019",
-        "state": "past"
+        "epoch": 1603922400,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
     },
     "gocitytext.com": {
         "epoch": 1572040800,
