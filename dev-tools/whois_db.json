@@ -4982,7 +4982,7 @@
     "softupdate.net": {
         "epoch": 1572645600,
         "expiration_date": "02-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "softwareoutfit.com": {
         "epoch": 1577916000,
@@ -5405,9 +5405,9 @@
         "state": "future"
     },
     "zzhomes.com": {
-        "epoch": 1572472800,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604095200,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "zzqrt.com": {
         "epoch": 1585778400,
