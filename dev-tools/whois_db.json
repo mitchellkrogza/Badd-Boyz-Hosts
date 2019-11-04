@@ -3400,9 +3400,9 @@
         "state": "future"
     },
     "idolax.com": {
-        "epoch": 1572645600,
-        "expiration_date": "02-nov-2019",
-        "state": "past"
+        "epoch": 1604268000,
+        "expiration_date": "02-nov-2020",
+        "state": "future"
     },
     "idolhairsalon.com": {
         "epoch": 1601071200,
@@ -4355,8 +4355,8 @@
         "state": "future"
     },
     "maxxxsex.com": {
-        "epoch": 1572732000,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604354400,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "maylasia.com": {
@@ -4627,7 +4627,7 @@
     "porno.biz.pl": {
         "epoch": 1572818400,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "seolab.top": {
         "epoch": 1588975200,
@@ -4980,9 +4980,9 @@
         "state": "future"
     },
     "softupdate.net": {
-        "epoch": 1572645600,
-        "expiration_date": "02-nov-2019",
-        "state": "past"
+        "epoch": 1604268000,
+        "expiration_date": "02-nov-2020",
+        "state": "future"
     },
     "softwareoutfit.com": {
         "epoch": 1577916000,
@@ -5270,8 +5270,8 @@
         "state": "future"
     },
     "zapme.net": {
-        "epoch": 1572732000,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604354400,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "zapreal.com": {
