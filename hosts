@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2019.11.8184
+### Version: V1.2019.11.8186
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -134,6 +134,7 @@
 0.0.0.0 17youzi.com
 0.0.0.0 1-800onlinecasino.com
 0.0.0.0 18744.com
+0.0.0.0 189-211-177-171.static.axtel.net
 0.0.0.0 189zx.com
 0.0.0.0 18freeporn.com
 0.0.0.0 18hdxxx.com
@@ -893,11 +894,16 @@
 0.0.0.0 inleadership.co.nz
 0.0.0.0 kabey.000webhostapp.com
 0.0.0.0 kiwi237au.tk
+0.0.0.0 maincert.com
 0.0.0.0 myblogregistercm.tk
-0.0.0.0 sistemacentral.xpg.com.br
 0.0.0.0 slowmac.tech
+0.0.0.0 spacebridemag.com
 0.0.0.0 ssl.eroscomix.com
 0.0.0.0 stats.cliqz.com
+0.0.0.0 townhousefilms.com
+0.0.0.0 track.maincert.com
+0.0.0.0 track.spacebridemag.com
+0.0.0.0 track.townhousefilms.com
 0.0.0.0 yuarra.pluto.ro
 0.0.0.0 yunque.pluto.ro
 # END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###

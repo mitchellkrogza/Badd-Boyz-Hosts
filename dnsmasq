@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2019.11.8184
+### Version: V1.2019.11.8186
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -123,6 +123,7 @@ address=/17chezhan.com/
 address=/17youzi.com/
 address=/1-800onlinecasino.com/
 address=/18744.com/
+address=/189-211-177-171.static.axtel.net/
 address=/189zx.com/
 address=/18freeporn.com/
 address=/18hdxxx.com/
@@ -882,11 +883,16 @@ address=/index.buckshost.com/
 address=/inleadership.co.nz/
 address=/kabey.000webhostapp.com/
 address=/kiwi237au.tk/
+address=/maincert.com/
 address=/myblogregistercm.tk/
-address=/sistemacentral.xpg.com.br/
 address=/slowmac.tech/
+address=/spacebridemag.com/
 address=/ssl.eroscomix.com/
 address=/stats.cliqz.com/
+address=/townhousefilms.com/
+address=/track.maincert.com/
+address=/track.spacebridemag.com/
+address=/track.townhousefilms.com/
 address=/yuarra.pluto.ro/
 address=/yunque.pluto.ro/
 # END DNSMASQ LIST ### DO NOT EDIT THIS LINE AT ALL ###
