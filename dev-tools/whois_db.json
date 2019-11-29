@@ -2030,8 +2030,8 @@
         "state": "future"
     },
     "allpdfmags.net": {
-        "epoch": 1574892000.0,
-        "expiration_date": "28-nov-2019",
+        "epoch": 1606514400.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "allpornauditions.com": {
@@ -2070,8 +2070,8 @@
         "state": "future"
     },
     "amatorlandia.pl": {
-        "epoch": 1574978400.0,
-        "expiration_date": "29-nov-2019",
+        "epoch": 1577570400.0,
+        "expiration_date": "29-dec-2019",
         "state": "future"
     },
     "amatrice-partouzeuse.com": {
@@ -2342,7 +2342,7 @@
     "avoidaroid.com": {
         "epoch": 1574978400.0,
         "expiration_date": "29-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "avoidfilter.net": {
         "epoch": 1576360800.0,
@@ -2715,8 +2715,8 @@
         "state": "future"
     },
     "csgoezknife.com": {
-        "epoch": 1574892000.0,
-        "expiration_date": "28-nov-2019",
+        "epoch": 1606514400.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "csk.ru": {
@@ -3257,7 +3257,7 @@
     "hydropneuengg.com": {
         "epoch": 1574978400.0,
         "expiration_date": "29-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "hydropump.su": {
         "epoch": 1586815200.0,
@@ -4005,9 +4005,9 @@
         "state": "future"
     },
     "keepcolletive.com": {
-        "epoch": 1565301600,
-        "expiration_date": "09-aug-2019",
-        "state": "past"
+        "epoch": 1606428000.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
     },
     "keephide.com": {
         "epoch": 1580421600,

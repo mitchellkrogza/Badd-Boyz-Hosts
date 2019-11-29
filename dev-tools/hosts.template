@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2019.11.8190
+### Version: V1.2019.11.8191
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -901,6 +901,7 @@
 0.0.0.0 index.buckshost.com
 0.0.0.0 inleadership.co.nz
 0.0.0.0 kabey.000webhostapp.com
+0.0.0.0 keepcolletive.com
 0.0.0.0 kiwi237au.tk
 0.0.0.0 library.cowley.edu
 0.0.0.0 maincert.com
