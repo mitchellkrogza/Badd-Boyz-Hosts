@@ -825,8 +825,8 @@
         "state": "future"
     },
     "4beast.com": {
-        "epoch": 1575410400.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607032800.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "4bqs.com": {
@@ -1957,7 +1957,7 @@
     "all4invest.ru": {
         "epoch": 1575324000.0,
         "expiration_date": "03-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "all4wap.ru": {
         "epoch": 1587420000.0,
