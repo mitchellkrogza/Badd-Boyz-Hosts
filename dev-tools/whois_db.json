@@ -615,8 +615,8 @@
         "state": "future"
     },
     "2mj.pl": {
-        "epoch": 1575496800.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607119200.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "2mouses.com": {
@@ -760,8 +760,8 @@
         "state": "future"
     },
     "3dsemulator.info": {
-        "epoch": 1575496800.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607119200.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "3dviolet.com": {
@@ -1380,8 +1380,8 @@
         "state": "future"
     },
     "aaannuairex.com": {
-        "epoch": 1575496800.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607119200.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "aaaurgentcare.net": {
@@ -2980,9 +2980,9 @@
         "state": "future"
     },
     "globetrotting-culture.ru": {
-        "epoch": 1575237600.0,
-        "expiration_date": "02-dec-2019",
-        "state": "past"
+        "epoch": 1609711200.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
     },
     "globusdate.com": {
         "epoch": 1603231200.0,
@@ -3002,7 +3002,7 @@
     "go.biz": {
         "epoch": 1575496800.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "goawos.com": {
         "epoch": 1580594400.0,
@@ -3137,7 +3137,7 @@
     "greatsimplicity.com": {
         "epoch": 1575583200.0,
         "expiration_date": "06-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "h-villamotel.com": {
         "epoch": 1585260000.0,
