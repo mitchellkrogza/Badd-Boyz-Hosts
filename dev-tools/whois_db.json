@@ -3010,9 +3010,9 @@
         "state": "future"
     },
     "go.biz": {
-        "epoch": 1575496800.0,
-        "expiration_date": "05-dec-2019",
-        "state": "past"
+        "epoch": 1607119200.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
     },
     "goawos.com": {
         "epoch": 1580594400.0,
@@ -3145,9 +3145,9 @@
         "state": "future"
     },
     "greatsimplicity.com": {
-        "epoch": 1575583200.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1607205600.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "h-villamotel.com": {
         "epoch": 1585260000.0,
