@@ -37,27 +37,27 @@
     "012br.com": {
         "epoch": 1575756000.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "013sv.com": {
         "epoch": 1575756000.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "015gf.com": {
         "epoch": 1575756000.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "016ih.com": {
         "epoch": 1575756000.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "017gj.com": {
         "epoch": 1575756000.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "01apple.com": {
         "epoch": 1576792800.0,
@@ -905,8 +905,8 @@
         "state": "future"
     },
     "4u69.com": {
-        "epoch": 1575756000.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607378400.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "4ur.click": {
@@ -2262,7 +2262,7 @@
     "angelbetting.com": {
         "epoch": 1575756000.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "angelinfo.com": {
         "epoch": 1602194400.0,
@@ -2405,8 +2405,8 @@
         "state": "future"
     },
     "backalleyblowjobs.com": {
-        "epoch": 1575756000.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607378400.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "backgroundpictures.net": {
@@ -2645,8 +2645,8 @@
         "state": "future"
     },
     "contactos-gay.com": {
-        "epoch": 1575669600.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607292000.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "contextualyield.com": {
