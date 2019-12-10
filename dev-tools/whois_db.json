@@ -35,29 +35,29 @@
         "state": "future"
     },
     "012br.com": {
-        "epoch": 1575756000.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607378400.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "013sv.com": {
-        "epoch": 1575756000.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607378400.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "015gf.com": {
-        "epoch": 1575756000.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607378400.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "016ih.com": {
-        "epoch": 1575756000.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607378400.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "017gj.com": {
-        "epoch": 1575756000.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607378400.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "01apple.com": {
         "epoch": 1576792800.0,
@@ -325,8 +325,8 @@
         "state": "future"
     },
     "17chezhan.com": {
-        "epoch": 1575928800.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607551200.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "17youzi.com": {
@@ -1220,8 +1220,8 @@
         "state": "future"
     },
     "8rf.com": {
-        "epoch": 1575842400.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607464800.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "8si.ru": {
@@ -1820,8 +1820,8 @@
         "state": "future"
     },
     "alblux.com": {
-        "epoch": 1575842400.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607464800.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "alboautotrasportatori.it": {
@@ -2090,8 +2090,8 @@
         "state": "future"
     },
     "amatueranal.com": {
-        "epoch": 1575842400.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607464800.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "amorepaixaomensagens.com.br": {
@@ -2260,9 +2260,9 @@
         "state": "future"
     },
     "angelbetting.com": {
-        "epoch": 1575756000.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607378400.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "angelinfo.com": {
         "epoch": 1602194400.0,
