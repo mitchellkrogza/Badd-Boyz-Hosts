@@ -314,6 +314,11 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "15x.info": {
+        "epoch": 1607724000.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
     "166f.com": {
         "epoch": 1597096800.0,
         "expiration_date": "11-aug-2020",
