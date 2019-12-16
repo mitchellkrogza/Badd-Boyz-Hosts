@@ -1,4 +1,9 @@
 {
+    "000free.us": {
+        "epoch": 1580767200.0,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "007angels.com": {
         "epoch": 1589407200.0,
         "expiration_date": "14-may-2020",
@@ -90,8 +95,8 @@
         "state": "future"
     },
     "0azx1.com": {
-        "epoch": 1576188000.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607810400.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "0dax.com": {
@@ -380,8 +385,8 @@
         "state": "future"
     },
     "18teengirl.com": {
-        "epoch": 1576274400.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607896800.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "18xtube.com": {
@@ -1179,6 +1184,11 @@
         "expiration_date": "14-feb-2020",
         "state": "future"
     },
+    "7y7.us": {
+        "epoch": 1603231200.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "8090cpa.com": {
         "epoch": 1584568800.0,
         "expiration_date": "19-mar-2020",
@@ -1305,8 +1315,8 @@
         "state": "future"
     },
     "9stoneinvestments.com": {
-        "epoch": 1576360800.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607983200.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "9thien.com": {
@@ -1550,8 +1560,8 @@
         "state": "future"
     },
     "abogadodejacksonville.com": {
-        "epoch": 1576360800.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607983200.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "aboomnsaoq.top": {
@@ -2124,6 +2134,11 @@
         "expiration_date": "05-mar-2020",
         "state": "future"
     },
+    "amung.us": {
+        "epoch": 1647468000.0,
+        "expiration_date": "17-mar-2022",
+        "state": "future"
+    },
     "amwatching.com": {
         "epoch": 1663624800.0,
         "expiration_date": "20-sep-2022",
@@ -2360,8 +2375,8 @@
         "state": "future"
     },
     "avoidfilter.net": {
-        "epoch": 1576360800.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607983200.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "avon-severozapad.ru": {
@@ -2887,7 +2902,7 @@
     "evobill.biz": {
         "epoch": 1576360800.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "evogarage.com": {
         "epoch": 1582668000.0,
