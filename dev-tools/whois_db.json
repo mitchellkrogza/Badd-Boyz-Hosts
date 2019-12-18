@@ -3257,7 +3257,7 @@
     "hunktoons.com": {
         "epoch": 1576620000.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "hunt4porn.com": {
         "epoch": 1603404000.0,
@@ -3415,9 +3415,9 @@
         "state": "future"
     },
     "idealtits.net": {
-        "epoch": 1576447200.0,
-        "expiration_date": "16-dec-2019",
-        "state": "past"
+        "epoch": 1608069600.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     },
     "ideationary.com": {
         "epoch": 1603317600.0,
