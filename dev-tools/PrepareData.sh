@@ -9,6 +9,8 @@
 # Setup input bots and referer lists
 # **********************************
 
+whitelistFile=${TRAVIS_BUILD_DIR}/whitelists/me
+antiWhitelistFile=${TRAVIS_BUILD_DIR}/whitelists/anti
 input1=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
 pythonversion="3.7.4"
 environmentname="pyconda"
@@ -125,7 +127,7 @@ WhiteListing () {
     if [[ "$(git log -1 | tail -1 | xargs)" =~ "ci skip" ]]
         then
             hash uhb_whitelist
-            uhb_whitelist -f "${input1}" -o "${input1}"
+            uhb_whitelist -f "${input1}" -o "${input1}" -w "${whitelistFile}" -a "${antiWhitelistFile}"
     fi
 }
 WhiteListing
