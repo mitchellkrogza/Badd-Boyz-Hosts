@@ -128,11 +128,8 @@ PrepareLists
 # ***********************************
 
 WhiteListing () {
-    if [[ "$(git log -1 | tail -1 | xargs)" =~ "ci skip" ]]
-    then
-        hash uhb_whitelist
-        uhb_whitelist -f "${input1}" -o "${input1}" -w "${whitelistFile}" -a "${antiWhitelistFile}"
-    fi
+    hash uhb_whitelist
+    uhb_whitelist -f "${input1}" -o "${input1}" -w "${whitelistFile}" -a "${antiWhitelistFile}"
 }
 WhiteListing
 
