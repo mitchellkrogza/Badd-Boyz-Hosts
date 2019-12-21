@@ -5,6 +5,10 @@
 # Repo Url: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
 # MIT License
 
+
+# We stop after the first error.
+set -e
+
 # **********************************
 # Setup input bots and referer lists
 # **********************************
@@ -33,21 +37,21 @@ defaultcolor=$(tput setaf default)
 # Check Mini(Conda) is Installed Otherwise Install It
 # ---------------------------------------------------
 checkforconda () {
-if conda 2>&1 | grep -i 'command not found'; then
-   echo "${bold}${red}CONDA NOT FOUND - ${bold}${green}Installing Mini(Conda)"
-   export PATH="${TRAVIS_BUILD_DIR}/miniconda/bin:${PATH}"
-   CONDA_ENVS_PATH="${TRAVIS_BUILD_DIR}/opt/anaconda/envs"
-   CONDA_PKGS_DIRS="${TRAVIS_BUILD_DIR}/opt/anaconda/pkgs"
-   sudo wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
-   sudo bash miniconda.sh -b -p ${TRAVIS_BUILD_DIR}/miniconda
-   hash -r
-   conda config --set always_yes yes --set changeps1 no
-   conda update -q conda
-   sudo rm miniconda.sh
-   echo "${bold}${green}CONDA INSTALLED - Continuing"
-else
-   echo "${bold}${green}CONDA FOUND - Continuing"
-fi
+    if conda 2>&1 | grep -i 'command not found'; then
+        echo "${bold}${red}CONDA NOT FOUND - ${bold}${green}Installing Mini(Conda)"
+        export PATH="${TRAVIS_BUILD_DIR}/miniconda/bin:${PATH}"
+        CONDA_ENVS_PATH="${TRAVIS_BUILD_DIR}/opt/anaconda/envs"
+        CONDA_PKGS_DIRS="${TRAVIS_BUILD_DIR}/opt/anaconda/pkgs"
+        sudo wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
+        sudo bash miniconda.sh -b -p ${TRAVIS_BUILD_DIR}/miniconda
+        hash -r
+        conda config --set always_yes yes --set changeps1 no
+        conda update -q conda
+        sudo rm miniconda.sh
+        echo "${bold}${green}CONDA INSTALLED - Continuing"
+    else
+        echo "${bold}${green}CONDA FOUND - Continuing"
+    fi
 }
 #checkforconda
 
@@ -108,15 +112,15 @@ PrepareTravis () {
     git config --global push.default simple
     git checkout "${GIT_BRANCH}"
 }
-PrepareTravis
+#PrepareTravis
 
 # **************************************************************************
 # Sort lists alphabetically and remove duplicates before cleaning Dead Hosts
 # **************************************************************************
- PrepareLists () {
+PrepareLists () {
     sort -u ${input1} -o ${input1}
     dos2unix ${input1}
- }
+}
 PrepareLists
 
 # ***********************************
@@ -125,27 +129,27 @@ PrepareLists
 
 WhiteListing () {
     if [[ "$(git log -1 | tail -1 | xargs)" =~ "ci skip" ]]
-        then
-            hash uhb_whitelist
-            uhb_whitelist -f "${input1}" -o "${input1}" -w "${whitelistFile}" -a "${antiWhitelistFile}"
+    then
+        hash uhb_whitelist
+        uhb_whitelist -f "${input1}" -o "${input1}" -w "${whitelistFile}" -a "${antiWhitelistFile}"
     fi
 }
 WhiteListing
 
 CommitData () {
-commitdate=$(date +%F)
-committime=$(date +%T)
-timezone=$(date +%Z)
-cd ${TRAVIS_BUILD_DIR}
-git remote rm origin
-git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
-git config --global user.email "${GIT_EMAIL}"
-git config --global user.name "${GIT_NAME}"
-git config --global push.default simple
-git checkout master
-git add -A
-git commit -am "V.${TRAVIS_BUILD_NUMBER} (${commitdate} ${committime} ${timezone}) [ci skip]"
-git push origin master    
+    commitdate=$(date +%F)
+    committime=$(date +%T)
+    timezone=$(date +%Z)
+    cd ${TRAVIS_BUILD_DIR}
+    git remote rm origin
+    git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
+    git config --global user.email "${GIT_EMAIL}"
+    git config --global user.name "${GIT_NAME}"
+    git config --global push.default simple
+    git checkout master
+    git add -A
+    git commit -am "V.${TRAVIS_BUILD_NUMBER} (${commitdate} ${committime} ${timezone}) [ci skip]"
+    git push origin master
 }
 #CommitData
 
