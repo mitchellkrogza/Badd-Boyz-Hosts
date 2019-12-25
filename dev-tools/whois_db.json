@@ -155,8 +155,8 @@
         "state": "future"
     },
     "1000russianwomen.com": {
-        "epoch": 1577224800.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608847200.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "1001lingerie.com": {
@@ -175,8 +175,8 @@
         "state": "future"
     },
     "101billion.com": {
-        "epoch": 1577138400.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1608760800.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "101flag.ru": {
@@ -1275,8 +1275,8 @@
         "state": "future"
     },
     "94cdn.com": {
-        "epoch": 1577224800.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608847200.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "98oi.ru": {
@@ -1362,7 +1362,7 @@
     "a85.info": {
         "epoch": 1577224800.0,
         "expiration_date": "25-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "a94.info": {
         "epoch": 1585087200.0,
@@ -1415,8 +1415,8 @@
         "state": "future"
     },
     "aac500b7a15b2646968f6bd8c6305869d7.com": {
-        "epoch": 1577138400.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1608760800.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "aac52006ec82a24e08b665f4db2b5013f7.com": {
@@ -3010,8 +3010,8 @@
         "state": "future"
     },
     "girlporn.ru": {
-        "epoch": 1577224800.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608847200.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "globetrotting-culture.ru": {
