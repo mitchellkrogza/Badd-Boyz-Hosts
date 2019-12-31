@@ -392,7 +392,7 @@
     "18xtube.com": {
         "epoch": 1577743200.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "19blog.com": {
         "epoch": 1603576800.0,
@@ -1087,7 +1087,7 @@
     "69lingerie.com": {
         "epoch": 1577743200.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "69proof.com": {
         "epoch": 1605477600.0,
@@ -1547,7 +1547,7 @@
     "abeggs.com": {
         "epoch": 1577743200.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "abetran.com": {
         "epoch": 1600466400.0,
@@ -2195,8 +2195,8 @@
         "state": "future"
     },
     "analdude.com": {
-        "epoch": 1577743200.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609365600.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "analpics.net": {
