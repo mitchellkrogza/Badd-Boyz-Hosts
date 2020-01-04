@@ -2724,6 +2724,11 @@
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
+    "creativemindhacks.com": {
+        "epoch": 1641247200.0,
+        "expiration_date": "04-jan-2022",
+        "state": "future"
+    },
     "creativeteam.it": {
         "epoch": 1586728800.0,
         "expiration_date": "13-apr-2020",
