@@ -535,8 +535,8 @@
         "state": "future"
     },
     "24holdem.com": {
-        "epoch": 1578348000.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609970400.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "24tradeplus.com": {
@@ -2070,8 +2070,8 @@
         "state": "future"
     },
     "amateursexdvd.com": {
-        "epoch": 1578348000.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609970400.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "amateursexplace.com": {
@@ -2227,7 +2227,7 @@
     "anchorpoint.co.za": {
         "epoch": 1578434400.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "andersondiamonds.com": {
         "epoch": 1594677600.0,
@@ -2870,8 +2870,8 @@
         "state": "future"
     },
     "everydresses.com": {
-        "epoch": 1578348000.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609970400.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "everytalk.tv": {
