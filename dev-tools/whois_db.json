@@ -637,7 +637,7 @@
     "2muchsex.com": {
         "epoch": 1579125600.0,
         "expiration_date": "16-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "2mycomputer.com": {
         "epoch": 1604268000.0,
@@ -737,7 +737,7 @@
     "3am.info": {
         "epoch": 1579125600.0,
         "expiration_date": "16-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "3angelsvideo.com": {
         "epoch": 1586815200.0,
@@ -1080,9 +1080,9 @@
         "state": "future"
     },
     "69boysex.com": {
-        "epoch": 1578780000.0,
-        "expiration_date": "12-jan-2020",
-        "state": "past"
+        "epoch": 1610402400.0,
+        "expiration_date": "12-jan-2021",
+        "state": "future"
     },
     "69lingerie.com": {
         "epoch": 1609365600.0,
@@ -1165,8 +1165,8 @@
         "state": "future"
     },
     "7minuteworkout.com": {
-        "epoch": 1579039200.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610661600.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "7search.com": {
@@ -1260,8 +1260,8 @@
         "state": "future"
     },
     "8xv8.com": {
-        "epoch": 1579125600.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610748000.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "90i.info": {
@@ -1665,9 +1665,9 @@
         "state": "future"
     },
     "acpbdf.com.br": {
-        "epoch": 1571868000.0,
-        "expiration_date": "24-oct-2019",
-        "state": "past"
+        "epoch": 1603490400.0,
+        "expiration_date": "24-oct-2020",
+        "state": "future"
     },
     "acproyectos.com": {
         "epoch": 1634508000.0,
@@ -2035,14 +2035,14 @@
         "state": "future"
     },
     "allo-sexe.com": {
-        "epoch": 1579125600.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610748000.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "allo-sexe.net": {
         "epoch": 1579125600.0,
         "expiration_date": "16-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "allornamenti.com": {
         "epoch": 1583964000.0,
@@ -2480,8 +2480,8 @@
         "state": "future"
     },
     "cialisforsalecialiscostcye.com": {
-        "epoch": 1578866400.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610488800.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "cialismed.com": {
@@ -2715,8 +2715,8 @@
         "state": "future"
     },
     "coolbar.pro": {
-        "epoch": 1578866400.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610488800.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "coolemailnames.com": {
