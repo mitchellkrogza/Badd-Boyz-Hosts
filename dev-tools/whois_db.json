@@ -37,7 +37,7 @@
     "01-sex-amateur.info": {
         "epoch": 1579471200.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "012br.com": {
         "epoch": 1607378400.0,
@@ -382,7 +382,7 @@
     "18pure.info": {
         "epoch": 1579471200.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "18teengirl.com": {
         "epoch": 1607896800.0,
@@ -1390,14 +1390,14 @@
         "state": "future"
     },
     "aa9bd78f328a6a41279d0fad0a88df1901.com": {
-        "epoch": 1579298400.0,
-        "expiration_date": "18-jan-2020",
-        "state": "past"
+        "epoch": 1610920800.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
     },
     "aa9d046aab36af4ff182f097f840430d51.com": {
-        "epoch": 1579298400.0,
-        "expiration_date": "18-jan-2020",
-        "state": "past"
+        "epoch": 1610920800.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
     },
     "aaannuairex.com": {
         "epoch": 1607119200.0,
@@ -1420,14 +1420,14 @@
         "state": "future"
     },
     "aac52006ec82a24e08b665f4db2b5013f7.com": {
-        "epoch": 1579298400.0,
-        "expiration_date": "18-jan-2020",
-        "state": "past"
+        "epoch": 1610920800.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
     },
     "aad1f4acb0a373420d9b0c4202d38d94fa.com": {
-        "epoch": 1579298400.0,
-        "expiration_date": "18-jan-2020",
-        "state": "past"
+        "epoch": 1610920800.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
     },
     "aadroid.net": {
         "epoch": 1590098400.0,
@@ -1500,8 +1500,8 @@
         "state": "future"
     },
     "abahah.com": {
-        "epoch": 1579384800.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611007200.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "abbanreddy.com": {
@@ -1540,9 +1540,9 @@
         "state": "future"
     },
     "abdlphone.com": {
-        "epoch": 1579298400.0,
-        "expiration_date": "18-jan-2020",
-        "state": "past"
+        "epoch": 1610920800.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
     },
     "abeggs.com": {
         "epoch": 1609365600.0,
@@ -1610,8 +1610,8 @@
         "state": "future"
     },
     "acenar.com": {
-        "epoch": 1579384800.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611007200.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "acheterviagrafr24.com": {
@@ -1770,9 +1770,9 @@
         "state": "future"
     },
     "aksao.com": {
-        "epoch": 1579298400.0,
-        "expiration_date": "18-jan-2020",
-        "state": "past"
+        "epoch": 1610920800.0,
+        "expiration_date": "18-jan-2021",
+        "state": "future"
     },
     "aksonural.ru": {
         "epoch": 1582927200.0,
@@ -1890,8 +1890,8 @@
         "state": "future"
     },
     "alfa-medosmotr.ru": {
-        "epoch": 1579384800.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611007200.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "alfa-search.com": {
@@ -2695,8 +2695,8 @@
         "state": "future"
     },
     "cookevegas.com": {
-        "epoch": 1579471200.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611093600.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "cookingmeat.ru": {
