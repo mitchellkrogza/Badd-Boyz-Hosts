@@ -727,7 +727,7 @@
     "377baidu.com": {
         "epoch": 1579816800.0,
         "expiration_date": "24-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "39bola.com": {
         "epoch": 1585519200.0,
@@ -977,7 +977,7 @@
     "5241.it": {
         "epoch": 1579816800.0,
         "expiration_date": "24-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "529collegesaving.com": {
         "epoch": 1604181600.0,
@@ -1160,8 +1160,8 @@
         "state": "future"
     },
     "7gfs.com": {
-        "epoch": 1579730400.0,
-        "expiration_date": "23-jan-2020",
+        "epoch": 1611352800.0,
+        "expiration_date": "23-jan-2021",
         "state": "future"
     },
     "7minuteworkout.com": {
@@ -1280,9 +1280,9 @@
         "state": "future"
     },
     "98oi.ru": {
-        "epoch": 1579644000.0,
-        "expiration_date": "22-jan-2020",
-        "state": "past"
+        "epoch": 1613944800.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
     },
     "999webdesign.com": {
         "epoch": 1599429600.0,
@@ -2890,8 +2890,8 @@
         "state": "future"
     },
     "evidencecleanergold.com": {
-        "epoch": 1579816800.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611439200.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "evil69.com": {
@@ -3090,8 +3090,8 @@
         "state": "future"
     },
     "gotporn.info": {
-        "epoch": 1579730400.0,
-        "expiration_date": "23-jan-2020",
+        "epoch": 1611352800.0,
+        "expiration_date": "23-jan-2021",
         "state": "future"
     },
     "gotwebsite1.com": {
