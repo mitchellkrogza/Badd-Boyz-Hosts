@@ -705,8 +705,8 @@
         "state": "future"
     },
     "31seconds.net": {
-        "epoch": 1579989600.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611612000.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "3278dy.com": {
@@ -725,9 +725,9 @@
         "state": "future"
     },
     "377baidu.com": {
-        "epoch": 1579816800.0,
-        "expiration_date": "24-jan-2020",
-        "state": "past"
+        "epoch": 1611439200.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
     },
     "39bola.com": {
         "epoch": 1585519200.0,
@@ -1445,8 +1445,8 @@
         "state": "future"
     },
     "aanqylta.com": {
-        "epoch": 1579903200.0,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611525600.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "aapz.com": {
@@ -1875,8 +1875,8 @@
         "state": "future"
     },
     "alexxxxpages.info": {
-        "epoch": 1579903200.0,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611525600.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "alf-img.com": {
@@ -1927,7 +1927,7 @@
     "alhijaztrvl.com": {
         "epoch": 1579989600.0,
         "expiration_date": "26-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "alibestsale.com": {
         "epoch": 1604181600.0,
@@ -2220,8 +2220,8 @@
         "state": "future"
     },
     "anbstudios.com": {
-        "epoch": 1579903200.0,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611525600.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "anchorpoint.co.za": {
@@ -2552,7 +2552,7 @@
     "cinemabio.com": {
         "epoch": 1579989600.0,
         "expiration_date": "26-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "cinematraffic.com": {
         "epoch": 1607032800.0,
