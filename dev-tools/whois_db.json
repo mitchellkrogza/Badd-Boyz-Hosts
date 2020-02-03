@@ -815,9 +815,9 @@
         "state": "future"
     },
     "3wt4c.com": {
-        "epoch": 1580508000.0,
-        "expiration_date": "01-feb-2020",
-        "state": "past"
+        "epoch": 1612130400.0,
+        "expiration_date": "01-feb-2021",
+        "state": "future"
     },
     "3xit.net": {
         "epoch": 1603749600.0,
@@ -2825,8 +2825,8 @@
         "state": "future"
     },
     "eu-survey.com": {
-        "epoch": 1580594400.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1612216800.0,
+        "expiration_date": "02-feb-2021",
         "state": "future"
     },
     "euadoroisso.com.br": {
@@ -3045,8 +3045,8 @@
         "state": "future"
     },
     "goawos.com": {
-        "epoch": 1580594400.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1612216800.0,
+        "expiration_date": "02-feb-2021",
         "state": "future"
     },
     "gobettygo.com": {
