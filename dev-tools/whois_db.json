@@ -2,7 +2,7 @@
     "000free.us": {
         "epoch": 1580767200.0,
         "expiration_date": "04-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "007angels.com": {
         "epoch": 1589407200.0,
@@ -2405,8 +2405,8 @@
         "state": "future"
     },
     "avramstroy.ru": {
-        "epoch": 1580853600.0,
-        "expiration_date": "05-feb-2020",
+        "epoch": 1612476000.0,
+        "expiration_date": "05-feb-2021",
         "state": "future"
     },
     "baby-soft.ca": {
@@ -3215,8 +3215,8 @@
         "state": "future"
     },
     "hugersoft.com": {
-        "epoch": 1580767200.0,
-        "expiration_date": "04-feb-2020",
+        "epoch": 1612389600.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "hugoparisescort.com": {
