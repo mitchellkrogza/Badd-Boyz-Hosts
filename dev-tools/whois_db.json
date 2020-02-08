@@ -4724,6 +4724,16 @@
         "expiration_date": "04-dec-2019",
         "state": "future"
     },
+    "prizesforyou.com": {
+        "epoch": 1609797600.0,
+        "expiration_date": "05-jan-2021",
+        "state": "future"
+    },
+    "prizesfu74.life": {
+        "epoch": 1612476000.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "saveriopiazza.it": {
         "epoch": 1611871200.0,
         "expiration_date": "29-jan-2021",
