@@ -317,7 +317,7 @@
     "15bb51.info": {
         "epoch": 1581285600.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "15x.info": {
         "epoch": 1607724000.0,
@@ -545,8 +545,8 @@
         "state": "future"
     },
     "24tradeplus.com": {
-        "epoch": 1581199200.0,
-        "expiration_date": "09-feb-2020",
+        "epoch": 1612821600.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "24videos.tv": {
@@ -757,7 +757,7 @@
     "3d-daughter-list.info": {
         "epoch": 1581285600.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "3dbluerayplayer.com": {
         "epoch": 1588975200.0,
@@ -980,9 +980,9 @@
         "state": "future"
     },
     "5241.it": {
-        "epoch": 1579816800.0,
-        "expiration_date": "24-jan-2020",
-        "state": "past"
+        "epoch": 1611439200.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
     },
     "529collegesaving.com": {
         "epoch": 1604181600.0,
@@ -1302,7 +1302,7 @@
     "99topnn.info": {
         "epoch": 1581285600.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "9c51vda.com": {
         "epoch": 1583704800.0,
@@ -2777,7 +2777,7 @@
     "csk2014.info": {
         "epoch": 1581285600.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "cstrespsurvey.ca": {
         "epoch": 1592172000.0,
@@ -3347,7 +3347,7 @@
     "hymen-defloration.info": {
         "epoch": 1581285600.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "hympsvtktvtm.biz": {
         "epoch": 1585605600.0,
