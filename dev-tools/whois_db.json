@@ -940,9 +940,9 @@
         "state": "future"
     },
     "4v9wp.com": {
-        "epoch": 1581631200.0,
-        "expiration_date": "14-feb-2020",
-        "state": "past"
+        "epoch": 1613253600.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
     },
     "4webmasters.com": {
         "epoch": 1596232800.0,
@@ -1065,9 +1065,9 @@
         "state": "future"
     },
     "65xps.com": {
-        "epoch": 1581631200.0,
-        "expiration_date": "14-feb-2020",
-        "state": "past"
+        "epoch": 1613253600.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
     },
     "6660003.com": {
         "epoch": 1599688800.0,
@@ -1075,8 +1075,8 @@
         "state": "future"
     },
     "666s.info": {
-        "epoch": 1581717600.0,
-        "expiration_date": "15-feb-2020",
+        "epoch": 1613340000.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "66av.cc": {
@@ -2080,8 +2080,8 @@
         "state": "future"
     },
     "amateursexplace.com": {
-        "epoch": 1581804000.0,
-        "expiration_date": "16-feb-2020",
+        "epoch": 1613426400.0,
+        "expiration_date": "16-feb-2021",
         "state": "future"
     },
     "amateurspain.com": {
@@ -2575,9 +2575,9 @@
         "state": "future"
     },
     "cingualr.com": {
-        "epoch": 1581631200.0,
-        "expiration_date": "14-feb-2020",
-        "state": "past"
+        "epoch": 1613253600.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
     },
     "cliqz.com": {
         "epoch": 1580767200.0,
@@ -3282,7 +3282,7 @@
     "husky-shop.cz": {
         "epoch": 1581372000.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "hustlervip.net": {
         "epoch": 1602453600.0,
