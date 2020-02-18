@@ -450,8 +450,8 @@
         "state": "future"
     },
     "1re.info": {
-        "epoch": 1581890400.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1613512800.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "1stat.ru": {
@@ -1585,8 +1585,8 @@
         "state": "future"
     },
     "aboutproperty.co.uk": {
-        "epoch": 1581890400.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1645048800.0,
+        "expiration_date": "17-feb-2022",
         "state": "future"
     },
     "above.com": {
@@ -1927,7 +1927,7 @@
     "algodon.net": {
         "epoch": 1581976800.0,
         "expiration_date": "18-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "alhijaztrvl.com": {
         "epoch": 1611612000.0,
@@ -2375,8 +2375,8 @@
         "state": "past"
     },
     "avkzarabotok.info": {
-        "epoch": 1581890400.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1613512800.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "avoidaroid.com": {
