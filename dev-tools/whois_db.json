@@ -1925,9 +1925,9 @@
         "state": "future"
     },
     "algodon.net": {
-        "epoch": 1581976800.0,
-        "expiration_date": "18-feb-2020",
-        "state": "past"
+        "epoch": 1613599200.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
     },
     "alhijaztrvl.com": {
         "epoch": 1611612000.0,
@@ -3230,8 +3230,8 @@
         "state": "future"
     },
     "humanelydrew.com": {
-        "epoch": 1582063200.0,
-        "expiration_date": "19-feb-2020",
+        "epoch": 1613685600.0,
+        "expiration_date": "19-feb-2021",
         "state": "future"
     },
     "humorpool.com": {
