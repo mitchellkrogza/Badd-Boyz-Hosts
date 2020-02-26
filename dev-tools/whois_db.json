@@ -292,7 +292,7 @@
     "138shenbosbo.com": {
         "epoch": 1582668000.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "13tabs.com": {
         "epoch": 1597356000.0,
@@ -460,8 +460,8 @@
         "state": "future"
     },
     "1studio.net": {
-        "epoch": 1582581600.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614204000.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "1unblock.com": {
@@ -1142,7 +1142,7 @@
     "777-club.ru": {
         "epoch": 1582581600.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "78tdd75.com": {
         "epoch": 1582840800.0,
@@ -2757,7 +2757,7 @@
     "cs6hm.com": {
         "epoch": 1582668000.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "csgo-jackpot.net": {
         "epoch": 1582840800.0,
@@ -2920,8 +2920,8 @@
         "state": "past"
     },
     "evogarage.com": {
-        "epoch": 1582668000.0,
-        "expiration_date": "26-feb-2020",
+        "epoch": 1614290400.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "exhibenfrance.com": {
