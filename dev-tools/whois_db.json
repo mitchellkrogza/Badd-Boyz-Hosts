@@ -25,9 +25,9 @@
         "state": "future"
     },
     "00sexus.com": {
-        "epoch": 1582840800.0,
-        "expiration_date": "28-feb-2020",
-        "state": "past"
+        "epoch": 1614463200.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "00webcams.com": {
         "epoch": 1611180000.0,
@@ -1357,7 +1357,7 @@
     "a2zgroup.in": {
         "epoch": 1583013600.0,
         "expiration_date": "01-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "a48.info": {
         "epoch": 1585087200.0,
@@ -1780,8 +1780,8 @@
         "state": "future"
     },
     "aksonural.ru": {
-        "epoch": 1582927200.0,
-        "expiration_date": "29-feb-2020",
+        "epoch": 1614549600.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "akuhni.by": {
@@ -2070,9 +2070,9 @@
         "state": "future"
     },
     "amateursconvert.com": {
-        "epoch": 1582840800.0,
-        "expiration_date": "28-feb-2020",
-        "state": "past"
+        "epoch": 1614463200.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "amateursexdvd.com": {
         "epoch": 1609970400.0,
