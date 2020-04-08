@@ -505,8 +505,8 @@
         "state": "future"
     },
     "202ch.com": {
-        "epoch": 1586296800.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617832800.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "22kkkk.com": {
@@ -1272,7 +1272,7 @@
     "90i.info": {
         "epoch": 1586296800.0,
         "expiration_date": "08-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "925.lt": {
         "epoch": 1695074400.0,
@@ -2845,8 +2845,8 @@
         "state": "future"
     },
     "euro-option.info": {
-        "epoch": 1586210400.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617746400.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "eurospanker.com": {
@@ -3362,7 +3362,7 @@
     "hypnoseterapi.com": {
         "epoch": 1586296800.0,
         "expiration_date": "08-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "hypnotone.com": {
         "epoch": 1616191200.0,
