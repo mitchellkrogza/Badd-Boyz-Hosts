@@ -745,8 +745,8 @@
         "state": "future"
     },
     "3angelsvideo.com": {
-        "epoch": 1586815200.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1618351200.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "3cloud.net": {
@@ -1797,7 +1797,7 @@
     "akzmaihd.net": {
         "epoch": 1586901600.0,
         "expiration_date": "15-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "alabamabackpage.com": {
         "epoch": 1599516000.0,
@@ -3315,8 +3315,8 @@
         "state": "future"
     },
     "hydropump.su": {
-        "epoch": 1586815200.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1618351200.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "hygar.com": {
