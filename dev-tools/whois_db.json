@@ -185,8 +185,8 @@
         "state": "future"
     },
     "101raccoon.ru": {
-        "epoch": 1587247200.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618783200.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "108shot.com": {
@@ -287,7 +287,7 @@
     "1337crew.info": {
         "epoch": 1587247200.0,
         "expiration_date": "19-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "138shenbosbo.com": {
         "epoch": 1614290400.0,
