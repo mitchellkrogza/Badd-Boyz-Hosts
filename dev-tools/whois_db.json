@@ -285,9 +285,9 @@
         "state": "future"
     },
     "1337crew.info": {
-        "epoch": 1587247200.0,
-        "expiration_date": "19-apr-2020",
-        "state": "past"
+        "epoch": 1618783200.0,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
     },
     "138shenbosbo.com": {
         "epoch": 1614290400.0,
@@ -625,8 +625,8 @@
         "state": "future"
     },
     "2manshow.com": {
-        "epoch": 1587333600.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618869600.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "2mj.pl": {
@@ -1985,8 +1985,8 @@
         "state": "past"
     },
     "all4wap.ru": {
-        "epoch": 1587420000.0,
-        "expiration_date": "21-apr-2020",
+        "epoch": 1618956000.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "allaboutxxx.com": {
