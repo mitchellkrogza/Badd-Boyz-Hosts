@@ -1850,9 +1850,9 @@
         "state": "future"
     },
     "alboautotrasportatori.it": {
-        "epoch": 1586383200.0,
-        "expiration_date": "09-apr-2020",
-        "state": "past"
+        "epoch": 1617919200.0,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
     },
     "aldik.com": {
         "epoch": 1590789600.0,
@@ -3297,7 +3297,7 @@
     "hvd-store.com": {
         "epoch": 1587765600.0,
         "expiration_date": "25-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "hy-tec.com": {
         "epoch": 1603058400.0,
