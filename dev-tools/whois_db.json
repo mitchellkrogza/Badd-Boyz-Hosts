@@ -1825,8 +1825,8 @@
         "state": "future"
     },
     "alarmobninsk.ru": {
-        "epoch": 1587938400.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1619474400.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "albamargroup.com": {
@@ -2607,7 +2607,7 @@
     "companycreators.co.uk": {
         "epoch": 1587938400.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "compassenergyservices.com": {
         "epoch": 1706047200.0,
@@ -2990,8 +2990,8 @@
         "state": "future"
     },
     "freehanbam.net": {
-        "epoch": 1587938400.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1619474400.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "freehealthpoints.com": {
@@ -3207,7 +3207,7 @@
     "huge-cocks.biz": {
         "epoch": 1587852000.0,
         "expiration_date": "26-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "huge-gay-cock.com": {
         "epoch": 1609192800.0,
@@ -3295,9 +3295,9 @@
         "state": "future"
     },
     "hvd-store.com": {
-        "epoch": 1587765600.0,
-        "expiration_date": "25-apr-2020",
-        "state": "past"
+        "epoch": 1619301600.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
     },
     "hy-tec.com": {
         "epoch": 1603058400.0,
