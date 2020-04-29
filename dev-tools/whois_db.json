@@ -2735,9 +2735,9 @@
         "state": "future"
     },
     "creativeteam.it": {
-        "epoch": 1586728800.0,
-        "expiration_date": "13-apr-2020",
-        "state": "past"
+        "epoch": 1618264800.0,
+        "expiration_date": "13-apr-2021",
+        "state": "future"
     },
     "crystalslot.com": {
         "epoch": 1855000800.0,
@@ -3042,7 +3042,7 @@
     "go-gal.com": {
         "epoch": 1588111200.0,
         "expiration_date": "29-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "go.biz": {
         "epoch": 1607119200.0,
