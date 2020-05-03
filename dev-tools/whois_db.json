@@ -2450,8 +2450,8 @@
         "state": "future"
     },
     "backlinkwatch.com": {
-        "epoch": 1588370400.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619906400.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "backofficellc.com": {
@@ -2705,8 +2705,8 @@
         "state": "future"
     },
     "cookingmeat.ru": {
-        "epoch": 1588456800.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1619992800.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "cookingyourspanish.com": {
@@ -2865,9 +2865,9 @@
         "state": "future"
     },
     "everestclick.com": {
-        "epoch": 1588284000.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619820000.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "every-day.net": {
         "epoch": 1607724000.0,
