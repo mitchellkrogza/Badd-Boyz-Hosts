@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2020.05.8346
+### Version: V1.2020.05.8348
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -917,6 +917,5 @@
 0.0.0.0 youtubologia.it
 0.0.0.0 yuarra.pluto.ro
 0.0.0.0 yunque.pluto.ro
-0.0.0.0 zc1.delta-boa.com
 0.0.0.0 zirondelli.it
 # END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
