@@ -760,8 +760,8 @@
         "state": "future"
     },
     "3dbluerayplayer.com": {
-        "epoch": 1588975200.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620511200.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "3dcgfx.net": {
@@ -2337,7 +2337,7 @@
     "anticodistretto.com": {
         "epoch": 1588975200.0,
         "expiration_date": "09-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "anticosm.com": {
         "epoch": 1609106400.0,
@@ -2645,8 +2645,8 @@
         "state": "future"
     },
     "comsprague.com": {
-        "epoch": 1588888800.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620424800.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "comsysnet.com": {
@@ -3265,9 +3265,9 @@
         "state": "future"
     },
     "hunks-naked.com": {
-        "epoch": 1588802400.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620338400.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "hunktoons.com": {
         "epoch": 1608242400.0,
