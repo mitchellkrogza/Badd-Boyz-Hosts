@@ -810,8 +810,8 @@
         "state": "future"
     },
     "3w24.com": {
-        "epoch": 1589061600.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620597600.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "3weekdiet.com": {
@@ -2335,9 +2335,9 @@
         "state": "future"
     },
     "anticodistretto.com": {
-        "epoch": 1588975200.0,
-        "expiration_date": "09-may-2020",
-        "state": "past"
+        "epoch": 1620511200.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
     },
     "anticosm.com": {
         "epoch": 1609106400.0,
