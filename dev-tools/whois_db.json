@@ -70,8 +70,8 @@
         "state": "future"
     },
     "03e.info": {
-        "epoch": 1589234400.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620770400.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "03p.info": {
@@ -172,7 +172,7 @@
     "100shemales.com": {
         "epoch": 1589320800.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "101billion.com": {
         "epoch": 1608760800.0,
@@ -332,7 +332,7 @@
     "16aq.cn": {
         "epoch": 1589320800.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "17chezhan.com": {
         "epoch": 1607551200.0,
@@ -975,8 +975,8 @@
         "state": "future"
     },
     "511a.cn": {
-        "epoch": 1589234400.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620770400.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "5241.it": {
@@ -1140,9 +1140,9 @@
         "state": "future"
     },
     "777-club.ru": {
-        "epoch": 1582581600.0,
-        "expiration_date": "25-feb-2020",
-        "state": "past"
+        "epoch": 1623448800.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
     },
     "78tdd75.com": {
         "epoch": 1614463200.0,
@@ -1320,8 +1320,8 @@
         "state": "future"
     },
     "9med.net": {
-        "epoch": 1589234400.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620770400.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "9stoneinvestments.com": {
