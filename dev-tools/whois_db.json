@@ -5,8 +5,8 @@
         "state": "future"
     },
     "007angels.com": {
-        "epoch": 1589407200.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620943200.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "00author.com": {
@@ -170,9 +170,9 @@
         "state": "future"
     },
     "100shemales.com": {
-        "epoch": 1589320800.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620856800.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "101billion.com": {
         "epoch": 1608760800.0,
@@ -330,9 +330,9 @@
         "state": "future"
     },
     "16aq.cn": {
-        "epoch": 1589320800.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620856800.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "17chezhan.com": {
         "epoch": 1607551200.0,
@@ -1912,7 +1912,7 @@
     "alfalakgifts.com": {
         "epoch": 1589493600.0,
         "expiration_date": "15-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "alfapro.ru": {
         "epoch": 1610488800.0,
