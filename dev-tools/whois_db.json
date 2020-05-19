@@ -425,8 +425,8 @@
         "state": "future"
     },
     "1hwy.com": {
-        "epoch": 1589752800.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621288800.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "1kinobig.ru": {
@@ -2620,9 +2620,9 @@
         "state": "future"
     },
     "compositefarming.com": {
-        "epoch": 1589666400.0,
-        "expiration_date": "17-may-2020",
-        "state": "past"
+        "epoch": 1621202400.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
     },
     "comprafacil.com.br": {
         "epoch": 1666130400.0,
@@ -2890,8 +2890,8 @@
         "state": "future"
     },
     "evesaddictin.com": {
-        "epoch": 1589752800.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621288800.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "evidencecleanergold.com": {
@@ -3127,7 +3127,7 @@
     "gratis-sexkontakte.com": {
         "epoch": 1589839200.0,
         "expiration_date": "19-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "gratisweb.com": {
         "epoch": 1597874400.0,
