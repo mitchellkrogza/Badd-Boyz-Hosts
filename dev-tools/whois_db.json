@@ -2285,8 +2285,8 @@
         "state": "future"
     },
     "angelas-place.com": {
-        "epoch": 1591048800.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622584800.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "angelbetting.com": {
@@ -2572,7 +2572,7 @@
     "cinepro.com": {
         "epoch": 1591048800.0,
         "expiration_date": "02-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "cingualr.com": {
         "epoch": 1613253600.0,
@@ -2770,8 +2770,8 @@
         "state": "future"
     },
     "csk.ru": {
-        "epoch": 1590962400.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622498400.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "csk2014.info": {
