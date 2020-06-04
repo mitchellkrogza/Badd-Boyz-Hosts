@@ -1210,8 +1210,8 @@
         "state": "future"
     },
     "87w.info": {
-        "epoch": 1591135200.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622671200.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "883zy.com": {
@@ -2570,9 +2570,9 @@
         "state": "future"
     },
     "cinepro.com": {
-        "epoch": 1591048800.0,
-        "expiration_date": "02-jun-2020",
-        "state": "past"
+        "epoch": 1622584800.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
     },
     "cingualr.com": {
         "epoch": 1613253600.0,
@@ -2750,8 +2750,8 @@
         "state": "future"
     },
     "cs1g.com": {
-        "epoch": 1591221600.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622757600.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "cs6hm.com": {
