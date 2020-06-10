@@ -1,45 +1,38 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
-        "360clicks.de": {
-            "included_at_epoch": 1589377388.158764,
-            "included_at_iso": "2020-05-13T15:43:08.158764",
-            "last_retested_at_epoch": 1591624626.478452,
-            "last_retested_at_iso": "2020-06-08T15:57:06.478452",
-            "status": "INACTIVE"
-        },
         "a.kilorama.com": {
             "included_at_epoch": 1589895957.710953,
             "included_at_iso": "2020-05-19T15:45:57.710953",
-            "last_retested_at_epoch": 1591624626.474911,
-            "last_retested_at_iso": "2020-06-08T15:57:06.474911",
+            "last_retested_at_epoch": 1591797492.470536,
+            "last_retested_at_iso": "2020-06-10T15:58:12.470536",
             "status": "INACTIVE"
         },
         "a.liktirov.com": {
             "included_at_epoch": 1589895958.171818,
             "included_at_iso": "2020-05-19T15:45:58.171818",
-            "last_retested_at_epoch": 1591624626.481787,
-            "last_retested_at_iso": "2020-06-08T15:57:06.481787",
+            "last_retested_at_epoch": 1591797492.461073,
+            "last_retested_at_iso": "2020-06-10T15:58:12.461073",
             "status": "INACTIVE"
         },
         "a.nimdinb.com": {
             "included_at_epoch": 1589895959.047207,
             "included_at_iso": "2020-05-19T15:45:59.047207",
-            "last_retested_at_epoch": 1591624626.472744,
-            "last_retested_at_iso": "2020-06-08T15:57:06.472744",
+            "last_retested_at_epoch": 1591797492.46888,
+            "last_retested_at_iso": "2020-06-10T15:58:12.468880",
             "status": "INACTIVE"
         },
         "akzmaihd.net": {
             "included_at_epoch": 1590241689.48744,
             "included_at_iso": "2020-05-23T15:48:09.487440",
-            "last_retested_at_epoch": 1591624626.480142,
-            "last_retested_at_iso": "2020-06-08T15:57:06.480142",
+            "last_retested_at_epoch": 1591797492.458664,
+            "last_retested_at_iso": "2020-06-10T15:58:12.458664",
             "status": "INACTIVE"
         },
         "track.maincert.com": {
             "included_at_epoch": 1589550176.800251,
             "included_at_iso": "2020-05-15T15:42:56.800251",
-            "last_retested_at_epoch": 1591624626.476789,
-            "last_retested_at_iso": "2020-06-08T15:57:06.476789",
+            "last_retested_at_epoch": 1591797492.46297,
+            "last_retested_at_iso": "2020-06-10T15:58:12.462970",
             "status": "INACTIVE"
         }
     }
