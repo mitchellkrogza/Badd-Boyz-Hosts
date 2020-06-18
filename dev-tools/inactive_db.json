@@ -3,15 +3,8 @@
         "akzmaihd.net": {
             "included_at_epoch": 1590241689.48744,
             "included_at_iso": "2020-05-23T15:48:09.487440",
-            "last_retested_at_epoch": 1592316134.061797,
-            "last_retested_at_iso": "2020-06-16T16:02:14.061797",
-            "status": "INACTIVE"
-        },
-        "companycreators.co.uk": {
-            "included_at_epoch": 1592316131.176375,
-            "included_at_iso": "2020-06-16T16:02:11.176375",
-            "last_retested_at_epoch": 1592316131.176375,
-            "last_retested_at_iso": "2020-06-16T16:02:11.176375",
+            "last_retested_at_epoch": 1592488990.833034,
+            "last_retested_at_iso": "2020-06-18T16:03:10.833034",
             "status": "INACTIVE"
         }
     }

@@ -1185,8 +1185,8 @@
         "state": "future"
     },
     "7wind.ru": {
-        "epoch": 1592344800.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623880800.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "7xc4n.com": {
@@ -1940,8 +1940,8 @@
         "state": "future"
     },
     "aliclonepro.xyz": {
-        "epoch": 1592344800.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623880800.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "aliecspres.com": {
@@ -2962,7 +2962,7 @@
     "fnmsk.ru": {
         "epoch": 1592431200.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "free-gluten.ru": {
         "epoch": 1611698400.0,
@@ -4170,8 +4170,8 @@
         "state": "future"
     },
     "ladsblue.com": {
-        "epoch": 1592344800.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623880800.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "ladsup.com": {
