@@ -1,10 +1,10 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
-        "akzmaihd.net": {
-            "included_at_epoch": 1590241689.48744,
-            "included_at_iso": "2020-05-23T15:48:09.487440",
-            "last_retested_at_epoch": 1592488990.833034,
-            "last_retested_at_iso": "2020-06-18T16:03:10.833034",
+        "fnmsk.ru": {
+            "included_at_epoch": 1592661809.236678,
+            "included_at_iso": "2020-06-20T16:03:29.236678",
+            "last_retested_at_epoch": 1592661809.236678,
+            "last_retested_at_iso": "2020-06-20T16:03:29.236678",
             "status": "INACTIVE"
         }
     }
