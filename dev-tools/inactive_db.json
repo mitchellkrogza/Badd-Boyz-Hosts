@@ -3,8 +3,8 @@
         "fnmsk.ru": {
             "included_at_epoch": 1592661809.236678,
             "included_at_iso": "2020-06-20T16:03:29.236678",
-            "last_retested_at_epoch": 1592661809.236678,
-            "last_retested_at_iso": "2020-06-20T16:03:29.236678",
+            "last_retested_at_epoch": 1592748269.852972,
+            "last_retested_at_iso": "2020-06-21T16:04:29.852972",
             "status": "INACTIVE"
         }
     }
