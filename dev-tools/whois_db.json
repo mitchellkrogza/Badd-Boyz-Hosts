@@ -2910,9 +2910,9 @@
         "state": "future"
     },
     "evkc.com": {
-        "epoch": 1592690400.0,
-        "expiration_date": "21-jun-2020",
-        "state": "past"
+        "epoch": 1624226400.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
     },
     "evobill.biz": {
         "epoch": 1576360800.0,
