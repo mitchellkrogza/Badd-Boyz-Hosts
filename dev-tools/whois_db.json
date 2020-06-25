@@ -780,8 +780,8 @@
         "state": "future"
     },
     "3dviolet.com": {
-        "epoch": 1592949600.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624485600.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "3gplay.pl": {
@@ -1597,7 +1597,7 @@
     "abrahamschildren.com": {
         "epoch": 1593036000.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "absolute-live.com": {
         "epoch": 1607637600.0,
@@ -1630,8 +1630,8 @@
         "state": "future"
     },
     "acimo.com": {
-        "epoch": 1593036000.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624572000.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "acmmarketingdigital.com.br": {
@@ -5347,7 +5347,7 @@
     "townhousefilms.com": {
         "epoch": 1593036000.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "viveresaniesnelli.it": {
         "epoch": 1611871200.0,
