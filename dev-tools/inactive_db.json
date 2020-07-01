@@ -3,36 +3,22 @@
         "12month.loan": {
             "included_at_epoch": 1593093952.135003,
             "included_at_iso": "2020-06-25T16:05:52.135003",
-            "last_retested_at_epoch": 1593439737.715694,
-            "last_retested_at_iso": "2020-06-29T16:08:57.715694",
-            "status": "INACTIVE"
-        },
-        "17990.vicp.net": {
-            "included_at_epoch": 1593439724.051316,
-            "included_at_iso": "2020-06-29T16:08:44.051316",
-            "last_retested_at_epoch": 1593439724.051316,
-            "last_retested_at_iso": "2020-06-29T16:08:44.051316",
+            "last_retested_at_epoch": 1593612609.789654,
+            "last_retested_at_iso": "2020-07-01T16:10:09.789654",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
             "included_at_epoch": 1593093955.546415,
             "included_at_iso": "2020-06-25T16:05:55.546415",
-            "last_retested_at_epoch": 1593439737.720052,
-            "last_retested_at_iso": "2020-06-29T16:08:57.720052",
+            "last_retested_at_epoch": 1593612609.791732,
+            "last_retested_at_iso": "2020-07-01T16:10:09.791732",
             "status": "INACTIVE"
         },
         "fnmsk.ru": {
             "included_at_epoch": 1592661809.236678,
             "included_at_iso": "2020-06-20T16:03:29.236678",
-            "last_retested_at_epoch": 1593439737.718135,
-            "last_retested_at_iso": "2020-06-29T16:08:57.718135",
-            "status": "INACTIVE"
-        },
-        "sistemacentral.xpg.com.br": {
-            "included_at_epoch": 1593439731.605949,
-            "included_at_iso": "2020-06-29T16:08:51.605949",
-            "last_retested_at_epoch": 1593439731.605949,
-            "last_retested_at_iso": "2020-06-29T16:08:51.605949",
+            "last_retested_at_epoch": 1593612609.793416,
+            "last_retested_at_iso": "2020-07-01T16:10:09.793416",
             "status": "INACTIVE"
         }
     }
