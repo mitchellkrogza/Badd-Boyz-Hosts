@@ -3,22 +3,22 @@
         "12month.loan": {
             "included_at_epoch": 1593093952.135003,
             "included_at_iso": "2020-06-25T16:05:52.135003",
-            "last_retested_at_epoch": 1593612609.789654,
-            "last_retested_at_iso": "2020-07-01T16:10:09.789654",
+            "last_retested_at_epoch": 1593785438.723299,
+            "last_retested_at_iso": "2020-07-03T16:10:38.723299",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
             "included_at_epoch": 1593093955.546415,
             "included_at_iso": "2020-06-25T16:05:55.546415",
-            "last_retested_at_epoch": 1593612609.791732,
-            "last_retested_at_iso": "2020-07-01T16:10:09.791732",
+            "last_retested_at_epoch": 1593785438.728129,
+            "last_retested_at_iso": "2020-07-03T16:10:38.728129",
             "status": "INACTIVE"
         },
         "fnmsk.ru": {
             "included_at_epoch": 1592661809.236678,
             "included_at_iso": "2020-06-20T16:03:29.236678",
-            "last_retested_at_epoch": 1593612609.793416,
-            "last_retested_at_iso": "2020-07-01T16:10:09.793416",
+            "last_retested_at_epoch": 1593785438.725998,
+            "last_retested_at_iso": "2020-07-03T16:10:38.725998",
             "status": "INACTIVE"
         }
     }
