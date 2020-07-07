@@ -230,8 +230,8 @@
         "state": "future"
     },
     "123kuma.com": {
-        "epoch": 1594072800.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625608800.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "123laceypink.com": {
@@ -345,9 +345,9 @@
         "state": "future"
     },
     "18744.com": {
-        "epoch": 1593900000.0,
-        "expiration_date": "05-jul-2020",
-        "state": "past"
+        "epoch": 1625436000.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
     },
     "189zx.com": {
         "epoch": 1622930400.0,
@@ -1160,8 +1160,8 @@
         "state": "future"
     },
     "7fb.ru": {
-        "epoch": 1594072800.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625608800.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "7gfs.com": {
@@ -2317,7 +2317,7 @@
     "animalcum.net": {
         "epoch": 1594072800.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "answerzones.com": {
         "epoch": 1617228000.0,
@@ -2590,8 +2590,8 @@
         "state": "future"
     },
     "communisave.co.za": {
-        "epoch": 1593986400.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625522400.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "communitypetclinicmanteca.com": {
@@ -3390,9 +3390,9 @@
         "state": "future"
     },
     "i-dating.info": {
-        "epoch": 1593900000.0,
-        "expiration_date": "05-jul-2020",
-        "state": "past"
+        "epoch": 1625436000.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
     },
     "i-gay.ru": {
         "epoch": 1581804000.0,
