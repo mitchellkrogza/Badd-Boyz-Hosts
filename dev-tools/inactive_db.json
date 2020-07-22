@@ -3,22 +3,29 @@
         "12month.loan": {
             "included_at_epoch": 1593093952.135003,
             "included_at_iso": "2020-06-25T16:05:52.135003",
-            "last_retested_at_epoch": 1595254899.845156,
-            "last_retested_at_iso": "2020-07-20T16:21:39.845156",
+            "last_retested_at_epoch": 1595427803.377324,
+            "last_retested_at_iso": "2020-07-22T16:23:23.377324",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
             "included_at_epoch": 1593093955.546415,
             "included_at_iso": "2020-06-25T16:05:55.546415",
-            "last_retested_at_epoch": 1595254899.847961,
-            "last_retested_at_iso": "2020-07-20T16:21:39.847961",
+            "last_retested_at_epoch": 1595427803.379636,
+            "last_retested_at_iso": "2020-07-22T16:23:23.379636",
+            "status": "INACTIVE"
+        },
+        "android-systems.ru": {
+            "included_at_epoch": 1595427796.069674,
+            "included_at_iso": "2020-07-22T16:23:16.069674",
+            "last_retested_at_epoch": 1595427796.069674,
+            "last_retested_at_iso": "2020-07-22T16:23:16.069674",
             "status": "INACTIVE"
         },
         "freudebote.de": {
             "included_at_epoch": 1594909056.273374,
             "included_at_iso": "2020-07-16T16:17:36.273374",
-            "last_retested_at_epoch": 1595254899.850158,
-            "last_retested_at_iso": "2020-07-20T16:21:39.850158",
+            "last_retested_at_epoch": 1595427803.38155,
+            "last_retested_at_iso": "2020-07-22T16:23:23.381550",
             "status": "INACTIVE"
         }
     }
