@@ -3,22 +3,29 @@
         "android-systems.ru": {
             "included_at_epoch": 1595427796.069674,
             "included_at_iso": "2020-07-22T16:23:16.069674",
-            "last_retested_at_epoch": 1595946351.482141,
-            "last_retested_at_iso": "2020-07-28T16:25:51.482141",
+            "last_retested_at_epoch": 1596119185.245541,
+            "last_retested_at_iso": "2020-07-30T16:26:25.245541",
+            "status": "INACTIVE"
+        },
+        "companycreators.co.uk": {
+            "included_at_epoch": 1596119177.729155,
+            "included_at_iso": "2020-07-30T16:26:17.729155",
+            "last_retested_at_epoch": 1596119177.729155,
+            "last_retested_at_iso": "2020-07-30T16:26:17.729155",
             "status": "INACTIVE"
         },
         "freudebote.de": {
             "included_at_epoch": 1594909056.273374,
             "included_at_iso": "2020-07-16T16:17:36.273374",
-            "last_retested_at_epoch": 1595946351.48009,
-            "last_retested_at_iso": "2020-07-28T16:25:51.480090",
+            "last_retested_at_epoch": 1596119185.243256,
+            "last_retested_at_iso": "2020-07-30T16:26:25.243256",
             "status": "INACTIVE"
         },
         "track.townhousefilms.com": {
             "included_at_epoch": 1595946346.993533,
             "included_at_iso": "2020-07-28T16:25:46.993533",
-            "last_retested_at_epoch": 1595946346.993533,
-            "last_retested_at_iso": "2020-07-28T16:25:46.993533",
+            "last_retested_at_epoch": 1596119185.240805,
+            "last_retested_at_iso": "2020-07-30T16:26:25.240805",
             "status": "INACTIVE"
         }
     }
