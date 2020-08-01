@@ -1,31 +1,38 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
+        "5wh.co.zw": {
+            "included_at_epoch": 1596292040.889942,
+            "included_at_iso": "2020-08-01T16:27:20.889942",
+            "last_retested_at_epoch": 1596292040.889942,
+            "last_retested_at_iso": "2020-08-01T16:27:20.889942",
+            "status": "INACTIVE"
+        },
         "android-systems.ru": {
             "included_at_epoch": 1595427796.069674,
             "included_at_iso": "2020-07-22T16:23:16.069674",
-            "last_retested_at_epoch": 1596119185.245541,
-            "last_retested_at_iso": "2020-07-30T16:26:25.245541",
+            "last_retested_at_epoch": 1596292050.753501,
+            "last_retested_at_iso": "2020-08-01T16:27:30.753501",
             "status": "INACTIVE"
         },
         "companycreators.co.uk": {
             "included_at_epoch": 1596119177.729155,
             "included_at_iso": "2020-07-30T16:26:17.729155",
-            "last_retested_at_epoch": 1596119177.729155,
-            "last_retested_at_iso": "2020-07-30T16:26:17.729155",
+            "last_retested_at_epoch": 1596292050.751809,
+            "last_retested_at_iso": "2020-08-01T16:27:30.751809",
             "status": "INACTIVE"
         },
         "freudebote.de": {
             "included_at_epoch": 1594909056.273374,
             "included_at_iso": "2020-07-16T16:17:36.273374",
-            "last_retested_at_epoch": 1596119185.243256,
-            "last_retested_at_iso": "2020-07-30T16:26:25.243256",
+            "last_retested_at_epoch": 1596292050.7498,
+            "last_retested_at_iso": "2020-08-01T16:27:30.749800",
             "status": "INACTIVE"
         },
         "track.townhousefilms.com": {
             "included_at_epoch": 1595946346.993533,
             "included_at_iso": "2020-07-28T16:25:46.993533",
-            "last_retested_at_epoch": 1596119185.240805,
-            "last_retested_at_iso": "2020-07-30T16:26:25.240805",
+            "last_retested_at_epoch": 1596292050.74761,
+            "last_retested_at_iso": "2020-08-01T16:27:30.747610",
             "status": "INACTIVE"
         }
     }
