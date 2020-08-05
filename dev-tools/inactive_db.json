@@ -3,29 +3,36 @@
         "android-systems.ru": {
             "included_at_epoch": 1595427796.069674,
             "included_at_iso": "2020-07-22T16:23:16.069674",
-            "last_retested_at_epoch": 1596464930.431653,
-            "last_retested_at_iso": "2020-08-03T16:28:50.431653",
+            "last_retested_at_epoch": 1596637695.809566,
+            "last_retested_at_iso": "2020-08-05T16:28:15.809566",
             "status": "INACTIVE"
         },
         "companycreators.co.uk": {
             "included_at_epoch": 1596119177.729155,
             "included_at_iso": "2020-07-30T16:26:17.729155",
-            "last_retested_at_epoch": 1596464930.429956,
-            "last_retested_at_iso": "2020-08-03T16:28:50.429956",
+            "last_retested_at_epoch": 1596637695.803809,
+            "last_retested_at_iso": "2020-08-05T16:28:15.803809",
+            "status": "INACTIVE"
+        },
+        "creatives.adbetclickin.pink": {
+            "included_at_epoch": 1596637687.373425,
+            "included_at_iso": "2020-08-05T16:28:07.373425",
+            "last_retested_at_epoch": 1596637687.373425,
+            "last_retested_at_iso": "2020-08-05T16:28:07.373425",
             "status": "INACTIVE"
         },
         "freudebote.de": {
             "included_at_epoch": 1594909056.273374,
             "included_at_iso": "2020-07-16T16:17:36.273374",
-            "last_retested_at_epoch": 1596464930.434179,
-            "last_retested_at_iso": "2020-08-03T16:28:50.434179",
+            "last_retested_at_epoch": 1596637695.8061,
+            "last_retested_at_iso": "2020-08-05T16:28:15.806100",
             "status": "INACTIVE"
         },
         "track.townhousefilms.com": {
             "included_at_epoch": 1595946346.993533,
             "included_at_iso": "2020-07-28T16:25:46.993533",
-            "last_retested_at_epoch": 1596464930.424578,
-            "last_retested_at_iso": "2020-08-03T16:28:50.424578",
+            "last_retested_at_epoch": 1596637695.807797,
+            "last_retested_at_iso": "2020-08-05T16:28:15.807797",
             "status": "INACTIVE"
         }
     }
