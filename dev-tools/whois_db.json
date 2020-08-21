@@ -1532,7 +1532,7 @@
     "abctoppictures.net": {
         "epoch": 1597960800.0,
         "expiration_date": "21-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "abdicted.com": {
         "epoch": 1608501600.0,
@@ -2995,8 +2995,8 @@
         "state": "future"
     },
     "freehealthpoints.com": {
-        "epoch": 1597874400.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629410400.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "freehomosexual.com": {
@@ -3085,9 +3085,9 @@
         "state": "future"
     },
     "goforexvps.com": {
-        "epoch": 1597788000.0,
-        "expiration_date": "19-aug-2020",
-        "state": "past"
+        "epoch": 1629324000.0,
+        "expiration_date": "19-aug-2021",
+        "state": "future"
     },
     "gofun.info": {
         "epoch": 1626645600.0,
@@ -3130,8 +3130,8 @@
         "state": "future"
     },
     "gratisweb.com": {
-        "epoch": 1597874400.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629410400.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "gravygirls.com": {
