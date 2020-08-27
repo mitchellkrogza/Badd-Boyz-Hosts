@@ -1,17 +1,10 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
-        "companycreators.co.uk": {
-            "included_at_epoch": 1596119177.729155,
-            "included_at_iso": "2020-07-30T16:26:17.729155",
-            "last_retested_at_epoch": 1598366535.751276,
-            "last_retested_at_iso": "2020-08-25T16:42:15.751276",
-            "status": "INACTIVE"
-        },
         "creatives.adbetclickin.pink": {
             "included_at_epoch": 1596637687.373425,
             "included_at_iso": "2020-08-05T16:28:07.373425",
-            "last_retested_at_epoch": 1598366535.749107,
-            "last_retested_at_iso": "2020-08-25T16:42:15.749107",
+            "last_retested_at_epoch": 1598539338.828256,
+            "last_retested_at_iso": "2020-08-27T16:42:18.828256",
             "status": "INACTIVE"
         }
     }
