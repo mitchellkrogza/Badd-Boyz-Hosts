@@ -3,15 +3,15 @@
         "analytics.cliqz.com": {
             "included_at_epoch": 1598712241.488603,
             "included_at_iso": "2020-08-29T16:44:01.488603",
-            "last_retested_at_epoch": 1598712241.488603,
-            "last_retested_at_iso": "2020-08-29T16:44:01.488603",
+            "last_retested_at_epoch": 1598885066.021812,
+            "last_retested_at_iso": "2020-08-31T16:44:26.021812",
             "status": "INACTIVE"
         },
         "creatives.adbetclickin.pink": {
             "included_at_epoch": 1596637687.373425,
             "included_at_iso": "2020-08-05T16:28:07.373425",
-            "last_retested_at_epoch": 1598712245.526754,
-            "last_retested_at_iso": "2020-08-29T16:44:05.526754",
+            "last_retested_at_epoch": 1598885066.024099,
+            "last_retested_at_iso": "2020-08-31T16:44:26.024099",
             "status": "INACTIVE"
         }
     }

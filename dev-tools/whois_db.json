@@ -1180,8 +1180,8 @@
         "state": "future"
     },
     "7thlegion.ru": {
-        "epoch": 1598738400.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630274400.0,
+        "expiration_date": "30-aug-2021",
         "state": "future"
     },
     "7wind.ru": {
@@ -1527,7 +1527,7 @@
     "abcsex.dk": {
         "epoch": 1598824800.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "abctoppictures.net": {
         "epoch": 1629496800.0,
@@ -1885,8 +1885,8 @@
         "state": "future"
     },
     "alf-img.com": {
-        "epoch": 1598738400.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630274400.0,
+        "expiration_date": "30-aug-2021",
         "state": "future"
     },
     "alfa-img.com": {
@@ -2680,8 +2680,8 @@
         "state": "future"
     },
     "contextualyield.com": {
-        "epoch": 1598738400.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630274400.0,
+        "expiration_date": "30-aug-2021",
         "state": "future"
     },
     "controlsecurity.net": {
