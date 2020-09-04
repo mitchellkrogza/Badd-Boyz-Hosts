@@ -1,10 +1,17 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
+        "17990.vicp.net": {
+            "included_at_epoch": 1599230854.033397,
+            "included_at_iso": "2020-09-04T16:47:34.033397",
+            "last_retested_at_epoch": 1599230854.033397,
+            "last_retested_at_iso": "2020-09-04T16:47:34.033397",
+            "status": "INACTIVE"
+        },
         "analytics.cliqz.com": {
             "included_at_epoch": 1598712241.488603,
             "included_at_iso": "2020-08-29T16:44:01.488603",
-            "last_retested_at_epoch": 1599057969.251573,
-            "last_retested_at_iso": "2020-09-02T16:46:09.251573",
+            "last_retested_at_epoch": 1599230862.793891,
+            "last_retested_at_iso": "2020-09-04T16:47:42.793891",
             "status": "INACTIVE"
         }
     }
