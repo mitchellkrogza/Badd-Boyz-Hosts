@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2020.09.8413
+### Version: V1.2020.09.8414
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -38,7 +38,6 @@
 # START DNSMASQ LIST ### DO NOT EDIT THIS LINE AT ALL ###
 address=/000free.us/
 address=/000.gaysexe.free.fr/
-address=/000owamail0.000webhostapp.com/
 address=/000tristanprod.free.fr/
 address=/007angels.com/
 address=/00author.com/
@@ -171,7 +170,6 @@ address=/24-xxx.biz/
 address=/2560.fd.mobile.tv.sms13.de/
 address=/257639.com/
 address=/259572.com/
-address=/25cat.tk/
 address=/267932.com/
 address=/271395.com/
 address=/272351.com/
@@ -861,7 +859,6 @@ address=/imdaginea.cf/
 address=/indetiske.ya.ru/
 address=/index.buckshost.com/
 address=/inleadership.co.nz/
-address=/kabey.000webhostapp.com/
 address=/keepcolletive.com/
 address=/kiwi237au.tk/
 address=/ladsblue.com/

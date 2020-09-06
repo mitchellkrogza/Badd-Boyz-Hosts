@@ -1,5 +1,12 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
+        "000owamail0.000webhostapp.com": {
+            "included_at_epoch": 1599396440.70893,
+            "included_at_iso": "2020-09-06T14:47:20.708930",
+            "last_retested_at_epoch": 1599396440.70893,
+            "last_retested_at_iso": "2020-09-06T14:47:20.708930",
+            "status": "INACTIVE"
+        },
         "17990.vicp.net": {
             "included_at_epoch": 1599230854.033397,
             "included_at_iso": "2020-09-04T16:47:34.033397",
@@ -7,11 +14,25 @@
             "last_retested_at_iso": "2020-09-04T16:47:34.033397",
             "status": "INACTIVE"
         },
+        "25cat.tk": {
+            "included_at_epoch": 1599396440.871256,
+            "included_at_iso": "2020-09-06T14:47:20.871256",
+            "last_retested_at_epoch": 1599396440.871256,
+            "last_retested_at_iso": "2020-09-06T14:47:20.871256",
+            "status": "INACTIVE"
+        },
         "analytics.cliqz.com": {
             "included_at_epoch": 1598712241.488603,
             "included_at_iso": "2020-08-29T16:44:01.488603",
             "last_retested_at_epoch": 1599230862.793891,
             "last_retested_at_iso": "2020-09-04T16:47:42.793891",
+            "status": "INACTIVE"
+        },
+        "kabey.000webhostapp.com": {
+            "included_at_epoch": 1599396442.021535,
+            "included_at_iso": "2020-09-06T14:47:22.021535",
+            "last_retested_at_epoch": 1599396442.021535,
+            "last_retested_at_iso": "2020-09-06T14:47:22.021535",
             "status": "INACTIVE"
         }
     }

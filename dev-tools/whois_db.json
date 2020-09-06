@@ -1477,6 +1477,7 @@
     "aarpadvantages.co": {
         "epoch": 1595455200.0,
         "expiration_date": "23-jul-2020",
+        "server": "whois.nic.co",
         "state": "past"
     },
     "aashyamayro.com": {
@@ -1527,6 +1528,7 @@
     "abcsex.dk": {
         "epoch": 1598824800.0,
         "expiration_date": "31-aug-2020",
+        "server": "whois.dk-hostmaster.dk",
         "state": "past"
     },
     "abctoppictures.net": {
@@ -1610,8 +1612,9 @@
         "state": "future"
     },
     "acads.net": {
-        "epoch": 1599256800.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1662328800.0,
+        "expiration_date": "05-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "acenar.com": {
@@ -1965,8 +1968,9 @@
         "state": "future"
     },
     "alive-ua.com": {
-        "epoch": 1599343200.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630879200.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aljassarengineering.com": {
@@ -2692,7 +2696,8 @@
     "convertwordtoexcel.com": {
         "epoch": 1599343200.0,
         "expiration_date": "06-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "coocomall.com": {
         "epoch": 1626645600.0,
