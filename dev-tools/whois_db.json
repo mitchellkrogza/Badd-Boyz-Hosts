@@ -1290,8 +1290,9 @@
         "state": "future"
     },
     "999webdesign.com": {
-        "epoch": 1599429600.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630965600.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "99bthgc.me": {
@@ -1805,7 +1806,8 @@
     "alabamabackpage.com": {
         "epoch": 1599516000.0,
         "expiration_date": "08-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "alamosupply.com": {
         "epoch": 1602453600.0,
@@ -2059,8 +2061,9 @@
         "state": "future"
     },
     "alloysteel.ru": {
-        "epoch": 1599429600.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630965600.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "allpdfmags.net": {
@@ -2694,10 +2697,10 @@
         "state": "future"
     },
     "convertwordtoexcel.com": {
-        "epoch": 1599343200.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630879200.0,
+        "expiration_date": "06-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "coocomall.com": {
         "epoch": 1626645600.0,
@@ -2842,7 +2845,8 @@
     "euadoroisso.com.br": {
         "epoch": 1599256800.0,
         "expiration_date": "05-sep-2020",
-        "state": "future"
+        "server": "whois.registro.br",
+        "state": "past"
     },
     "eupornstar.info": {
         "epoch": 1627509600.0,
@@ -2910,8 +2914,9 @@
         "state": "future"
     },
     "evile.co.uk": {
-        "epoch": 1599429600.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630965600.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "evkc.com": {
