@@ -1070,8 +1070,9 @@
         "state": "future"
     },
     "6660003.com": {
-        "epoch": 1599688800.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631224800.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "666s.info": {
@@ -1804,10 +1805,10 @@
         "state": "past"
     },
     "alabamabackpage.com": {
-        "epoch": 1599516000.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631052000.0,
+        "expiration_date": "08-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "alamosupply.com": {
         "epoch": 1602453600.0,
@@ -2041,8 +2042,9 @@
         "state": "future"
     },
     "allergycenter.info": {
-        "epoch": 1599602400.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631138400.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "allo-sexe.com": {
@@ -3465,8 +3467,9 @@
         "state": "future"
     },
     "idkom.com": {
-        "epoch": 1599602400.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631138400.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ido3.com": {

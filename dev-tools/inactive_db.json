@@ -7,6 +7,13 @@
             "last_retested_at_iso": "2020-09-06T14:47:20.708930",
             "status": "INACTIVE"
         },
+        "0pros.com": {
+            "included_at_epoch": 1599742192.995313,
+            "included_at_iso": "2020-09-10T14:49:52.995313",
+            "last_retested_at_epoch": 1599742192.995313,
+            "last_retested_at_iso": "2020-09-10T14:49:52.995313",
+            "status": "INACTIVE"
+        },
         "17990.vicp.net": {
             "included_at_epoch": 1599230854.033397,
             "included_at_iso": "2020-09-04T16:47:34.033397",
@@ -26,6 +33,20 @@
             "included_at_iso": "2020-08-29T16:44:01.488603",
             "last_retested_at_epoch": 1599230862.793891,
             "last_retested_at_iso": "2020-09-04T16:47:42.793891",
+            "status": "INACTIVE"
+        },
+        "ici-sexe.tk": {
+            "included_at_epoch": 1599742194.203484,
+            "included_at_iso": "2020-09-10T14:49:54.203484",
+            "last_retested_at_epoch": 1599742194.203484,
+            "last_retested_at_iso": "2020-09-10T14:49:54.203484",
+            "status": "INACTIVE"
+        },
+        "imdaginea.cf": {
+            "included_at_epoch": 1599742194.253964,
+            "included_at_iso": "2020-09-10T14:49:54.253964",
+            "last_retested_at_epoch": 1599742194.253964,
+            "last_retested_at_iso": "2020-09-10T14:49:54.253964",
             "status": "INACTIVE"
         },
         "kabey.000webhostapp.com": {
