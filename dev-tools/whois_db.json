@@ -580,8 +580,9 @@
         "state": "future"
     },
     "289931.com": {
-        "epoch": 1599775200.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631311200.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2anal.net": {
@@ -677,7 +678,8 @@
     "2step-garage.co.uk": {
         "epoch": 1599861600.0,
         "expiration_date": "12-sep-2020",
-        "state": "future"
+        "server": "whois.nic.uk",
+        "state": "past"
     },
     "2ydian.com": {
         "epoch": 1605132000.0,
@@ -1757,7 +1759,8 @@
     "aisiansex.com": {
         "epoch": 1599861600.0,
         "expiration_date": "12-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "ajansyenimedya.com": {
         "epoch": 1611957600.0,
