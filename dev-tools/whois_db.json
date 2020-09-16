@@ -275,8 +275,9 @@
         "state": "future"
     },
     "12xhardcore.com": {
-        "epoch": 1600120800.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631656800.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1314dh.com": {
@@ -515,8 +516,9 @@
         "state": "future"
     },
     "24-ak.ru": {
-        "epoch": 1600120800.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631656800.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "24-xxx.biz": {
@@ -907,10 +909,10 @@
         "state": "future"
     },
     "4pussies.com": {
-        "epoch": 1600034400.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631570400.0,
+        "expiration_date": "14-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "4realzed.com": {
         "epoch": 1606687200.0,
@@ -2370,7 +2372,8 @@
     "ashlynnbrookevideos.com": {
         "epoch": 1600207200.0,
         "expiration_date": "16-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "avitocars.ru": {
         "epoch": 1606168800.0,
