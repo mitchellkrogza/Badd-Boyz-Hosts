@@ -1246,8 +1246,9 @@
         "state": "future"
     },
     "8khmer.com": {
-        "epoch": 1600293600.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1609279200.0,
+        "expiration_date": "30-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8rf.com": {
@@ -2370,10 +2371,10 @@
         "state": "future"
     },
     "ashlynnbrookevideos.com": {
-        "epoch": 1600207200.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631743200.0,
+        "expiration_date": "16-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "avitocars.ru": {
         "epoch": 1606168800.0,
