@@ -42,6 +42,13 @@
             "last_retested_at_iso": "2020-09-04T16:47:42.793891",
             "status": "INACTIVE"
         },
+        "cookingyourspanish.com": {
+            "included_at_epoch": 1600606455.266486,
+            "included_at_iso": "2020-09-20T14:54:15.266486",
+            "last_retested_at_epoch": 1600606455.266486,
+            "last_retested_at_iso": "2020-09-20T14:54:15.266486",
+            "status": "INACTIVE"
+        },
         "famosasdesnudasx.com": {
             "included_at_epoch": 1600260741.448468,
             "included_at_iso": "2020-09-16T14:52:21.448468",
