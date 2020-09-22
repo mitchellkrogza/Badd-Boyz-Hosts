@@ -28,11 +28,32 @@
             "last_retested_at_iso": "2020-09-06T14:47:20.871256",
             "status": "INACTIVE"
         },
+        "267932.com": {
+            "included_at_epoch": 1600779352.51807,
+            "included_at_iso": "2020-09-22T14:55:52.518070",
+            "last_retested_at_epoch": 1600779352.51807,
+            "last_retested_at_iso": "2020-09-22T14:55:52.518070",
+            "status": "INACTIVE"
+        },
+        "272351.com": {
+            "included_at_epoch": 1600779352.520231,
+            "included_at_iso": "2020-09-22T14:55:52.520231",
+            "last_retested_at_epoch": 1600779352.520231,
+            "last_retested_at_iso": "2020-09-22T14:55:52.520231",
+            "status": "INACTIVE"
+        },
         "activecampaign.dreamhosters.com": {
             "included_at_epoch": 1600433619.552727,
             "included_at_iso": "2020-09-18T14:53:39.552727",
             "last_retested_at_epoch": 1600433619.552727,
             "last_retested_at_iso": "2020-09-18T14:53:39.552727",
+            "status": "INACTIVE"
+        },
+        "allboys.buckshost.com": {
+            "included_at_epoch": 1600779353.279195,
+            "included_at_iso": "2020-09-22T14:55:53.279195",
+            "last_retested_at_epoch": 1600779353.279195,
+            "last_retested_at_iso": "2020-09-22T14:55:53.279195",
             "status": "INACTIVE"
         },
         "analytics.cliqz.com": {
@@ -68,6 +89,13 @@
             "included_at_iso": "2020-09-10T14:49:54.253964",
             "last_retested_at_epoch": 1599742194.253964,
             "last_retested_at_iso": "2020-09-10T14:49:54.253964",
+            "status": "INACTIVE"
+        },
+        "index.buckshost.com": {
+            "included_at_epoch": 1600779354.139102,
+            "included_at_iso": "2020-09-22T14:55:54.139102",
+            "last_retested_at_epoch": 1600779354.139102,
+            "last_retested_at_iso": "2020-09-22T14:55:54.139102",
             "status": "INACTIVE"
         },
         "kabey.000webhostapp.com": {

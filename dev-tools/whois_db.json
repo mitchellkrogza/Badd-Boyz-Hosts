@@ -80,8 +80,9 @@
         "state": "future"
     },
     "07634.com": {
-        "epoch": 1600639200.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632175200.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "080jxrab.top": {
@@ -557,13 +558,15 @@
         "state": "future"
     },
     "257639.com": {
-        "epoch": 1600639200.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632175200.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "259572.com": {
-        "epoch": 1600639200.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1607119200.0,
+        "expiration_date": "05-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "267932.com": {
@@ -572,8 +575,9 @@
         "state": "future"
     },
     "271395.com": {
-        "epoch": 1600639200.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632175200.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "272351.com": {
@@ -709,8 +713,9 @@
         "state": "future"
     },
     "30sec.info": {
-        "epoch": 1600639200.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632175200.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "31seconds.net": {
@@ -1511,8 +1516,9 @@
         "state": "future"
     },
     "abadass.com": {
-        "epoch": 1600639200.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632175200.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "abahah.com": {
@@ -1536,10 +1542,10 @@
         "state": "future"
     },
     "abcsex.dk": {
-        "epoch": 1598824800.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630360800.0,
+        "expiration_date": "31-aug-2021",
         "server": "whois.dk-hostmaster.dk",
-        "state": "past"
+        "state": "future"
     },
     "abctoppictures.net": {
         "epoch": 1629496800.0,
@@ -1694,10 +1700,10 @@
         "state": "future"
     },
     "acrowiswhite.com": {
-        "epoch": 1600552800.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632088800.0,
+        "expiration_date": "20-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "actionmobilemarine.net": {
         "epoch": 1600898400.0,
@@ -1988,8 +1994,9 @@
         "state": "future"
     },
     "aljassarengineering.com": {
-        "epoch": 1600725600.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632261600.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "all4invest.info": {
@@ -2451,8 +2458,9 @@
         "state": "future"
     },
     "back.dog": {
-        "epoch": 1600725600.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632261600.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.nic.dog",
         "state": "future"
     },
     "backalleyblowjobs.com": {
@@ -3508,10 +3516,10 @@
         "state": "future"
     },
     "idrct.com": {
-        "epoch": 1600552800.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632088800.0,
+        "expiration_date": "20-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "idvipteam.com": {
         "epoch": 1620165600.0,
