@@ -14,6 +14,13 @@
             "last_retested_at_iso": "2020-09-10T14:49:52.995313",
             "status": "INACTIVE"
         },
+        "156002.com": {
+            "included_at_epoch": 1600952398.333071,
+            "included_at_iso": "2020-09-24T14:59:58.333071",
+            "last_retested_at_epoch": 1600952398.333071,
+            "last_retested_at_iso": "2020-09-24T14:59:58.333071",
+            "status": "INACTIVE"
+        },
         "17990.vicp.net": {
             "included_at_epoch": 1599230854.033397,
             "included_at_iso": "2020-09-04T16:47:34.033397",
@@ -40,6 +47,13 @@
             "included_at_iso": "2020-09-22T14:55:52.520231",
             "last_retested_at_epoch": 1600779352.520231,
             "last_retested_at_iso": "2020-09-22T14:55:52.520231",
+            "status": "INACTIVE"
+        },
+        "account.maximus.co": {
+            "included_at_epoch": 1600952398.747918,
+            "included_at_iso": "2020-09-24T14:59:58.747918",
+            "last_retested_at_epoch": 1600952398.747918,
+            "last_retested_at_iso": "2020-09-24T14:59:58.747918",
             "status": "INACTIVE"
         },
         "activecampaign.dreamhosters.com": {
