@@ -971,8 +971,9 @@
         "state": "future"
     },
     "50centstreetkingimmortal.com": {
-        "epoch": 1600984800.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1608328800.0,
+        "expiration_date": "19-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "50h6v79p.top": {
@@ -2003,10 +2004,10 @@
         "state": "future"
     },
     "all4invest.info": {
-        "epoch": 1600898400.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632434400.0,
+        "expiration_date": "24-sep-2021",
         "server": "whois.afilias.net",
-        "state": "past"
+        "state": "future"
     },
     "all4invest.ru": {
         "epoch": 1575324000.0,
@@ -2821,8 +2822,9 @@
         "state": "future"
     },
     "espritensemble.com": {
-        "epoch": 1600984800.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632520800.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "etemis.com": {
@@ -3513,7 +3515,8 @@
     "idolhairsalon.com": {
         "epoch": 1601071200.0,
         "expiration_date": "26-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "idolight.net": {
         "epoch": 1603576800.0,
