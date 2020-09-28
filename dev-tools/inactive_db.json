@@ -77,13 +77,6 @@
             "last_retested_at_iso": "2020-09-26T14:58:41.257254",
             "status": "INACTIVE"
         },
-        "analytics.cliqz.com": {
-            "included_at_epoch": 1598712241.488603,
-            "included_at_iso": "2020-08-29T16:44:01.488603",
-            "last_retested_at_epoch": 1599230862.793891,
-            "last_retested_at_iso": "2020-09-04T16:47:42.793891",
-            "status": "INACTIVE"
-        },
         "cookingyourspanish.com": {
             "included_at_epoch": 1600606455.266486,
             "included_at_iso": "2020-09-20T14:54:15.266486",

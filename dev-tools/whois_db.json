@@ -91,8 +91,9 @@
         "state": "past"
     },
     "09zyy.com": {
-        "epoch": 1601157600.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1607292000.0,
+        "expiration_date": "07-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "0azx1.com": {
@@ -1062,8 +1063,9 @@
         "state": "future"
     },
     "6000518.com": {
-        "epoch": 1601157600.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632693600.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "600co.info": {
@@ -2398,8 +2400,9 @@
         "state": "future"
     },
     "avixxx.com": {
-        "epoch": 1601157600.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1607983200.0,
+        "expiration_date": "15-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "avkzarabotok.com": {
@@ -2942,7 +2945,8 @@
     "evil69.com": {
         "epoch": 1601244000.0,
         "expiration_date": "28-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "evile.co.uk": {
         "epoch": 1630965600.0,
@@ -3187,8 +3191,9 @@
         "state": "future"
     },
     "greatamericansexdiet.com": {
-        "epoch": 1601244000.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632780000.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "greatest-store.com": {
@@ -3513,10 +3518,10 @@
         "state": "future"
     },
     "idolhairsalon.com": {
-        "epoch": 1601071200.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632607200.0,
+        "expiration_date": "26-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "idolight.net": {
         "epoch": 1603576800.0,
