@@ -605,7 +605,8 @@
     "2gay.net": {
         "epoch": 1601416800.0,
         "expiration_date": "30-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "2girls1cumshot.com": {
         "epoch": 1601589600.0,
@@ -663,8 +664,9 @@
         "state": "future"
     },
     "2o34.com": {
-        "epoch": 1601330400.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1625608800.0,
+        "expiration_date": "07-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2p9fyvx.com": {
@@ -1869,8 +1871,9 @@
         "state": "future"
     },
     "alberguecasaanita.com": {
-        "epoch": 1601416800.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1608156000.0,
+        "expiration_date": "17-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alblux.com": {
@@ -2625,7 +2628,8 @@
     "com-reports.com": {
         "epoch": 1601416800.0,
         "expiration_date": "30-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "communisave.co.za": {
         "epoch": 1625522400.0,
@@ -2943,10 +2947,10 @@
         "state": "future"
     },
     "evil69.com": {
-        "epoch": 1601244000.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632780000.0,
+        "expiration_date": "28-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "evile.co.uk": {
         "epoch": 1630965600.0,
@@ -3056,8 +3060,9 @@
         "state": "future"
     },
     "freehostservers.com": {
-        "epoch": 1601330400.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1608156000.0,
+        "expiration_date": "17-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freeindiangals.com": {
