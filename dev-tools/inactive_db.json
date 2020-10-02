@@ -77,6 +77,13 @@
             "last_retested_at_iso": "2020-09-26T14:58:41.257254",
             "status": "INACTIVE"
         },
+        "amateursexvideo.de": {
+            "included_at_epoch": 1601643938.534123,
+            "included_at_iso": "2020-10-02T15:05:38.534123",
+            "last_retested_at_epoch": 1601643938.534123,
+            "last_retested_at_iso": "2020-10-02T15:05:38.534123",
+            "status": "INACTIVE"
+        },
         "anti-virus-removal.info": {
             "included_at_epoch": 1601471004.113315,
             "included_at_iso": "2020-09-30T15:03:24.113315",
