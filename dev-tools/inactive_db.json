@@ -1,12 +1,5 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
-        "000owamail0.000webhostapp.com": {
-            "included_at_epoch": 1599396440.70893,
-            "included_at_iso": "2020-09-06T14:47:20.708930",
-            "last_retested_at_epoch": 1599396440.70893,
-            "last_retested_at_iso": "2020-09-06T14:47:20.708930",
-            "status": "INACTIVE"
-        },
         "0pros.com": {
             "included_at_epoch": 1599742192.995313,
             "included_at_iso": "2020-09-10T14:49:52.995313",
@@ -19,20 +12,6 @@
             "included_at_iso": "2020-09-24T14:59:58.333071",
             "last_retested_at_epoch": 1600952398.333071,
             "last_retested_at_iso": "2020-09-24T14:59:58.333071",
-            "status": "INACTIVE"
-        },
-        "17990.vicp.net": {
-            "included_at_epoch": 1599230854.033397,
-            "included_at_iso": "2020-09-04T16:47:34.033397",
-            "last_retested_at_epoch": 1599230854.033397,
-            "last_retested_at_iso": "2020-09-04T16:47:34.033397",
-            "status": "INACTIVE"
-        },
-        "25cat.tk": {
-            "included_at_epoch": 1599396440.871256,
-            "included_at_iso": "2020-09-06T14:47:20.871256",
-            "last_retested_at_epoch": 1599396440.871256,
-            "last_retested_at_iso": "2020-09-06T14:47:20.871256",
             "status": "INACTIVE"
         },
         "267932.com": {
@@ -124,13 +103,6 @@
             "included_at_iso": "2020-09-22T14:55:54.139102",
             "last_retested_at_epoch": 1600779354.139102,
             "last_retested_at_iso": "2020-09-22T14:55:54.139102",
-            "status": "INACTIVE"
-        },
-        "kabey.000webhostapp.com": {
-            "included_at_epoch": 1599396442.021535,
-            "included_at_iso": "2020-09-06T14:47:22.021535",
-            "last_retested_at_epoch": 1599396442.021535,
-            "last_retested_at_iso": "2020-09-06T14:47:22.021535",
             "status": "INACTIVE"
         },
         "myblogregistercm.tk": {
