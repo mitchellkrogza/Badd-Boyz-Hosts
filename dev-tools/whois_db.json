@@ -249,7 +249,8 @@
     "123sex.biz": {
         "epoch": 1601935200.0,
         "expiration_date": "06-oct-2020",
-        "state": "future"
+        "server": "whois.nic.biz",
+        "state": "past"
     },
     "12bet.com": {
         "epoch": 1611352800.0,
@@ -865,8 +866,9 @@
         "state": "future"
     },
     "4bqs.com": {
-        "epoch": 1601935200.0,
-        "expiration_date": "06-oct-2020",
+        "epoch": 1633471200.0,
+        "expiration_date": "06-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4cock.com": {
@@ -1128,7 +1130,8 @@
     "6amateure.net": {
         "epoch": 1601935200.0,
         "expiration_date": "06-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "6e.co.kr": {
         "epoch": 1618956000.0,
@@ -1339,8 +1342,9 @@
         "state": "future"
     },
     "9ics.cn": {
-        "epoch": 1601848800.0,
-        "expiration_date": "05-oct-2020",
+        "epoch": 1633384800.0,
+        "expiration_date": "05-oct-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "9med.net": {
