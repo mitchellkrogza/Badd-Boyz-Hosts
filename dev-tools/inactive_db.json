@@ -1,12 +1,5 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
-        "0pros.com": {
-            "included_at_epoch": 1599742192.995313,
-            "included_at_iso": "2020-09-10T14:49:52.995313",
-            "last_retested_at_epoch": 1599742192.995313,
-            "last_retested_at_iso": "2020-09-10T14:49:52.995313",
-            "status": "INACTIVE"
-        },
         "156002.com": {
             "included_at_epoch": 1600952398.333071,
             "included_at_iso": "2020-09-24T14:59:58.333071",
@@ -82,20 +75,6 @@
             "included_at_iso": "2020-09-16T14:52:21.448468",
             "last_retested_at_epoch": 1600260741.448468,
             "last_retested_at_iso": "2020-09-16T14:52:21.448468",
-            "status": "INACTIVE"
-        },
-        "ici-sexe.tk": {
-            "included_at_epoch": 1599742194.203484,
-            "included_at_iso": "2020-09-10T14:49:54.203484",
-            "last_retested_at_epoch": 1599742194.203484,
-            "last_retested_at_iso": "2020-09-10T14:49:54.203484",
-            "status": "INACTIVE"
-        },
-        "imdaginea.cf": {
-            "included_at_epoch": 1599742194.253964,
-            "included_at_iso": "2020-09-10T14:49:54.253964",
-            "last_retested_at_epoch": 1599742194.253964,
-            "last_retested_at_iso": "2020-09-10T14:49:54.253964",
             "status": "INACTIVE"
         },
         "index.buckshost.com": {

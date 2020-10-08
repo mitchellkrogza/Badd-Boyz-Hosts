@@ -247,10 +247,10 @@
         "state": "future"
     },
     "123sex.biz": {
-        "epoch": 1601935200.0,
-        "expiration_date": "06-oct-2020",
+        "epoch": 1633471200.0,
+        "expiration_date": "06-oct-2021",
         "server": "whois.nic.biz",
-        "state": "past"
+        "state": "future"
     },
     "12bet.com": {
         "epoch": 1611352800.0,
@@ -917,8 +917,9 @@
         "state": "future"
     },
     "4pp13.com": {
-        "epoch": 1602021600.0,
-        "expiration_date": "07-oct-2020",
+        "epoch": 1633557600.0,
+        "expiration_date": "07-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4pussies.com": {
@@ -1128,10 +1129,10 @@
         "state": "future"
     },
     "6amateure.net": {
-        "epoch": 1601935200.0,
-        "expiration_date": "06-oct-2020",
+        "epoch": 1633471200.0,
+        "expiration_date": "06-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "6e.co.kr": {
         "epoch": 1618956000.0,
@@ -2156,8 +2157,9 @@
         "state": "future"
     },
     "amatrices-sexy.fr": {
-        "epoch": 1602108000.0,
-        "expiration_date": "08-oct-2020",
+        "epoch": 1633644000.0,
+        "expiration_date": "08-oct-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "amatueranal.com": {
@@ -2451,7 +2453,8 @@
     "avpayments.com": {
         "epoch": 1602108000.0,
         "expiration_date": "08-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "avramstroy.ru": {
         "epoch": 1612476000.0,
