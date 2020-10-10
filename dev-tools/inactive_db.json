@@ -7,6 +7,13 @@
             "last_retested_at_iso": "2020-09-24T14:59:58.333071",
             "status": "INACTIVE"
         },
+        "247locksmith-tucson.com": {
+            "included_at_epoch": 1602335036.434796,
+            "included_at_iso": "2020-10-10T15:03:56.434796",
+            "last_retested_at_epoch": 1602335036.434796,
+            "last_retested_at_iso": "2020-10-10T15:03:56.434796",
+            "status": "INACTIVE"
+        },
         "267932.com": {
             "included_at_epoch": 1600779352.51807,
             "included_at_iso": "2020-09-22T14:55:52.518070",
@@ -19,6 +26,13 @@
             "included_at_iso": "2020-09-22T14:55:52.520231",
             "last_retested_at_epoch": 1600779352.520231,
             "last_retested_at_iso": "2020-09-22T14:55:52.520231",
+            "status": "INACTIVE"
+        },
+        "aarpadvantages.co": {
+            "included_at_epoch": 1602335036.739222,
+            "included_at_iso": "2020-10-10T15:03:56.739222",
+            "last_retested_at_epoch": 1602335036.739222,
+            "last_retested_at_iso": "2020-10-10T15:03:56.739222",
             "status": "INACTIVE"
         },
         "account.maximus.co": {
