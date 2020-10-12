@@ -881,7 +881,8 @@
     "4ever.cc": {
         "epoch": 1602453600.0,
         "expiration_date": "12-oct-2020",
-        "state": "future"
+        "server": "ccwhois.verisign-grs.com",
+        "state": "past"
     },
     "4girlss.com": {
         "epoch": 1641679200.0,
@@ -1178,10 +1179,10 @@
         "state": "future"
     },
     "791026.com": {
-        "epoch": 1602280800.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633816800.0,
+        "expiration_date": "10-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "7cfmnf.top": {
         "epoch": 1602799200.0,
@@ -1848,8 +1849,9 @@
         "state": "future"
     },
     "alamosupply.com": {
-        "epoch": 1602453600.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1609279200.0,
+        "expiration_date": "30-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alamuk.com": {
@@ -2697,10 +2699,10 @@
         "state": "future"
     },
     "computernetworksonline.com": {
-        "epoch": 1602280800.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633816800.0,
+        "expiration_date": "10-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "comsalud360.com": {
         "epoch": 1634767200.0,
@@ -2918,8 +2920,9 @@
         "state": "future"
     },
     "eurospanker.com": {
-        "epoch": 1602367200.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633903200.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "euuaa.com": {
@@ -3362,7 +3365,8 @@
     "hustlervip.net": {
         "epoch": 1602453600.0,
         "expiration_date": "12-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "hut1.ru": {
         "epoch": 1612648800.0,
