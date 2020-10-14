@@ -879,10 +879,10 @@
         "state": "future"
     },
     "4ever.cc": {
-        "epoch": 1602453600.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633989600.0,
+        "expiration_date": "12-oct-2021",
         "server": "ccwhois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "4girlss.com": {
         "epoch": 1641679200.0,
@@ -1916,8 +1916,9 @@
         "state": "future"
     },
     "alexandria-locksmithservice.com": {
-        "epoch": 1602540000.0,
-        "expiration_date": "13-oct-2020",
+        "epoch": 1634076000.0,
+        "expiration_date": "13-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alexine.net": {
@@ -3111,8 +3112,9 @@
         "state": "future"
     },
     "glopages.ru": {
-        "epoch": 1602540000.0,
-        "expiration_date": "13-oct-2020",
+        "epoch": 1634076000.0,
+        "expiration_date": "13-oct-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "go-gal.com": {
@@ -3363,10 +3365,10 @@
         "state": "past"
     },
     "hustlervip.net": {
-        "epoch": 1602453600.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633989600.0,
+        "expiration_date": "12-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "hut1.ru": {
         "epoch": 1612648800.0,
