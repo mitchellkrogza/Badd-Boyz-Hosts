@@ -2814,8 +2814,9 @@
         "state": "future"
     },
     "cs-gra.pl": {
-        "epoch": 1602799200.0,
-        "expiration_date": "16-oct-2020",
+        "epoch": 1634335200.0,
+        "expiration_date": "16-oct-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "cs1g.com": {

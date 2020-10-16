@@ -28,6 +28,13 @@
             "last_retested_at_iso": "2020-09-22T14:55:52.520231",
             "status": "INACTIVE"
         },
+        "7cfmnf.top": {
+            "included_at_epoch": 1602853750.836647,
+            "included_at_iso": "2020-10-16T15:09:10.836647",
+            "last_retested_at_epoch": 1602853750.836647,
+            "last_retested_at_iso": "2020-10-16T15:09:10.836647",
+            "status": "INACTIVE"
+        },
         "aarpadvantages.co": {
             "included_at_epoch": 1602335036.739222,
             "included_at_iso": "2020-10-10T15:03:56.739222",
@@ -40,13 +47,6 @@
             "included_at_iso": "2020-09-24T14:59:58.747918",
             "last_retested_at_epoch": 1600952398.747918,
             "last_retested_at_iso": "2020-09-24T14:59:58.747918",
-            "status": "INACTIVE"
-        },
-        "activecampaign.dreamhosters.com": {
-            "included_at_epoch": 1600433619.552727,
-            "included_at_iso": "2020-09-18T14:53:39.552727",
-            "last_retested_at_epoch": 1600433619.552727,
-            "last_retested_at_iso": "2020-09-18T14:53:39.552727",
             "status": "INACTIVE"
         },
         "allboys.buckshost.com": {
