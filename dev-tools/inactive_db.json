@@ -77,13 +77,6 @@
             "last_retested_at_iso": "2020-09-30T15:03:24.113315",
             "status": "INACTIVE"
         },
-        "cookingyourspanish.com": {
-            "included_at_epoch": 1600606455.266486,
-            "included_at_iso": "2020-09-20T14:54:15.266486",
-            "last_retested_at_epoch": 1600606455.266486,
-            "last_retested_at_iso": "2020-09-20T14:54:15.266486",
-            "status": "INACTIVE"
-        },
         "hvetdfqh.sufx.net": {
             "included_at_epoch": 1602681014.588481,
             "included_at_iso": "2020-10-14T15:10:14.588481",
