@@ -14,20 +14,6 @@
             "last_retested_at_iso": "2020-10-10T15:03:56.434796",
             "status": "INACTIVE"
         },
-        "267932.com": {
-            "included_at_epoch": 1600779352.51807,
-            "included_at_iso": "2020-09-22T14:55:52.518070",
-            "last_retested_at_epoch": 1600779352.51807,
-            "last_retested_at_iso": "2020-09-22T14:55:52.518070",
-            "status": "INACTIVE"
-        },
-        "272351.com": {
-            "included_at_epoch": 1600779352.520231,
-            "included_at_iso": "2020-09-22T14:55:52.520231",
-            "last_retested_at_epoch": 1600779352.520231,
-            "last_retested_at_iso": "2020-09-22T14:55:52.520231",
-            "status": "INACTIVE"
-        },
         "7cfmnf.top": {
             "included_at_epoch": 1602853750.836647,
             "included_at_iso": "2020-10-16T15:09:10.836647",
@@ -47,13 +33,6 @@
             "included_at_iso": "2020-09-24T14:59:58.747918",
             "last_retested_at_epoch": 1600952398.747918,
             "last_retested_at_iso": "2020-09-24T14:59:58.747918",
-            "status": "INACTIVE"
-        },
-        "allboys.buckshost.com": {
-            "included_at_epoch": 1600779353.279195,
-            "included_at_iso": "2020-09-22T14:55:53.279195",
-            "last_retested_at_epoch": 1600779353.279195,
-            "last_retested_at_iso": "2020-09-22T14:55:53.279195",
             "status": "INACTIVE"
         },
         "allbritishescorts.com": {
@@ -77,18 +56,18 @@
             "last_retested_at_iso": "2020-09-30T15:03:24.113315",
             "status": "INACTIVE"
         },
+        "graffcolor.net": {
+            "included_at_epoch": 1603199615.098803,
+            "included_at_iso": "2020-10-20T15:13:35.098803",
+            "last_retested_at_epoch": 1603199615.098803,
+            "last_retested_at_iso": "2020-10-20T15:13:35.098803",
+            "status": "INACTIVE"
+        },
         "hvetdfqh.sufx.net": {
             "included_at_epoch": 1602681014.588481,
             "included_at_iso": "2020-10-14T15:10:14.588481",
             "last_retested_at_epoch": 1602681014.588481,
             "last_retested_at_iso": "2020-10-14T15:10:14.588481",
-            "status": "INACTIVE"
-        },
-        "index.buckshost.com": {
-            "included_at_epoch": 1600779354.139102,
-            "included_at_iso": "2020-09-22T14:55:54.139102",
-            "last_retested_at_epoch": 1600779354.139102,
-            "last_retested_at_iso": "2020-09-22T14:55:54.139102",
             "status": "INACTIVE"
         },
         "myblogregistercm.tk": {

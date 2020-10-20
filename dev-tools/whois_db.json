@@ -112,8 +112,9 @@
         "state": "future"
     },
     "0m4.ru": {
-        "epoch": 1603144800.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634680800.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "0n-line.tv": {
@@ -1034,8 +1035,9 @@
         "state": "future"
     },
     "5finder.com": {
-        "epoch": 1603058400.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634594400.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "5forex.ru": {
@@ -3385,8 +3387,9 @@
         "state": "future"
     },
     "hy-tec.com": {
-        "epoch": 1603058400.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634594400.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hybrid.ru": {
