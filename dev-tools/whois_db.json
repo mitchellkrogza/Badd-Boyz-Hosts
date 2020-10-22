@@ -633,8 +633,9 @@
         "state": "future"
     },
     "2lesbians.net": {
-        "epoch": 1603231200.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634767200.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2manshow.com": {
@@ -689,10 +690,10 @@
         "state": "future"
     },
     "2step-garage.co.uk": {
-        "epoch": 1599861600.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631397600.0,
+        "expiration_date": "12-sep-2021",
         "server": "whois.nic.uk",
-        "state": "past"
+        "state": "future"
     },
     "2ydian.com": {
         "epoch": 1605132000.0,
@@ -1230,7 +1231,8 @@
     "7y7.us": {
         "epoch": 1603231200.0,
         "expiration_date": "21-oct-2020",
-        "state": "future"
+        "server": "whois.nic.us",
+        "state": "past"
     },
     "8090cpa.com": {
         "epoch": 1616104800.0,
@@ -1549,8 +1551,9 @@
         "state": "future"
     },
     "abbanreddy.com": {
-        "epoch": 1603231200.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634767200.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "abbeyxxx.com": {
@@ -2361,8 +2364,9 @@
         "state": "future"
     },
     "animadulte.com": {
-        "epoch": 1603231200.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1608933600.0,
+        "expiration_date": "26-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "animal-drawings.com": {
@@ -3112,8 +3116,9 @@
         "state": "future"
     },
     "globusdate.com": {
-        "epoch": 1603231200.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634767200.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "glopages.ru": {

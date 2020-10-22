@@ -1,12 +1,5 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
-        "156002.com": {
-            "included_at_epoch": 1600952398.333071,
-            "included_at_iso": "2020-09-24T14:59:58.333071",
-            "last_retested_at_epoch": 1600952398.333071,
-            "last_retested_at_iso": "2020-09-24T14:59:58.333071",
-            "status": "INACTIVE"
-        },
         "247locksmith-tucson.com": {
             "included_at_epoch": 1602335036.434796,
             "included_at_iso": "2020-10-10T15:03:56.434796",
@@ -26,13 +19,6 @@
             "included_at_iso": "2020-10-10T15:03:56.739222",
             "last_retested_at_epoch": 1602335036.739222,
             "last_retested_at_iso": "2020-10-10T15:03:56.739222",
-            "status": "INACTIVE"
-        },
-        "account.maximus.co": {
-            "included_at_epoch": 1600952398.747918,
-            "included_at_iso": "2020-09-24T14:59:58.747918",
-            "last_retested_at_epoch": 1600952398.747918,
-            "last_retested_at_iso": "2020-09-24T14:59:58.747918",
             "status": "INACTIVE"
         },
         "allbritishescorts.com": {
@@ -68,6 +54,13 @@
             "included_at_iso": "2020-10-14T15:10:14.588481",
             "last_retested_at_epoch": 1602681014.588481,
             "last_retested_at_iso": "2020-10-14T15:10:14.588481",
+            "status": "INACTIVE"
+        },
+        "ideationary.com": {
+            "included_at_epoch": 1603374473.890076,
+            "included_at_iso": "2020-10-22T15:47:53.890076",
+            "last_retested_at_epoch": 1603374473.890076,
+            "last_retested_at_iso": "2020-10-22T15:47:53.890076",
             "status": "INACTIVE"
         },
         "myblogregistercm.tk": {
