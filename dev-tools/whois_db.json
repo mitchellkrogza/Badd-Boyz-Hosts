@@ -402,8 +402,9 @@
         "state": "future"
     },
     "19blog.com": {
-        "epoch": 1603576800.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635112800.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1adult.com": {
@@ -667,7 +668,8 @@
     "2n2qlh5hqcwrvo.net": {
         "epoch": 1603663200.0,
         "expiration_date": "26-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "2o34.com": {
         "epoch": 1625608800.0,
@@ -3578,8 +3580,9 @@
         "state": "future"
     },
     "idolight.net": {
-        "epoch": 1603576800.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635112800.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "idrct.com": {

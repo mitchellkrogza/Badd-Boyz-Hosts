@@ -1,5 +1,19 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
+        "123ero.nl": {
+            "included_at_epoch": 1603720633.131843,
+            "included_at_iso": "2020-10-26T15:57:13.131843",
+            "last_retested_at_epoch": 1603720633.131843,
+            "last_retested_at_iso": "2020-10-26T15:57:13.131843",
+            "status": "INACTIVE"
+        },
+        "1hour.info": {
+            "included_at_epoch": 1603720633.204214,
+            "included_at_iso": "2020-10-26T15:57:13.204214",
+            "last_retested_at_epoch": 1603720633.204214,
+            "last_retested_at_iso": "2020-10-26T15:57:13.204214",
+            "status": "INACTIVE"
+        },
         "247locksmith-tucson.com": {
             "included_at_epoch": 1602335036.434796,
             "included_at_iso": "2020-10-10T15:03:56.434796",
