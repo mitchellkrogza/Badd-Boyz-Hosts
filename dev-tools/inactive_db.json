@@ -42,13 +42,6 @@
             "last_retested_at_iso": "2020-10-02T15:05:38.534123",
             "status": "INACTIVE"
         },
-        "anti-virus-removal.info": {
-            "included_at_epoch": 1601471004.113315,
-            "included_at_iso": "2020-09-30T15:03:24.113315",
-            "last_retested_at_epoch": 1601471004.113315,
-            "last_retested_at_iso": "2020-09-30T15:03:24.113315",
-            "status": "INACTIVE"
-        },
         "cineitalia.top": {
             "included_at_epoch": 1603545260.87124,
             "included_at_iso": "2020-10-24T15:14:20.871240",
