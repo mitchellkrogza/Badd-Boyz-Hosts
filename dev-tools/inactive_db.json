@@ -35,13 +35,6 @@
             "last_retested_at_iso": "2020-10-10T15:03:56.739222",
             "status": "INACTIVE"
         },
-        "amateursexvideo.de": {
-            "included_at_epoch": 1601643938.534123,
-            "included_at_iso": "2020-10-02T15:05:38.534123",
-            "last_retested_at_epoch": 1601643938.534123,
-            "last_retested_at_iso": "2020-10-02T15:05:38.534123",
-            "status": "INACTIVE"
-        },
         "cineitalia.top": {
             "included_at_epoch": 1603545260.87124,
             "included_at_iso": "2020-10-24T15:14:20.871240",

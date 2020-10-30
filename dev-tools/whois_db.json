@@ -980,8 +980,9 @@
         "state": "future"
     },
     "4xporn.com": {
-        "epoch": 1604008800.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1610920800.0,
+        "expiration_date": "18-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4youcom.com": {
@@ -1293,8 +1294,9 @@
         "state": "future"
     },
     "8si.ru": {
-        "epoch": 1604008800.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635544800.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "8streams.com": {
@@ -2009,7 +2011,8 @@
     "aliecspres.com": {
         "epoch": 1604008800.0,
         "expiration_date": "30-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "alif-ba-ta.com": {
         "epoch": 1633730400.0,
@@ -3078,10 +3081,10 @@
         "state": "future"
     },
     "freegayporn.biz": {
-        "epoch": 1599948000.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631484000.0,
+        "expiration_date": "13-sep-2021",
         "server": "whois.nic.biz",
-        "state": "past"
+        "state": "future"
     },
     "freehanbam.net": {
         "epoch": 1619474400.0,
@@ -3157,8 +3160,9 @@
         "state": "future"
     },
     "gobusinessloan.com": {
-        "epoch": 1603922400.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635458400.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gocitytext.com": {
