@@ -348,8 +348,9 @@
         "state": "future"
     },
     "17youzi.com": {
-        "epoch": 1604095200.0,
-        "expiration_date": "31-oct-2020",
+        "epoch": 1635631200.0,
+        "expiration_date": "31-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "18744.com": {
@@ -1020,7 +1021,8 @@
     "529collegesaving.com": {
         "epoch": 1604181600.0,
         "expiration_date": "01-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "52djcy.com": {
         "epoch": 1613080800.0,
@@ -2001,7 +2003,8 @@
     "alibestsale.com": {
         "epoch": 1604181600.0,
         "expiration_date": "01-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "aliclonepro.xyz": {
         "epoch": 1623880800.0,
@@ -2009,10 +2012,10 @@
         "state": "future"
     },
     "aliecspres.com": {
-        "epoch": 1604008800.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635544800.0,
+        "expiration_date": "30-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "alif-ba-ta.com": {
         "epoch": 1633730400.0,
@@ -2633,8 +2636,9 @@
         "state": "future"
     },
     "cinema3satu.com": {
-        "epoch": 1604095200.0,
-        "expiration_date": "31-oct-2020",
+        "epoch": 1635631200.0,
+        "expiration_date": "31-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cinemabio.com": {
@@ -3556,8 +3560,9 @@
         "state": "future"
     },
     "idecoideas.com": {
-        "epoch": 1604181600.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1611007200.0,
+        "expiration_date": "19-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ideibiznesa2015.ru": {
