@@ -663,8 +663,9 @@
         "state": "future"
     },
     "2mycomputer.com": {
-        "epoch": 1604268000.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635804000.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2n2qlh5hqcwrvo.net": {
@@ -1019,10 +1020,10 @@
         "state": "future"
     },
     "529collegesaving.com": {
-        "epoch": 1604181600.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635717600.0,
+        "expiration_date": "01-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "52djcy.com": {
         "epoch": 1613080800.0,
@@ -1095,7 +1096,8 @@
     "600co.info": {
         "epoch": 1604268000.0,
         "expiration_date": "02-nov-2020",
-        "state": "future"
+        "server": "whois.afilias.net",
+        "state": "past"
     },
     "60secpanic.com": {
         "epoch": 1632088800.0,
@@ -2001,10 +2003,10 @@
         "state": "future"
     },
     "alibestsale.com": {
-        "epoch": 1604181600.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635717600.0,
+        "expiration_date": "01-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "aliclonepro.xyz": {
         "epoch": 1623880800.0,
@@ -3181,8 +3183,9 @@
         "state": "future"
     },
     "godrix.com": {
-        "epoch": 1604354400.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1635890400.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "godsadvice.com": {
@@ -3582,8 +3585,9 @@
         "state": "future"
     },
     "idolax.com": {
-        "epoch": 1604268000.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635804000.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "idolhairsalon.com": {
