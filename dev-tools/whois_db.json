@@ -709,7 +709,8 @@
     "3-dauto.com": {
         "epoch": 1604527200.0,
         "expiration_date": "05-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "3-gay.com": {
         "epoch": 1608415200.0,
@@ -789,8 +790,9 @@
         "state": "future"
     },
     "3dcgfx.net": {
-        "epoch": 1604440800.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1623967200.0,
+        "expiration_date": "18-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "3dpassport.com": {
@@ -1543,8 +1545,9 @@
         "state": "past"
     },
     "abacusnet.info": {
-        "epoch": 1604527200.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1699135200.0,
+        "expiration_date": "05-nov-2023",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "abacuspresents.com": {
@@ -2162,8 +2165,9 @@
         "state": "future"
     },
     "amateurspain.com": {
-        "epoch": 1604527200.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636063200.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "amateurtour.biz": {
@@ -2215,7 +2219,8 @@
     "ampower.me": {
         "epoch": 1604527200.0,
         "expiration_date": "05-nov-2020",
-        "state": "future"
+        "server": "whois.nic.me",
+        "state": "past"
     },
     "amt-k.ru": {
         "epoch": 1614981600.0,
@@ -2320,8 +2325,9 @@
         "state": "future"
     },
     "andrewrobertsllc.info": {
-        "epoch": 1604440800.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1699048800.0,
+        "expiration_date": "04-nov-2023",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "android-style.com": {
