@@ -14,25 +14,11 @@
             "last_retested_at_iso": "2020-10-26T15:57:13.204214",
             "status": "INACTIVE"
         },
-        "247locksmith-tucson.com": {
-            "included_at_epoch": 1602335036.434796,
-            "included_at_iso": "2020-10-10T15:03:56.434796",
-            "last_retested_at_epoch": 1602335036.434796,
-            "last_retested_at_iso": "2020-10-10T15:03:56.434796",
-            "status": "INACTIVE"
-        },
         "7cfmnf.top": {
             "included_at_epoch": 1602853750.836647,
             "included_at_iso": "2020-10-16T15:09:10.836647",
             "last_retested_at_epoch": 1602853750.836647,
             "last_retested_at_iso": "2020-10-16T15:09:10.836647",
-            "status": "INACTIVE"
-        },
-        "aarpadvantages.co": {
-            "included_at_epoch": 1602335036.739222,
-            "included_at_iso": "2020-10-10T15:03:56.739222",
-            "last_retested_at_epoch": 1602335036.739222,
-            "last_retested_at_iso": "2020-10-10T15:03:56.739222",
             "status": "INACTIVE"
         },
         "cineitalia.top": {

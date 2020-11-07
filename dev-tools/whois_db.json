@@ -707,10 +707,10 @@
         "state": "future"
     },
     "3-dauto.com": {
-        "epoch": 1604527200.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636063200.0,
+        "expiration_date": "05-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "3-gay.com": {
         "epoch": 1608415200.0,
@@ -1599,8 +1599,9 @@
         "state": "future"
     },
     "abdl-adult-baby-phone-sex.info": {
-        "epoch": 1604613600.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1625522400.0,
+        "expiration_date": "06-jul-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "abdlphone.com": {
@@ -2097,8 +2098,9 @@
         "state": "future"
     },
     "allcredits.su": {
-        "epoch": 1604613600.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1636149600.0,
+        "expiration_date": "06-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "alldubai.biz": {
@@ -2217,10 +2219,10 @@
         "state": "future"
     },
     "ampower.me": {
-        "epoch": 1604527200.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636063200.0,
+        "expiration_date": "05-nov-2021",
         "server": "whois.nic.me",
-        "state": "past"
+        "state": "future"
     },
     "amt-k.ru": {
         "epoch": 1614981600.0,
