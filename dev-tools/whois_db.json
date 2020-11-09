@@ -215,8 +215,9 @@
         "state": "future"
     },
     "12.com": {
-        "epoch": 1604872800.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1636408800.0,
+        "expiration_date": "09-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "121phonesex.co.uk": {
@@ -1666,8 +1667,9 @@
         "state": "future"
     },
     "ac-transfer.com": {
-        "epoch": 1604872800.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1611698400.0,
+        "expiration_date": "27-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "acads.net": {
@@ -2333,8 +2335,9 @@
         "state": "future"
     },
     "android-style.com": {
-        "epoch": 1604786400.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1611612000.0,
+        "expiration_date": "26-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "android-systems.ru": {
@@ -2714,8 +2717,9 @@
         "state": "future"
     },
     "compitte.com": {
-        "epoch": 1604872800.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1636408800.0,
+        "expiration_date": "09-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "compositefarming.com": {
@@ -3228,8 +3232,9 @@
         "state": "future"
     },
     "gracecore.com": {
-        "epoch": 1604872800.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1699480800.0,
+        "expiration_date": "09-nov-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "graffcolor.net": {
