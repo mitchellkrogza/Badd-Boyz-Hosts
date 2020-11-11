@@ -145,8 +145,9 @@
         "state": "future"
     },
     "10000hai.com": {
-        "epoch": 1605045600.0,
-        "expiration_date": "11-nov-2020",
+        "epoch": 1611525600.0,
+        "expiration_date": "25-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1000cumshots.com": {
@@ -925,7 +926,8 @@
     "4plus11.com": {
         "epoch": 1605045600.0,
         "expiration_date": "11-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "4pornxxx.com": {
         "epoch": 1608501600.0,
@@ -1964,8 +1966,9 @@
         "state": "future"
     },
     "alfa-img.com": {
-        "epoch": 1604959200.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636495200.0,
+        "expiration_date": "10-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alfa-medosmotr.ru": {
@@ -3348,7 +3351,8 @@
     "hugoparisescort.com": {
         "epoch": 1605045600.0,
         "expiration_date": "11-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "hukbo.com": {
         "epoch": 1606687200.0,
