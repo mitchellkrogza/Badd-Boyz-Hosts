@@ -14,13 +14,6 @@
             "last_retested_at_iso": "2020-10-26T15:57:13.204214",
             "status": "INACTIVE"
         },
-        "7cfmnf.top": {
-            "included_at_epoch": 1602853750.836647,
-            "included_at_iso": "2020-10-16T15:09:10.836647",
-            "last_retested_at_epoch": 1602853750.836647,
-            "last_retested_at_iso": "2020-10-16T15:09:10.836647",
-            "status": "INACTIVE"
-        },
         "cineitalia.top": {
             "included_at_epoch": 1603545260.87124,
             "included_at_iso": "2020-10-24T15:14:20.871240",
