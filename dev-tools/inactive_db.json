@@ -1,5 +1,12 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
+        "103.hosting-5.xtream.co.il": {
+            "included_at_epoch": 1605446684.306779,
+            "included_at_iso": "2020-11-15T15:24:44.306779",
+            "last_retested_at_epoch": 1605446684.306779,
+            "last_retested_at_iso": "2020-11-15T15:24:44.306779",
+            "status": "INACTIVE"
+        },
         "123ero.nl": {
             "included_at_epoch": 1603720633.131843,
             "included_at_iso": "2020-10-26T15:57:13.131843",
@@ -12,6 +19,13 @@
             "included_at_iso": "2020-10-26T15:57:13.204214",
             "last_retested_at_epoch": 1603720633.204214,
             "last_retested_at_iso": "2020-10-26T15:57:13.204214",
+            "status": "INACTIVE"
+        },
+        "amplitude-peinture.fr": {
+            "included_at_epoch": 1605446684.981998,
+            "included_at_iso": "2020-11-15T15:24:44.981998",
+            "last_retested_at_epoch": 1605446684.981998,
+            "last_retested_at_iso": "2020-11-15T15:24:44.981998",
             "status": "INACTIVE"
         },
         "cineitalia.top": {
@@ -33,6 +47,13 @@
             "included_at_iso": "2020-10-22T15:47:53.890076",
             "last_retested_at_epoch": 1603374473.890076,
             "last_retested_at_iso": "2020-10-22T15:47:53.890076",
+            "status": "INACTIVE"
+        },
+        "slowmac.tech": {
+            "included_at_epoch": 1605446685.569716,
+            "included_at_iso": "2020-11-15T15:24:45.569716",
+            "last_retested_at_epoch": 1605446685.569716,
+            "last_retested_at_iso": "2020-11-15T15:24:45.569716",
             "status": "INACTIVE"
         }
     }

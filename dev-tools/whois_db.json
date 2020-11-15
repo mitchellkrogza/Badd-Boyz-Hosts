@@ -422,8 +422,9 @@
         "state": "future"
     },
     "1ejaculationinterne.com": {
-        "epoch": 1605391200.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636927200.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1forced.com": {
@@ -1246,10 +1247,10 @@
         "state": "future"
     },
     "7y7.us": {
-        "epoch": 1603231200.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634767200.0,
+        "expiration_date": "21-oct-2021",
         "server": "whois.nic.us",
-        "state": "past"
+        "state": "future"
     },
     "8090cpa.com": {
         "epoch": 1616104800.0,
