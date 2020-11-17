@@ -2544,7 +2544,8 @@
     "backgroundpictures.net": {
         "epoch": 1605564000.0,
         "expiration_date": "17-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "backlink4u.net": {
         "epoch": 1633730400.0,
