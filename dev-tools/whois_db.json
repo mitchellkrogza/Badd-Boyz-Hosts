@@ -1289,8 +1289,9 @@
         "state": "future"
     },
     "8gold.com": {
-        "epoch": 1605736800.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637272800.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8khmer.com": {
@@ -1580,7 +1581,8 @@
     "abbeyxxx.com": {
         "epoch": 1605736800.0,
         "expiration_date": "19-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "abclauncher.com": {
         "epoch": 1700863200.0,
@@ -1739,10 +1741,10 @@
         "state": "future"
     },
     "acpbdf.com.br": {
-        "epoch": 1603490400.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635026400.0,
+        "expiration_date": "24-oct-2021",
         "server": "whois.registro.br",
-        "state": "past"
+        "state": "future"
     },
     "acproyectos.com": {
         "epoch": 1634508000.0,
@@ -1787,8 +1789,9 @@
         "state": "future"
     },
     "actulite.com": {
-        "epoch": 1605736800.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637272800.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ad-logics.com": {
@@ -2082,7 +2085,8 @@
     "allamericanmadetoys.com": {
         "epoch": 1605736800.0,
         "expiration_date": "19-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "allanimehentai.com": {
         "epoch": 1608933600.0,
@@ -2542,10 +2546,10 @@
         "state": "future"
     },
     "backgroundpictures.net": {
-        "epoch": 1605564000.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637100000.0,
+        "expiration_date": "17-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "backlink4u.net": {
         "epoch": 1633730400.0,
@@ -3328,8 +3332,9 @@
         "state": "future"
     },
     "hmuana.com": {
-        "epoch": 1605650400.0,
-        "expiration_date": "18-nov-2020",
+        "epoch": 1616968800.0,
+        "expiration_date": "29-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "huanqiucaijing.cn": {
