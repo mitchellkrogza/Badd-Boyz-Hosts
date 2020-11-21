@@ -42,13 +42,6 @@
             "last_retested_at_iso": "2020-11-15T15:24:44.981998",
             "status": "INACTIVE"
         },
-        "cineitalia.top": {
-            "included_at_epoch": 1603545260.87124,
-            "included_at_iso": "2020-10-24T15:14:20.871240",
-            "last_retested_at_epoch": 1603545260.87124,
-            "last_retested_at_iso": "2020-10-24T15:14:20.871240",
-            "status": "INACTIVE"
-        },
         "slowmac.tech": {
             "included_at_epoch": 1605446685.569716,
             "included_at_iso": "2020-11-15T15:24:45.569716",
