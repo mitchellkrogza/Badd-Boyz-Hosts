@@ -7,20 +7,6 @@
             "last_retested_at_iso": "2020-11-15T15:24:44.306779",
             "status": "INACTIVE"
         },
-        "123ero.nl": {
-            "included_at_epoch": 1603720633.131843,
-            "included_at_iso": "2020-10-26T15:57:13.131843",
-            "last_retested_at_epoch": 1603720633.131843,
-            "last_retested_at_iso": "2020-10-26T15:57:13.131843",
-            "status": "INACTIVE"
-        },
-        "1hour.info": {
-            "included_at_epoch": 1603720633.204214,
-            "included_at_iso": "2020-10-26T15:57:13.204214",
-            "last_retested_at_epoch": 1603720633.204214,
-            "last_retested_at_iso": "2020-10-26T15:57:13.204214",
-            "status": "INACTIVE"
-        },
         "600co.info": {
             "included_at_epoch": 1605621712.663359,
             "included_at_iso": "2020-11-17T16:01:52.663359",
