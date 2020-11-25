@@ -282,7 +282,8 @@
     "12u.info": {
         "epoch": 1606255200.0,
         "expiration_date": "25-nov-2020",
-        "state": "future"
+        "server": "whois.afilias.net",
+        "state": "past"
     },
     "12xhardcore.com": {
         "epoch": 1631656800.0,
@@ -638,8 +639,9 @@
         "state": "future"
     },
     "2kporn.com": {
-        "epoch": 1606168800.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637704800.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2lesbians.net": {
@@ -2457,8 +2459,9 @@
         "state": "future"
     },
     "appyaviator.com": {
-        "epoch": 1606168800.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1612735200.0,
+        "expiration_date": "08-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ashlynnbrookevideos.com": {
@@ -2468,8 +2471,9 @@
         "state": "future"
     },
     "avitocars.ru": {
-        "epoch": 1606168800.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637704800.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "avixxx.com": {
@@ -2593,8 +2597,9 @@
         "state": "future"
     },
     "beamfall.info": {
-        "epoch": 1606255200.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1616018400.0,
+        "expiration_date": "18-mar-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "cialisforsalecialiscostcye.com": {
@@ -3480,8 +3485,9 @@
         "state": "future"
     },
     "hyipbrowser.biz": {
-        "epoch": 1606255200.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637791200.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.nic.biz",
         "state": "future"
     },
     "hyipmanager.in": {
