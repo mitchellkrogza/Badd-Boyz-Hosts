@@ -280,10 +280,10 @@
         "state": "past"
     },
     "12u.info": {
-        "epoch": 1606255200.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637791200.0,
+        "expiration_date": "25-nov-2021",
         "server": "whois.afilias.net",
-        "state": "past"
+        "state": "future"
     },
     "12xhardcore.com": {
         "epoch": 1631656800.0,
@@ -482,8 +482,9 @@
         "state": "future"
     },
     "1unblock.com": {
-        "epoch": 1606341600.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637877600.0,
+        "expiration_date": "26-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1wish.net": {
@@ -538,8 +539,9 @@
         "state": "future"
     },
     "24-xxx.biz": {
-        "epoch": 1606428000.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637964000.0,
+        "expiration_date": "27-nov-2021",
+        "server": "whois.nic.biz",
         "state": "future"
     },
     "24695.com": {
@@ -2845,7 +2847,8 @@
     "cooknfit.com": {
         "epoch": 1606428000.0,
         "expiration_date": "27-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "coolbar.pro": {
         "epoch": 1610488800.0,
