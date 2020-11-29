@@ -1,12 +1,12 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
         "base": {
-            "datetime_iso": "2020-11-19T16:21:13.550130",
-            "hash": "d8c7c538b775fce54157b3ba5d024ea7c485b701bbd7cbf496eb7161"
+            "datetime_iso": "2020-11-29T15:27:10.259968",
+            "hash": "ce75951252b3f3b5d5d76e0629e6e7a2c19ae0f0e9dfda9bbf450052"
         },
         "latest": {
-            "datetime_iso": "2020-11-27T16:00:57.517194",
-            "hash": "d8c7c538b775fce54157b3ba5d024ea7c485b701bbd7cbf496eb7161"
+            "datetime_iso": "2020-11-29T15:27:10.259968",
+            "hash": "ce75951252b3f3b5d5d76e0629e6e7a2c19ae0f0e9dfda9bbf450052"
         },
         "position": 0
     }
