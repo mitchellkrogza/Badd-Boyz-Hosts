@@ -312,8 +312,9 @@
         "state": "future"
     },
     "14b.info": {
-        "epoch": 1606687200.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638223200.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "14teen.com": {
@@ -956,8 +957,9 @@
         "state": "future"
     },
     "4realzed.com": {
-        "epoch": 1606687200.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638223200.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4replicawatch.net": {
@@ -1320,8 +1322,9 @@
         "state": "future"
     },
     "8streams.com": {
-        "epoch": 1606773600.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1645135200.0,
+        "expiration_date": "18-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8ue9q7i.com": {
@@ -2497,10 +2500,10 @@
         "state": "future"
     },
     "avoidaroid.com": {
-        "epoch": 1606600800.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638136800.0,
+        "expiration_date": "29-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "avoidfilter.net": {
         "epoch": 1607983200.0,
@@ -3019,10 +3022,10 @@
         "state": "future"
     },
     "everytalk.tv": {
-        "epoch": 1606600800.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638136800.0,
+        "expiration_date": "29-nov-2021",
         "server": "tvwhois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "everythingisstory.com": {
         "epoch": 1625090400.0,
@@ -3088,8 +3091,9 @@
         "state": "future"
     },
     "family1st.ca": {
-        "epoch": 1606773600.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638309600.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.cira.ca",
         "state": "future"
     },
     "famir.com": {
@@ -3287,8 +3291,9 @@
         "state": "future"
     },
     "gravygirls.com": {
-        "epoch": 1606773600.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638309600.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "great-comics.com": {
@@ -3383,8 +3388,9 @@
         "state": "future"
     },
     "hukbo.com": {
-        "epoch": 1606687200.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638223200.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "humanelydrew.com": {
@@ -3616,8 +3622,9 @@
         "state": "future"
     },
     "ideibiznesa2015.ru": {
-        "epoch": 1606773600.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638309600.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "idkom.com": {
