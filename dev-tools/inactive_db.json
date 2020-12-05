@@ -7,6 +7,13 @@
             "last_retested_at_iso": "2020-11-15T15:24:44.306779",
             "status": "INACTIVE"
         },
+        "123.fluxads.com": {
+            "included_at_epoch": 1607175805.158567,
+            "included_at_iso": "2020-12-05T15:43:25.158567",
+            "last_retested_at_epoch": 1607175805.158567,
+            "last_retested_at_iso": "2020-12-05T15:43:25.158567",
+            "status": "INACTIVE"
+        },
         "600co.info": {
             "included_at_epoch": 1605621712.663359,
             "included_at_iso": "2020-11-17T16:01:52.663359",

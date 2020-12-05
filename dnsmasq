@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2020.12.8458
+### Version: V1.2020.12.8459
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -87,7 +87,6 @@ address=/123any.com/
 address=/123boy.free.fr/
 address=/123branlemoi.free.fr/
 address=/123cha.com/
-address=/123.fluxads.com/
 address=/123kia.free.fr/
 address=/123kuma.com/
 address=/123laceypink.com/
