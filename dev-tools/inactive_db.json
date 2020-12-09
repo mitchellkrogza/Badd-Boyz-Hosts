@@ -1,10 +1,45 @@
 {
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/PULL_REQUESTS/domains.txt": {
+        "012br.com": {
+            "included_at_epoch": 1607524470.18717,
+            "included_at_iso": "2020-12-09T16:34:30.187170",
+            "last_retested_at_epoch": 1607524470.18717,
+            "last_retested_at_iso": "2020-12-09T16:34:30.187170",
+            "status": "INACTIVE"
+        },
+        "013sv.com": {
+            "included_at_epoch": 1607524470.191419,
+            "included_at_iso": "2020-12-09T16:34:30.191419",
+            "last_retested_at_epoch": 1607524470.191419,
+            "last_retested_at_iso": "2020-12-09T16:34:30.191419",
+            "status": "INACTIVE"
+        },
+        "015gf.com": {
+            "included_at_epoch": 1607524470.189961,
+            "included_at_iso": "2020-12-09T16:34:30.189961",
+            "last_retested_at_epoch": 1607524470.189961,
+            "last_retested_at_iso": "2020-12-09T16:34:30.189961",
+            "status": "INACTIVE"
+        },
+        "016ih.com": {
+            "included_at_epoch": 1607524470.193703,
+            "included_at_iso": "2020-12-09T16:34:30.193703",
+            "last_retested_at_epoch": 1607524470.193703,
+            "last_retested_at_iso": "2020-12-09T16:34:30.193703",
+            "status": "INACTIVE"
+        },
         "103.hosting-5.xtream.co.il": {
             "included_at_epoch": 1605446684.306779,
             "included_at_iso": "2020-11-15T15:24:44.306779",
             "last_retested_at_epoch": 1605446684.306779,
             "last_retested_at_iso": "2020-11-15T15:24:44.306779",
+            "status": "INACTIVE"
+        },
+        "11pikachu.ru": {
+            "included_at_epoch": 1607524470.241732,
+            "included_at_iso": "2020-12-09T16:34:30.241732",
+            "last_retested_at_epoch": 1607524470.241732,
+            "last_retested_at_iso": "2020-12-09T16:34:30.241732",
             "status": "INACTIVE"
         },
         "123.fluxads.com": {
@@ -26,6 +61,13 @@
             "included_at_iso": "2020-11-17T16:01:52.679868",
             "last_retested_at_epoch": 1605621712.679868,
             "last_retested_at_iso": "2020-11-17T16:01:52.679868",
+            "status": "INACTIVE"
+        },
+        "amatueranal.com": {
+            "included_at_epoch": 1607524470.843881,
+            "included_at_iso": "2020-12-09T16:34:30.843881",
+            "last_retested_at_epoch": 1607524470.843881,
+            "last_retested_at_iso": "2020-12-09T16:34:30.843881",
             "status": "INACTIVE"
         },
         "amplitude-peinture.fr": {

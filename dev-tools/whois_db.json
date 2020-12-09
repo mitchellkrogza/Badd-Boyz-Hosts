@@ -60,8 +60,9 @@
         "state": "future"
     },
     "017gj.com": {
-        "epoch": 1607378400.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1614722400.0,
+        "expiration_date": "03-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "01apple.com": {
@@ -978,8 +979,9 @@
         "state": "future"
     },
     "4u69.com": {
-        "epoch": 1607378400.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638914400.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4ur.click": {
@@ -1316,8 +1318,9 @@
         "state": "future"
     },
     "8rf.com": {
-        "epoch": 1607464800.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639000800.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8si.ru": {
@@ -1941,8 +1944,9 @@
         "state": "future"
     },
     "alblux.com": {
-        "epoch": 1607464800.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639000800.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alboautotrasportatori.it": {
@@ -2411,8 +2415,9 @@
         "state": "future"
     },
     "angelbetting.com": {
-        "epoch": 1607378400.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638914400.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "angelinfo.com": {
@@ -2565,8 +2570,9 @@
         "state": "future"
     },
     "backalleyblowjobs.com": {
-        "epoch": 1607378400.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638914400.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "backgroundpictures.net": {
@@ -3206,10 +3212,10 @@
         "state": "future"
     },
     "go.biz": {
-        "epoch": 1607119200.0,
-        "expiration_date": "05-dec-2020",
+        "epoch": 1638655200.0,
+        "expiration_date": "05-dec-2021",
         "server": "whois.nic.biz",
-        "state": "past"
+        "state": "future"
     },
     "goawos.com": {
         "epoch": 1612216800.0,
