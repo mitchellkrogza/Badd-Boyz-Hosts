@@ -351,8 +351,9 @@
         "state": "future"
     },
     "17chezhan.com": {
-        "epoch": 1607551200.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639087200.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "17youzi.com": {
@@ -1145,8 +1146,9 @@
         "state": "future"
     },
     "66av.cc": {
-        "epoch": 1607637600.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1617141600.0,
+        "expiration_date": "31-mar-2021",
+        "server": "ccwhois.verisign-grs.com",
         "state": "future"
     },
     "69boysex.com": {
@@ -1688,8 +1690,9 @@
         "state": "future"
     },
     "absolute-live.com": {
-        "epoch": 1607637600.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1630706400.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ac-transfer.com": {
@@ -2970,8 +2973,9 @@
         "state": "future"
     },
     "etisalatebill.net": {
-        "epoch": 1607551200.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639087200.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "etymonline.co": {

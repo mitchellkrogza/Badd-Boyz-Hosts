@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2020.12.8461
+### Version: V1.2020.12.8462
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -689,7 +689,6 @@
 0.0.0.0 eurospanker.com
 0.0.0.0 eurovisions.free.fr
 0.0.0.0 eu-survey.com
-0.0.0.0 euuaa.com
 0.0.0.0 event-tracking.com
 0.0.0.0 everestclick.com
 0.0.0.0 every-day.net

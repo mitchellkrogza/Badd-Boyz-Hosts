@@ -77,6 +77,13 @@
             "last_retested_at_iso": "2020-11-15T15:24:44.981998",
             "status": "INACTIVE"
         },
+        "euuaa.com": {
+            "included_at_epoch": 1607699341.723724,
+            "included_at_iso": "2020-12-11T17:09:01.723724",
+            "last_retested_at_epoch": 1607699341.723724,
+            "last_retested_at_iso": "2020-12-11T17:09:01.723724",
+            "status": "INACTIVE"
+        },
         "keepcolletive.com": {
             "included_at_epoch": 1606486134.172701,
             "included_at_iso": "2020-11-27T16:08:54.172701",
