@@ -98,8 +98,9 @@
         "state": "future"
     },
     "0azx1.com": {
-        "epoch": 1607810400.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639346400.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "0dax.com": {
@@ -120,8 +121,9 @@
         "state": "future"
     },
     "0n-line.tv": {
-        "epoch": 1607724000.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639260000.0,
+        "expiration_date": "12-dec-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "0pros.com": {
@@ -336,8 +338,9 @@
         "state": "future"
     },
     "15x.info": {
-        "epoch": 1607724000.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639260000.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "166f.com": {
@@ -1189,8 +1192,8 @@
         "state": "future"
     },
     "6server.com": {
-        "epoch": 1607810400.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639346400.0,
+        "expiration_date": "13-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3031,8 +3034,9 @@
         "state": "future"
     },
     "every-day.net": {
-        "epoch": 1607724000.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639260000.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "everydresses.com": {
@@ -3513,7 +3517,8 @@
     "hygar.com": {
         "epoch": 1607810400.0,
         "expiration_date": "13-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "hygromycin-b-50mg-ml-solution.com": {
         "epoch": 1616536800.0,

@@ -28,13 +28,6 @@
             "last_retested_at_iso": "2020-12-09T16:34:30.193703",
             "status": "INACTIVE"
         },
-        "103.hosting-5.xtream.co.il": {
-            "included_at_epoch": 1605446684.306779,
-            "included_at_iso": "2020-11-15T15:24:44.306779",
-            "last_retested_at_epoch": 1605446684.306779,
-            "last_retested_at_iso": "2020-11-15T15:24:44.306779",
-            "status": "INACTIVE"
-        },
         "11pikachu.ru": {
             "included_at_epoch": 1607524470.241732,
             "included_at_iso": "2020-12-09T16:34:30.241732",
@@ -70,13 +63,6 @@
             "last_retested_at_iso": "2020-12-09T16:34:30.843881",
             "status": "INACTIVE"
         },
-        "amplitude-peinture.fr": {
-            "included_at_epoch": 1605446684.981998,
-            "included_at_iso": "2020-11-15T15:24:44.981998",
-            "last_retested_at_epoch": 1605446684.981998,
-            "last_retested_at_iso": "2020-11-15T15:24:44.981998",
-            "status": "INACTIVE"
-        },
         "euuaa.com": {
             "included_at_epoch": 1607699341.723724,
             "included_at_iso": "2020-12-11T17:09:01.723724",
@@ -89,13 +75,6 @@
             "included_at_iso": "2020-11-27T16:08:54.172701",
             "last_retested_at_epoch": 1606486134.172701,
             "last_retested_at_iso": "2020-11-27T16:08:54.172701",
-            "status": "INACTIVE"
-        },
-        "slowmac.tech": {
-            "included_at_epoch": 1605446685.569716,
-            "included_at_iso": "2020-11-15T15:24:45.569716",
-            "last_retested_at_epoch": 1605446685.569716,
-            "last_retested_at_iso": "2020-11-15T15:24:45.569716",
             "status": "INACTIVE"
         }
     }
