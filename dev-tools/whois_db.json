@@ -407,8 +407,9 @@
         "state": "future"
     },
     "18teengirl.com": {
-        "epoch": 1607896800.0,
-        "expiration_date": "14-dec-2020",
+        "epoch": 1616796000.0,
+        "expiration_date": "27-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "18xtube.com": {
@@ -1408,8 +1409,9 @@
         "state": "future"
     },
     "9stoneinvestments.com": {
-        "epoch": 1607983200.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639519200.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "9thien.com": {
@@ -1665,7 +1667,8 @@
     "abogadodejacksonville.com": {
         "epoch": 1607983200.0,
         "expiration_date": "15-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "aboomnsaoq.top": {
         "epoch": 1566079200,
@@ -2505,7 +2508,7 @@
         "epoch": 1607983200.0,
         "expiration_date": "15-dec-2020",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "avkzarabotok.com": {
         "epoch": 1565906400,
@@ -2524,8 +2527,9 @@
         "state": "future"
     },
     "avoidfilter.net": {
-        "epoch": 1607983200.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1616450400.0,
+        "expiration_date": "23-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "avon-severozapad.ru": {
@@ -3515,10 +3519,10 @@
         "state": "future"
     },
     "hygar.com": {
-        "epoch": 1607810400.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639346400.0,
+        "expiration_date": "13-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "hygromycin-b-50mg-ml-solution.com": {
         "epoch": 1616536800.0,

@@ -42,20 +42,6 @@
             "last_retested_at_iso": "2020-12-05T15:43:25.158567",
             "status": "INACTIVE"
         },
-        "600co.info": {
-            "included_at_epoch": 1605621712.663359,
-            "included_at_iso": "2020-11-17T16:01:52.663359",
-            "last_retested_at_epoch": 1605621712.663359,
-            "last_retested_at_iso": "2020-11-17T16:01:52.663359",
-            "status": "INACTIVE"
-        },
-        "69proof.com": {
-            "included_at_epoch": 1605621712.679868,
-            "included_at_iso": "2020-11-17T16:01:52.679868",
-            "last_retested_at_epoch": 1605621712.679868,
-            "last_retested_at_iso": "2020-11-17T16:01:52.679868",
-            "status": "INACTIVE"
-        },
         "amatueranal.com": {
             "included_at_epoch": 1607524470.843881,
             "included_at_iso": "2020-12-09T16:34:30.843881",
