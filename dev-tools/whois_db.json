@@ -1665,10 +1665,10 @@
         "state": "future"
     },
     "abogadodejacksonville.com": {
-        "epoch": 1607983200.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639519200.0,
+        "expiration_date": "15-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "aboomnsaoq.top": {
         "epoch": 1566079200,
@@ -1950,7 +1950,7 @@
         "epoch": 1608156000.0,
         "expiration_date": "17-dec-2020",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "alblux.com": {
         "epoch": 1639000800.0,
@@ -2505,10 +2505,10 @@
         "state": "future"
     },
     "avixxx.com": {
-        "epoch": 1607983200.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639519200.0,
+        "expiration_date": "15-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "avkzarabotok.com": {
         "epoch": 1565906400,
@@ -3189,7 +3189,7 @@
         "epoch": 1608156000.0,
         "expiration_date": "17-dec-2020",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "freeindiangals.com": {
         "epoch": 1611266400.0,
@@ -3633,8 +3633,9 @@
         "state": "future"
     },
     "idealtits.net": {
-        "epoch": 1608069600.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639605600.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ideationary.com": {
