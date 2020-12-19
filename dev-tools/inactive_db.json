@@ -56,6 +56,20 @@
             "last_retested_at_iso": "2020-12-11T17:09:01.723724",
             "status": "INACTIVE"
         },
+        "go.game2me.cn": {
+            "included_at_epoch": 1608385612.315652,
+            "included_at_iso": "2020-12-19T15:46:52.315652",
+            "last_retested_at_epoch": 1608385612.315652,
+            "last_retested_at_iso": "2020-12-19T15:46:52.315652",
+            "status": "INACTIVE"
+        },
+        "hunktoons.com": {
+            "included_at_epoch": 1608385612.379338,
+            "included_at_iso": "2020-12-19T15:46:52.379338",
+            "last_retested_at_epoch": 1608385612.379338,
+            "last_retested_at_iso": "2020-12-19T15:46:52.379338",
+            "status": "INACTIVE"
+        },
         "keepcolletive.com": {
             "included_at_epoch": 1606486134.172701,
             "included_at_iso": "2020-11-27T16:08:54.172701",
