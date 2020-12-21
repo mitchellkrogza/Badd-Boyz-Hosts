@@ -66,8 +66,9 @@
         "state": "future"
     },
     "01apple.com": {
-        "epoch": 1608415200.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1671487200.0,
+        "expiration_date": "20-dec-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "03e.info": {
@@ -143,8 +144,9 @@
         "state": "future"
     },
     "1-pregnant-sex.com": {
-        "epoch": 1608501600.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640037600.0,
+        "expiration_date": "21-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "10000hai.com": {
@@ -736,8 +738,9 @@
         "state": "future"
     },
     "3-gay.com": {
-        "epoch": 1608415200.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1645740000.0,
+        "expiration_date": "25-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "3-letter-domains.net": {
@@ -773,10 +776,10 @@
         "state": "future"
     },
     "365locksmithsminneapolis.com": {
-        "epoch": 1608328800.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639864800.0,
+        "expiration_date": "19-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "377baidu.com": {
         "epoch": 1611439200.0,
@@ -931,7 +934,8 @@
     "4inn.pl": {
         "epoch": 1608501600.0,
         "expiration_date": "21-dec-2020",
-        "state": "future"
+        "server": "whois.dns.pl",
+        "state": "past"
     },
     "4love.info": {
         "epoch": 1611698400.0,
@@ -955,8 +959,9 @@
         "state": "future"
     },
     "4pornxxx.com": {
-        "epoch": 1608501600.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640037600.0,
+        "expiration_date": "21-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4pp13.com": {
@@ -1026,10 +1031,10 @@
         "state": "future"
     },
     "50centstreetkingimmortal.com": {
-        "epoch": 1608328800.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639864800.0,
+        "expiration_date": "19-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "50h6v79p.top": {
         "epoch": 1566165600,
@@ -1208,8 +1213,9 @@
         "state": "future"
     },
     "72-news.com": {
-        "epoch": 1608415200.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639951200.0,
+        "expiration_date": "20-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "72impala.com": {
@@ -1635,7 +1641,8 @@
     "abdicted.com": {
         "epoch": 1608501600.0,
         "expiration_date": "21-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "abdl-adult-baby-phone-sex.info": {
         "epoch": 1625522400.0,
