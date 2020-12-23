@@ -858,7 +858,8 @@
     "3lm.info": {
         "epoch": 1608674400.0,
         "expiration_date": "23-dec-2020",
-        "state": "future"
+        "server": "whois.afilias.net",
+        "state": "past"
     },
     "3vig.com": {
         "epoch": 1609624800.0,
@@ -932,10 +933,10 @@
         "state": "future"
     },
     "4inn.pl": {
-        "epoch": 1608501600.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1611093600.0,
+        "expiration_date": "20-jan-2021",
         "server": "whois.dns.pl",
-        "state": "past"
+        "state": "future"
     },
     "4love.info": {
         "epoch": 1611698400.0,
@@ -1639,10 +1640,10 @@
         "state": "future"
     },
     "abdicted.com": {
-        "epoch": 1608501600.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640037600.0,
+        "expiration_date": "21-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "abdl-adult-baby-phone-sex.info": {
         "epoch": 1625522400.0,
@@ -1777,8 +1778,9 @@
         "state": "future"
     },
     "acoustoopticmodulator.com": {
-        "epoch": 1608674400.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640210400.0,
+        "expiration_date": "23-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "acpbdf.com.br": {
