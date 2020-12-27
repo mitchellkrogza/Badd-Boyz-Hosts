@@ -251,8 +251,9 @@
         "state": "future"
     },
     "123laceypink.com": {
-        "epoch": 1609020000.0,
-        "expiration_date": "27-dec-2020",
+        "epoch": 1640556000.0,
+        "expiration_date": "27-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "123locker.com": {
@@ -1376,10 +1377,10 @@
         "state": "future"
     },
     "94cdn.com": {
-        "epoch": 1608847200.0,
-        "expiration_date": "25-dec-2020",
+        "epoch": 1640383200.0,
+        "expiration_date": "25-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "98oi.ru": {
         "epoch": 1613944800.0,
@@ -1451,8 +1452,9 @@
         "state": "future"
     },
     "a2sex.com": {
-        "epoch": 1608933600.0,
-        "expiration_date": "26-dec-2020",
+        "epoch": 1640469600.0,
+        "expiration_date": "26-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a2zgroup.in": {
@@ -1494,7 +1496,8 @@
     "aa81bf391151884adfa3dd677e41f94be1.com": {
         "epoch": 1609020000.0,
         "expiration_date": "27-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "aa9bd78f328a6a41279d0fad0a88df1901.com": {
         "epoch": 1610920800.0,
@@ -1831,8 +1834,9 @@
         "state": "future"
     },
     "actricesmexicanasdesnudas.com": {
-        "epoch": 1609020000.0,
-        "expiration_date": "27-dec-2020",
+        "epoch": 1615845600.0,
+        "expiration_date": "16-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "actulite.com": {
@@ -2138,8 +2142,9 @@
         "state": "future"
     },
     "allanimehentai.com": {
-        "epoch": 1608933600.0,
-        "expiration_date": "26-dec-2020",
+        "epoch": 1615500000.0,
+        "expiration_date": "12-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "allbest-medicalbillingandcoding-deals.com": {
@@ -2456,8 +2461,8 @@
         "state": "future"
     },
     "animadulte.com": {
-        "epoch": 1608933600.0,
-        "expiration_date": "26-dec-2020",
+        "epoch": 1640469600.0,
+        "expiration_date": "26-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },

@@ -42,6 +42,27 @@
             "last_retested_at_iso": "2020-12-05T15:43:25.158567",
             "status": "INACTIVE"
         },
+        "aa08daf7e13b6345e09e92f771507fa5f4.com": {
+            "included_at_epoch": 1609077080.414128,
+            "included_at_iso": "2020-12-27T15:51:20.414128",
+            "last_retested_at_epoch": 1609077080.414128,
+            "last_retested_at_iso": "2020-12-27T15:51:20.414128",
+            "status": "INACTIVE"
+        },
+        "aa14ab57a3339c4064bd9ae6fad7495b5f.com": {
+            "included_at_epoch": 1609077080.418531,
+            "included_at_iso": "2020-12-27T15:51:20.418531",
+            "last_retested_at_epoch": 1609077080.418531,
+            "last_retested_at_iso": "2020-12-27T15:51:20.418531",
+            "status": "INACTIVE"
+        },
+        "aa625d84f1587749c1ab011d6f269f7d64.com": {
+            "included_at_epoch": 1609077080.416911,
+            "included_at_iso": "2020-12-27T15:51:20.416911",
+            "last_retested_at_epoch": 1609077080.416911,
+            "last_retested_at_iso": "2020-12-27T15:51:20.416911",
+            "status": "INACTIVE"
+        },
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "included_at_epoch": 1608904190.112526,
             "included_at_iso": "2020-12-25T15:49:50.112526",
@@ -54,6 +75,13 @@
             "included_at_iso": "2020-12-09T16:34:30.843881",
             "last_retested_at_epoch": 1607524470.843881,
             "last_retested_at_iso": "2020-12-09T16:34:30.843881",
+            "status": "INACTIVE"
+        },
+        "amphorasf.com": {
+            "included_at_epoch": 1609077080.668872,
+            "included_at_iso": "2020-12-27T15:51:20.668872",
+            "last_retested_at_epoch": 1609077080.668872,
+            "last_retested_at_iso": "2020-12-27T15:51:20.668872",
             "status": "INACTIVE"
         },
         "euuaa.com": {
@@ -75,13 +103,6 @@
             "included_at_iso": "2020-12-19T15:46:52.379338",
             "last_retested_at_epoch": 1608385612.379338,
             "last_retested_at_iso": "2020-12-19T15:46:52.379338",
-            "status": "INACTIVE"
-        },
-        "keepcolletive.com": {
-            "included_at_epoch": 1606486134.172701,
-            "included_at_iso": "2020-11-27T16:08:54.172701",
-            "last_retested_at_epoch": 1606486134.172701,
-            "last_retested_at_iso": "2020-11-27T16:08:54.172701",
             "status": "INACTIVE"
         }
     }
