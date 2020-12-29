@@ -42,6 +42,13 @@
             "last_retested_at_iso": "2020-12-05T15:43:25.158567",
             "status": "INACTIVE"
         },
+        "2cam.eu": {
+            "included_at_epoch": 1609250135.403505,
+            "included_at_iso": "2020-12-29T15:55:35.403505",
+            "last_retested_at_epoch": 1609250135.403505,
+            "last_retested_at_iso": "2020-12-29T15:55:35.403505",
+            "status": "INACTIVE"
+        },
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1609077080.414128,
             "included_at_iso": "2020-12-27T15:51:20.414128",
