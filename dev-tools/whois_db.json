@@ -418,8 +418,9 @@
         "state": "future"
     },
     "18xtube.com": {
-        "epoch": 1609365600.0,
-        "expiration_date": "31-dec-2020",
+        "epoch": 1640901600.0,
+        "expiration_date": "31-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "19blog.com": {
@@ -1333,8 +1334,8 @@
         "state": "future"
     },
     "8khmer.com": {
-        "epoch": 1609279200.0,
-        "expiration_date": "30-dec-2020",
+        "epoch": 1640815200.0,
+        "expiration_date": "30-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -1933,8 +1934,8 @@
         "state": "future"
     },
     "alamosupply.com": {
-        "epoch": 1609279200.0,
-        "expiration_date": "30-dec-2020",
+        "epoch": 1640815200.0,
+        "expiration_date": "30-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -2356,8 +2357,9 @@
         "state": "future"
     },
     "analdude.com": {
-        "epoch": 1609365600.0,
-        "expiration_date": "31-dec-2020",
+        "epoch": 1616018400.0,
+        "expiration_date": "18-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "analpics.net": {

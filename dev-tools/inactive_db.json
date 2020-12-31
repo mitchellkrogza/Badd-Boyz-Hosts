@@ -49,6 +49,13 @@
             "last_retested_at_iso": "2020-12-29T15:55:35.403505",
             "status": "INACTIVE"
         },
+        "69lingerie.com": {
+            "included_at_epoch": 1609422828.075736,
+            "included_at_iso": "2020-12-31T15:53:48.075736",
+            "last_retested_at_epoch": 1609422828.075736,
+            "last_retested_at_iso": "2020-12-31T15:53:48.075736",
+            "status": "INACTIVE"
+        },
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "included_at_epoch": 1609077080.414128,
             "included_at_iso": "2020-12-27T15:51:20.414128",
@@ -75,6 +82,13 @@
             "included_at_iso": "2020-12-25T15:49:50.112526",
             "last_retested_at_epoch": 1608904190.112526,
             "last_retested_at_iso": "2020-12-25T15:49:50.112526",
+            "status": "INACTIVE"
+        },
+        "abeggs.com": {
+            "included_at_epoch": 1609422828.222618,
+            "included_at_iso": "2020-12-31T15:53:48.222618",
+            "last_retested_at_epoch": 1609422828.222618,
+            "last_retested_at_iso": "2020-12-31T15:53:48.222618",
             "status": "INACTIVE"
         },
         "amatueranal.com": {
