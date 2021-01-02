@@ -193,8 +193,9 @@
         "state": "future"
     },
     "101flag.ru": {
-        "epoch": 1609452000.0,
-        "expiration_date": "01-jan-2021",
+        "epoch": 1640988000.0,
+        "expiration_date": "01-jan-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "101raccoon.ru": {
@@ -386,8 +387,9 @@
         "state": "future"
     },
     "18hdxxx.com": {
-        "epoch": 1609538400.0,
-        "expiration_date": "02-jan-2021",
+        "epoch": 1641074400.0,
+        "expiration_date": "02-jan-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "18pluscard.com": {
@@ -546,7 +548,8 @@
     "22kkkk.com": {
         "epoch": 1609538400.0,
         "expiration_date": "02-jan-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "24-ak.ru": {
         "epoch": 1631656800.0,
@@ -1445,7 +1448,8 @@
     "a1thumbpost.com": {
         "epoch": 1609538400.0,
         "expiration_date": "02-jan-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "a2btrans.pl": {
         "epoch": 1627941600.0,
@@ -1604,8 +1608,9 @@
         "state": "future"
     },
     "abacuspresents.com": {
-        "epoch": 1609538400.0,
-        "expiration_date": "02-jan-2021",
+        "epoch": 1641074400.0,
+        "expiration_date": "02-jan-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "abadass.com": {
@@ -1765,8 +1770,9 @@
         "state": "future"
     },
     "acneforums.com": {
-        "epoch": 1609452000.0,
-        "expiration_date": "01-jan-2021",
+        "epoch": 1640988000.0,
+        "expiration_date": "01-jan-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "acompanhantesbrasil.com.br": {
@@ -2354,7 +2360,8 @@
     "analcreampie.net": {
         "epoch": 1609538400.0,
         "expiration_date": "02-jan-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "analdude.com": {
         "epoch": 1616018400.0,
@@ -2875,8 +2882,9 @@
         "state": "future"
     },
     "controlsecurity.net": {
-        "epoch": 1609452000.0,
-        "expiration_date": "01-jan-2021",
+        "epoch": 1640988000.0,
+        "expiration_date": "01-jan-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "convertwordtoexcel.com": {
