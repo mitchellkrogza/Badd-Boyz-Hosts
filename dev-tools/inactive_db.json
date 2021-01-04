@@ -84,6 +84,13 @@
             "last_retested_at_iso": "2020-12-31T15:53:48.222618",
             "status": "INACTIVE"
         },
+        "ad-logics.com": {
+            "included_at_epoch": 1609769371.668557,
+            "included_at_iso": "2021-01-04T16:09:31.668557",
+            "last_retested_at_epoch": 1609769371.668557,
+            "last_retested_at_iso": "2021-01-04T16:09:31.668557",
+            "status": "INACTIVE"
+        },
         "allaboutxxx.com": {
             "included_at_epoch": 1609595727.060046,
             "included_at_iso": "2021-01-02T15:55:27.060046",

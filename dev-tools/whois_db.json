@@ -546,10 +546,10 @@
         "state": "future"
     },
     "22kkkk.com": {
-        "epoch": 1609538400.0,
-        "expiration_date": "02-jan-2021",
+        "epoch": 1641074400.0,
+        "expiration_date": "02-jan-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "24-ak.ru": {
         "epoch": 1631656800.0,
@@ -678,8 +678,8 @@
         "state": "future"
     },
     "2mj.pl": {
-        "epoch": 1609711200.0,
-        "expiration_date": "04-jan-2021",
+        "epoch": 1641247200.0,
+        "expiration_date": "04-jan-2022",
         "server": "whois.dns.pl",
         "state": "future"
     },
@@ -809,8 +809,9 @@
         "state": "future"
     },
     "3cloud.net": {
-        "epoch": 1609624800.0,
-        "expiration_date": "03-jan-2021",
+        "epoch": 1641160800.0,
+        "expiration_date": "03-jan-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "3d-daughter-list.info": {
@@ -869,8 +870,9 @@
         "state": "future"
     },
     "3vig.com": {
-        "epoch": 1609624800.0,
-        "expiration_date": "03-jan-2021",
+        "epoch": 1641160800.0,
+        "expiration_date": "03-jan-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "3w24.com": {
@@ -1446,10 +1448,10 @@
         "state": "future"
     },
     "a1thumbpost.com": {
-        "epoch": 1609538400.0,
-        "expiration_date": "02-jan-2021",
+        "epoch": 1641074400.0,
+        "expiration_date": "02-jan-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "a2btrans.pl": {
         "epoch": 1627941600.0,
@@ -2358,10 +2360,10 @@
         "state": "future"
     },
     "analcreampie.net": {
-        "epoch": 1609538400.0,
-        "expiration_date": "02-jan-2021",
+        "epoch": 1641074400.0,
+        "expiration_date": "02-jan-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "analdude.com": {
         "epoch": 1616018400.0,
@@ -2655,8 +2657,9 @@
         "state": "future"
     },
     "backvids.com": {
-        "epoch": 1609624800.0,
-        "expiration_date": "03-jan-2021",
+        "epoch": 1640815200.0,
+        "expiration_date": "30-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bagsonsale.online": {
@@ -3241,8 +3244,9 @@
         "state": "future"
     },
     "globetrotting-culture.ru": {
-        "epoch": 1609711200.0,
-        "expiration_date": "04-jan-2021",
+        "epoch": 1641247200.0,
+        "expiration_date": "04-jan-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "globusdate.com": {
@@ -3388,8 +3392,9 @@
         "state": "future"
     },
     "greatgrace.ru": {
-        "epoch": 1609624800.0,
-        "expiration_date": "03-jan-2021",
+        "epoch": 1641160800.0,
+        "expiration_date": "03-jan-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "greatlakessurveillance.com": {
