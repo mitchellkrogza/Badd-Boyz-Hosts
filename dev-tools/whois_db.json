@@ -2480,8 +2480,9 @@
         "state": "future"
     },
     "animal-drawings.com": {
-        "epoch": 1609884000.0,
-        "expiration_date": "06-jan-2021",
+        "epoch": 1641420000.0,
+        "expiration_date": "06-jan-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "animal36.com": {
@@ -2996,8 +2997,9 @@
         "state": "future"
     },
     "etemis.com": {
-        "epoch": 1609797600.0,
-        "expiration_date": "05-jan-2021",
+        "epoch": 1616536800.0,
+        "expiration_date": "24-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ethan.wang": {
@@ -3490,8 +3492,9 @@
         "state": "future"
     },
     "hunger.xyz": {
-        "epoch": 1609797600.0,
-        "expiration_date": "05-jan-2021",
+        "epoch": 1641333600.0,
+        "expiration_date": "05-jan-2022",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "hungergame.com": {
@@ -4992,8 +4995,9 @@
         "state": "future"
     },
     "prizesforyou.com": {
-        "epoch": 1609797600.0,
-        "expiration_date": "05-jan-2021",
+        "epoch": 1641333600.0,
+        "expiration_date": "05-jan-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "prizesfu74.life": {
