@@ -578,8 +578,9 @@
         "state": "future"
     },
     "247lyrics.com": {
-        "epoch": 1612216800.0,
-        "expiration_date": "02-feb-2021",
+        "epoch": 1643752800.0,
+        "expiration_date": "02-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "24holdem.com": {
@@ -3080,8 +3081,9 @@
         "state": "future"
     },
     "eu-survey.com": {
-        "epoch": 1612216800.0,
-        "expiration_date": "02-feb-2021",
+        "epoch": 1622412000.0,
+        "expiration_date": "31-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "euadoroisso.com.br": {
@@ -3320,8 +3322,9 @@
         "state": "future"
     },
     "goawos.com": {
-        "epoch": 1612216800.0,
-        "expiration_date": "02-feb-2021",
+        "epoch": 1643752800.0,
+        "expiration_date": "02-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gobettygo.com": {
