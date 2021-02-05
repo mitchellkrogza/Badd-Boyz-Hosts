@@ -2,7 +2,8 @@
     "000free.us": {
         "epoch": 1612389600.0,
         "expiration_date": "04-feb-2021",
-        "state": "future"
+        "server": "whois.nic.us",
+        "state": "past"
     },
     "007angels.com": {
         "epoch": 1620943200.0,
@@ -2624,8 +2625,9 @@
         "state": "future"
     },
     "avramstroy.ru": {
-        "epoch": 1612476000.0,
-        "expiration_date": "05-feb-2021",
+        "epoch": 1644012000.0,
+        "expiration_date": "05-feb-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "baby-soft.ca": {
@@ -3504,8 +3506,9 @@
         "state": "future"
     },
     "hugersoft.com": {
-        "epoch": 1612389600.0,
-        "expiration_date": "04-feb-2021",
+        "epoch": 1643925600.0,
+        "expiration_date": "04-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hugoparisescort.com": {
@@ -5063,8 +5066,9 @@
         "state": "future"
     },
     "prizesfu74.life": {
-        "epoch": 1612476000.0,
-        "expiration_date": "05-feb-2021",
+        "epoch": 1644012000.0,
+        "expiration_date": "05-feb-2022",
+        "server": "whois.nic.life",
         "state": "future"
     },
     "saveriopiazza.it": {
