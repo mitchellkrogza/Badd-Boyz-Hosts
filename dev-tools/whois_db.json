@@ -536,8 +536,9 @@
         "state": "future"
     },
     "201mb.com": {
-        "epoch": 1612648800.0,
-        "expiration_date": "07-feb-2021",
+        "epoch": 1644184800.0,
+        "expiration_date": "07-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2020iscoming.info": {
@@ -3588,8 +3589,9 @@
         "state": "future"
     },
     "hut1.ru": {
-        "epoch": 1612648800.0,
-        "expiration_date": "07-feb-2021",
+        "epoch": 1644184800.0,
+        "expiration_date": "07-feb-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "hvd-store.com": {
