@@ -592,8 +592,9 @@
         "state": "future"
     },
     "24tradeplus.com": {
-        "epoch": 1612821600.0,
-        "expiration_date": "09-feb-2021",
+        "epoch": 1633384800.0,
+        "expiration_date": "05-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "24videos.tv": {
@@ -1074,10 +1075,10 @@
         "state": "future"
     },
     "5241.it": {
-        "epoch": 1611439200.0,
-        "expiration_date": "24-jan-2021",
+        "epoch": 1642975200.0,
+        "expiration_date": "24-jan-2022",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "529collegesaving.com": {
         "epoch": 1635717600.0,
@@ -2562,8 +2563,8 @@
         "state": "future"
     },
     "appyaviator.com": {
-        "epoch": 1612735200.0,
-        "expiration_date": "08-feb-2021",
+        "epoch": 1644271200.0,
+        "expiration_date": "08-feb-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
