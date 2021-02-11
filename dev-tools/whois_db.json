@@ -307,8 +307,9 @@
         "state": "future"
     },
     "1314dh.com": {
-        "epoch": 1612994400.0,
-        "expiration_date": "11-feb-2021",
+        "epoch": 1619733600.0,
+        "expiration_date": "30-apr-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1337crew.info": {
@@ -827,8 +828,9 @@
         "state": "future"
     },
     "3d-daughter-list.info": {
-        "epoch": 1612908000.0,
-        "expiration_date": "10-feb-2021",
+        "epoch": 1637964000.0,
+        "expiration_date": "27-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "3dbluerayplayer.com": {
@@ -1424,8 +1426,9 @@
         "state": "future"
     },
     "99topnn.info": {
-        "epoch": 1612908000.0,
-        "expiration_date": "10-feb-2021",
+        "epoch": 1637964000.0,
+        "expiration_date": "27-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "9c51vda.com": {
@@ -2074,8 +2077,9 @@
         "state": "future"
     },
     "alfa-search.com": {
-        "epoch": 1612994400.0,
-        "expiration_date": "11-feb-2021",
+        "epoch": 1619215200.0,
+        "expiration_date": "24-apr-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alfa9.com": {
@@ -2437,7 +2441,8 @@
     "anchorpoint.co.za": {
         "epoch": 1612908000.0,
         "expiration_date": "10-feb-2021",
-        "state": "future"
+        "server": "whois.registry.net.za",
+        "state": "past"
     },
     "andersondiamonds.com": {
         "epoch": 1626213600.0,
@@ -3651,8 +3656,9 @@
         "state": "future"
     },
     "hymen-defloration.info": {
-        "epoch": 1612908000.0,
-        "expiration_date": "10-feb-2021",
+        "epoch": 1637964000.0,
+        "expiration_date": "27-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "hympsvtktvtm.biz": {
