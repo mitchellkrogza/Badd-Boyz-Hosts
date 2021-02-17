@@ -3990,6 +3990,13 @@
             "last_retested_at_iso": "2021-02-17T16:27:33.225316",
             "status": "ACTIVE"
         },
+        "click.envios.buscape.com.br": {
+            "included_at_epoch": 1613580347.969392,
+            "included_at_iso": "2021-02-17T18:45:47.969392",
+            "last_retested_at_epoch": 1613580347.969392,
+            "last_retested_at_iso": "2021-02-17T18:45:47.969392",
+            "status": "ACTIVE"
+        },
         "collector-hpn.cliqz.com": {
             "included_at_epoch": 1612018968.040982,
             "included_at_iso": "2021-01-30T17:02:48.040982",
