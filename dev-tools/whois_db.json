@@ -490,8 +490,9 @@
         "state": "future"
     },
     "1re.info": {
-        "epoch": 1613512800.0,
-        "expiration_date": "17-feb-2021",
+        "epoch": 1620511200.0,
+        "expiration_date": "09-may-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "1stat.ru": {
@@ -2280,8 +2281,9 @@
         "state": "future"
     },
     "amateursexplace.com": {
-        "epoch": 1613426400.0,
-        "expiration_date": "16-feb-2021",
+        "epoch": 1644962400.0,
+        "expiration_date": "16-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "amateurspain.com": {
@@ -2603,7 +2605,8 @@
     "avkzarabotok.info": {
         "epoch": 1613512800.0,
         "expiration_date": "17-feb-2021",
-        "state": "future"
+        "server": "whois.afilias.net",
+        "state": "past"
     },
     "avoidaroid.com": {
         "epoch": 1638136800.0,
@@ -2692,8 +2695,9 @@
         "state": "future"
     },
     "backofficellc.com": {
-        "epoch": 1613512800.0,
-        "expiration_date": "17-feb-2021",
+        "epoch": 1676584800.0,
+        "expiration_date": "17-feb-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "backonline.info": {
@@ -2910,7 +2914,8 @@
     "constructionskills.in": {
         "epoch": 1613512800.0,
         "expiration_date": "17-feb-2021",
-        "state": "future"
+        "server": "whois.registry.in",
+        "state": "past"
     },
     "construfuturo.com.mx": {
         "epoch": 1632348000.0,
