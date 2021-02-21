@@ -3993,8 +3993,8 @@
         "click.envios.buscape.com.br": {
             "included_at_epoch": 1613580347.969392,
             "included_at_iso": "2021-02-17T18:45:47.969392",
-            "last_retested_at_epoch": 1613744429.248856,
-            "last_retested_at_iso": "2021-02-19T16:20:29.248856",
+            "last_retested_at_epoch": 1613917021.173614,
+            "last_retested_at_iso": "2021-02-21T16:17:01.173614",
             "status": "ACTIVE"
         },
         "collector-hpn.cliqz.com": {
