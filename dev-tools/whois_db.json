@@ -667,8 +667,9 @@
         "state": "future"
     },
     "2kata.ru": {
-        "epoch": 1613944800.0,
-        "expiration_date": "22-feb-2021",
+        "epoch": 1645480800.0,
+        "expiration_date": "22-feb-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "2kporn.com": {
@@ -851,8 +852,8 @@
         "state": "future"
     },
     "3dsemulator.info": {
-        "epoch": 1613685600.0,
-        "expiration_date": "19-feb-2021",
+        "epoch": 1645221600.0,
+        "expiration_date": "19-feb-2022",
         "server": "whois.afilias.net",
         "state": "future"
     },
@@ -1415,7 +1416,8 @@
     "98oi.ru": {
         "epoch": 1613944800.0,
         "expiration_date": "22-feb-2021",
-        "state": "future"
+        "server": "whois.tcinet.ru",
+        "state": "past"
     },
     "999webdesign.com": {
         "epoch": 1630965600.0,
@@ -1900,7 +1902,8 @@
     "airmore.co": {
         "epoch": 1613599200.0,
         "expiration_date": "18-feb-2021",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "airnetinfotech.com": {
         "epoch": 1837548000.0,
@@ -2110,8 +2113,9 @@
         "state": "future"
     },
     "algodon.net": {
-        "epoch": 1613599200.0,
-        "expiration_date": "18-feb-2021",
+        "epoch": 1645135200.0,
+        "expiration_date": "18-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alhijaztrvl.com": {
@@ -2298,8 +2302,9 @@
         "state": "future"
     },
     "amateurwifevids.com": {
-        "epoch": 1613858400.0,
-        "expiration_date": "21-feb-2021",
+        "epoch": 1622066400.0,
+        "expiration_date": "27-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "amatorlandia.pl": {
@@ -2395,8 +2400,9 @@
         "state": "future"
     },
     "anal-videos-photos.com": {
-        "epoch": 1613944800.0,
-        "expiration_date": "22-feb-2021",
+        "epoch": 1620252000.0,
+        "expiration_date": "06-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "anal.cx": {
@@ -2603,10 +2609,10 @@
         "state": "past"
     },
     "avkzarabotok.info": {
-        "epoch": 1613512800.0,
-        "expiration_date": "17-feb-2021",
+        "epoch": 1645048800.0,
+        "expiration_date": "17-feb-2022",
         "server": "whois.afilias.net",
-        "state": "past"
+        "state": "future"
     },
     "avoidaroid.com": {
         "epoch": 1638136800.0,
