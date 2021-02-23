@@ -5633,6 +5633,9 @@
         "azimuth.network",
         "tlon.network"
     ],
+    "news": [
+        "noticeable.news"
+    ],
     "nf": [
         "com.nf",
         "net.nf",

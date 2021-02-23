@@ -4536,6 +4536,13 @@
             "last_retested_at_iso": "2021-02-22T04:19:19.407275",
             "status": "ACTIVE"
         },
+        "f.fingerprintjs.com": {
+            "included_at_epoch": 1614081852.164212,
+            "included_at_iso": "2021-02-23T14:04:12.164212",
+            "last_retested_at_epoch": 1614081852.164212,
+            "last_retested_at_iso": "2021-02-23T14:04:12.164212",
+            "status": "ACTIVE"
+        },
         "falcoware.com": {
             "included_at_epoch": 1612018968.958115,
             "included_at_iso": "2021-01-30T17:02:48.958115",
