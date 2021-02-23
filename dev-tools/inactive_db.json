@@ -4606,6 +4606,13 @@
             "last_retested_at_iso": "2021-02-22T04:19:19.533187",
             "status": "ACTIVE"
         },
+        "fingerprintjs.com": {
+            "included_at_epoch": 1614082511.660082,
+            "included_at_iso": "2021-02-23T14:15:11.660082",
+            "last_retested_at_epoch": 1614082511.660082,
+            "last_retested_at_iso": "2021-02-23T14:15:11.660082",
+            "status": "ACTIVE"
+        },
         "free-dating-site.allmanpages.com": {
             "included_at_epoch": 1612018969.079799,
             "included_at_iso": "2021-01-30T17:02:49.079799",
