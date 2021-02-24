@@ -404,8 +404,9 @@
         "state": "future"
     },
     "18pluspics.com": {
-        "epoch": 1614117600.0,
-        "expiration_date": "24-feb-2021",
+        "epoch": 1645653600.0,
+        "expiration_date": "24-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "18plusstore.com": {
