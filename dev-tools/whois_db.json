@@ -318,8 +318,9 @@
         "state": "future"
     },
     "138shenbosbo.com": {
-        "epoch": 1614290400.0,
-        "expiration_date": "26-feb-2021",
+        "epoch": 1636063200.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "13tabs.com": {
@@ -3028,8 +3029,9 @@
         "state": "future"
     },
     "cs6hm.com": {
-        "epoch": 1614290400.0,
-        "expiration_date": "26-feb-2021",
+        "epoch": 1621548000.0,
+        "expiration_date": "21-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "csgo-jackpot.net": {
@@ -3207,8 +3209,9 @@
         "state": "past"
     },
     "evogarage.com": {
-        "epoch": 1614290400.0,
-        "expiration_date": "26-feb-2021",
+        "epoch": 1645826400.0,
+        "expiration_date": "26-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exhibenfrance.com": {
@@ -3274,7 +3277,8 @@
     "free-hairy-pussy.net": {
         "epoch": 1614376800.0,
         "expiration_date": "27-feb-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "freedomart.cz": {
         "epoch": 1623448800.0,
@@ -3675,10 +3679,10 @@
         "state": "future"
     },
     "hyjxtz.com": {
-        "epoch": 1614204000.0,
-        "expiration_date": "25-feb-2021",
+        "epoch": 1645740000.0,
+        "expiration_date": "25-feb-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "hymen-defloration.info": {
         "epoch": 1637964000.0,
