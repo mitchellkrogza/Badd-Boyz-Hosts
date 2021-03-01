@@ -26,8 +26,9 @@
         "state": "future"
     },
     "00sexus.com": {
-        "epoch": 1614463200.0,
-        "expiration_date": "28-feb-2021",
+        "epoch": 1643666400.0,
+        "expiration_date": "01-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "00webcams.com": {
@@ -1263,8 +1264,9 @@
         "state": "future"
     },
     "78tdd75.com": {
-        "epoch": 1614463200.0,
-        "expiration_date": "28-feb-2021",
+        "epoch": 1645999200.0,
+        "expiration_date": "28-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "791026.com": {
@@ -1499,7 +1501,8 @@
     "a2zgroup.in": {
         "epoch": 1614549600.0,
         "expiration_date": "01-mar-2021",
-        "state": "future"
+        "server": "whois.registry.in",
+        "state": "past"
     },
     "a48.info": {
         "epoch": 1616623200.0,
@@ -1957,8 +1960,9 @@
         "state": "future"
     },
     "aksonural.ru": {
-        "epoch": 1614549600.0,
-        "expiration_date": "01-mar-2021",
+        "epoch": 1646085600.0,
+        "expiration_date": "01-mar-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "akuhni.by": {
@@ -2277,8 +2281,9 @@
         "state": "future"
     },
     "amateursconvert.com": {
-        "epoch": 1614463200.0,
-        "expiration_date": "28-feb-2021",
+        "epoch": 1621288800.0,
+        "expiration_date": "18-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "amateursexdvd.com": {
@@ -3035,8 +3040,9 @@
         "state": "future"
     },
     "csgo-jackpot.net": {
-        "epoch": 1614463200.0,
-        "expiration_date": "28-feb-2021",
+        "epoch": 1645999200.0,
+        "expiration_date": "28-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "csgoezknife.com": {
@@ -3275,10 +3281,10 @@
         "state": "future"
     },
     "free-hairy-pussy.net": {
-        "epoch": 1614376800.0,
-        "expiration_date": "27-feb-2021",
+        "epoch": 1645912800.0,
+        "expiration_date": "27-feb-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "freedomart.cz": {
         "epoch": 1623448800.0,
