@@ -64,8 +64,8 @@
         "state": "future"
     },
     "017gj.com": {
-        "epoch": 1614722400.0,
-        "expiration_date": "03-mar-2021",
+        "epoch": 1677794400.0,
+        "expiration_date": "03-mar-2023",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -1901,8 +1901,9 @@
         "state": "future"
     },
     "adrunnr.com": {
-        "epoch": 1614636000.0,
-        "expiration_date": "02-mar-2021",
+        "epoch": 1646172000.0,
+        "expiration_date": "02-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "airmore.co": {
