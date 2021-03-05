@@ -648,8 +648,8 @@
         "state": "future"
     },
     "2daytrendingnews.com": {
-        "epoch": 1614895200.0,
-        "expiration_date": "05-mar-2021",
+        "epoch": 1646431200.0,
+        "expiration_date": "05-mar-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -1030,8 +1030,9 @@
         "state": "future"
     },
     "4ur.click": {
-        "epoch": 1614808800.0,
-        "expiration_date": "04-mar-2021",
+        "epoch": 1646344800.0,
+        "expiration_date": "04-mar-2022",
+        "server": "whois.uniregistry.net",
         "state": "future"
     },
     "4ureyesonly.com": {
@@ -2381,8 +2382,9 @@
         "state": "future"
     },
     "anal-acrobats.com": {
-        "epoch": 1614808800.0,
-        "expiration_date": "04-mar-2021",
+        "epoch": 1646344800.0,
+        "expiration_date": "04-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "anal-et-sodomie.com": {
@@ -3372,8 +3374,9 @@
         "state": "future"
     },
     "gobettygo.com": {
-        "epoch": 1614808800.0,
-        "expiration_date": "04-mar-2021",
+        "epoch": 1646344800.0,
+        "expiration_date": "04-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gobusinessloan.com": {
