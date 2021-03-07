@@ -2361,8 +2361,9 @@
         "state": "future"
     },
     "amt-k.ru": {
-        "epoch": 1614981600.0,
-        "expiration_date": "06-mar-2021",
+        "epoch": 1646517600.0,
+        "expiration_date": "06-mar-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "amung.us": {
@@ -2550,8 +2551,9 @@
         "state": "future"
     },
     "animal36.com": {
-        "epoch": 1615068000.0,
-        "expiration_date": "07-mar-2021",
+        "epoch": 1646604000.0,
+        "expiration_date": "07-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "animalcum.net": {
@@ -3431,8 +3433,9 @@
         "state": "future"
     },
     "grabbersex.com": {
-        "epoch": 1614981600.0,
-        "expiration_date": "06-mar-2021",
+        "epoch": 1621116000.0,
+        "expiration_date": "16-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gracecore.com": {
@@ -3738,8 +3741,9 @@
         "state": "future"
     },
     "i-c-c-c.com": {
-        "epoch": 1614981600.0,
-        "expiration_date": "06-mar-2021",
+        "epoch": 1646517600.0,
+        "expiration_date": "06-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "i-dating.info": {
