@@ -666,8 +666,9 @@
         "state": "future"
     },
     "2girls1cup-free.com": {
-        "epoch": 1615240800.0,
-        "expiration_date": "09-mar-2021",
+        "epoch": 1646776800.0,
+        "expiration_date": "09-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2kata.ru": {
@@ -881,7 +882,8 @@
     "3jmcwio.com": {
         "epoch": 1615240800.0,
         "expiration_date": "09-mar-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "3lm.info": {
         "epoch": 1640210400.0,
@@ -981,7 +983,8 @@
     "4o64flb.com": {
         "epoch": 1615240800.0,
         "expiration_date": "09-mar-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "4plus11.com": {
         "epoch": 1636581600.0,
@@ -1021,7 +1024,8 @@
     "4th3d48.com": {
         "epoch": 1615240800.0,
         "expiration_date": "09-mar-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "4u69.com": {
         "epoch": 1638914400.0,
@@ -1156,7 +1160,8 @@
     "5yfi7sy.com": {
         "epoch": 1615240800.0,
         "expiration_date": "09-mar-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "6000518.com": {
         "epoch": 1632693600.0,
@@ -1393,8 +1398,9 @@
         "state": "future"
     },
     "8ue9q7i.com": {
-        "epoch": 1615240800.0,
-        "expiration_date": "09-mar-2021",
+        "epoch": 1646776800.0,
+        "expiration_date": "09-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8xv8.com": {
@@ -1875,8 +1881,9 @@
         "state": "future"
     },
     "activepr.ru": {
-        "epoch": 1615154400.0,
-        "expiration_date": "08-mar-2021",
+        "epoch": 1646690400.0,
+        "expiration_date": "08-mar-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "activewatch.ro": {
@@ -1941,8 +1948,9 @@
         "state": "future"
     },
     "ajkzd9h.com": {
-        "epoch": 1615240800.0,
-        "expiration_date": "09-mar-2021",
+        "epoch": 1646776800.0,
+        "expiration_date": "09-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "akama.com": {
@@ -2021,8 +2029,9 @@
         "state": "future"
     },
     "albanypowerexchange.com": {
-        "epoch": 1615240800.0,
-        "expiration_date": "09-mar-2021",
+        "epoch": 1646776800.0,
+        "expiration_date": "09-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alberguecasaanita.com": {
@@ -3318,8 +3327,9 @@
         "state": "future"
     },
     "freehornygirls.com": {
-        "epoch": 1615240800.0,
-        "expiration_date": "09-mar-2021",
+        "epoch": 1621980000.0,
+        "expiration_date": "26-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freehostservers.com": {
@@ -3491,7 +3501,8 @@
     "greatfireoflondon.org.uk": {
         "epoch": 1615154400.0,
         "expiration_date": "08-mar-2021",
-        "state": "future"
+        "server": "whois.nic.uk",
+        "state": "past"
     },
     "greatgrace.ru": {
         "epoch": 1641160800.0,
