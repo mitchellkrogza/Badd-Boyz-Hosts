@@ -193,8 +193,8 @@
         "state": "future"
     },
     "101billion.com": {
-        "epoch": 1615327200.0,
-        "expiration_date": "10-mar-2021",
+        "epoch": 1646863200.0,
+        "expiration_date": "10-mar-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -518,7 +518,8 @@
     "1wish.net": {
         "epoch": 1615413600.0,
         "expiration_date": "11-mar-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "1worlditsolutions.com": {
         "epoch": 1647208800.0,
@@ -880,10 +881,10 @@
         "state": "future"
     },
     "3jmcwio.com": {
-        "epoch": 1615240800.0,
-        "expiration_date": "09-mar-2021",
+        "epoch": 1646776800.0,
+        "expiration_date": "09-mar-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "3lm.info": {
         "epoch": 1640210400.0,
@@ -981,10 +982,10 @@
         "state": "future"
     },
     "4o64flb.com": {
-        "epoch": 1615240800.0,
-        "expiration_date": "09-mar-2021",
+        "epoch": 1646776800.0,
+        "expiration_date": "09-mar-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "4plus11.com": {
         "epoch": 1636581600.0,
@@ -1022,10 +1023,10 @@
         "state": "future"
     },
     "4th3d48.com": {
-        "epoch": 1615240800.0,
-        "expiration_date": "09-mar-2021",
+        "epoch": 1646776800.0,
+        "expiration_date": "09-mar-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "4u69.com": {
         "epoch": 1638914400.0,
@@ -1158,10 +1159,10 @@
         "state": "future"
     },
     "5yfi7sy.com": {
-        "epoch": 1615240800.0,
-        "expiration_date": "09-mar-2021",
+        "epoch": 1646776800.0,
+        "expiration_date": "09-mar-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "6000518.com": {
         "epoch": 1632693600.0,
