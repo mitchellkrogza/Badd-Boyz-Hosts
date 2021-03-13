@@ -11,8 +11,9 @@
         "state": "future"
     },
     "00author.com": {
-        "epoch": 1615586400.0,
-        "expiration_date": "13-mar-2021",
+        "epoch": 1647122400.0,
+        "expiration_date": "13-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "00go.com": {
@@ -21,8 +22,9 @@
         "state": "future"
     },
     "00it.com": {
-        "epoch": 1615586400.0,
-        "expiration_date": "13-mar-2021",
+        "epoch": 1647122400.0,
+        "expiration_date": "13-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "00sexus.com": {
@@ -516,10 +518,10 @@
         "state": "future"
     },
     "1wish.net": {
-        "epoch": 1615413600.0,
-        "expiration_date": "11-mar-2021",
+        "epoch": 1646949600.0,
+        "expiration_date": "11-mar-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "1worlditsolutions.com": {
         "epoch": 1647208800.0,
@@ -1250,8 +1252,9 @@
         "state": "future"
     },
     "6stuff.com": {
-        "epoch": 1615586400.0,
-        "expiration_date": "13-mar-2021",
+        "epoch": 1623967200.0,
+        "expiration_date": "18-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "72-news.com": {
@@ -1816,8 +1819,9 @@
         "state": "future"
     },
     "acmsa.com.ar": {
-        "epoch": 1615586400.0,
-        "expiration_date": "13-mar-2021",
+        "epoch": 1647122400.0,
+        "expiration_date": "13-mar-2022",
+        "server": "whois.nic.ar",
         "state": "future"
     },
     "acneforums.com": {
@@ -2216,8 +2220,8 @@
         "state": "future"
     },
     "allanimehentai.com": {
-        "epoch": 1615500000.0,
-        "expiration_date": "12-mar-2021",
+        "epoch": 1647036000.0,
+        "expiration_date": "12-mar-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -2270,8 +2274,9 @@
         "state": "future"
     },
     "allornamenti.com": {
-        "epoch": 1615500000.0,
-        "expiration_date": "12-mar-2021",
+        "epoch": 1647036000.0,
+        "expiration_date": "12-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alloysteel.ru": {
@@ -2517,8 +2522,9 @@
         "state": "future"
     },
     "anews.cc": {
-        "epoch": 1615500000.0,
-        "expiration_date": "12-mar-2021",
+        "epoch": 1647036000.0,
+        "expiration_date": "12-mar-2022",
+        "server": "ccwhois.verisign-grs.com",
         "state": "future"
     },
     "anewyoufitness.com": {
