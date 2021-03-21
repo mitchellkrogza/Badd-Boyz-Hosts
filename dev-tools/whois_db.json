@@ -778,8 +778,9 @@
         "state": "future"
     },
     "300sk.com": {
-        "epoch": 1616191200.0,
-        "expiration_date": "20-mar-2021",
+        "epoch": 1622844000.0,
+        "expiration_date": "05-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "30sec.info": {
@@ -3740,8 +3741,9 @@
         "state": "future"
     },
     "hypnotone.com": {
-        "epoch": 1616191200.0,
-        "expiration_date": "20-mar-2021",
+        "epoch": 1647727200.0,
+        "expiration_date": "20-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hyrlastbilgoteborg.se": {
