@@ -1531,8 +1531,9 @@
         "state": "future"
     },
     "a94.info": {
-        "epoch": 1616623200.0,
-        "expiration_date": "25-mar-2021",
+        "epoch": 1638223200.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "aa08daf7e13b6345e09e92f771507fa5f4.com": {
@@ -1941,8 +1942,9 @@
         "state": "future"
     },
     "airportsys.com": {
-        "epoch": 1616623200.0,
-        "expiration_date": "25-mar-2021",
+        "epoch": 1648159200.0,
+        "expiration_date": "25-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aisiansex.com": {
@@ -2657,10 +2659,10 @@
         "state": "future"
     },
     "avoidfilter.net": {
-        "epoch": 1616450400.0,
-        "expiration_date": "23-mar-2021",
+        "epoch": 1647986400.0,
+        "expiration_date": "23-mar-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "avon-severozapad.ru": {
         "epoch": 1641765600.0,
@@ -3101,8 +3103,8 @@
         "state": "future"
     },
     "etemis.com": {
-        "epoch": 1616536800.0,
-        "expiration_date": "24-mar-2021",
+        "epoch": 1648072800.0,
+        "expiration_date": "24-mar-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3701,8 +3703,9 @@
         "state": "future"
     },
     "hygromycin-b-50mg-ml-solution.com": {
-        "epoch": 1616536800.0,
-        "expiration_date": "24-mar-2021",
+        "epoch": 1648072800.0,
+        "expiration_date": "24-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hyipbrowser.biz": {

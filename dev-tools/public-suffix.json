@@ -844,13 +844,13 @@
         "net.cm"
     ],
     "cn": [
+        "mil.cn",
         "ac.cn",
         "com.cn",
         "edu.cn",
         "gov.cn",
         "net.cn",
         "org.cn",
-        "mil.cn",
         "xn--55qx5d.cn",
         "xn--io0a7i.cn",
         "xn--od0alg.cn",
@@ -1224,6 +1224,7 @@
         "fastvps-server.com",
         "mydobiss.com",
         "firebaseapp.com",
+        "forgeblocks.com",
         "framercanvas.com",
         "freebox-os.com",
         "freeboxos.com",
@@ -1343,6 +1344,7 @@
         "pgfog.com",
         "pagefrontapp.com",
         "pagexl.com",
+        "paywhirl.com",
         "gotpantheon.com",
         "platter-app.com",
         "pleskns.com",
@@ -1553,6 +1555,7 @@
         "iserv.dev",
         "loginline.dev",
         "platter-app.dev",
+        "shiftcrypto.dev",
         "vercel.dev",
         "webhare.dev"
     ],
@@ -1883,6 +1886,9 @@
         "nym.gy",
         "be.gy"
     ],
+    "health": [
+        "hra.health"
+    ],
     "hk": [
         "com.hk",
         "edu.hk",
@@ -2143,6 +2149,7 @@
         "devices.resinstaging.io",
         "hzc.io",
         "sandcats.io",
+        "shiftcrypto.io",
         "shiftedit.io",
         "mo-siemens.io",
         "apps.lair.io",
@@ -5576,8 +5583,6 @@
         "nordeste-idc.saveincloud.net",
         "j.scaleforce.net",
         "jelastic.tsukaeru.net",
-        "atl.jelastic.vps-host.net",
-        "njs.jelastic.vps-host.net",
         "kinghost.net",
         "uni5.net",
         "krellian.net",
@@ -5637,7 +5642,11 @@
         "yandexcloud.net",
         "storage.yandexcloud.net",
         "website.yandexcloud.net",
-        "za.net"
+        "za.net",
+        "vps-host.net",
+        "atl.jelastic.vps-host.net",
+        "njs.jelastic.vps-host.net",
+        "ric.jelastic.vps-host.net"
     ],
     "network": [
         "alces.network",
