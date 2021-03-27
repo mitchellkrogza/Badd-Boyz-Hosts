@@ -429,7 +429,7 @@
         "epoch": 1616796000.0,
         "expiration_date": "27-mar-2021",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "18xtube.com": {
         "epoch": 1640901600.0,
@@ -600,7 +600,7 @@
         "epoch": 1616796000.0,
         "expiration_date": "27-mar-2021",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "24tradeplus.com": {
         "epoch": 1633384800.0,
@@ -983,8 +983,9 @@
         "state": "future"
     },
     "4meme.com": {
-        "epoch": 1616709600.0,
-        "expiration_date": "26-mar-2021",
+        "epoch": 1648245600.0,
+        "expiration_date": "26-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4o64flb.com": {
@@ -3477,8 +3478,9 @@
         "state": "future"
     },
     "grafit.pl": {
-        "epoch": 1616709600.0,
-        "expiration_date": "26-mar-2021",
+        "epoch": 1648245600.0,
+        "expiration_date": "26-mar-2022",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gratis-sexkontakte.com": {
@@ -3552,7 +3554,8 @@
     "h-villamotel.com": {
         "epoch": 1616796000.0,
         "expiration_date": "27-mar-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "hallohaus.co": {
         "epoch": 1621634400.0,
@@ -3797,8 +3800,8 @@
         "state": "future"
     },
     "icipourtoi.com": {
-        "epoch": 1616709600.0,
-        "expiration_date": "26-mar-2021",
+        "epoch": 1648245600.0,
+        "expiration_date": "26-mar-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
