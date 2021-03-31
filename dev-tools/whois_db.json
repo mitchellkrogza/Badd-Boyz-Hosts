@@ -1211,7 +1211,7 @@
         "epoch": 1617141600.0,
         "expiration_date": "31-mar-2021",
         "server": "ccwhois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "69boysex.com": {
         "epoch": 1648418400.0,
@@ -1995,8 +1995,9 @@
         "state": "future"
     },
     "akusherok.ru": {
-        "epoch": 1617055200.0,
-        "expiration_date": "30-mar-2021",
+        "epoch": 1648591200.0,
+        "expiration_date": "30-mar-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "akzmaihd.net": {
@@ -3544,7 +3545,8 @@
     "greatsexcontent.dk": {
         "epoch": 1617141600.0,
         "expiration_date": "31-mar-2021",
-        "state": "future"
+        "server": "whois.dk-hostmaster.dk",
+        "state": "past"
     },
     "greatsimplicity.com": {
         "epoch": 1638741600.0,
