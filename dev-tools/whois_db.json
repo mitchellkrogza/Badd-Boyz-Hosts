@@ -1116,7 +1116,8 @@
     "550a.com": {
         "epoch": 1617314400.0,
         "expiration_date": "02-apr-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "57883.net": {
         "epoch": 1627423200.0,
@@ -1208,10 +1209,10 @@
         "state": "future"
     },
     "66av.cc": {
-        "epoch": 1617141600.0,
-        "expiration_date": "31-mar-2021",
+        "epoch": 1648677600.0,
+        "expiration_date": "31-mar-2022",
         "server": "ccwhois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "69boysex.com": {
         "epoch": 1648418400.0,
@@ -2524,7 +2525,8 @@
     "anduongjsc.com": {
         "epoch": 1617314400.0,
         "expiration_date": "02-apr-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "andydill.com": {
         "epoch": 1638655200.0,
