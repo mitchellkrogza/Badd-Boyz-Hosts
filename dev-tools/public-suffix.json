@@ -1779,13 +1779,13 @@
         "cnpy.gdn"
     ],
     "ge": [
+        "pvt.ge",
         "com.ge",
         "edu.ge",
         "gov.ge",
         "org.ge",
         "mil.ge",
         "net.ge",
-        "pvt.ge",
         "nom.ge"
     ],
     "gg": [
@@ -6489,12 +6489,12 @@
         "com.nr"
     ],
     "nu": [
-        "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu",
         "nom.nu",
-        "uwu.nu"
+        "uwu.nu",
+        "enterprisecloud.nu"
     ],
     "nz": [
         "ac.nz",
@@ -8154,10 +8154,10 @@
         "edu.vu",
         "net.vu",
         "org.vu",
+        "cn.vu",
         "blog.vu",
         "dev.vu",
-        "me.vu",
-        "cn.vu"
+        "me.vu"
     ],
     "win": [
         "that.win"
