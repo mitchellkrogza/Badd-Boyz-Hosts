@@ -561,8 +561,9 @@
         "state": "future"
     },
     "202ch.com": {
-        "epoch": 1617832800.0,
-        "expiration_date": "08-apr-2021",
+        "epoch": 1649368800.0,
+        "expiration_date": "08-apr-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "22kkkk.com": {
@@ -3175,8 +3176,9 @@
         "state": "future"
     },
     "euro-option.info": {
-        "epoch": 1617746400.0,
-        "expiration_date": "07-apr-2021",
+        "epoch": 1649282400.0,
+        "expiration_date": "07-apr-2022",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "eurospanker.com": {
@@ -3758,8 +3760,9 @@
         "state": "future"
     },
     "hypnoseterapi.com": {
-        "epoch": 1617832800.0,
-        "expiration_date": "08-apr-2021",
+        "epoch": 1649368800.0,
+        "expiration_date": "08-apr-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hypnotone.com": {
