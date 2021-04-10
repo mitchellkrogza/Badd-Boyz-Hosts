@@ -452,8 +452,9 @@
         "state": "future"
     },
     "1bet.com": {
-        "epoch": 1618005600.0,
-        "expiration_date": "10-apr-2021",
+        "epoch": 1649541600.0,
+        "expiration_date": "10-apr-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1ejaculationinterne.com": {
@@ -1639,8 +1640,9 @@
         "state": "future"
     },
     "aaronabel.com": {
-        "epoch": 1617919200.0,
-        "expiration_date": "09-apr-2021",
+        "epoch": 1649455200.0,
+        "expiration_date": "09-apr-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaronautosandtrucks.com": {
@@ -2071,7 +2073,8 @@
     "alboautotrasportatori.it": {
         "epoch": 1617919200.0,
         "expiration_date": "09-apr-2021",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "aldik.com": {
         "epoch": 1622325600.0,
@@ -2683,8 +2686,8 @@
         "state": "future"
     },
     "avon-ukraine.com": {
-        "epoch": 1617919200.0,
-        "expiration_date": "09-apr-2021",
+        "epoch": 1649455200.0,
+        "expiration_date": "09-apr-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3045,8 +3048,9 @@
         "state": "future"
     },
     "coolemailnames.com": {
-        "epoch": 1617919200.0,
-        "expiration_date": "09-apr-2021",
+        "epoch": 1649455200.0,
+        "expiration_date": "09-apr-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "creativemindhacks.com": {
@@ -3372,7 +3376,7 @@
         "epoch": 1618005600.0,
         "expiration_date": "10-apr-2021",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "girlporn.ru": {
         "epoch": 1640383200.0,
