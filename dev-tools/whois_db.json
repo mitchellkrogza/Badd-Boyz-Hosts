@@ -286,8 +286,9 @@
         "state": "future"
     },
     "12masterov.com": {
-        "epoch": 1618092000.0,
-        "expiration_date": "11-apr-2021",
+        "epoch": 1649628000.0,
+        "expiration_date": "11-apr-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "12month.loan": {
@@ -1311,7 +1312,7 @@
         "epoch": 1618178400.0,
         "expiration_date": "12-apr-2021",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "7minuteworkout.com": {
         "epoch": 1642197600.0,
@@ -1635,8 +1636,9 @@
         "state": "future"
     },
     "aarbur.com": {
-        "epoch": 1618178400.0,
-        "expiration_date": "12-apr-2021",
+        "epoch": 1649714400.0,
+        "expiration_date": "12-apr-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaronabel.com": {
@@ -1756,7 +1758,8 @@
     "ablefull.com": {
         "epoch": 1618178400.0,
         "expiration_date": "12-apr-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "abogadodejacksonville.com": {
         "epoch": 1639519200.0,
@@ -1895,7 +1898,8 @@
     "actionnooz.com": {
         "epoch": 1618178400.0,
         "expiration_date": "12-apr-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "activeideas.net": {
         "epoch": 1624053600.0,
@@ -3373,10 +3377,10 @@
         "state": "future"
     },
     "freeindiangals.com": {
-        "epoch": 1618005600.0,
-        "expiration_date": "10-apr-2021",
+        "epoch": 1649541600.0,
+        "expiration_date": "10-apr-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "girlporn.ru": {
         "epoch": 1640383200.0,
@@ -3836,8 +3840,9 @@
         "state": "future"
     },
     "idc.com.ua": {
-        "epoch": 1617832800.0,
-        "expiration_date": "08-apr-2021",
+        "epoch": 1649368800.0,
+        "expiration_date": "08-apr-2022",
+        "server": "whois.ua",
         "state": "future"
     },
     "idealtits.net": {
