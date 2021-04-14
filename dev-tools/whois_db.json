@@ -837,8 +837,9 @@
         "state": "future"
     },
     "3angelsvideo.com": {
-        "epoch": 1618351200.0,
-        "expiration_date": "14-apr-2021",
+        "epoch": 1647381600.0,
+        "expiration_date": "16-mar-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "3cloud.net": {
@@ -1309,10 +1310,10 @@
         "state": "future"
     },
     "7gfs.com": {
-        "epoch": 1618178400.0,
-        "expiration_date": "12-apr-2021",
+        "epoch": 1649714400.0,
+        "expiration_date": "12-apr-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "7minuteworkout.com": {
         "epoch": 1642197600.0,
@@ -1756,10 +1757,10 @@
         "state": "future"
     },
     "ablefull.com": {
-        "epoch": 1618178400.0,
-        "expiration_date": "12-apr-2021",
+        "epoch": 1649714400.0,
+        "expiration_date": "12-apr-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "abogadodejacksonville.com": {
         "epoch": 1639519200.0,
@@ -1896,10 +1897,10 @@
         "state": "future"
     },
     "actionnooz.com": {
-        "epoch": 1618178400.0,
-        "expiration_date": "12-apr-2021",
+        "epoch": 1649714400.0,
+        "expiration_date": "12-apr-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "activeideas.net": {
         "epoch": 1624053600.0,
@@ -3065,7 +3066,8 @@
     "creativeteam.it": {
         "epoch": 1618264800.0,
         "expiration_date": "13-apr-2021",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "crystalslot.com": {
         "epoch": 1855000800.0,
@@ -3717,8 +3719,9 @@
         "state": "future"
     },
     "hydropump.su": {
-        "epoch": 1618351200.0,
-        "expiration_date": "14-apr-2021",
+        "epoch": 1649887200.0,
+        "expiration_date": "14-apr-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "hygar.com": {
