@@ -209,8 +209,9 @@
         "state": "future"
     },
     "101raccoon.ru": {
-        "epoch": 1618783200.0,
-        "expiration_date": "19-apr-2021",
+        "epoch": 1650319200.0,
+        "expiration_date": "19-apr-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "108shot.com": {
@@ -701,8 +702,9 @@
         "state": "future"
     },
     "2manshow.com": {
-        "epoch": 1618869600.0,
-        "expiration_date": "20-apr-2021",
+        "epoch": 1650405600.0,
+        "expiration_date": "20-apr-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2mj.pl": {
