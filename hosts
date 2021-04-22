@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2021.04.8535
+### Version: V1.2021.04.8536
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -47,27 +47,37 @@
 ::1 localhost #[IPv6]
 
 # START HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
-0.0.0.0 annotated802.site
-0.0.0.0 arsinvest.it
-0.0.0.0 atfitreasonyou.live
-0.0.0.0 azulerie.it
-0.0.0.0 barmillevani.it
-0.0.0.0 casaemily.it
-0.0.0.0 casalespinazzella.it
-0.0.0.0 cascinamolinodellapaglia.it
-0.0.0.0 damafinimmobiliare.it
-0.0.0.0 ensinger964.site
-0.0.0.0 futurouomo.it
-0.0.0.0 fxadviceformeandyou.com
-0.0.0.0 gommoneusato.it
-0.0.0.0 manufacta-italia.it
-0.0.0.0 nobuomo.it
-0.0.0.0 nucleolus980.site
-0.0.0.0 progettazione-integrata.it
-0.0.0.0 ristorantebiri.it
-0.0.0.0 ristoranteilmedioevo.it
-0.0.0.0 rosafondente.it
-0.0.0.0 sitononraggiungibile.it
-0.0.0.0 solidmaker.it
-0.0.0.0 utopia-privacy.com
+0.0.0.0 chalet-volpi.it
+0.0.0.0 chithra629.site
+0.0.0.0 comeisolarecasa.it
+0.0.0.0 distribuzionevolantinaggio.it
+0.0.0.0 easymetal.it
+0.0.0.0 enterprise327.site
+0.0.0.0 eremogaudio.it
+0.0.0.0 essereessenza.it
+0.0.0.0 evaporator558.site
+0.0.0.0 farmafit.it
+0.0.0.0 ferser.it
+0.0.0.0 fincert.it
+0.0.0.0 gustomagro.it
+0.0.0.0 habanerotaqueria.it
+0.0.0.0 hybridization809.site
+0.0.0.0 infogiovanialtopavese.it
+0.0.0.0 informazionicoronavirus.it
+0.0.0.0 installer892.site
+0.0.0.0 kartlab.it
+0.0.0.0 laanchoa.it
+0.0.0.0 lacasadialicedesenzano.it
+0.0.0.0 maltipoo883.site
+0.0.0.0 maxtek.it
+0.0.0.0 nerodavolasicilia.it
+0.0.0.0 physical309.site
+0.0.0.0 picura.it
+0.0.0.0 plasmid904.site
+0.0.0.0 ristorante53.it
+0.0.0.0 sala5.it
+0.0.0.0 starebenesipuo.it
+0.0.0.0 subplots341.site
+0.0.0.0 superior400.site
+0.0.0.0 tigustolanostracucina.it
 # END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###

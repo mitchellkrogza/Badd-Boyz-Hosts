@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2021.04.8535
+### Version: V1.2021.04.8536
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -36,27 +36,37 @@
 # bandwidth use. 
 
 # START DNSMASQ LIST ### DO NOT EDIT THIS LINE AT ALL ###
-address=/annotated802.site/
-address=/arsinvest.it/
-address=/atfitreasonyou.live/
-address=/azulerie.it/
-address=/barmillevani.it/
-address=/casaemily.it/
-address=/casalespinazzella.it/
-address=/cascinamolinodellapaglia.it/
-address=/damafinimmobiliare.it/
-address=/ensinger964.site/
-address=/futurouomo.it/
-address=/fxadviceformeandyou.com/
-address=/gommoneusato.it/
-address=/manufacta-italia.it/
-address=/nobuomo.it/
-address=/nucleolus980.site/
-address=/progettazione-integrata.it/
-address=/ristorantebiri.it/
-address=/ristoranteilmedioevo.it/
-address=/rosafondente.it/
-address=/sitononraggiungibile.it/
-address=/solidmaker.it/
-address=/utopia-privacy.com/
+address=/chalet-volpi.it/
+address=/chithra629.site/
+address=/comeisolarecasa.it/
+address=/distribuzionevolantinaggio.it/
+address=/easymetal.it/
+address=/enterprise327.site/
+address=/eremogaudio.it/
+address=/essereessenza.it/
+address=/evaporator558.site/
+address=/farmafit.it/
+address=/ferser.it/
+address=/fincert.it/
+address=/gustomagro.it/
+address=/habanerotaqueria.it/
+address=/hybridization809.site/
+address=/infogiovanialtopavese.it/
+address=/informazionicoronavirus.it/
+address=/installer892.site/
+address=/kartlab.it/
+address=/laanchoa.it/
+address=/lacasadialicedesenzano.it/
+address=/maltipoo883.site/
+address=/maxtek.it/
+address=/nerodavolasicilia.it/
+address=/physical309.site/
+address=/picura.it/
+address=/plasmid904.site/
+address=/ristorante53.it/
+address=/sala5.it/
+address=/starebenesipuo.it/
+address=/subplots341.site/
+address=/superior400.site/
+address=/tigustolanostracucina.it/
 # END DNSMASQ LIST ### DO NOT EDIT THIS LINE AT ALL ###
