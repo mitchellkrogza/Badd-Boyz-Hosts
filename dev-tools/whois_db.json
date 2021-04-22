@@ -3460,6 +3460,12 @@
         "expiration_date": "18-jun-2020",
         "state": "past"
     },
+    "foone.com.br": {
+        "epoch": 1631916000.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
     "free-gluten.ru": {
         "epoch": 1643234400.0,
         "expiration_date": "27-jan-2022",
