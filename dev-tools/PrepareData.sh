@@ -131,7 +131,7 @@ WhiteListing () {
     hash uhb_whitelist
     uhb_whitelist -f "${input1}" -o "${input1}" -w "${whitelistFile}" -a "${antiWhitelistFile}"
 }
-WhiteListing
+#WhiteListing (DISABLE)
 
 CommitData () {
     commitdate=$(date +%F)
