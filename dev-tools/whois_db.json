@@ -255,8 +255,9 @@
         "state": "future"
     },
     "123cha.com": {
-        "epoch": 1618956000.0,
-        "expiration_date": "21-apr-2021",
+        "epoch": 1650492000.0,
+        "expiration_date": "21-apr-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "123kuma.com": {
@@ -836,7 +837,7 @@
         "epoch": 1619042400.0,
         "expiration_date": "22-apr-2021",
         "server": "whois.afilias.net",
-        "state": "future"
+        "state": "past"
     },
     "3angelsvideo.com": {
         "epoch": 1647381600.0,
@@ -1251,8 +1252,9 @@
         "state": "future"
     },
     "6e.co.kr": {
-        "epoch": 1618956000.0,
-        "expiration_date": "21-apr-2021",
+        "epoch": 1650492000.0,
+        "expiration_date": "21-apr-2022",
+        "server": "whois.kr",
         "state": "future"
     },
     "6ftlady.com": {
@@ -2232,8 +2234,9 @@
         "state": "past"
     },
     "all4wap.ru": {
-        "epoch": 1618956000.0,
-        "expiration_date": "21-apr-2021",
+        "epoch": 1650492000.0,
+        "expiration_date": "21-apr-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "allaboutxxx.com": {
@@ -2808,8 +2811,8 @@
         "state": "future"
     },
     "bagsonsale.online": {
-        "epoch": 1618956000.0,
-        "expiration_date": "21-apr-2021",
+        "epoch": 1650492000.0,
+        "expiration_date": "21-apr-2022",
         "server": "whois.nic.online",
         "state": "future"
     },
