@@ -2608,6 +2608,12 @@
         "expiration_date": "07-jul-2021",
         "state": "future"
     },
+    "annotated802.site": {
+        "epoch": 1650492000.0,
+        "expiration_date": "21-apr-2022",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
     "answerzones.com": {
         "epoch": 1617228000.0,
         "expiration_date": "01-apr-2021",
@@ -2646,10 +2652,22 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "arsinvest.it": {
+        "epoch": 1649973600.0,
+        "expiration_date": "15-apr-2022",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
     "ashlynnbrookevideos.com": {
         "epoch": 1631743200.0,
         "expiration_date": "16-sep-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "atfitreasonyou.live": {
+        "epoch": 1650578400.0,
+        "expiration_date": "22-apr-2022",
+        "server": "whois.nic.live",
         "state": "future"
     },
     "avitocars.ru": {
@@ -2709,6 +2727,12 @@
         "epoch": 1644012000.0,
         "expiration_date": "05-feb-2022",
         "server": "whois.tcinet.ru",
+        "state": "future"
+    },
+    "azulerie.it": {
+        "epoch": 1649887200.0,
+        "expiration_date": "14-apr-2022",
+        "server": "whois.nic.it",
         "state": "future"
     },
     "baby-soft.ca": {
@@ -2789,10 +2813,34 @@
         "server": "whois.nic.online",
         "state": "future"
     },
+    "barmillevani.it": {
+        "epoch": 1650319200.0,
+        "expiration_date": "19-apr-2022",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
     "beamfall.info": {
         "epoch": 1647554400.0,
         "expiration_date": "18-mar-2022",
         "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "casaemily.it": {
+        "epoch": 1650060000.0,
+        "expiration_date": "16-apr-2022",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
+    "casalespinazzella.it": {
+        "epoch": 1649887200.0,
+        "expiration_date": "14-apr-2022",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
+    "cascinamolinodellapaglia.it": {
+        "epoch": 1649714400.0,
+        "expiration_date": "12-apr-2022",
+        "server": "whois.nic.it",
         "state": "future"
     },
     "cialisforsalecialiscostcye.com": {
@@ -3121,6 +3169,18 @@
         "expiration_date": "15-jun-2021",
         "state": "future"
     },
+    "damafinimmobiliare.it": {
+        "epoch": 1650319200.0,
+        "expiration_date": "19-apr-2022",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
+    "ensinger964.site": {
+        "epoch": 1650492000.0,
+        "expiration_date": "21-apr-2022",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
     "espritensemble.com": {
         "epoch": 1632520800.0,
         "expiration_date": "25-sep-2021",
@@ -3387,6 +3447,18 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "futurouomo.it": {
+        "epoch": 1650060000.0,
+        "expiration_date": "16-apr-2022",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
+    "fxadviceformeandyou.com": {
+        "epoch": 1642543200.0,
+        "expiration_date": "19-jan-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "girlporn.ru": {
         "epoch": 1640383200.0,
         "expiration_date": "25-dec-2021",
@@ -3471,6 +3543,12 @@
     "gofun.info": {
         "epoch": 1626645600.0,
         "expiration_date": "19-jul-2021",
+        "state": "future"
+    },
+    "gommoneusato.it": {
+        "epoch": 1650060000.0,
+        "expiration_date": "16-apr-2022",
+        "server": "whois.nic.it",
         "state": "future"
     },
     "gotporn.info": {
@@ -4822,6 +4900,12 @@
         "expiration_date": "19-jul-2021",
         "state": "future"
     },
+    "manufacta-italia.it": {
+        "epoch": 1649973600.0,
+        "expiration_date": "15-apr-2022",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
     "mature-sex-hunter.com": {
         "epoch": 1577484000,
         "expiration_date": "28-dec-2019",
@@ -5014,6 +5098,12 @@
         "expiration_date": "26-nov-2019",
         "state": "future"
     },
+    "nobuomo.it": {
+        "epoch": 1649628000.0,
+        "expiration_date": "11-apr-2022",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
     "nokia-n8.com": {
         "epoch": 1586728800,
         "expiration_date": "13-apr-2020",
@@ -5039,6 +5129,12 @@
     "nubolabs.com": {
         "epoch": 1603404000,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "nucleolus980.site": {
+        "epoch": 1650492000.0,
+        "expiration_date": "21-apr-2022",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "nude-webcams.com": {
@@ -5186,6 +5282,30 @@
         "epoch": 1644012000.0,
         "expiration_date": "05-feb-2022",
         "server": "whois.nic.life",
+        "state": "future"
+    },
+    "progettazione-integrata.it": {
+        "epoch": 1650319200.0,
+        "expiration_date": "19-apr-2022",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
+    "ristorantebiri.it": {
+        "epoch": 1650319200.0,
+        "expiration_date": "19-apr-2022",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
+    "ristoranteilmedioevo.it": {
+        "epoch": 1649973600.0,
+        "expiration_date": "15-apr-2022",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
+    "rosafondente.it": {
+        "epoch": 1650060000.0,
+        "expiration_date": "16-apr-2022",
+        "server": "whois.nic.it",
         "state": "future"
     },
     "saveriopiazza.it": {
@@ -5367,6 +5487,12 @@
     "siteduzero.net": {
         "epoch": 1601416800,
         "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "sitononraggiungibile.it": {
+        "epoch": 1649887200.0,
+        "expiration_date": "14-apr-2022",
+        "server": "whois.nic.it",
         "state": "future"
     },
     "sloi1.com": {
@@ -5594,6 +5720,12 @@
         "expiration_date": "05-apr-2020",
         "state": "future"
     },
+    "solidmaker.it": {
+        "epoch": 1650060000.0,
+        "expiration_date": "16-apr-2022",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
     "solitaire-game.ru": {
         "epoch": 1600725600,
         "expiration_date": "22-sep-2020",
@@ -5795,6 +5927,12 @@
     "townhousefilms.com": {
         "epoch": 1624572000.0,
         "expiration_date": "25-jun-2021",
+        "state": "future"
+    },
+    "utopia-privacy.com": {
+        "epoch": 1625695200.0,
+        "expiration_date": "08-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "viveresaniesnelli.it": {

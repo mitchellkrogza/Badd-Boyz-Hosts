@@ -3318,6 +3318,13 @@
             "last_retested_at_iso": "2021-04-20T16:50:40.507584",
             "status": "ACTIVE"
         },
+        "annotated802.site": {
+            "included_at_epoch": 1619067562.84947,
+            "included_at_iso": "2021-04-22T06:59:22.849470",
+            "last_retested_at_epoch": 1619067562.84947,
+            "last_retested_at_iso": "2021-04-22T06:59:22.849470",
+            "status": "ACTIVE"
+        },
         "anolysis.privacy.cliqz.com": {
             "included_at_epoch": 1617029240.389459,
             "included_at_iso": "2021-03-29T16:47:20.389459",
@@ -3381,11 +3388,25 @@
             "last_retested_at_iso": "2021-04-20T16:50:40.618887",
             "status": "ACTIVE"
         },
+        "arsinvest.it": {
+            "included_at_epoch": 1619067562.876474,
+            "included_at_iso": "2021-04-22T06:59:22.876474",
+            "last_retested_at_epoch": 1619067562.876474,
+            "last_retested_at_iso": "2021-04-22T06:59:22.876474",
+            "status": "ACTIVE"
+        },
         "ashlynnbrookevideos.com": {
             "included_at_epoch": 1617029240.463692,
             "included_at_iso": "2021-03-29T16:47:20.463692",
             "last_retested_at_epoch": 1618930240.660611,
             "last_retested_at_iso": "2021-04-20T16:50:40.660611",
+            "status": "ACTIVE"
+        },
+        "atfitreasonyou.live": {
+            "included_at_epoch": 1619067562.900577,
+            "included_at_iso": "2021-04-22T06:59:22.900577",
+            "last_retested_at_epoch": 1619067562.900577,
+            "last_retested_at_iso": "2021-04-22T06:59:22.900577",
             "status": "ACTIVE"
         },
         "aviodg.eu": {
@@ -3463,6 +3484,13 @@
             "included_at_iso": "2021-03-29T16:47:20.576961",
             "last_retested_at_epoch": 1618930240.79769,
             "last_retested_at_iso": "2021-04-20T16:50:40.797690",
+            "status": "ACTIVE"
+        },
+        "azulerie.it": {
+            "included_at_epoch": 1619067562.925033,
+            "included_at_iso": "2021-04-22T06:59:22.925033",
+            "last_retested_at_epoch": 1619067562.925033,
+            "last_retested_at_iso": "2021-04-22T06:59:22.925033",
             "status": "ACTIVE"
         },
         "babsy.foreverhorny.com": {
@@ -3577,11 +3605,39 @@
             "last_retested_at_iso": "2021-04-20T16:50:40.999075",
             "status": "ACTIVE"
         },
+        "barmillevani.it": {
+            "included_at_epoch": 1619067562.949222,
+            "included_at_iso": "2021-04-22T06:59:22.949222",
+            "last_retested_at_epoch": 1619067562.949222,
+            "last_retested_at_iso": "2021-04-22T06:59:22.949222",
+            "status": "ACTIVE"
+        },
         "beamfall.info": {
             "included_at_epoch": 1617029240.7304,
             "included_at_iso": "2021-03-29T16:47:20.730400",
             "last_retested_at_epoch": 1618930241.025689,
             "last_retested_at_iso": "2021-04-20T16:50:41.025689",
+            "status": "ACTIVE"
+        },
+        "casaemily.it": {
+            "included_at_epoch": 1619067562.973415,
+            "included_at_iso": "2021-04-22T06:59:22.973415",
+            "last_retested_at_epoch": 1619067562.973415,
+            "last_retested_at_iso": "2021-04-22T06:59:22.973415",
+            "status": "ACTIVE"
+        },
+        "casalespinazzella.it": {
+            "included_at_epoch": 1619067562.997777,
+            "included_at_iso": "2021-04-22T06:59:22.997777",
+            "last_retested_at_epoch": 1619067562.997777,
+            "last_retested_at_iso": "2021-04-22T06:59:22.997777",
+            "status": "ACTIVE"
+        },
+        "cascinamolinodellapaglia.it": {
+            "included_at_epoch": 1619067563.022043,
+            "included_at_iso": "2021-04-22T06:59:23.022043",
+            "last_retested_at_epoch": 1619067563.022043,
+            "last_retested_at_iso": "2021-04-22T06:59:23.022043",
             "status": "ACTIVE"
         },
         "cialisforsalecialiscostcye.com": {
@@ -4018,11 +4074,25 @@
             "last_retested_at_iso": "2021-04-20T16:50:41.913532",
             "status": "ACTIVE"
         },
+        "damafinimmobiliare.it": {
+            "included_at_epoch": 1619067563.072365,
+            "included_at_iso": "2021-04-22T06:59:23.072365",
+            "last_retested_at_epoch": 1619067563.072365,
+            "last_retested_at_iso": "2021-04-22T06:59:23.072365",
+            "status": "ACTIVE"
+        },
         "e-zeitung.de": {
             "included_at_epoch": 1617029241.737655,
             "included_at_iso": "2021-03-29T16:47:21.737655",
             "last_retested_at_epoch": 1618930242.309026,
             "last_retested_at_iso": "2021-04-20T16:50:42.309026",
+            "status": "ACTIVE"
+        },
+        "ensinger964.site": {
+            "included_at_epoch": 1619067563.047232,
+            "included_at_iso": "2021-04-22T06:59:23.047232",
+            "last_retested_at_epoch": 1619067563.047232,
+            "last_retested_at_iso": "2021-04-22T06:59:23.047232",
             "status": "ACTIVE"
         },
         "espritensemble.com": {
@@ -4389,11 +4459,25 @@
             "last_retested_at_iso": "2021-04-20T16:50:42.624344",
             "status": "ACTIVE"
         },
+        "futurouomo.it": {
+            "included_at_epoch": 1619067563.121909,
+            "included_at_iso": "2021-04-22T06:59:23.121909",
+            "last_retested_at_epoch": 1619067563.121909,
+            "last_retested_at_iso": "2021-04-22T06:59:23.121909",
+            "status": "ACTIVE"
+        },
         "fx.gtop.ro": {
             "included_at_epoch": 1617029241.995434,
             "included_at_iso": "2021-03-29T16:47:21.995434",
             "last_retested_at_epoch": 1618930242.61078,
             "last_retested_at_iso": "2021-04-20T16:50:42.610780",
+            "status": "ACTIVE"
+        },
+        "fxadviceformeandyou.com": {
+            "included_at_epoch": 1619067563.097178,
+            "included_at_iso": "2021-04-22T06:59:23.097178",
+            "last_retested_at_epoch": 1619067563.097178,
+            "last_retested_at_iso": "2021-04-22T06:59:23.097178",
             "status": "ACTIVE"
         },
         "girlporn.ru": {
@@ -4492,6 +4576,13 @@
             "included_at_iso": "2021-03-29T16:47:22.167260",
             "last_retested_at_epoch": 1618930242.803383,
             "last_retested_at_iso": "2021-04-20T16:50:42.803383",
+            "status": "ACTIVE"
+        },
+        "gommoneusato.it": {
+            "included_at_epoch": 1619067563.17499,
+            "included_at_iso": "2021-04-22T06:59:23.174990",
+            "last_retested_at_epoch": 1619067563.17499,
+            "last_retested_at_iso": "2021-04-22T06:59:23.174990",
             "status": "ACTIVE"
         },
         "gotporn.info": {
@@ -5117,6 +5208,13 @@
             "last_retested_at_iso": "2021-04-20T16:50:44.056644",
             "status": "ACTIVE"
         },
+        "manufacta-italia.it": {
+            "included_at_epoch": 1619067563.222363,
+            "included_at_iso": "2021-04-22T06:59:23.222363",
+            "last_retested_at_epoch": 1619067563.222363,
+            "last_retested_at_iso": "2021-04-22T06:59:23.222363",
+            "status": "ACTIVE"
+        },
         "matureporno.info": {
             "included_at_epoch": 1617029243.396451,
             "included_at_iso": "2021-03-29T16:47:23.396451",
@@ -5131,11 +5229,25 @@
             "last_retested_at_iso": "2021-04-20T16:50:44.070110",
             "status": "ACTIVE"
         },
+        "nobuomo.it": {
+            "included_at_epoch": 1619067563.246942,
+            "included_at_iso": "2021-04-22T06:59:23.246942",
+            "last_retested_at_epoch": 1619067563.246942,
+            "last_retested_at_iso": "2021-04-22T06:59:23.246942",
+            "status": "ACTIVE"
+        },
         "nottepad-plus-plus.org": {
             "included_at_epoch": 1617029243.436541,
             "included_at_iso": "2021-03-29T16:47:23.436541",
             "last_retested_at_epoch": 1618930244.083592,
             "last_retested_at_iso": "2021-04-20T16:50:44.083592",
+            "status": "ACTIVE"
+        },
+        "nucleolus980.site": {
+            "included_at_epoch": 1619067563.271568,
+            "included_at_iso": "2021-04-22T06:59:23.271568",
+            "last_retested_at_epoch": 1619067563.271568,
+            "last_retested_at_iso": "2021-04-22T06:59:23.271568",
             "status": "ACTIVE"
         },
         "prizesforyou.com": {
@@ -5150,6 +5262,48 @@
             "included_at_iso": "2021-03-29T16:47:23.449882",
             "last_retested_at_epoch": 1618930244.110556,
             "last_retested_at_iso": "2021-04-20T16:50:44.110556",
+            "status": "ACTIVE"
+        },
+        "progettazione-integrata.it": {
+            "included_at_epoch": 1619067563.296201,
+            "included_at_iso": "2021-04-22T06:59:23.296201",
+            "last_retested_at_epoch": 1619067563.296201,
+            "last_retested_at_iso": "2021-04-22T06:59:23.296201",
+            "status": "ACTIVE"
+        },
+        "ristorantebiri.it": {
+            "included_at_epoch": 1619067563.321269,
+            "included_at_iso": "2021-04-22T06:59:23.321269",
+            "last_retested_at_epoch": 1619067563.321269,
+            "last_retested_at_iso": "2021-04-22T06:59:23.321269",
+            "status": "ACTIVE"
+        },
+        "ristoranteilmedioevo.it": {
+            "included_at_epoch": 1619067563.34608,
+            "included_at_iso": "2021-04-22T06:59:23.346080",
+            "last_retested_at_epoch": 1619067563.34608,
+            "last_retested_at_iso": "2021-04-22T06:59:23.346080",
+            "status": "ACTIVE"
+        },
+        "rosafondente.it": {
+            "included_at_epoch": 1619067563.37112,
+            "included_at_iso": "2021-04-22T06:59:23.371120",
+            "last_retested_at_epoch": 1619067563.37112,
+            "last_retested_at_iso": "2021-04-22T06:59:23.371120",
+            "status": "ACTIVE"
+        },
+        "sitononraggiungibile.it": {
+            "included_at_epoch": 1619067563.39567,
+            "included_at_iso": "2021-04-22T06:59:23.395670",
+            "last_retested_at_epoch": 1619067563.39567,
+            "last_retested_at_iso": "2021-04-22T06:59:23.395670",
+            "status": "ACTIVE"
+        },
+        "solidmaker.it": {
+            "included_at_epoch": 1619067563.420248,
+            "included_at_iso": "2021-04-22T06:59:23.420248",
+            "last_retested_at_epoch": 1619067563.420248,
+            "last_retested_at_iso": "2021-04-22T06:59:23.420248",
             "status": "ACTIVE"
         },
         "spacebridemag.com": {
@@ -5185,6 +5339,13 @@
             "included_at_iso": "2021-03-29T16:47:23.530321",
             "last_retested_at_epoch": 1618930244.17939,
             "last_retested_at_iso": "2021-04-20T16:50:44.179390",
+            "status": "ACTIVE"
+        },
+        "utopia-privacy.com": {
+            "included_at_epoch": 1619067563.444851,
+            "included_at_iso": "2021-04-22T06:59:23.444851",
+            "last_retested_at_epoch": 1619067563.444851,
+            "last_retested_at_iso": "2021-04-22T06:59:23.444851",
             "status": "ACTIVE"
         },
         "yuarra.pluto.ro": {
