@@ -12,7 +12,7 @@
 yeartag=$(date +%Y)
 monthtag=$(date +%m)
 my_git_tag=V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}
-total_sites=$(wc -l < ${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt)
+total_sites=$(wc -l < ${TRAVIS_BUILD_DIR}/domains)
 active_sites=$(cat ${TRAVIS_BUILD_DIR}/dev-tools/output/logs/percentage/percentage.txt)
 
 # **********************************
