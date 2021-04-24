@@ -16,6 +16,7 @@ set -e
 whitelistFile=${TRAVIS_BUILD_DIR}/whitelists/me
 antiWhitelistFile=${TRAVIS_BUILD_DIR}/whitelists/anti
 input1=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
+input2=${TRAVIS_BUILD_DIR}/domains
 pythonversion="3.7.4"
 environmentname="pyconda"
 
@@ -33,22 +34,13 @@ cyan=$(tput setaf 6)
 white=$(tput setaf 7)
 defaultcolor=$(tput setaf default)
 
-PrepareTravis () {
-    git remote rm origin
-    git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
-    git config --global user.email "${GIT_EMAIL}"
-    git config --global user.name "${GIT_NAME}"
-    git config --global push.default simple
-    git checkout "${GIT_BRANCH}"
-}
-#PrepareTravis
-
 # **************************************************************************
 # Sort lists alphabetically and remove duplicates before cleaning Dead Hosts
 # **************************************************************************
 PrepareLists () {
-    sort -u ${input1} -o ${input1}
-    dos2unix ${input1}
+    cat ${input1} >> ${input2}
+    sort -u ${input2} -o ${input2}
+    dos2unix ${input2}
 }
 PrepareLists
 
@@ -58,26 +50,11 @@ PrepareLists
 
 WhiteListing () {
     hash uhb_whitelist
-    uhb_whitelist -f "${input1}" -o "${input1}" -w "${whitelistFile}" -a "${antiWhitelistFile}"
+    uhb_whitelist -f "${input2}" -o "${input2}" -w "${whitelistFile}" -a "${antiWhitelistFile}"
 }
-#WhiteListing (DISABLE)
+WhiteListing
 
-CommitData () {
-    commitdate=$(date +%F)
-    committime=$(date +%T)
-    timezone=$(date +%Z)
-    cd ${TRAVIS_BUILD_DIR}
-    git remote rm origin
-    git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
-    git config --global user.email "${GIT_EMAIL}"
-    git config --global user.name "${GIT_NAME}"
-    git config --global push.default simple
-    git checkout master
-    git add -A
-    git commit -am "V.${TRAVIS_BUILD_NUMBER} (${commitdate} ${committime} ${timezone}) [ci skip]"
-    git push origin master
-}
-#CommitData
+truncate -s 0 ${input1}
 
 exit ${?}
 
