@@ -41,6 +41,7 @@ defaultcolor=$(tput setaf default)
 
 add-domain () {
 if [ -s ${input1} ]
+then
     echo "Domain Addition Requested"
     cat ${input1} >> ${input2}
     sort -u ${input2} -o ${input2}
@@ -58,6 +59,7 @@ add-domain
 
 remove-domain () {
 if [ -s ${input3} ]
+then
     echo "Domain Removal Requested"
     sort -u ${input2} -o ${input2}
     sort -u ${input3} -o ${input3}
