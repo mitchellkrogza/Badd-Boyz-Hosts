@@ -10,7 +10,7 @@
 # ***********************************************************
 
 cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > tempdomains.txt
-mv tempdomains.txt ${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
+mv tempdomains.txt ${TRAVIS_BUILD_DIR}/domains
 
 # ***************************************************************************
 # Generate our host file and update README with build and version information
