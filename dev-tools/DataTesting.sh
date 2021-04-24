@@ -20,7 +20,7 @@ monthtag=$(date +%m)
 # ******************
 # Set our Input File
 # ******************
-input=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
+input=${TRAVIS_BUILD_DIR}/domains
 pyfuncebleConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble.yaml
 pyfuncebleProductionConfigurationFileLocation=${TRAVIS_BUILD_DIR}/dev-tools/.PyFunceble_production.yaml
 
