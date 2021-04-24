@@ -5565,6 +5565,13 @@
             "last_retested_at_iso": "2021-04-22T07:33:02.597329",
             "status": "ACTIVE"
         },
+        "test.test": {
+            "included_at_epoch": 1619245962.209622,
+            "included_at_iso": "2021-04-24T08:32:42.209622",
+            "last_retested_at_epoch": 1619245962.209622,
+            "last_retested_at_iso": "2021-04-24T08:32:42.209622",
+            "status": "INVALID"
+        },
         "tigustolanostracucina.it": {
             "included_at_epoch": 1619068335.470766,
             "included_at_iso": "2021-04-22T07:12:15.470766",
