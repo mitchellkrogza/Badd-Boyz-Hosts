@@ -15,8 +15,9 @@ set -e
 
 whitelistFile=${TRAVIS_BUILD_DIR}/whitelists/me
 antiWhitelistFile=${TRAVIS_BUILD_DIR}/whitelists/anti
-input1=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
+input1=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/add-domain
 input2=${TRAVIS_BUILD_DIR}/domains
+input3=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/remove-domain
 pythonversion="3.7.4"
 environmentname="pyconda"
 
