@@ -12,7 +12,7 @@
 yeartag=$(date +%Y)
 monthtag=$(date +%m)
 my_git_tag=V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}
-bad_referrers=$(wc -l < ${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt)
+bad_referrers=$(wc -l < ${TRAVIS_BUILD_DIR}/domains)
 hosts=${TRAVIS_BUILD_DIR}/dev-tools/hosts.template
 dnsmasq=${TRAVIS_BUILD_DIR}/dev-tools/ddwrt-dnsmasq.template
 tmphostsA=tmphostsA
@@ -30,7 +30,7 @@ inputdb1=/tmp/hosts.db
 # Setup input bots and referer lists
 # **********************************
 
-input1=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/domains.txt
+input1=${TRAVIS_BUILD_DIR}/domains
 input2=${TRAVIS_BUILD_DIR}/dev-tools/domains_tmp.txt
 
 # **************************************************************************
