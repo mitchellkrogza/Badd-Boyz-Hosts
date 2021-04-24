@@ -35,15 +35,43 @@ cyan=$(tput setaf 6)
 white=$(tput setaf 7)
 defaultcolor=$(tput setaf default)
 
-# **************************************************************************
-# Sort lists alphabetically and remove duplicates before cleaning Dead Hosts
-# **************************************************************************
-PrepareLists () {
+# ***********
+# Add Domains
+# ***********
+
+add-domain () {
+if [ -s ${input1} ]
+    echo "Domain Addition Requested"
     cat ${input1} >> ${input2}
     sort -u ${input2} -o ${input2}
     dos2unix ${input2}
+    truncate -s 0 ${input1}
+    else
+    :
+fi
 }
-PrepareLists
+add-domain
+
+# **************
+# Remove Domains
+# **************
+
+remove-domain () {
+if [ -s ${input3} ]
+    echo "Domain Removal Requested"
+    sort -u ${input2} -o ${input2}
+    sort -u ${input3} -o ${input3}
+    grep -v -e '^[[:space:]]*$' ${input3}
+    comm -23 ${input2} ${input3} > tmp
+    mv tmp ${input2}
+    truncate -s 0 ${input3}
+    else
+    :
+fi
+}
+remove-domain
+
+
 
 # ***********************************
 # Deletion of all whitelisted domains
@@ -55,7 +83,6 @@ WhiteListing () {
 }
 WhiteListing
 
-truncate -s 0 ${input1}
 
 exit ${?}
 
