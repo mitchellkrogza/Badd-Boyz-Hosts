@@ -7,7 +7,7 @@
 
 
 # We stop after the first error.
-#set -e
+set -e
 
 # **********************************
 # Setup input bots and referer lists
@@ -18,7 +18,6 @@ antiWhitelistFile=${TRAVIS_BUILD_DIR}/whitelists/anti
 input1=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/add-domain
 input2=${TRAVIS_BUILD_DIR}/domains
 input3=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/remove-domain
-inputtmp=${TRAVIS_BUILD_DIR}/domains.tmp
 pythonversion="3.7.4"
 environmentname="pyconda"
 
@@ -44,21 +43,15 @@ add-domain () {
 if [ -s ${input1} ]
 then
     echo "Domain Addition Requested"
-    grep -v -e '^[[:space:]]*$' ${input1}
-    cat ${input2} > ${inputtmp}
-    cat ${input1} >> ${inputtmp}
-    sort -u ${inputtmp} -o ${inputtmp}
-    mv ${inputtmp} ${input2}
-    dos2unix ${inputtmp}
+    cat ${input1} >> ${input2}
+    sort -u ${input2} -o ${input2}
+    dos2unix ${input2}
     truncate -s 0 ${input1}
     else
     :
 fi
 }
 add-domain
-
-#check file output
-cat ${input2}
 
 # **************
 # Remove Domains
@@ -90,7 +83,7 @@ WhiteListing () {
     hash uhb_whitelist
     uhb_whitelist -f "${input2}" -o "${input2}" -w "${whitelistFile}" -a "${antiWhitelistFile}"
 }
-#WhiteListing
+WhiteListing
 
 
 exit ${?}

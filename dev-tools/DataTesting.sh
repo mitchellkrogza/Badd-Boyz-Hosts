@@ -49,10 +49,7 @@ RunFunceble () {
     
 }
 
-#RunFunceble
-
-bash ${TRAVIS_BUILD_DIR}/dev-tools/FinalCommit.sh
-
+RunFunceble
 
 ##
 exit ${?}
