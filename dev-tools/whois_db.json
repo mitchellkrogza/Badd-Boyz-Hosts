@@ -1147,8 +1147,9 @@
         "state": "future"
     },
     "5forex.ru": {
-        "epoch": 1619301600.0,
-        "expiration_date": "25-apr-2021",
+        "epoch": 1650837600.0,
+        "expiration_date": "25-apr-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "5hmmm1mk.top": {
@@ -2081,10 +2082,10 @@
         "state": "future"
     },
     "alboautotrasportatori.it": {
-        "epoch": 1617919200.0,
-        "expiration_date": "09-apr-2021",
+        "epoch": 1649455200.0,
+        "expiration_date": "09-apr-2022",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "aldik.com": {
         "epoch": 1622325600.0,
@@ -2138,10 +2139,10 @@
         "state": "future"
     },
     "alfa-search.com": {
-        "epoch": 1619215200.0,
-        "expiration_date": "24-apr-2021",
+        "epoch": 1650751200.0,
+        "expiration_date": "24-apr-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "alfa9.com": {
         "epoch": 1624053600.0,
@@ -3725,10 +3726,10 @@
         "state": "future"
     },
     "greatsexcontent.dk": {
-        "epoch": 1617141600.0,
-        "expiration_date": "31-mar-2021",
+        "epoch": 1648677600.0,
+        "expiration_date": "31-mar-2022",
         "server": "whois.dk-hostmaster.dk",
-        "state": "past"
+        "state": "future"
     },
     "greatsimplicity.com": {
         "epoch": 1638741600.0,
@@ -3873,7 +3874,8 @@
     "hvd-store.com": {
         "epoch": 1619301600.0,
         "expiration_date": "25-apr-2021",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "hy-tec.com": {
         "epoch": 1634594400.0,
