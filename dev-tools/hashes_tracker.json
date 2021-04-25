@@ -12,12 +12,23 @@
     },
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/domains": {
         "base": {
-            "datetime_iso": "2021-04-24T09:12:57.098788",
-            "hash": "dc29ffd52e6796876a998f48aad2edd73dfe7555e5003f553af6c490"
+            "datetime_iso": "2021-04-25T10:29:38.077727",
+            "hash": "7d0673359c01d66f7e006914e9fdbd4d0b5c7d2108303f8f75a5093e"
         },
         "latest": {
-            "datetime_iso": "2021-04-24T09:41:02.314046",
-            "hash": "dc29ffd52e6796876a998f48aad2edd73dfe7555e5003f553af6c490"
+            "datetime_iso": "2021-04-25T10:29:38.077727",
+            "hash": "7d0673359c01d66f7e006914e9fdbd4d0b5c7d2108303f8f75a5093e"
+        },
+        "position": 0
+    },
+    "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/domains.tmp": {
+        "base": {
+            "datetime_iso": "2021-04-25T11:16:45.197753",
+            "hash": "1313002be5edd76b5f1999529a6d1ec68d386febf7beecd773ff575d"
+        },
+        "latest": {
+            "datetime_iso": "2021-04-25T11:16:45.197753",
+            "hash": "1313002be5edd76b5f1999529a6d1ec68d386febf7beecd773ff575d"
         },
         "position": 0
     }

@@ -8,9 +8,13 @@
 # ***********************************************************
 # Remove our inactive and invalid domains from PULL_REQUESTS
 # ***********************************************************
+input=${TRAVIS_BUILD_DIR}/domains.tmp
+input2=${TRAVIS_BUILD_DIR}/domains
+#mv ${input} ${input2}
 
-cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > tempdomains.txt
-mv tempdomains.txt ${TRAVIS_BUILD_DIR}/domains
+
+#cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > tempdomains.txt
+#mv tempdomains.txt ${input2}
 
 # ***************************************************************************
 # Generate our host file and update README with build and version information

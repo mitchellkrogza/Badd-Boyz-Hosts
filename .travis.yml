@@ -41,7 +41,9 @@ install:
 
 script:
   - bash dev-tools/PrepareData.sh
-  - bash dev-tools/DataTesting.sh
+  #- bash dev-tools/DataTesting.sh
+  - bash dev-tools/UpdateReadme.sh
+  - bash dev-tools/GenerateHostsFile.sh
 
 notifications:
 on_success: never
