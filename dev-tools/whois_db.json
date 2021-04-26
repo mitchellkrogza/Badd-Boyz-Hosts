@@ -3774,7 +3774,8 @@
     "huge-cocks.biz": {
         "epoch": 1619388000.0,
         "expiration_date": "26-apr-2021",
-        "state": "future"
+        "server": "whois.nic.biz",
+        "state": "past"
     },
     "huge-gay-cock.com": {
         "epoch": 1640728800.0,
@@ -3872,10 +3873,10 @@
         "state": "future"
     },
     "hvd-store.com": {
-        "epoch": 1619301600.0,
-        "expiration_date": "25-apr-2021",
+        "epoch": 1650837600.0,
+        "expiration_date": "25-apr-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "hy-tec.com": {
         "epoch": 1634594400.0,
