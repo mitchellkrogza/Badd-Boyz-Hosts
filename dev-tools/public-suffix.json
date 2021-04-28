@@ -1556,6 +1556,8 @@
         "deno.dev",
         "fly.dev",
         "gateway.dev",
+        "github.dev",
+        "githubpreview.dev",
         "iserv.dev",
         "lcl.dev",
         "lclstage.dev",
@@ -7702,7 +7704,8 @@
         "store.st"
     ],
     "store": [
-        "shopware.store"
+        "shopware.store",
+        "storebase.store"
     ],
     "su": [
         "abkhazia.su",
