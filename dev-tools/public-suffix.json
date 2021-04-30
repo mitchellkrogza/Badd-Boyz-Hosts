@@ -167,6 +167,7 @@
     "app": [
         "a.run.app",
         "bookonline.app",
+        "developer.app",
         "edgecompute.app",
         "fireweb.app",
         "framer.app",
@@ -174,6 +175,7 @@
         "loginline.app",
         "multibaas.app",
         "netlify.app",
+        "noop.app",
         "northflank.app",
         "ondigitalocean.app",
         "platform0.app",
@@ -716,6 +718,7 @@
     ],
     "ca": [
         "ab.ca",
+        "asso.ci",
         "awdev.ca",
         "barsy.ca",
         "bc.ca",
@@ -4910,6 +4913,7 @@
     ],
     "mom": [
         "and.mom",
+        "dyn53.io",
         "for.mom"
     ],
     "mr": [
@@ -5641,6 +5645,7 @@
         "fastlylb.net",
         "faststacks.net",
         "feste-ip.net",
+        "fi.cloudplatform.fi",
         "firewall-gateway.net",
         "flynnhosting.net",
         "fr-1.paas.massivegrid.net",

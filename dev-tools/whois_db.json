@@ -317,8 +317,8 @@
         "state": "future"
     },
     "1314dh.com": {
-        "epoch": 1619733600.0,
-        "expiration_date": "30-apr-2021",
+        "epoch": 1651269600.0,
+        "expiration_date": "30-apr-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -1779,8 +1779,9 @@
         "state": "past"
     },
     "abouthomesdecorating.com": {
-        "epoch": 1619733600.0,
-        "expiration_date": "30-apr-2021",
+        "epoch": 1651269600.0,
+        "expiration_date": "30-apr-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aboutproperty.co.uk": {
@@ -3568,8 +3569,9 @@
         "state": "future"
     },
     "go-gal.com": {
-        "epoch": 1619647200.0,
-        "expiration_date": "29-apr-2021",
+        "epoch": 1634508000.0,
+        "expiration_date": "18-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "go.biz": {
