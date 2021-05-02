@@ -2787,8 +2787,9 @@
         "state": "future"
     },
     "backlinkwatch.com": {
-        "epoch": 1619906400.0,
-        "expiration_date": "02-may-2021",
+        "epoch": 1651442400.0,
+        "expiration_date": "02-may-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "backofficellc.com": {
@@ -3331,8 +3332,9 @@
         "state": "future"
     },
     "everestclick.com": {
-        "epoch": 1619820000.0,
-        "expiration_date": "01-may-2021",
+        "epoch": 1651356000.0,
+        "expiration_date": "01-may-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "every-day.net": {
