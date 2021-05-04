@@ -16,7 +16,7 @@ else
     baseDir=${TRAVIS_BUILD_DIR}
 fi
 
-cat ${baseDir}/dev-tools/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > tempdomains.txt
+cat ${baseDir}/dev-tools/output/domains/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > tempdomains.txt
 mv tempdomains.txt ${baseDir}/domains
 
 # ***************************************************************************

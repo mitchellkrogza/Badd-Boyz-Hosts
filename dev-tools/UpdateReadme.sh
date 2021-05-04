@@ -21,7 +21,7 @@ yeartag=$(date +%Y)
 monthtag=$(date +%m)
 my_git_tag=V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}
 total_sites=$(wc -l < ${baseDir}/domains)
-active_sites=$(cat ${baseDir}/dev-tools/output/logs/percentage/percentage.txt)
+active_sites=$(cat ${baseDir}/dev-tools/output/domains/logs/percentage/percentage.txt)
 
 # **********************************
 # Temporary database files we create
