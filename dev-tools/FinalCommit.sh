@@ -9,15 +9,22 @@
 # Remove our inactive and invalid domains from PULL_REQUESTS
 # ***********************************************************
 
-cat ${TRAVIS_BUILD_DIR}/dev-tools/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > tempdomains.txt
-mv tempdomains.txt ${TRAVIS_BUILD_DIR}/domains
+if [[ -z ${TRAVIS_BUILD_DIR+x} ]]
+then
+    baseDir=.
+else
+    baseDir=${TRAVIS_BUILD_DIR}
+fi
+
+cat ${baseDir}/dev-tools/output/domains/ACTIVE/list | grep -v "^$" | grep -v "^#" > tempdomains.txt
+mv tempdomains.txt ${baseDir}/domains
 
 # ***************************************************************************
 # Generate our host file and update README with build and version information
 # ***************************************************************************
 
-bash ${TRAVIS_BUILD_DIR}/dev-tools/UpdateReadme.sh
-bash ${TRAVIS_BUILD_DIR}/dev-tools/GenerateHostsFile.sh
+bash ${baseDir}/dev-tools/UpdateReadme.sh
+bash ${baseDir}/dev-tools/GenerateHostsFile.sh
 
 # *************************************************************
 # Travis now moves to the before_deploy: section of .travis.yml

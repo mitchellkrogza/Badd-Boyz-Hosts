@@ -13,11 +13,18 @@ set -e
 # Setup input bots and referer lists
 # **********************************
 
-whitelistFile=${TRAVIS_BUILD_DIR}/whitelists/me
-antiWhitelistFile=${TRAVIS_BUILD_DIR}/whitelists/anti
-input1=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/add-domain
-input2=${TRAVIS_BUILD_DIR}/domains
-input3=${TRAVIS_BUILD_DIR}/PULL_REQUESTS/remove-domain
+if [[ -z ${TRAVIS_BUILD_DIR+x} ]]
+then
+    baseDir=.
+else
+    baseDir=${TRAVIS_BUILD_DIR}
+fi
+
+whitelistFile=${baseDir}/whitelists/me
+antiWhitelistFile=${baseDir}/whitelists/anti
+input1=${baseDir}/PULL_REQUESTS/add-domain
+input2=${baseDir}/domains
+input3=${baseDir}/PULL_REQUESTS/remove-domain
 pythonversion="3.7.4"
 environmentname="pyconda"
 
@@ -61,11 +68,10 @@ remove-domain () {
 if [ -s ${input3} ]
 then
     echo "Domain Removal Requested"
-    sort -u ${input2} -o ${input2}
-    sort -u ${input3} -o ${input3}
-    grep -v -e '^[[:space:]]*$' ${input3}
-    comm -23 ${input2} ${input3} > tmp
-    mv tmp ${input2}
+    cat ${input3} >> ${whitelistFile}
+    sort -u ${whitelistFile} -o ${whitelistFile}
+    dos2unix ${whitelistFile}
+
     truncate -s 0 ${input3}
     else
     :

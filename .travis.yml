@@ -36,8 +36,8 @@ install:
   #- source activate test-environment
   #- python -VV
   - pip3 install --upgrade pip
-  - pip3 install PyFunceble-dev
-  - pip3 install ultimate-hosts-blacklist-whitelist
+  - pip3 install PyFunceble-dev --pre
+  - pip3 install ultimate-hosts-blacklist-whitelist-dev
 
 script:
   - bash dev-tools/PrepareData.sh

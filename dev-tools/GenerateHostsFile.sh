@@ -9,12 +9,20 @@
 # Set Some Variables
 # ******************
 
+if [[ -z ${TRAVIS_BUILD_DIR+x} ]]
+then
+    baseDir=.
+else
+    baseDir=${TRAVIS_BUILD_DIR}
+fi
+
+
 yeartag=$(date +%Y)
 monthtag=$(date +%m)
 my_git_tag=V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}
-bad_referrers=$(wc -l < ${TRAVIS_BUILD_DIR}/domains)
-hosts=${TRAVIS_BUILD_DIR}/dev-tools/hosts.template
-dnsmasq=${TRAVIS_BUILD_DIR}/dev-tools/ddwrt-dnsmasq.template
+bad_referrers=$(wc -l < ${baseDir}/domains)
+hosts=${baseDir}/dev-tools/hosts.template
+dnsmasq=${baseDir}/dev-tools/ddwrt-dnsmasq.template
 tmphostsA=tmphostsA
 tmphostsB=tmphostsB
 tmphostsC=tmphostsC
@@ -30,8 +38,8 @@ inputdb1=/tmp/hosts.db
 # Setup input bots and referer lists
 # **********************************
 
-input1=${TRAVIS_BUILD_DIR}/domains
-input2=${TRAVIS_BUILD_DIR}/dev-tools/domains_tmp.txt
+input1=${baseDir}/domains
+input2=${baseDir}/dev-tools/domains_tmp.txt
 
 # **************************************************************************
 # Sort lists alphabetically and remove duplicates before cleaning Dead Hosts
@@ -174,8 +182,8 @@ rm ${inputdb1}
 # Copy Files into place before testing
 # ************************************
 
-sudo cp ${hosts} ${TRAVIS_BUILD_DIR}/hosts
-sudo cp ${dnsmasq} ${TRAVIS_BUILD_DIR}/dnsmasq
+sudo cp ${hosts} ${baseDir}/hosts
+sudo cp ${dnsmasq} ${baseDir}/dnsmasq
 
 exit ${?}
 
