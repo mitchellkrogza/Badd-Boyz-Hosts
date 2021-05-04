@@ -1,0 +1,18 @@
+{
+    "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/domains": {
+        "docs.pipenv.org": {
+            "included_at_epoch": 1620142692.559006,
+            "included_at_iso": "2021-05-04T17:38:12.559006",
+            "last_retested_at_epoch": 1620142692.559006,
+            "last_retested_at_iso": "2021-05-04T17:38:12.559006",
+            "status": "ACTIVE"
+        },
+        "pipenv.org": {
+            "included_at_epoch": 1620142692.557524,
+            "included_at_iso": "2021-05-04T17:38:12.557524",
+            "last_retested_at_epoch": 1620142692.557524,
+            "last_retested_at_iso": "2021-05-04T17:38:12.557524",
+            "status": "ACTIVE"
+        }
+    }
+}

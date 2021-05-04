@@ -12,12 +12,12 @@
     },
     "/home/travis/build/mitchellkrogza/Badd-Boyz-Hosts/domains": {
         "base": {
-            "datetime_iso": "2021-05-04T17:19:55.151041",
-            "hash": "4967df56279d8e672d8ed3b6c7cff13cf0822f0d39760da8a285cf24"
+            "datetime_iso": "2021-05-04T17:38:12.084873",
+            "hash": "470f4c4380573065558597fca7976f80acdd3c13e18f1fd78c41ace6"
         },
         "latest": {
-            "datetime_iso": "2021-05-04T17:19:55.151041",
-            "hash": "4967df56279d8e672d8ed3b6c7cff13cf0822f0d39760da8a285cf24"
+            "datetime_iso": "2021-05-04T17:38:12.084873",
+            "hash": "470f4c4380573065558597fca7976f80acdd3c13e18f1fd78c41ace6"
         },
         "position": 0
     }
