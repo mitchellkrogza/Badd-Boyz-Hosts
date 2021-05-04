@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2021.05.8583
+### Version: V1.2021.05.8584
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -616,6 +616,7 @@ address=/csk.ru/
 address=/cstrespsurvey.ca/
 address=/damafinimmobiliare.it/
 address=/distribuzionevolantinaggio.it/
+address=/docs.pipenv.org/
 address=/easymetal.it/
 address=/ensinger964.site/
 address=/enterprise327.site/
@@ -804,6 +805,7 @@ address=/nottepad-plus-plus.org/
 address=/nucleolus980.site/
 address=/physical309.site/
 address=/picura.it/
+address=/pipenv.org/
 address=/plasmid904.site/
 address=/prizesforyou.com/
 address=/prizesfu74.life/
