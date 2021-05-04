@@ -3108,8 +3108,9 @@
         "state": "future"
     },
     "cookingmeat.ru": {
-        "epoch": 1619992800.0,
-        "expiration_date": "03-may-2021",
+        "epoch": 1651528800.0,
+        "expiration_date": "03-may-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "cookingyourspanish.com": {
@@ -3416,8 +3417,9 @@
         "state": "future"
     },
     "familienzahnaerzte.com": {
-        "epoch": 1620079200.0,
-        "expiration_date": "04-may-2021",
+        "epoch": 1651615200.0,
+        "expiration_date": "04-may-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "family1st.ca": {
