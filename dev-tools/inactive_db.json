@@ -9669,6 +9669,13 @@
             "last_retested_at_iso": "2021-05-04T16:56:49.625069",
             "status": "ACTIVE"
         },
+        "docs.pipenv.org": {
+            "included_at_epoch": 1620141610.270237,
+            "included_at_iso": "2021-05-04T17:20:10.270237",
+            "last_retested_at_epoch": 1620141610.270237,
+            "last_retested_at_iso": "2021-05-04T17:20:10.270237",
+            "status": "ACTIVE"
+        },
         "e-zeitung.de": {
             "included_at_epoch": 1619248140.856657,
             "included_at_iso": "2021-04-24T09:09:00.856657",
@@ -10983,6 +10990,13 @@
             "included_at_iso": "2021-04-24T09:09:04.629962",
             "last_retested_at_epoch": 1620140214.628268,
             "last_retested_at_iso": "2021-05-04T16:56:54.628268",
+            "status": "ACTIVE"
+        },
+        "pipenv.org": {
+            "included_at_epoch": 1620141610.298017,
+            "included_at_iso": "2021-05-04T17:20:10.298017",
+            "last_retested_at_epoch": 1620141610.298017,
+            "last_retested_at_iso": "2021-05-04T17:20:10.298017",
             "status": "ACTIVE"
         },
         "plasmid904.site": {
