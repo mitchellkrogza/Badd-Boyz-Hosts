@@ -50,7 +50,7 @@ RunFunceble () {
     
     PyFunceble -v
     python -VV
-    PyFunceble --ci -ex --dns 8.8.8.8 8.8.4.4 --ci-end-command "bash ${baseDir}/dev-tools/FinalCommit.sh" --plain --ci-max-minutes 10 --ci-commit-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --ci-end-commit-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input} --logging-level critical 
+    PyFunceble --ci-end-command "bash ${baseDir}/dev-tools/FinalCommit.sh" --ci-commit-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --ci-end-commit-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input} --logging-level critical 
     
 }
 
