@@ -1,4 +1,5 @@
 cli_testing:
+    complements: true
     ci:
         active: true
         max_exec_minutes: 20
