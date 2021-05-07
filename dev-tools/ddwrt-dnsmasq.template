@@ -27,7 +27,7 @@
 
 ##### Version Information #
 ###################################################
-### Version: V1.2021.05.8584
+### Version: V1.2021.05.8586
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
@@ -588,7 +588,6 @@ address=/com-reports.com/
 address=/comsalud360.com/
 address=/comsprague.com/
 address=/comsysnet.com/
-address=/constructionskills.in/
 address=/construfuturo.com.mx/
 address=/construmac.com.mx/
 address=/consultant-online.ru/
@@ -827,6 +826,7 @@ address=/superior400.site/
 address=/tigustolanostracucina.it/
 address=/townhousefilms.com/
 address=/utopia-privacy.com/
+address=/www.pipenv.org/
 address=/yuarra.pluto.ro/
 address=/yunque.pluto.ro/
 # END DNSMASQ LIST ### DO NOT EDIT THIS LINE AT ALL ###
